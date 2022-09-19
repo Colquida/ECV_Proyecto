@@ -1,0 +1,2475 @@
+﻿PeriodoNum;Municipio;CantidadPacientes
+202101;05001 - Medellín;249
+202102;05001 - Medellín;423
+202103;05001 - Medellín;421
+202104;05001 - Medellín;403
+202105;05001 - Medellín;480
+202106;05001 - Medellín;438
+202107;05001 - Medellín;473
+202108;05001 - Medellín;525
+202109;05001 - Medellín;521
+202110;05001 - Medellín;418
+202111;05001 - Medellín;425
+202112;05001 - Medellín;457
+202102;05002 - Abejorral;1
+202108;05002 - Abejorral;1
+202102;05030 - Amagá;3
+202103;05030 - Amagá;1
+202105;05030 - Amagá;1
+202106;05030 - Amagá;1
+202108;05030 - Amagá;1
+202109;05030 - Amagá;3
+202110;05030 - Amagá;6
+202111;05030 - Amagá;1
+202112;05030 - Amagá;1
+202101;05031 - Amalfi;2
+202103;05031 - Amalfi;1
+202106;05031 - Amalfi;1
+202106;05034 - Andes;1
+202107;05034 - Andes;1
+202109;05034 - Andes;1
+202111;05034 - Andes;1
+202112;05036 - Angelópolis;1
+202102;05038 - Angostura;1
+202104;05038 - Angostura;1
+202106;05038 - Angostura;1
+202107;05038 - Angostura;2
+202108;05038 - Angostura;1
+202109;05038 - Angostura;1
+202102;05040 - Anorí;1
+202104;05040 - Anorí;1
+202107;05040 - Anorí;1
+202108;05040 - Anorí;1
+202109;05040 - Anorí;2
+202110;05040 - Anorí;1
+202112;05040 - Anorí;1
+202102;05042 - Santafé De Antioquia;2
+202103;05042 - Santafé De Antioquia;1
+202105;05042 - Santafé De Antioquia;2
+202106;05042 - Santafé De Antioquia;1
+202107;05042 - Santafé De Antioquia;4
+202108;05042 - Santafé De Antioquia;4
+202109;05042 - Santafé De Antioquia;2
+202110;05042 - Santafé De Antioquia;3
+202111;05042 - Santafé De Antioquia;3
+202112;05042 - Santafé De Antioquia;2
+202101;05045 - Apartadó;5
+202102;05045 - Apartadó;8
+202103;05045 - Apartadó;13
+202104;05045 - Apartadó;9
+202105;05045 - Apartadó;11
+202106;05045 - Apartadó;13
+202107;05045 - Apartadó;17
+202108;05045 - Apartadó;8
+202109;05045 - Apartadó;11
+202110;05045 - Apartadó;13
+202111;05045 - Apartadó;14
+202112;05045 - Apartadó;18
+202105;05051 - Arboletes;1
+202108;05051 - Arboletes;1
+202102;05059 - Armenia;1
+202111;05059 - Armenia;1
+202102;05079 - Barbosa;1
+202111;05079 - Barbosa;1
+202101;05088 - Bello;25
+202102;05088 - Bello;42
+202103;05088 - Bello;70
+202104;05088 - Bello;64
+202105;05088 - Bello;50
+202106;05088 - Bello;55
+202107;05088 - Bello;60
+202108;05088 - Bello;46
+202109;05088 - Bello;40
+202110;05088 - Bello;36
+202111;05088 - Bello;34
+202112;05088 - Bello;31
+202102;05101 - Ciudad Bolívar;2
+202103;05101 - Ciudad Bolívar;3
+202105;05101 - Ciudad Bolívar;2
+202106;05101 - Ciudad Bolívar;4
+202107;05101 - Ciudad Bolívar;1
+202108;05101 - Ciudad Bolívar;1
+202110;05101 - Ciudad Bolívar;1
+202111;05101 - Ciudad Bolívar;4
+202112;05101 - Ciudad Bolívar;1
+202103;05107 - Briceño;1
+202108;05107 - Briceño;1
+202109;05107 - Briceño;1
+202111;05107 - Briceño;1
+202112;05107 - Briceño;2
+202108;05125 - Caicedo;1
+202101;05129 - Caldas;3
+202102;05129 - Caldas;4
+202103;05129 - Caldas;6
+202104;05129 - Caldas;5
+202105;05129 - Caldas;5
+202106;05129 - Caldas;6
+202107;05129 - Caldas;5
+202108;05129 - Caldas;2
+202109;05129 - Caldas;4
+202110;05129 - Caldas;2
+202111;05129 - Caldas;5
+202112;05129 - Caldas;6
+202109;05134 - Campamento;1
+202101;05138 - Cañasgordas;1
+202106;05142 - Caracolí;1
+202102;05147 - Carepa;1
+202103;05147 - Carepa;1
+202108;05147 - Carepa;1
+202110;05147 - Carepa;1
+202112;05147 - Carepa;1
+202103;05148 - El Carmen De Viboral;3
+202106;05148 - El Carmen De Viboral;3
+202108;05148 - El Carmen De Viboral;2
+202109;05148 - El Carmen De Viboral;5
+202112;05148 - El Carmen De Viboral;4
+202101;05154 - Caucasia;3
+202103;05154 - Caucasia;2
+202104;05154 - Caucasia;2
+202105;05154 - Caucasia;1
+202106;05154 - Caucasia;2
+202108;05154 - Caucasia;3
+202109;05154 - Caucasia;3
+202111;05154 - Caucasia;1
+202112;05154 - Caucasia;1
+202102;05172 - Chigorodó;3
+202103;05172 - Chigorodó;2
+202104;05172 - Chigorodó;1
+202108;05172 - Chigorodó;1
+202111;05172 - Chigorodó;1
+202110;05190 - Cisneros;1
+202102;05212 - Copacabana;3
+202104;05212 - Copacabana;3
+202105;05212 - Copacabana;3
+202106;05212 - Copacabana;1
+202107;05212 - Copacabana;1
+202109;05212 - Copacabana;2
+202111;05212 - Copacabana;1
+202112;05212 - Copacabana;3
+202103;05234 - Dabeiba;1
+202105;05234 - Dabeiba;1
+202108;05234 - Dabeiba;1
+202109;05234 - Dabeiba;1
+202111;05234 - Dabeiba;1
+202104;05237 - Don Matías;1
+202106;05237 - Don Matías;1
+202108;05237 - Don Matías;1
+202109;05237 - Don Matías;2
+202110;05237 - Don Matías;1
+202105;05240 - Ebéjico;1
+202107;05250 - El Bagre;1
+202109;05250 - El Bagre;1
+202111;05250 - El Bagre;1
+202101;05266 - Envigado;6
+202102;05266 - Envigado;16
+202103;05266 - Envigado;13
+202104;05266 - Envigado;17
+202105;05266 - Envigado;12
+202106;05266 - Envigado;15
+202107;05266 - Envigado;13
+202108;05266 - Envigado;15
+202109;05266 - Envigado;17
+202110;05266 - Envigado;15
+202111;05266 - Envigado;16
+202112;05266 - Envigado;8
+202102;05308 - Girardota;3
+202103;05308 - Girardota;1
+202105;05308 - Girardota;2
+202106;05308 - Girardota;2
+202107;05308 - Girardota;1
+202108;05308 - Girardota;2
+202110;05308 - Girardota;3
+202111;05308 - Girardota;3
+202112;05308 - Girardota;4
+202102;05318 - Guarne;1
+202103;05318 - Guarne;1
+202105;05318 - Guarne;1
+202106;05318 - Guarne;1
+202107;05318 - Guarne;2
+202108;05318 - Guarne;2
+202110;05318 - Guarne;1
+202111;05318 - Guarne;1
+202112;05318 - Guarne;1
+202105;05321 - Guatape;1
+202102;05353 - Hispania;2
+202107;05353 - Hispania;1
+202109;05353 - Hispania;2
+202101;05360 - Itagui;6
+202102;05360 - Itagui;20
+202103;05360 - Itagui;20
+202104;05360 - Itagui;22
+202105;05360 - Itagui;21
+202106;05360 - Itagui;26
+202107;05360 - Itagui;25
+202108;05360 - Itagui;16
+202109;05360 - Itagui;26
+202110;05360 - Itagui;22
+202111;05360 - Itagui;13
+202112;05360 - Itagui;11
+202108;05364 - Jardín;1
+202103;05368 - Jericó;2
+202104;05368 - Jericó;1
+202105;05368 - Jericó;1
+202107;05368 - Jericó;2
+202108;05368 - Jericó;1
+202109;05368 - Jericó;1
+202101;05376 - La Ceja;1
+202102;05376 - La Ceja;3
+202103;05376 - La Ceja;3
+202104;05376 - La Ceja;4
+202105;05376 - La Ceja;7
+202106;05376 - La Ceja;1
+202107;05376 - La Ceja;6
+202108;05376 - La Ceja;4
+202109;05376 - La Ceja;7
+202110;05376 - La Ceja;3
+202111;05376 - La Ceja;3
+202112;05376 - La Ceja;6
+202102;05380 - La Estrella;1
+202103;05380 - La Estrella;2
+202108;05380 - La Estrella;1
+202109;05380 - La Estrella;1
+202110;05380 - La Estrella;1
+202111;05380 - La Estrella;2
+202112;05380 - La Estrella;1
+202107;05400 - La Unión;1
+202102;05440 - Marinilla;2
+202103;05440 - Marinilla;1
+202106;05440 - Marinilla;1
+202108;05440 - Marinilla;1
+202112;05440 - Marinilla;1
+202105;05467 - Montebello;2
+202106;05467 - Montebello;1
+202107;05467 - Montebello;1
+202109;05467 - Montebello;1
+202104;05480 - Mutatá;1
+202107;05480 - Mutatá;1
+202101;05490 - Necoclí;1
+202102;05490 - Necoclí;2
+202107;05490 - Necoclí;1
+202111;05490 - Necoclí;1
+202105;05495 - Nechí;1
+202103;05541 - Peñol;1
+202108;05543 - Peque;1
+202110;05543 - Peque;1
+202111;05543 - Peque;1
+202101;05576 - Pueblorrico;2
+202102;05576 - Pueblorrico;1
+202106;05576 - Pueblorrico;1
+202107;05576 - Pueblorrico;1
+202105;05579 - Puerto Berrío;1
+202106;05579 - Puerto Berrío;2
+202108;05579 - Puerto Berrío;1
+202109;05591 - Puerto Triunfo;1
+202102;05604 - Remedios;1
+202104;05604 - Remedios;1
+202112;05604 - Remedios;1
+202105;05607 - Retiro;1
+202107;05607 - Retiro;1
+202101;05615 - Rionegro;18
+202102;05615 - Rionegro;29
+202103;05615 - Rionegro;32
+202104;05615 - Rionegro;39
+202105;05615 - Rionegro;41
+202106;05615 - Rionegro;44
+202107;05615 - Rionegro;45
+202108;05615 - Rionegro;42
+202109;05615 - Rionegro;36
+202110;05615 - Rionegro;35
+202111;05615 - Rionegro;25
+202112;05615 - Rionegro;34
+202101;05631 - Sabaneta;1
+202102;05631 - Sabaneta;6
+202103;05631 - Sabaneta;6
+202104;05631 - Sabaneta;3
+202105;05631 - Sabaneta;8
+202106;05631 - Sabaneta;6
+202107;05631 - Sabaneta;3
+202108;05631 - Sabaneta;5
+202109;05631 - Sabaneta;11
+202110;05631 - Sabaneta;13
+202111;05631 - Sabaneta;19
+202112;05631 - Sabaneta;28
+202112;05652 - San Francisco;1
+202102;05656 - San Jerónimo;1
+202108;05656 - San Jerónimo;2
+202112;05660 - San Luis;1
+202102;05664 - San Pedro;1
+202103;05664 - San Pedro;1
+202108;05664 - San Pedro;1
+202110;05665 - San Pedro De Uraba;1
+202112;05667 - San Rafael;1
+202102;05679 - Santa Bárbara;1
+202103;05679 - Santa Bárbara;1
+202107;05679 - Santa Bárbara;1
+202108;05679 - Santa Bárbara;2
+202109;05679 - Santa Bárbara;2
+202110;05679 - Santa Bárbara;2
+202102;05686 - Santa Rosa De Osos;1
+202103;05686 - Santa Rosa De Osos;2
+202104;05686 - Santa Rosa De Osos;1
+202105;05686 - Santa Rosa De Osos;1
+202106;05686 - Santa Rosa De Osos;1
+202109;05686 - Santa Rosa De Osos;1
+202110;05686 - Santa Rosa De Osos;2
+202111;05686 - Santa Rosa De Osos;1
+202102;05697 - El Santuario;1
+202103;05697 - El Santuario;1
+202104;05697 - El Santuario;1
+202107;05697 - El Santuario;3
+202109;05697 - El Santuario;3
+202111;05697 - El Santuario;1
+202112;05697 - El Santuario;1
+202104;05736 - Segovia;1
+202105;05736 - Segovia;2
+202106;05736 - Segovia;2
+202107;05736 - Segovia;1
+202109;05736 - Segovia;1
+202110;05736 - Segovia;1
+202111;05736 - Segovia;1
+202112;05736 - Segovia;1
+202104;05756 - Sonson;1
+202105;05756 - Sonson;1
+202109;05756 - Sonson;2
+202102;05789 - Támesis;1
+202107;05789 - Támesis;1
+202108;05789 - Támesis;2
+202109;05789 - Támesis;3
+202110;05789 - Támesis;1
+202102;05792 - Tarso;1
+202106;05809 - Titiribí;1
+202107;05809 - Titiribí;1
+202104;05837 - Turbo;2
+202107;05837 - Turbo;2
+202109;05837 - Turbo;1
+202110;05837 - Turbo;1
+202112;05837 - Turbo;2
+202110;05842 - Uramita;1
+202106;05847 - Urrao;1
+202108;05847 - Urrao;1
+202109;05847 - Urrao;1
+202111;05847 - Urrao;1
+202102;05854 - Valdivia;1
+202103;05854 - Valdivia;2
+202104;05854 - Valdivia;1
+202108;05854 - Valdivia;1
+202112;05854 - Valdivia;1
+202109;05858 - Vegachí;1
+202104;05861 - Venecia;1
+202103;05885 - Yalí;1
+202101;05887 - Yarumal;1
+202102;05887 - Yarumal;1
+202103;05887 - Yarumal;1
+202104;05887 - Yarumal;1
+202105;05887 - Yarumal;3
+202106;05887 - Yarumal;2
+202108;05887 - Yarumal;5
+202109;05887 - Yarumal;2
+202110;05887 - Yarumal;4
+202103;05890 - Yolombó;1
+202104;05890 - Yolombó;1
+202106;05890 - Yolombó;2
+202103;05895 - Zaragoza;1
+202101;08001 - Barranquilla;69
+202102;08001 - Barranquilla;95
+202103;08001 - Barranquilla;97
+202104;08001 - Barranquilla;76
+202105;08001 - Barranquilla;83
+202106;08001 - Barranquilla;102
+202107;08001 - Barranquilla;83
+202108;08001 - Barranquilla;97
+202109;08001 - Barranquilla;101
+202110;08001 - Barranquilla;101
+202111;08001 - Barranquilla;79
+202112;08001 - Barranquilla;84
+202107;08078 - Baranoa;1
+202108;08078 - Baranoa;1
+202102;08137 - Campo De La Cruz;1
+202108;08137 - Campo De La Cruz;1
+202102;08520 - Palmar De Varela;1
+202108;08520 - Palmar De Varela;1
+202104;08560 - Ponedera;1
+202105;08560 - Ponedera;1
+202101;08573 - Puerto Colombia;1
+202102;08573 - Puerto Colombia;7
+202103;08573 - Puerto Colombia;3
+202104;08573 - Puerto Colombia;5
+202105;08573 - Puerto Colombia;6
+202106;08573 - Puerto Colombia;4
+202107;08573 - Puerto Colombia;5
+202108;08573 - Puerto Colombia;3
+202109;08573 - Puerto Colombia;4
+202110;08573 - Puerto Colombia;5
+202111;08573 - Puerto Colombia;4
+202101;08634 - Sabanagrande;1
+202103;08638 - Sabanalarga;2
+202104;08638 - Sabanalarga;1
+202105;08638 - Sabanalarga;2
+202106;08638 - Sabanalarga;4
+202102;08685 - Santo Tomás;2
+202107;08685 - Santo Tomás;1
+202112;08685 - Santo Tomás;1
+202101;08758 - Soledad;3
+202102;08758 - Soledad;5
+202103;08758 - Soledad;2
+202104;08758 - Soledad;4
+202105;08758 - Soledad;3
+202106;08758 - Soledad;11
+202107;08758 - Soledad;1
+202108;08758 - Soledad;4
+202109;08758 - Soledad;7
+202110;08758 - Soledad;3
+202111;08758 - Soledad;8
+202112;08758 - Soledad;3
+202101;11001 - Bogotá, D.C.;409
+202102;11001 - Bogotá, D.C.;624
+202103;11001 - Bogotá, D.C.;674
+202104;11001 - Bogotá, D.C.;553
+202105;11001 - Bogotá, D.C.;607
+202106;11001 - Bogotá, D.C.;671
+202107;11001 - Bogotá, D.C.;655
+202108;11001 - Bogotá, D.C.;705
+202109;11001 - Bogotá, D.C.;688
+202110;11001 - Bogotá, D.C.;589
+202111;11001 - Bogotá, D.C.;626
+202112;11001 - Bogotá, D.C.;613
+202101;13001 - Cartagena;32
+202102;13001 - Cartagena;62
+202103;13001 - Cartagena;58
+202104;13001 - Cartagena;63
+202105;13001 - Cartagena;74
+202106;13001 - Cartagena;65
+202107;13001 - Cartagena;54
+202108;13001 - Cartagena;68
+202109;13001 - Cartagena;67
+202110;13001 - Cartagena;43
+202111;13001 - Cartagena;46
+202112;13001 - Cartagena;32
+202103;13052 - Arjona;2
+202105;13052 - Arjona;1
+202108;13052 - Arjona;1
+202109;13052 - Arjona;3
+202110;13052 - Arjona;1
+202102;13140 - Calamar;1
+202108;13212 - Córdoba;1
+202101;13222 - Clemencia;1
+202102;13222 - Clemencia;1
+202106;13222 - Clemencia;1
+202108;13222 - Clemencia;1
+202106;13244 - El Carmen De Bolívar;1
+202107;13244 - El Carmen De Bolívar;2
+202110;13244 - El Carmen De Bolívar;3
+202101;13430 - Magangué;10
+202102;13430 - Magangué;3
+202103;13430 - Magangué;7
+202104;13430 - Magangué;5
+202105;13430 - Magangué;6
+202106;13430 - Magangué;8
+202107;13430 - Magangué;6
+202108;13430 - Magangué;6
+202109;13430 - Magangué;3
+202110;13430 - Magangué;2
+202111;13430 - Magangué;3
+202112;13430 - Magangué;4
+202102;13433 - Mahates;1
+202103;13433 - Mahates;2
+202110;13433 - Mahates;1
+202102;13442 - María La Baja;1
+202105;13442 - María La Baja;2
+202108;13442 - María La Baja;1
+202109;13442 - María La Baja;2
+202110;13442 - María La Baja;2
+202101;13468 - Mompós;3
+202104;13468 - Mompós;5
+202105;13468 - Mompós;7
+202106;13468 - Mompós;6
+202107;13468 - Mompós;4
+202108;13468 - Mompós;3
+202109;13468 - Mompós;3
+202110;13468 - Mompós;2
+202111;13468 - Mompós;2
+202109;13473 - Morales;1
+202111;13473 - Morales;1
+202102;13657 - San Juan Nepomuceno;2
+202103;13657 - San Juan Nepomuceno;1
+202104;13657 - San Juan Nepomuceno;1
+202107;13657 - San Juan Nepomuceno;2
+202108;13683 - Santa Rosa;1
+202102;13688 - Santa Rosa Del Sur;1
+202103;13780 - Talaigua Nuevo;1
+202102;13810 - Tiquisio;1
+202103;13810 - Tiquisio;1
+202101;13836 - Turbaco;2
+202102;13836 - Turbaco;2
+202103;13836 - Turbaco;1
+202104;13836 - Turbaco;3
+202105;13836 - Turbaco;4
+202106;13836 - Turbaco;1
+202108;13836 - Turbaco;1
+202109;13836 - Turbaco;3
+202110;13836 - Turbaco;1
+202111;13836 - Turbaco;1
+202109;13873 - Villanueva;1
+202109;13894 - Zambrano;1
+202101;15001 - Tunja;47
+202102;15001 - Tunja;50
+202103;15001 - Tunja;78
+202104;15001 - Tunja;75
+202105;15001 - Tunja;67
+202106;15001 - Tunja;64
+202107;15001 - Tunja;63
+202108;15001 - Tunja;67
+202109;15001 - Tunja;67
+202110;15001 - Tunja;45
+202111;15001 - Tunja;70
+202112;15001 - Tunja;56
+202103;15047 - Aquitania;1
+202111;15047 - Aquitania;1
+202110;15104 - Boyacá;1
+202112;15131 - Caldas;1
+202101;15176 - Chiquinquirá;2
+202102;15176 - Chiquinquirá;5
+202103;15176 - Chiquinquirá;7
+202104;15176 - Chiquinquirá;3
+202105;15176 - Chiquinquirá;2
+202106;15176 - Chiquinquirá;12
+202107;15176 - Chiquinquirá;6
+202108;15176 - Chiquinquirá;5
+202109;15176 - Chiquinquirá;2
+202110;15176 - Chiquinquirá;7
+202111;15176 - Chiquinquirá;1
+202112;15176 - Chiquinquirá;3
+202102;15189 - Ciénega;1
+202105;15189 - Ciénega;1
+202108;15189 - Ciénega;1
+202102;15204 - Cómbita;1
+202111;15204 - Cómbita;1
+202112;15232 - Chíquiza;1
+202101;15238 - Duitama;4
+202102;15238 - Duitama;10
+202103;15238 - Duitama;12
+202104;15238 - Duitama;12
+202105;15238 - Duitama;7
+202106;15238 - Duitama;10
+202107;15238 - Duitama;9
+202108;15238 - Duitama;8
+202109;15238 - Duitama;9
+202110;15238 - Duitama;6
+202111;15238 - Duitama;8
+202112;15238 - Duitama;7
+202103;15272 - Firavitoba;1
+202106;15299 - Garagoa;1
+202108;15299 - Garagoa;1
+202109;15299 - Garagoa;2
+202112;15299 - Garagoa;1
+202101;15322 - Guateque;1
+202102;15322 - Guateque;2
+202103;15322 - Guateque;1
+202106;15322 - Guateque;2
+202107;15322 - Guateque;4
+202108;15322 - Guateque;1
+202109;15322 - Guateque;2
+202112;15322 - Guateque;1
+202105;15377 - Labranzagrande;1
+202108;15403 - La Uvita;1
+202101;15407 - Villa De Leyva;1
+202102;15407 - Villa De Leyva;1
+202103;15407 - Villa De Leyva;2
+202104;15407 - Villa De Leyva;1
+202107;15407 - Villa De Leyva;1
+202102;15442 - Maripí;2
+202109;15442 - Maripí;1
+202109;15464 - Mongua;1
+202101;15469 - Moniquirá;1
+202102;15469 - Moniquirá;1
+202104;15469 - Moniquirá;1
+202105;15469 - Moniquirá;3
+202108;15469 - Moniquirá;1
+202110;15469 - Moniquirá;2
+202111;15469 - Moniquirá;2
+202112;15469 - Moniquirá;5
+202105;15491 - Nobsa;1
+202101;15507 - Otanche;2
+202103;15507 - Otanche;1
+202108;15507 - Otanche;1
+202111;15511 - Pachavita;1
+202102;15514 - Páez;1
+202106;15514 - Páez;1
+202102;15516 - Paipa;1
+202105;15516 - Paipa;1
+202106;15516 - Paipa;1
+202108;15516 - Paipa;3
+202110;15516 - Paipa;1
+202111;15516 - Paipa;1
+202112;15516 - Paipa;1
+202101;15531 - Pauna;1
+202112;15542 - Pesca;1
+202103;15572 - Puerto Boyacá;2
+202104;15572 - Puerto Boyacá;2
+202106;15572 - Puerto Boyacá;2
+202107;15572 - Puerto Boyacá;1
+202108;15572 - Puerto Boyacá;1
+202109;15572 - Puerto Boyacá;2
+202112;15572 - Puerto Boyacá;2
+202108;15580 - Quípama;1
+202109;15580 - Quípama;1
+202112;15580 - Quípama;1
+202101;15599 - Ramiriquí;1
+202103;15599 - Ramiriquí;1
+202104;15599 - Ramiriquí;1
+202107;15599 - Ramiriquí;1
+202109;15599 - Ramiriquí;2
+202110;15599 - Ramiriquí;1
+202111;15599 - Ramiriquí;1
+202102;15600 - Ráquira;1
+202103;15600 - Ráquira;1
+202105;15632 - Saboyá;1
+202103;15646 - Samacá;2
+202106;15646 - Samacá;1
+202107;15646 - Samacá;1
+202109;15646 - Samacá;2
+202110;15646 - Samacá;1
+202111;15646 - Samacá;2
+202112;15646 - Samacá;2
+202101;15664 - San José De Pare;2
+202103;15664 - San José De Pare;2
+202104;15664 - San José De Pare;1
+202105;15664 - San José De Pare;1
+202108;15664 - San José De Pare;1
+202109;15664 - San José De Pare;1
+202112;15664 - San José De Pare;1
+202108;15667 - San Luis De Gaceno;1
+202111;15667 - San Luis De Gaceno;1
+202109;15681 - San Pablo De Borbur;1
+202101;15740 - Siachoque;1
+202101;15753 - Soatá;1
+202103;15753 - Soatá;2
+202104;15753 - Soatá;2
+202105;15753 - Soatá;4
+202107;15753 - Soatá;2
+202109;15753 - Soatá;2
+202110;15753 - Soatá;3
+202111;15753 - Soatá;1
+202112;15753 - Soatá;1
+202107;15755 - Socotá;1
+202109;15757 - Socha;1
+202101;15759 - Sogamoso;8
+202102;15759 - Sogamoso;11
+202103;15759 - Sogamoso;14
+202104;15759 - Sogamoso;11
+202105;15759 - Sogamoso;18
+202106;15759 - Sogamoso;23
+202107;15759 - Sogamoso;22
+202108;15759 - Sogamoso;13
+202109;15759 - Sogamoso;17
+202110;15759 - Sogamoso;8
+202111;15759 - Sogamoso;3
+202112;15759 - Sogamoso;18
+202103;15762 - Sora;1
+202104;15764 - Soracá;1
+202106;15764 - Soracá;1
+202104;15776 - Sutamarchán;1
+202102;15778 - Sutatenza;1
+202106;15778 - Sutatenza;1
+202106;15790 - Tasco;1
+202108;15790 - Tasco;1
+202102;15798 - Tenza;1
+202108;15804 - Tibaná;1
+202101;15814 - Toca;1
+202110;15816 - Togüí;1
+202103;15822 - Tota;1
+202104;15822 - Tota;1
+202107;15822 - Tota;1
+202108;15822 - Tota;1
+202109;15822 - Tota;1
+202108;15842 - Umbita;1
+202103;15861 - Ventaquemada;1
+202108;15861 - Ventaquemada;1
+202112;15897 - Zetaquira;1
+202101;17001 - Manizales;11
+202102;17001 - Manizales;25
+202103;17001 - Manizales;24
+202104;17001 - Manizales;29
+202105;17001 - Manizales;33
+202106;17001 - Manizales;33
+202107;17001 - Manizales;31
+202108;17001 - Manizales;40
+202109;17001 - Manizales;36
+202110;17001 - Manizales;32
+202111;17001 - Manizales;28
+202112;17001 - Manizales;40
+202102;17013 - Aguadas;1
+202103;17042 - Anserma;1
+202107;17042 - Anserma;1
+202108;17042 - Anserma;1
+202110;17042 - Anserma;1
+202111;17042 - Anserma;1
+202104;17088 - Belalcázar;1
+202105;17088 - Belalcázar;1
+202108;17088 - Belalcázar;1
+202109;17088 - Belalcázar;1
+202101;17174 - Chinchiná;1
+202102;17174 - Chinchiná;1
+202103;17174 - Chinchiná;1
+202109;17174 - Chinchiná;3
+202110;17174 - Chinchiná;1
+202111;17174 - Chinchiná;2
+202112;17174 - Chinchiná;1
+202101;17380 - La Dorada;2
+202103;17380 - La Dorada;4
+202104;17380 - La Dorada;2
+202106;17380 - La Dorada;7
+202107;17380 - La Dorada;5
+202108;17380 - La Dorada;3
+202109;17380 - La Dorada;4
+202110;17380 - La Dorada;1
+202111;17380 - La Dorada;4
+202112;17380 - La Dorada;3
+202106;17433 - Manzanares;1
+202109;17433 - Manzanares;1
+202103;17486 - Neira;1
+202105;17486 - Neira;1
+202111;17486 - Neira;1
+202105;17513 - Pácora;1
+202101;17541 - Pensilvania;1
+202102;17541 - Pensilvania;1
+202103;17541 - Pensilvania;1
+202107;17541 - Pensilvania;1
+202109;17541 - Pensilvania;2
+202110;17541 - Pensilvania;1
+202111;17541 - Pensilvania;2
+202112;17541 - Pensilvania;1
+202104;17614 - Riosucio;1
+202106;17614 - Riosucio;2
+202108;17614 - Riosucio;1
+202109;17614 - Riosucio;1
+202110;17614 - Riosucio;1
+202111;17614 - Riosucio;2
+202102;17616 - Risaralda;1
+202103;17653 - Salamina;1
+202108;17653 - Salamina;1
+202110;17653 - Salamina;1
+202109;17662 - Samaná;2
+202101;17777 - Supía;1
+202103;17777 - Supía;1
+202104;17777 - Supía;1
+202105;17777 - Supía;2
+202106;17777 - Supía;3
+202107;17777 - Supía;2
+202108;17777 - Supía;2
+202109;17777 - Supía;4
+202110;17777 - Supía;1
+202111;17777 - Supía;1
+202112;17777 - Supía;3
+202101;17873 - Villamaría;1
+202108;17873 - Villamaría;1
+202104;17877 - Viterbo;2
+202107;17877 - Viterbo;1
+202108;17877 - Viterbo;2
+202110;17877 - Viterbo;1
+202112;17877 - Viterbo;1
+202101;18001 - Florencia;12
+202102;18001 - Florencia;15
+202103;18001 - Florencia;14
+202104;18001 - Florencia;19
+202105;18001 - Florencia;11
+202106;18001 - Florencia;13
+202107;18001 - Florencia;10
+202108;18001 - Florencia;16
+202109;18001 - Florencia;24
+202110;18001 - Florencia;16
+202111;18001 - Florencia;18
+202112;18001 - Florencia;17
+202109;18094 - Belén De Los Andaquies;1
+202112;18094 - Belén De Los Andaquies;1
+202105;18150 - Cartagena Del Chairá;1
+202106;18150 - Cartagena Del Chairá;1
+202108;18150 - Cartagena Del Chairá;2
+202109;18150 - Cartagena Del Chairá;1
+202112;18150 - Cartagena Del Chairá;1
+202106;18205 - Curillo;1
+202107;18256 - El Paujil;1
+202108;18256 - El Paujil;1
+202107;18410 - La Montañita;1
+202108;18410 - La Montañita;2
+202111;18410 - La Montañita;1
+202112;18410 - La Montañita;1
+202102;18460 - Milán;1
+202105;18460 - Milán;1
+202107;18460 - Milán;2
+202109;18460 - Milán;1
+202110;18460 - Milán;1
+202101;18592 - Puerto Rico;1
+202105;18610 - San José Del Fragua;1
+202105;18753 - San Vicente Del Caguán;1
+202108;18753 - San Vicente Del Caguán;1
+202109;18753 - San Vicente Del Caguán;1
+202111;18753 - San Vicente Del Caguán;1
+202101;19001 - Popayán;16
+202102;19001 - Popayán;36
+202103;19001 - Popayán;55
+202104;19001 - Popayán;42
+202105;19001 - Popayán;44
+202106;19001 - Popayán;43
+202107;19001 - Popayán;49
+202108;19001 - Popayán;49
+202109;19001 - Popayán;36
+202110;19001 - Popayán;31
+202111;19001 - Popayán;49
+202112;19001 - Popayán;37
+202101;19022 - Almaguer;1
+202107;19022 - Almaguer;1
+202110;19022 - Almaguer;1
+202111;19022 - Almaguer;1
+202112;19075 - Balboa;3
+202101;19100 - Bolívar;1
+202102;19100 - Bolívar;1
+202103;19100 - Bolívar;1
+202104;19100 - Bolívar;2
+202105;19100 - Bolívar;2
+202106;19100 - Bolívar;1
+202107;19100 - Bolívar;7
+202108;19100 - Bolívar;3
+202111;19100 - Bolívar;1
+202112;19100 - Bolívar;1
+202110;19110 - Buenos Aires;1
+202108;19130 - Cajibío;2
+202109;19130 - Cajibío;1
+202110;19130 - Cajibío;1
+202104;19137 - Caldono;1
+202109;19212 - Corinto;1
+202103;19256 - El Tambo;1
+202105;19256 - El Tambo;2
+202106;19256 - El Tambo;1
+202109;19256 - El Tambo;1
+202111;19256 - El Tambo;1
+202112;19256 - El Tambo;1
+202107;19290 - Florencia;2
+202109;19290 - Florencia;1
+202105;19300 - Guachené;1
+202101;19392 - La Sierra;1
+202110;19392 - La Sierra;1
+202103;19397 - La Vega;1
+202104;19397 - La Vega;1
+202101;19450 - Mercaderes;1
+202103;19450 - Mercaderes;1
+202104;19450 - Mercaderes;1
+202106;19450 - Mercaderes;2
+202107;19450 - Mercaderes;1
+202108;19450 - Mercaderes;2
+202110;19450 - Mercaderes;1
+202103;19455 - Miranda;1
+202102;19473 - Morales;1
+202103;19473 - Morales;1
+202104;19473 - Morales;1
+202108;19517 - Paez;1
+202101;19532 - Patía;1
+202104;19532 - Patía;2
+202105;19532 - Patía;2
+202108;19532 - Patía;1
+202109;19532 - Patía;1
+202112;19532 - Patía;2
+202103;19548 - Piendamó;1
+202107;19548 - Piendamó;2
+202102;19573 - Puerto Tejada;2
+202103;19573 - Puerto Tejada;3
+202104;19573 - Puerto Tejada;3
+202105;19573 - Puerto Tejada;1
+202106;19573 - Puerto Tejada;2
+202107;19573 - Puerto Tejada;1
+202108;19573 - Puerto Tejada;3
+202109;19573 - Puerto Tejada;2
+202110;19573 - Puerto Tejada;3
+202111;19573 - Puerto Tejada;4
+202112;19573 - Puerto Tejada;5
+202101;19585 - Puracé;1
+202102;19585 - Puracé;1
+202110;19693 - San Sebastián;1
+202101;19698 - Santander De Quilichao;2
+202102;19698 - Santander De Quilichao;2
+202103;19698 - Santander De Quilichao;2
+202104;19698 - Santander De Quilichao;3
+202105;19698 - Santander De Quilichao;3
+202106;19698 - Santander De Quilichao;3
+202107;19698 - Santander De Quilichao;5
+202108;19698 - Santander De Quilichao;2
+202109;19698 - Santander De Quilichao;2
+202110;19698 - Santander De Quilichao;1
+202111;19698 - Santander De Quilichao;2
+202112;19698 - Santander De Quilichao;6
+202104;19701 - Santa Rosa;1
+202105;19743 - Silvia;1
+202108;19780 - Suárez;1
+202110;19780 - Suárez;1
+202111;19780 - Suárez;1
+202103;19785 - Sucre;1
+202104;19785 - Sucre;2
+202102;19807 - Timbío;1
+202104;19807 - Timbío;1
+202105;19807 - Timbío;2
+202107;19807 - Timbío;1
+202109;19807 - Timbío;1
+202110;19807 - Timbío;2
+202111;19807 - Timbío;1
+202103;19809 - Timbiquí;1
+202108;19809 - Timbiquí;1
+202109;19809 - Timbiquí;1
+202109;19821 - Toribio;1
+202101;20001 - Valledupar;23
+202102;20001 - Valledupar;31
+202103;20001 - Valledupar;29
+202104;20001 - Valledupar;29
+202105;20001 - Valledupar;28
+202106;20001 - Valledupar;23
+202107;20001 - Valledupar;18
+202108;20001 - Valledupar;24
+202109;20001 - Valledupar;31
+202110;20001 - Valledupar;23
+202111;20001 - Valledupar;21
+202112;20001 - Valledupar;20
+202103;20011 - Aguachica;1
+202104;20011 - Aguachica;2
+202105;20011 - Aguachica;1
+202106;20011 - Aguachica;3
+202107;20011 - Aguachica;1
+202110;20011 - Aguachica;1
+202111;20011 - Aguachica;1
+202112;20011 - Aguachica;4
+202107;20013 - Agustín Codazzi;1
+202108;20013 - Agustín Codazzi;1
+202106;20060 - Bosconia;1
+202109;20175 - Chimichagua;1
+202103;20228 - Curumaní;1
+202105;20228 - Curumaní;1
+202112;20295 - Gamarra;1
+202106;20443 - Manaure;1
+202106;20517 - Pailitas;1
+202110;20517 - Pailitas;1
+202103;20550 - Pelaya;1
+202105;20621 - La Paz;1
+202112;20710 - San Alberto;1
+202102;20770 - San Martín;1
+202103;20770 - San Martín;1
+202104;20770 - San Martín;1
+202106;20770 - San Martín;1
+202101;23001 - Montería;57
+202102;23001 - Montería;50
+202103;23001 - Montería;56
+202104;23001 - Montería;76
+202105;23001 - Montería;68
+202106;23001 - Montería;73
+202107;23001 - Montería;68
+202108;23001 - Montería;68
+202109;23001 - Montería;61
+202110;23001 - Montería;42
+202111;23001 - Montería;35
+202112;23001 - Montería;50
+202101;23068 - Ayapel;1
+202105;23068 - Ayapel;1
+202107;23068 - Ayapel;2
+202112;23068 - Ayapel;1
+202109;23090 - Canalete;1
+202101;23162 - Cereté;2
+202102;23162 - Cereté;1
+202103;23162 - Cereté;1
+202104;23162 - Cereté;1
+202108;23162 - Cereté;1
+202109;23162 - Cereté;2
+202105;23168 - Chimá;1
+202111;23168 - Chimá;1
+202107;23182 - Chinú;1
+202103;23189 - Ciénaga De Oro;1
+202105;23189 - Ciénaga De Oro;1
+202112;23189 - Ciénaga De Oro;1
+202102;23417 - Lorica;1
+202103;23417 - Lorica;1
+202104;23417 - Lorica;2
+202107;23417 - Lorica;1
+202108;23417 - Lorica;2
+202101;23419 - Los Córdobas;1
+202102;23464 - Momil;1
+202105;23464 - Momil;2
+202106;23464 - Momil;1
+202102;23466 - Montelíbano;1
+202105;23466 - Montelíbano;1
+202106;23466 - Montelíbano;1
+202108;23466 - Montelíbano;1
+202110;23466 - Montelíbano;1
+202111;23466 - Montelíbano;1
+202112;23466 - Montelíbano;1
+202102;23555 - Planeta Rica;1
+202105;23555 - Planeta Rica;1
+202106;23555 - Planeta Rica;3
+202107;23555 - Planeta Rica;3
+202108;23555 - Planeta Rica;2
+202109;23555 - Planeta Rica;1
+202110;23555 - Planeta Rica;2
+202111;23555 - Planeta Rica;1
+202104;23570 - Pueblo Nuevo;2
+202105;23570 - Pueblo Nuevo;1
+202106;23570 - Pueblo Nuevo;1
+202108;23570 - Pueblo Nuevo;1
+202109;23570 - Pueblo Nuevo;1
+202102;23586 - Purísima;1
+202101;23660 - Sahagún;1
+202102;23660 - Sahagún;3
+202103;23660 - Sahagún;4
+202104;23660 - Sahagún;3
+202105;23660 - Sahagún;6
+202106;23660 - Sahagún;4
+202107;23660 - Sahagún;5
+202108;23660 - Sahagún;7
+202109;23660 - Sahagún;6
+202112;23660 - Sahagún;1
+202101;23670 - San Andrés Sotavento;1
+202102;23670 - San Andrés Sotavento;1
+202103;23670 - San Andrés Sotavento;1
+202106;23675 - San Bernardo Del Viento;1
+202106;23678 - San Carlos;1
+202108;23678 - San Carlos;1
+202110;23678 - San Carlos;1
+202111;23678 - San Carlos;1
+202103;23686 - San Pelayo;1
+202103;23807 - Tierralta;2
+202106;23807 - Tierralta;3
+202110;23807 - Tierralta;1
+202103;23815 - Tuchín;1
+202102;25001 - Agua De Dios;1
+202105;25001 - Agua De Dios;1
+202107;25001 - Agua De Dios;1
+202110;25001 - Agua De Dios;1
+202111;25001 - Agua De Dios;2
+202107;25019 - Albán;1
+202103;25035 - Anapoima;1
+202105;25040 - Anolaima;1
+202110;25040 - Anolaima;1
+202101;25099 - Bojacá;1
+202103;25099 - Bojacá;1
+202104;25099 - Bojacá;1
+202109;25099 - Bojacá;1
+202110;25099 - Bojacá;1
+202111;25099 - Bojacá;1
+202112;25099 - Bojacá;1
+202101;25126 - Cajicá;2
+202102;25126 - Cajicá;2
+202103;25126 - Cajicá;1
+202104;25126 - Cajicá;1
+202105;25126 - Cajicá;3
+202106;25126 - Cajicá;3
+202107;25126 - Cajicá;1
+202108;25126 - Cajicá;2
+202109;25126 - Cajicá;1
+202110;25126 - Cajicá;4
+202111;25126 - Cajicá;1
+202102;25151 - Caqueza;1
+202105;25151 - Caqueza;1
+202108;25151 - Caqueza;1
+202109;25151 - Caqueza;1
+202110;25151 - Caqueza;1
+202112;25151 - Caqueza;3
+202104;25154 - Carmen De Carupa;2
+202105;25154 - Carmen De Carupa;1
+202107;25154 - Carmen De Carupa;1
+202108;25154 - Carmen De Carupa;1
+202111;25154 - Carmen De Carupa;2
+202101;25175 - Chía;5
+202102;25175 - Chía;16
+202103;25175 - Chía;14
+202104;25175 - Chía;15
+202105;25175 - Chía;13
+202106;25175 - Chía;12
+202107;25175 - Chía;10
+202108;25175 - Chía;18
+202109;25175 - Chía;15
+202110;25175 - Chía;16
+202111;25175 - Chía;11
+202112;25175 - Chía;19
+202101;25183 - Chocontá;1
+202104;25183 - Chocontá;1
+202106;25183 - Chocontá;1
+202107;25183 - Chocontá;2
+202108;25183 - Chocontá;1
+202110;25183 - Chocontá;1
+202111;25183 - Chocontá;2
+202102;25214 - Cota;1
+202105;25214 - Cota;1
+202106;25214 - Cota;2
+202106;25245 - El Colegio;1
+202107;25245 - El Colegio;2
+202109;25245 - El Colegio;1
+202103;25258 - El Peñón;1
+202104;25258 - El Peñón;1
+202112;25258 - El Peñón;2
+202112;25260 - El Rosal;1
+202101;25269 - Facatativá;23
+202102;25269 - Facatativá;27
+202103;25269 - Facatativá;26
+202104;25269 - Facatativá;31
+202105;25269 - Facatativá;20
+202106;25269 - Facatativá;22
+202107;25269 - Facatativá;18
+202108;25269 - Facatativá;19
+202109;25269 - Facatativá;25
+202110;25269 - Facatativá;15
+202111;25269 - Facatativá;15
+202112;25269 - Facatativá;9
+202101;25279 - Fomeque;1
+202104;25279 - Fomeque;1
+202105;25279 - Fomeque;1
+202101;25286 - Funza;4
+202102;25286 - Funza;7
+202103;25286 - Funza;14
+202104;25286 - Funza;11
+202105;25286 - Funza;9
+202106;25286 - Funza;12
+202107;25286 - Funza;10
+202108;25286 - Funza;11
+202109;25286 - Funza;9
+202110;25286 - Funza;11
+202111;25286 - Funza;14
+202112;25286 - Funza;11
+202101;25290 - Fusagasugá;4
+202102;25290 - Fusagasugá;4
+202103;25290 - Fusagasugá;6
+202104;25290 - Fusagasugá;5
+202105;25290 - Fusagasugá;5
+202106;25290 - Fusagasugá;8
+202107;25290 - Fusagasugá;11
+202108;25290 - Fusagasugá;16
+202109;25290 - Fusagasugá;19
+202110;25290 - Fusagasugá;9
+202111;25290 - Fusagasugá;9
+202112;25290 - Fusagasugá;4
+202101;25307 - Girardot;4
+202102;25307 - Girardot;6
+202103;25307 - Girardot;3
+202104;25307 - Girardot;6
+202105;25307 - Girardot;3
+202106;25307 - Girardot;6
+202107;25307 - Girardot;3
+202108;25307 - Girardot;4
+202109;25307 - Girardot;4
+202110;25307 - Girardot;5
+202111;25307 - Girardot;11
+202112;25307 - Girardot;8
+202106;25317 - Guachetá;1
+202107;25317 - Guachetá;1
+202108;25317 - Guachetá;1
+202101;25320 - Guaduas;1
+202103;25320 - Guaduas;2
+202107;25320 - Guaduas;1
+202108;25320 - Guaduas;2
+202102;25326 - Guatavita;1
+202103;25326 - Guatavita;1
+202107;25326 - Guatavita;1
+202111;25326 - Guatavita;2
+202101;25386 - La Mesa;1
+202106;25386 - La Mesa;1
+202109;25386 - La Mesa;1
+202104;25394 - La Palma;1
+202107;25394 - La Palma;2
+202110;25394 - La Palma;2
+202112;25394 - La Palma;1
+202101;25430 - Madrid;2
+202102;25430 - Madrid;8
+202103;25430 - Madrid;4
+202104;25430 - Madrid;3
+202105;25430 - Madrid;2
+202107;25430 - Madrid;1
+202109;25430 - Madrid;2
+202110;25430 - Madrid;3
+202111;25430 - Madrid;4
+202112;25430 - Madrid;1
+202103;25438 - Medina;1
+202112;25438 - Medina;1
+202102;25473 - Mosquera;1
+202103;25473 - Mosquera;2
+202105;25473 - Mosquera;1
+202107;25473 - Mosquera;1
+202108;25473 - Mosquera;3
+202109;25473 - Mosquera;2
+202111;25473 - Mosquera;1
+202103;25513 - Pacho;3
+202104;25513 - Pacho;2
+202105;25513 - Pacho;2
+202106;25513 - Pacho;1
+202107;25513 - Pacho;1
+202108;25513 - Pacho;3
+202109;25513 - Pacho;1
+202110;25513 - Pacho;2
+202111;25513 - Pacho;3
+202112;25513 - Pacho;3
+202102;25572 - Puerto Salgar;1
+202108;25572 - Puerto Salgar;1
+202109;25572 - Puerto Salgar;1
+202102;25645 - San Antonio Del Tequendama;1
+202101;25662 - San Juan De Río Seco;2
+202106;25662 - San Juan De Río Seco;1
+202111;25718 - Sasaima;1
+202109;25736 - Sesquilé;1
+202104;25740 - Sibaté;3
+202107;25740 - Sibaté;1
+202109;25743 - Silvania;1
+202111;25743 - Silvania;1
+202112;25743 - Silvania;1
+202101;25754 - Soacha;17
+202102;25754 - Soacha;18
+202103;25754 - Soacha;15
+202104;25754 - Soacha;27
+202105;25754 - Soacha;20
+202106;25754 - Soacha;18
+202107;25754 - Soacha;18
+202108;25754 - Soacha;28
+202109;25754 - Soacha;21
+202110;25754 - Soacha;18
+202111;25754 - Soacha;19
+202112;25754 - Soacha;15
+202109;25758 - Sopó;1
+202110;25758 - Sopó;2
+202111;25758 - Sopó;1
+202112;25758 - Sopó;2
+202103;25769 - Subachoque;1
+202104;25772 - Suesca;1
+202105;25785 - Tabio;1
+202103;25793 - Tausa;1
+202106;25793 - Tausa;1
+202101;25799 - Tenjo;1
+202112;25799 - Tenjo;1
+202103;25815 - Tocaima;2
+202105;25817 - Tocancipá;1
+202108;25817 - Tocancipá;1
+202109;25817 - Tocancipá;2
+202110;25817 - Tocancipá;2
+202111;25817 - Tocancipá;3
+202102;25843 - Villa De San Diego De Ubate;1
+202104;25843 - Villa De San Diego De Ubate;1
+202105;25843 - Villa De San Diego De Ubate;2
+202106;25843 - Villa De San Diego De Ubate;1
+202107;25843 - Villa De San Diego De Ubate;2
+202108;25843 - Villa De San Diego De Ubate;1
+202109;25843 - Villa De San Diego De Ubate;2
+202110;25843 - Villa De San Diego De Ubate;1
+202112;25843 - Villa De San Diego De Ubate;2
+202102;25845 - Une;1
+202103;25845 - Une;1
+202105;25845 - Une;1
+202101;25862 - Vergara;1
+202107;25862 - Vergara;1
+202110;25862 - Vergara;1
+202101;25875 - Villeta;1
+202104;25875 - Villeta;1
+202105;25875 - Villeta;1
+202106;25875 - Villeta;4
+202107;25875 - Villeta;2
+202108;25875 - Villeta;3
+202109;25875 - Villeta;1
+202111;25875 - Villeta;3
+202101;25899 - Zipaquirá;6
+202102;25899 - Zipaquirá;4
+202103;25899 - Zipaquirá;8
+202104;25899 - Zipaquirá;7
+202105;25899 - Zipaquirá;3
+202106;25899 - Zipaquirá;4
+202107;25899 - Zipaquirá;1
+202108;25899 - Zipaquirá;10
+202109;25899 - Zipaquirá;9
+202110;25899 - Zipaquirá;8
+202111;25899 - Zipaquirá;6
+202112;25899 - Zipaquirá;2
+202101;27001 - Quibdó;4
+202102;27001 - Quibdó;6
+202103;27001 - Quibdó;3
+202104;27001 - Quibdó;2
+202105;27001 - Quibdó;3
+202106;27001 - Quibdó;2
+202107;27001 - Quibdó;8
+202108;27001 - Quibdó;10
+202109;27001 - Quibdó;8
+202110;27001 - Quibdó;3
+202111;27001 - Quibdó;6
+202112;27001 - Quibdó;1
+202108;27099 - Bojaya;1
+202106;27150 - Carmen Del Darien;1
+202107;27600 - Río Quito;1
+202103;27660 - San José Del Palmar;1
+202105;27660 - San José Del Palmar;1
+202106;27660 - San José Del Palmar;1
+202101;41001 - Neiva;34
+202102;41001 - Neiva;58
+202103;41001 - Neiva;90
+202104;41001 - Neiva;66
+202105;41001 - Neiva;65
+202106;41001 - Neiva;80
+202107;41001 - Neiva;66
+202108;41001 - Neiva;65
+202109;41001 - Neiva;63
+202110;41001 - Neiva;68
+202111;41001 - Neiva;75
+202112;41001 - Neiva;84
+202111;41006 - Acevedo;1
+202104;41020 - Algeciras;2
+202107;41020 - Algeciras;1
+202109;41020 - Algeciras;1
+202105;41132 - Campoalegre;1
+202106;41132 - Campoalegre;2
+202107;41132 - Campoalegre;1
+202108;41132 - Campoalegre;1
+202110;41132 - Campoalegre;1
+202112;41132 - Campoalegre;1
+202107;41206 - Colombia;2
+202102;41244 - Elías;1
+202101;41298 - Garzón;2
+202102;41298 - Garzón;5
+202103;41298 - Garzón;9
+202104;41298 - Garzón;9
+202105;41298 - Garzón;12
+202106;41298 - Garzón;16
+202107;41298 - Garzón;16
+202108;41298 - Garzón;23
+202109;41298 - Garzón;17
+202110;41298 - Garzón;20
+202111;41298 - Garzón;19
+202112;41298 - Garzón;9
+202107;41306 - Gigante;1
+202101;41359 - Isnos;1
+202105;41359 - Isnos;1
+202106;41359 - Isnos;1
+202111;41359 - Isnos;1
+202101;41396 - La Plata;2
+202102;41396 - La Plata;5
+202103;41396 - La Plata;1
+202104;41396 - La Plata;5
+202105;41396 - La Plata;3
+202106;41396 - La Plata;3
+202107;41396 - La Plata;1
+202108;41396 - La Plata;3
+202109;41396 - La Plata;1
+202110;41396 - La Plata;2
+202111;41396 - La Plata;4
+202112;41396 - La Plata;6
+202110;41483 - Nátaga;1
+202109;41524 - Palermo;1
+202103;41530 - Palestina;1
+202104;41530 - Palestina;1
+202110;41530 - Palestina;1
+202112;41548 - Pital;1
+202101;41551 - Pitalito;12
+202102;41551 - Pitalito;9
+202103;41551 - Pitalito;16
+202104;41551 - Pitalito;15
+202105;41551 - Pitalito;13
+202106;41551 - Pitalito;11
+202107;41551 - Pitalito;12
+202108;41551 - Pitalito;9
+202109;41551 - Pitalito;6
+202110;41551 - Pitalito;11
+202111;41551 - Pitalito;13
+202112;41551 - Pitalito;16
+202103;41668 - San Agustín;1
+202104;41668 - San Agustín;1
+202105;41668 - San Agustín;1
+202107;41668 - San Agustín;1
+202110;41668 - San Agustín;1
+202106;41676 - Santa María;1
+202111;41676 - Santa María;1
+202103;41770 - Suaza;1
+202105;41770 - Suaza;1
+202108;41770 - Suaza;1
+202111;41770 - Suaza;2
+202112;41770 - Suaza;2
+202103;41791 - Tarqui;1
+202104;41791 - Tarqui;1
+202105;41791 - Tarqui;1
+202107;41791 - Tarqui;2
+202108;41791 - Tarqui;1
+202110;41791 - Tarqui;1
+202107;41797 - Tesalia;1
+202111;41799 - Tello;1
+202112;41801 - Teruel;1
+202104;41807 - Timaná;1
+202106;41807 - Timaná;1
+202107;41807 - Timaná;1
+202110;41807 - Timaná;1
+202111;41807 - Timaná;1
+202112;41807 - Timaná;1
+202101;44001 - Riohacha;4
+202102;44001 - Riohacha;7
+202103;44001 - Riohacha;1
+202104;44001 - Riohacha;2
+202105;44001 - Riohacha;5
+202106;44001 - Riohacha;2
+202107;44001 - Riohacha;6
+202108;44001 - Riohacha;5
+202109;44001 - Riohacha;4
+202110;44001 - Riohacha;5
+202111;44001 - Riohacha;2
+202112;44001 - Riohacha;6
+202104;44098 - Distracción;1
+202111;44098 - Distracción;1
+202103;44279 - Fonseca;2
+202108;44279 - Fonseca;1
+202109;44279 - Fonseca;1
+202111;44279 - Fonseca;1
+202112;44279 - Fonseca;1
+202101;44430 - Maicao;7
+202102;44430 - Maicao;5
+202103;44430 - Maicao;4
+202104;44430 - Maicao;2
+202105;44430 - Maicao;4
+202106;44430 - Maicao;4
+202107;44430 - Maicao;5
+202108;44430 - Maicao;4
+202109;44430 - Maicao;5
+202110;44430 - Maicao;8
+202111;44430 - Maicao;8
+202112;44430 - Maicao;9
+202101;44650 - San Juan Del Cesar;5
+202102;44650 - San Juan Del Cesar;2
+202103;44650 - San Juan Del Cesar;1
+202104;44650 - San Juan Del Cesar;3
+202105;44650 - San Juan Del Cesar;4
+202106;44650 - San Juan Del Cesar;2
+202107;44650 - San Juan Del Cesar;1
+202109;44650 - San Juan Del Cesar;1
+202110;44650 - San Juan Del Cesar;3
+202111;44650 - San Juan Del Cesar;4
+202112;44650 - San Juan Del Cesar;1
+202106;44847 - Uribia;1
+202101;47001 - Santa Marta;15
+202102;47001 - Santa Marta;17
+202103;47001 - Santa Marta;14
+202104;47001 - Santa Marta;15
+202105;47001 - Santa Marta;23
+202106;47001 - Santa Marta;17
+202107;47001 - Santa Marta;14
+202108;47001 - Santa Marta;16
+202109;47001 - Santa Marta;17
+202110;47001 - Santa Marta;20
+202111;47001 - Santa Marta;11
+202112;47001 - Santa Marta;10
+202104;47053 - Aracataca;1
+202109;47053 - Aracataca;1
+202106;47161 - Cerro San Antonio;1
+202105;47189 - Ciénaga;3
+202106;47189 - Ciénaga;2
+202107;47189 - Ciénaga;1
+202108;47189 - Ciénaga;1
+202111;47189 - Ciénaga;1
+202112;47189 - Ciénaga;1
+202101;47205 - Concordia;1
+202105;47205 - Concordia;1
+202108;47205 - Concordia;1
+202101;47245 - El Banco;1
+202102;47245 - El Banco;2
+202104;47245 - El Banco;1
+202106;47245 - El Banco;1
+202109;47245 - El Banco;2
+202102;47258 - El Piñon;1
+202102;47288 - Fundación;2
+202103;47288 - Fundación;1
+202107;47288 - Fundación;3
+202109;47288 - Fundación;1
+202111;47288 - Fundación;1
+202109;47318 - Guamal;1
+202104;47541 - Pedraza;1
+202110;47551 - Pivijay;1
+202112;47551 - Pivijay;1
+202101;47555 - Plato;1
+202104;47555 - Plato;1
+202106;47555 - Plato;1
+202109;47555 - Plato;1
+202110;47555 - Plato;1
+202111;47555 - Plato;1
+202104;47570 - Puebloviejo;1
+202104;47720 - Santa Bárbara De Pinto;1
+202106;47745 - Sitionuevo;1
+202109;47745 - Sitionuevo;1
+202102;47980 - Zona Bananera;1
+202109;47980 - Zona Bananera;1
+202110;47980 - Zona Bananera;1
+202101;50001 - Villavicencio;29
+202102;50001 - Villavicencio;36
+202103;50001 - Villavicencio;44
+202104;50001 - Villavicencio;39
+202105;50001 - Villavicencio;35
+202106;50001 - Villavicencio;46
+202107;50001 - Villavicencio;45
+202108;50001 - Villavicencio;30
+202109;50001 - Villavicencio;32
+202110;50001 - Villavicencio;29
+202111;50001 - Villavicencio;46
+202112;50001 - Villavicencio;42
+202101;50006 - Acacías;1
+202102;50006 - Acacías;1
+202103;50006 - Acacías;3
+202104;50006 - Acacías;2
+202105;50006 - Acacías;1
+202106;50006 - Acacías;1
+202107;50006 - Acacías;3
+202108;50006 - Acacías;1
+202109;50006 - Acacías;4
+202110;50006 - Acacías;2
+202111;50006 - Acacías;3
+202112;50006 - Acacías;3
+202101;50287 - Fuente De Oro;1
+202103;50287 - Fuente De Oro;2
+202106;50287 - Fuente De Oro;1
+202110;50287 - Fuente De Oro;1
+202111;50287 - Fuente De Oro;1
+202101;50313 - Granada;1
+202102;50313 - Granada;1
+202103;50313 - Granada;5
+202104;50313 - Granada;5
+202105;50313 - Granada;2
+202106;50313 - Granada;2
+202107;50313 - Granada;2
+202108;50313 - Granada;1
+202109;50313 - Granada;6
+202110;50313 - Granada;3
+202111;50313 - Granada;2
+202112;50313 - Granada;6
+202102;50330 - Mesetas;1
+202101;50350 - La Macarena;1
+202103;50568 - Puerto Gaitán;1
+202107;50568 - Puerto Gaitán;1
+202110;50568 - Puerto Gaitán;1
+202101;50573 - Puerto López;1
+202106;50573 - Puerto López;1
+202112;50577 - Puerto Lleras;1
+202101;50606 - Restrepo;1
+202108;50686 - San Juanito;1
+202108;50689 - San Martín;1
+202101;52001 - Pasto;70
+202102;52001 - Pasto;68
+202103;52001 - Pasto;85
+202104;52001 - Pasto;78
+202105;52001 - Pasto;89
+202106;52001 - Pasto;74
+202107;52001 - Pasto;80
+202108;52001 - Pasto;61
+202109;52001 - Pasto;47
+202110;52001 - Pasto;40
+202111;52001 - Pasto;55
+202112;52001 - Pasto;26
+202108;52022 - Aldana;1
+202105;52051 - Arboleda;1
+202107;52051 - Arboleda;1
+202101;52079 - Barbacoas;1
+202103;52079 - Barbacoas;1
+202104;52079 - Barbacoas;1
+202108;52079 - Barbacoas;2
+202107;52110 - Buesaco;1
+202108;52110 - Buesaco;1
+202104;52203 - Colón;1
+202103;52207 - Consaca;1
+202107;52210 - Contadero;1
+202107;52215 - Córdoba;1
+202103;52227 - Cumbal;2
+202104;52227 - Cumbal;3
+202105;52227 - Cumbal;1
+202111;52233 - Cumbitara;1
+202106;52240 - Chachagüí;1
+202101;52256 - El Rosario;1
+202102;52256 - El Rosario;1
+202106;52256 - El Rosario;2
+202104;52258 - El Tablón De Gómez;1
+202105;52258 - El Tablón De Gómez;1
+202111;52258 - El Tablón De Gómez;1
+202104;52260 - El Tambo;1
+202105;52260 - El Tambo;1
+202106;52260 - El Tambo;1
+202110;52260 - El Tambo;1
+202111;52287 - Funes;1
+202105;52317 - Guachucal;1
+202106;52317 - Guachucal;1
+202107;52317 - Guachucal;2
+202106;52320 - Guaitarilla;1
+202102;52352 - Iles;1
+202103;52352 - Iles;1
+202105;52352 - Iles;1
+202108;52352 - Iles;2
+202111;52352 - Iles;1
+202101;52356 - Ipiales;14
+202102;52356 - Ipiales;16
+202103;52356 - Ipiales;13
+202104;52356 - Ipiales;15
+202105;52356 - Ipiales;20
+202106;52356 - Ipiales;6
+202107;52356 - Ipiales;15
+202108;52356 - Ipiales;15
+202109;52356 - Ipiales;12
+202110;52356 - Ipiales;10
+202111;52356 - Ipiales;20
+202112;52356 - Ipiales;7
+202101;52378 - La Cruz;6
+202102;52378 - La Cruz;5
+202104;52378 - La Cruz;3
+202108;52378 - La Cruz;2
+202110;52378 - La Cruz;1
+202111;52378 - La Cruz;1
+202105;52385 - La Llanada;1
+202101;52399 - La Unión;1
+202103;52399 - La Unión;2
+202105;52399 - La Unión;1
+202106;52399 - La Unión;1
+202107;52399 - La Unión;1
+202109;52399 - La Unión;2
+202112;52405 - Leiva;1
+202108;52411 - Linares;1
+202106;52418 - Los Andes;1
+202102;52435 - Mallama;1
+202103;52435 - Mallama;1
+202105;52480 - Nariño;1
+202107;52480 - Nariño;1
+202110;52480 - Nariño;1
+202112;52573 - Puerres;1
+202103;52612 - Ricaurte;1
+202105;52612 - Ricaurte;1
+202104;52678 - Samaniego;1
+202101;52683 - Sandoná;1
+202103;52683 - Sandoná;2
+202104;52683 - Sandoná;1
+202105;52683 - Sandoná;2
+202106;52683 - Sandoná;1
+202110;52683 - Sandoná;2
+202111;52683 - Sandoná;2
+202102;52685 - San Bernardo;2
+202103;52685 - San Bernardo;1
+202104;52685 - San Bernardo;1
+202105;52685 - San Bernardo;1
+202106;52685 - San Bernardo;1
+202108;52685 - San Bernardo;2
+202111;52685 - San Bernardo;1
+202102;52687 - San Lorenzo;1
+202105;52693 - San Pablo;1
+202101;52720 - Sapuyes;1
+202104;52786 - Taminango;2
+202105;52786 - Taminango;1
+202108;52786 - Taminango;1
+202101;52835 - San Andres De Tumaco;7
+202102;52835 - San Andres De Tumaco;4
+202103;52835 - San Andres De Tumaco;6
+202104;52835 - San Andres De Tumaco;8
+202105;52835 - San Andres De Tumaco;11
+202106;52835 - San Andres De Tumaco;6
+202107;52835 - San Andres De Tumaco;8
+202108;52835 - San Andres De Tumaco;2
+202109;52835 - San Andres De Tumaco;2
+202111;52835 - San Andres De Tumaco;3
+202112;52835 - San Andres De Tumaco;4
+202103;52838 - Túquerres;1
+202104;52838 - Túquerres;1
+202105;52838 - Túquerres;1
+202106;52838 - Túquerres;2
+202108;52838 - Túquerres;4
+202109;52838 - Túquerres;8
+202110;52838 - Túquerres;2
+202111;52838 - Túquerres;6
+202112;52838 - Túquerres;6
+202102;52885 - Yacuanquer;1
+202101;54001 - Cúcuta;33
+202102;54001 - Cúcuta;35
+202103;54001 - Cúcuta;60
+202104;54001 - Cúcuta;56
+202105;54001 - Cúcuta;60
+202106;54001 - Cúcuta;49
+202107;54001 - Cúcuta;53
+202108;54001 - Cúcuta;65
+202109;54001 - Cúcuta;75
+202110;54001 - Cúcuta;46
+202111;54001 - Cúcuta;41
+202112;54001 - Cúcuta;58
+202110;54051 - Arboledas;1
+202112;54051 - Arboledas;1
+202104;54128 - Cachirá;1
+202109;54128 - Cachirá;1
+202102;54223 - Cucutilla;1
+202103;54261 - El Zulia;1
+202103;54405 - Los Patios;2
+202108;54405 - Los Patios;1
+202102;54498 - Ocaña;4
+202103;54498 - Ocaña;12
+202104;54498 - Ocaña;9
+202105;54498 - Ocaña;7
+202106;54498 - Ocaña;8
+202107;54498 - Ocaña;9
+202108;54498 - Ocaña;9
+202109;54498 - Ocaña;2
+202110;54498 - Ocaña;4
+202111;54498 - Ocaña;7
+202112;54498 - Ocaña;5
+202101;54518 - Pamplona;3
+202102;54518 - Pamplona;1
+202103;54518 - Pamplona;2
+202105;54518 - Pamplona;2
+202106;54518 - Pamplona;1
+202107;54518 - Pamplona;4
+202108;54518 - Pamplona;1
+202109;54518 - Pamplona;2
+202110;54518 - Pamplona;1
+202112;54673 - San Cayetano;1
+202101;54810 - Tibú;1
+202102;54810 - Tibú;3
+202103;54810 - Tibú;2
+202108;54810 - Tibú;1
+202110;54810 - Tibú;1
+202105;54874 - Villa Del Rosario;1
+202108;54874 - Villa Del Rosario;1
+202101;63001 - Armenia;36
+202102;63001 - Armenia;33
+202103;63001 - Armenia;42
+202104;63001 - Armenia;34
+202105;63001 - Armenia;56
+202106;63001 - Armenia;77
+202107;63001 - Armenia;58
+202108;63001 - Armenia;71
+202109;63001 - Armenia;74
+202110;63001 - Armenia;38
+202111;63001 - Armenia;56
+202112;63001 - Armenia;54
+202104;63130 - Calarca;1
+202106;63130 - Calarca;1
+202107;63130 - Calarca;1
+202108;63130 - Calarca;3
+202109;63130 - Calarca;2
+202110;63130 - Calarca;1
+202111;63130 - Calarca;1
+202112;63130 - Calarca;2
+202101;63190 - Circasia;2
+202103;63190 - Circasia;1
+202109;63190 - Circasia;1
+202110;63190 - Circasia;1
+202104;63212 - Córdoba;1
+202106;63212 - Córdoba;1
+202102;63272 - Filandia;1
+202109;63272 - Filandia;1
+202106;63302 - Génova;1
+202111;63302 - Génova;1
+202105;63401 - La Tebaida;1
+202108;63401 - La Tebaida;1
+202109;63401 - La Tebaida;1
+202106;63470 - Montenegro;1
+202108;63470 - Montenegro;2
+202112;63470 - Montenegro;3
+202103;63594 - Quimbaya;1
+202106;63594 - Quimbaya;2
+202107;63594 - Quimbaya;1
+202109;63594 - Quimbaya;1
+202110;63594 - Quimbaya;1
+202109;63690 - Salento;1
+202101;66001 - Pereira;29
+202102;66001 - Pereira;55
+202103;66001 - Pereira;47
+202104;66001 - Pereira;61
+202105;66001 - Pereira;58
+202106;66001 - Pereira;86
+202107;66001 - Pereira;49
+202108;66001 - Pereira;52
+202109;66001 - Pereira;82
+202110;66001 - Pereira;50
+202111;66001 - Pereira;48
+202112;66001 - Pereira;75
+202103;66045 - Apía;2
+202107;66045 - Apía;1
+202108;66045 - Apía;2
+202111;66045 - Apía;1
+202102;66075 - Balboa;1
+202101;66088 - Belén De Umbría;1
+202111;66088 - Belén De Umbría;1
+202102;66170 - Dosquebradas;3
+202105;66170 - Dosquebradas;3
+202106;66170 - Dosquebradas;3
+202107;66170 - Dosquebradas;6
+202108;66170 - Dosquebradas;2
+202109;66170 - Dosquebradas;11
+202110;66170 - Dosquebradas;1
+202111;66170 - Dosquebradas;1
+202112;66170 - Dosquebradas;6
+202108;66318 - Guática;1
+202101;66400 - La Virginia;1
+202102;66400 - La Virginia;1
+202103;66400 - La Virginia;1
+202104;66400 - La Virginia;1
+202105;66400 - La Virginia;2
+202106;66400 - La Virginia;1
+202103;66440 - Marsella;1
+202106;66440 - Marsella;1
+202107;66440 - Marsella;1
+202102;66456 - Mistrató;1
+202107;66572 - Pueblo Rico;1
+202103;66594 - Quinchía;1
+202105;66594 - Quinchía;2
+202107;66594 - Quinchía;1
+202112;66594 - Quinchía;1
+202102;66682 - Santa Rosa De Cabal;1
+202103;66682 - Santa Rosa De Cabal;1
+202104;66682 - Santa Rosa De Cabal;3
+202105;66682 - Santa Rosa De Cabal;2
+202106;66682 - Santa Rosa De Cabal;2
+202107;66682 - Santa Rosa De Cabal;3
+202108;66682 - Santa Rosa De Cabal;1
+202109;66682 - Santa Rosa De Cabal;5
+202112;66682 - Santa Rosa De Cabal;2
+202102;66687 - Santuario;2
+202104;66687 - Santuario;1
+202105;66687 - Santuario;2
+202107;66687 - Santuario;2
+202112;66687 - Santuario;1
+202101;68001 - Bucaramanga;34
+202102;68001 - Bucaramanga;51
+202103;68001 - Bucaramanga;60
+202104;68001 - Bucaramanga;64
+202105;68001 - Bucaramanga;68
+202106;68001 - Bucaramanga;75
+202107;68001 - Bucaramanga;70
+202108;68001 - Bucaramanga;57
+202109;68001 - Bucaramanga;90
+202110;68001 - Bucaramanga;54
+202111;68001 - Bucaramanga;52
+202112;68001 - Bucaramanga;90
+202106;68013 - Aguada;1
+202105;68020 - Albania;1
+202109;68020 - Albania;1
+202104;68077 - Barbosa;2
+202107;68077 - Barbosa;1
+202109;68077 - Barbosa;1
+202101;68081 - Barrancabermeja;4
+202102;68081 - Barrancabermeja;15
+202103;68081 - Barrancabermeja;12
+202104;68081 - Barrancabermeja;14
+202105;68081 - Barrancabermeja;11
+202106;68081 - Barrancabermeja;13
+202107;68081 - Barrancabermeja;14
+202108;68081 - Barrancabermeja;12
+202109;68081 - Barrancabermeja;15
+202110;68081 - Barrancabermeja;6
+202111;68081 - Barrancabermeja;24
+202112;68081 - Barrancabermeja;9
+202105;68101 - Bolívar;1
+202106;68121 - Cabrera;1
+202112;68121 - Cabrera;1
+202101;68167 - Charalá;1
+202103;68167 - Charalá;1
+202107;68167 - Charalá;1
+202101;68190 - Cimitarra;3
+202102;68190 - Cimitarra;1
+202106;68190 - Cimitarra;1
+202107;68190 - Cimitarra;1
+202109;68190 - Cimitarra;1
+202111;68190 - Cimitarra;1
+202112;68190 - Cimitarra;2
+202101;68207 - Concepción;2
+202103;68207 - Concepción;1
+202102;68211 - Contratación;1
+202103;68211 - Contratación;1
+202111;68211 - Contratación;1
+202102;68217 - Coromoro;1
+202103;68217 - Coromoro;1
+202105;68217 - Coromoro;1
+202102;68255 - El Playón;1
+202105;68264 - Encino;1
+202103;68266 - Enciso;1
+202105;68266 - Enciso;1
+202101;68271 - Florián;1
+202101;68276 - Floridablanca;21
+202102;68276 - Floridablanca;25
+202103;68276 - Floridablanca;26
+202104;68276 - Floridablanca;29
+202105;68276 - Floridablanca;41
+202106;68276 - Floridablanca;39
+202107;68276 - Floridablanca;36
+202108;68276 - Floridablanca;29
+202109;68276 - Floridablanca;41
+202110;68276 - Floridablanca;18
+202111;68276 - Floridablanca;20
+202112;68276 - Floridablanca;30
+202101;68307 - Girón;3
+202102;68307 - Girón;3
+202103;68307 - Girón;5
+202104;68307 - Girón;3
+202105;68307 - Girón;2
+202106;68307 - Girón;4
+202107;68307 - Girón;5
+202108;68307 - Girón;5
+202109;68307 - Girón;6
+202110;68307 - Girón;6
+202111;68307 - Girón;5
+202112;68307 - Girón;4
+202109;68324 - Guavatá;1
+202112;68327 - Güepsa;1
+202105;68368 - Jesús María;1
+202110;68377 - La Belleza;1
+202112;68377 - La Belleza;1
+202108;68385 - Landázuri;1
+202112;68385 - Landázuri;1
+202105;68406 - Lebríja;1
+202108;68406 - Lebríja;1
+202109;68406 - Lebríja;1
+202103;68432 - Málaga;1
+202104;68432 - Málaga;1
+202105;68432 - Málaga;1
+202111;68432 - Málaga;2
+202101;68444 - Matanza;1
+202105;68464 - Mogotes;1
+202101;68468 - Molagavita;1
+202101;68498 - Ocamonte;1
+202102;68498 - Ocamonte;1
+202105;68498 - Ocamonte;1
+202104;68500 - Oiba;1
+202105;68533 - Páramo;1
+202101;68547 - Piedecuesta;40
+202102;68547 - Piedecuesta;44
+202103;68547 - Piedecuesta;48
+202104;68547 - Piedecuesta;42
+202105;68547 - Piedecuesta;37
+202106;68547 - Piedecuesta;34
+202107;68547 - Piedecuesta;48
+202108;68547 - Piedecuesta;65
+202109;68547 - Piedecuesta;56
+202110;68547 - Piedecuesta;55
+202111;68547 - Piedecuesta;74
+202112;68547 - Piedecuesta;52
+202109;68573 - Puerto Parra;1
+202101;68575 - Puerto Wilches;1
+202103;68575 - Puerto Wilches;1
+202106;68575 - Puerto Wilches;1
+202103;68669 - San Andrés;2
+202104;68669 - San Andrés;2
+202107;68669 - San Andrés;1
+202108;68669 - San Andrés;1
+202101;68679 - San Gil;4
+202103;68679 - San Gil;2
+202104;68679 - San Gil;1
+202105;68679 - San Gil;1
+202106;68679 - San Gil;1
+202107;68679 - San Gil;1
+202108;68679 - San Gil;2
+202109;68679 - San Gil;3
+202110;68679 - San Gil;4
+202111;68679 - San Gil;3
+202112;68679 - San Gil;1
+202104;68684 - San José De Miranda;1
+202102;68689 - San Vicente De Chucurí;1
+202103;68720 - Santa Helena Del Opón;1
+202111;68720 - Santa Helena Del Opón;1
+202103;68745 - Simacota;1
+202105;68745 - Simacota;1
+202101;68755 - Socorro;2
+202102;68755 - Socorro;3
+202103;68755 - Socorro;7
+202104;68755 - Socorro;9
+202105;68755 - Socorro;3
+202106;68755 - Socorro;6
+202107;68755 - Socorro;1
+202108;68755 - Socorro;4
+202109;68755 - Socorro;3
+202110;68755 - Socorro;3
+202111;68755 - Socorro;7
+202112;68755 - Socorro;1
+202111;68770 - Suaita;1
+202108;68780 - Suratá;1
+202101;68861 - Vélez;1
+202102;68861 - Vélez;1
+202107;68861 - Vélez;1
+202108;68861 - Vélez;1
+202112;68861 - Vélez;2
+202108;68872 - Villanueva;1
+202106;68895 - Zapatoca;1
+202101;70001 - Sincelejo;29
+202102;70001 - Sincelejo;36
+202103;70001 - Sincelejo;47
+202104;70001 - Sincelejo;25
+202105;70001 - Sincelejo;37
+202106;70001 - Sincelejo;32
+202107;70001 - Sincelejo;35
+202108;70001 - Sincelejo;32
+202109;70001 - Sincelejo;32
+202110;70001 - Sincelejo;24
+202111;70001 - Sincelejo;20
+202112;70001 - Sincelejo;8
+202101;70215 - Corozal;1
+202102;70215 - Corozal;3
+202103;70215 - Corozal;2
+202104;70215 - Corozal;4
+202105;70215 - Corozal;1
+202106;70215 - Corozal;1
+202107;70215 - Corozal;1
+202109;70215 - Corozal;1
+202110;70215 - Corozal;1
+202111;70215 - Corozal;2
+202106;70221 - Coveñas;1
+202107;70221 - Coveñas;1
+202108;70230 - Chalán;1
+202102;70265 - Guaranda;1
+202105;70265 - Guaranda;2
+202101;70400 - La Unión;1
+202106;70400 - La Unión;1
+202102;70418 - Los Palmitos;1
+202101;70473 - Morroa;1
+202103;70473 - Morroa;1
+202102;70508 - Ovejas;1
+202107;70670 - Sampués;1
+202101;70678 - San Benito Abad;1
+202105;70702 - San Juan De Betulia;1
+202106;70702 - San Juan De Betulia;1
+202107;70702 - San Juan De Betulia;1
+202103;70708 - San Marcos;1
+202104;70708 - San Marcos;1
+202105;70708 - San Marcos;1
+202107;70708 - San Marcos;1
+202111;70708 - San Marcos;1
+202101;70713 - San Onofre;1
+202104;70713 - San Onofre;2
+202105;70713 - San Onofre;4
+202108;70713 - San Onofre;1
+202110;70713 - San Onofre;1
+202105;70717 - San Pedro;3
+202109;70717 - San Pedro;1
+202108;70742 - San Luis De Sincé;2
+202110;70742 - San Luis De Sincé;1
+202103;70820 - Santiago De Tolú;1
+202104;70820 - Santiago De Tolú;1
+202105;70820 - Santiago De Tolú;1
+202109;70820 - Santiago De Tolú;3
+202102;70823 - Tolú Viejo;1
+202104;70823 - Tolú Viejo;1
+202106;70823 - Tolú Viejo;1
+202101;73001 - Ibagué;26
+202102;73001 - Ibagué;46
+202103;73001 - Ibagué;56
+202104;73001 - Ibagué;48
+202105;73001 - Ibagué;44
+202106;73001 - Ibagué;59
+202107;73001 - Ibagué;42
+202108;73001 - Ibagué;48
+202109;73001 - Ibagué;59
+202110;73001 - Ibagué;33
+202111;73001 - Ibagué;25
+202112;73001 - Ibagué;38
+202105;73024 - Alpujarra;1
+202106;73026 - Alvarado;1
+202112;73030 - Ambalema;1
+202106;73067 - Ataco;2
+202109;73067 - Ataco;1
+202111;73124 - Cajamarca;1
+202102;73148 - Carmen De Apicalá;2
+202103;73148 - Carmen De Apicalá;1
+202110;73148 - Carmen De Apicalá;2
+202108;73152 - Casabianca;1
+202103;73168 - Chaparral;2
+202106;73168 - Chaparral;1
+202107;73168 - Chaparral;3
+202109;73168 - Chaparral;1
+202110;73168 - Chaparral;1
+202111;73168 - Chaparral;1
+202112;73168 - Chaparral;1
+202109;73200 - Coello;1
+202112;73200 - Coello;1
+202111;73217 - Coyaima;1
+202102;73236 - Dolores;1
+202101;73268 - Espinal;4
+202102;73268 - Espinal;13
+202103;73268 - Espinal;12
+202104;73268 - Espinal;8
+202105;73268 - Espinal;7
+202106;73268 - Espinal;4
+202107;73268 - Espinal;7
+202108;73268 - Espinal;7
+202109;73268 - Espinal;4
+202110;73268 - Espinal;4
+202112;73268 - Espinal;4
+202101;73283 - Fresno;1
+202103;73283 - Fresno;1
+202104;73283 - Fresno;4
+202105;73283 - Fresno;1
+202106;73283 - Fresno;2
+202107;73283 - Fresno;2
+202112;73283 - Fresno;1
+202103;73319 - Guamo;1
+202104;73319 - Guamo;1
+202112;73319 - Guamo;1
+202101;73349 - Honda;1
+202104;73349 - Honda;1
+202105;73349 - Honda;4
+202106;73349 - Honda;1
+202108;73349 - Honda;1
+202109;73349 - Honda;2
+202110;73349 - Honda;1
+202111;73349 - Honda;1
+202112;73349 - Honda;3
+202103;73352 - Icononzo;1
+202111;73352 - Icononzo;1
+202106;73408 - Lérida;1
+202108;73408 - Lérida;1
+202109;73408 - Lérida;1
+202111;73408 - Lérida;1
+202101;73411 - Líbano;4
+202102;73411 - Líbano;1
+202103;73411 - Líbano;2
+202104;73411 - Líbano;1
+202105;73411 - Líbano;5
+202106;73411 - Líbano;1
+202107;73411 - Líbano;2
+202108;73411 - Líbano;1
+202109;73411 - Líbano;1
+202110;73411 - Líbano;3
+202111;73411 - Líbano;2
+202112;73411 - Líbano;4
+202102;73449 - Melgar;2
+202101;73483 - Natagaima;1
+202105;73483 - Natagaima;1
+202103;73504 - Ortega;1
+202105;73520 - Palocabildo;1
+202102;73555 - Planadas;1
+202104;73563 - Prado;1
+202107;73563 - Prado;1
+202105;73585 - Purificación;2
+202107;73585 - Purificación;1
+202108;73585 - Purificación;1
+202107;73616 - Rioblanco;1
+202103;73622 - Roncesvalles;1
+202109;73624 - Rovira;1
+202112;73624 - Rovira;1
+202103;73671 - Saldaña;1
+202102;73675 - San Antonio;1
+202108;73675 - San Antonio;1
+202109;73675 - San Antonio;1
+202111;73675 - San Antonio;1
+202102;73678 - San Luis;1
+202104;73686 - Santa Isabel;1
+202110;73861 - Venadillo;1
+202106;73870 - Villahermosa;1
+202103;73873 - Villarrica;1
+202104;73873 - Villarrica;1
+202107;73873 - Villarrica;1
+202101;76001 - Cali;200
+202102;76001 - Cali;269
+202103;76001 - Cali;322
+202104;76001 - Cali;264
+202105;76001 - Cali;263
+202106;76001 - Cali;335
+202107;76001 - Cali;317
+202108;76001 - Cali;310
+202109;76001 - Cali;343
+202110;76001 - Cali;232
+202111;76001 - Cali;241
+202112;76001 - Cali;261
+202105;76020 - Alcalá;1
+202109;76020 - Alcalá;1
+202101;76036 - Andalucía;1
+202102;76036 - Andalucía;1
+202103;76036 - Andalucía;2
+202104;76036 - Andalucía;2
+202105;76036 - Andalucía;2
+202106;76036 - Andalucía;1
+202107;76036 - Andalucía;5
+202108;76036 - Andalucía;2
+202109;76036 - Andalucía;1
+202110;76036 - Andalucía;1
+202111;76036 - Andalucía;1
+202112;76036 - Andalucía;3
+202111;76041 - Ansermanuevo;1
+202101;76109 - Buenaventura;5
+202102;76109 - Buenaventura;4
+202103;76109 - Buenaventura;6
+202104;76109 - Buenaventura;6
+202105;76109 - Buenaventura;8
+202106;76109 - Buenaventura;9
+202107;76109 - Buenaventura;8
+202108;76109 - Buenaventura;4
+202109;76109 - Buenaventura;6
+202110;76109 - Buenaventura;9
+202111;76109 - Buenaventura;5
+202112;76109 - Buenaventura;3
+202101;76111 - Guadalajara De Buga;5
+202102;76111 - Guadalajara De Buga;2
+202103;76111 - Guadalajara De Buga;17
+202104;76111 - Guadalajara De Buga;10
+202105;76111 - Guadalajara De Buga;21
+202106;76111 - Guadalajara De Buga;21
+202107;76111 - Guadalajara De Buga;15
+202108;76111 - Guadalajara De Buga;17
+202109;76111 - Guadalajara De Buga;4
+202110;76111 - Guadalajara De Buga;4
+202111;76111 - Guadalajara De Buga;8
+202112;76111 - Guadalajara De Buga;6
+202110;76113 - Bugalagrande;1
+202102;76122 - Caicedonia;1
+202103;76122 - Caicedonia;1
+202108;76122 - Caicedonia;2
+202111;76122 - Caicedonia;1
+202106;76126 - Calima;1
+202102;76130 - Candelaria;2
+202103;76130 - Candelaria;1
+202104;76130 - Candelaria;1
+202105;76130 - Candelaria;1
+202106;76130 - Candelaria;2
+202107;76130 - Candelaria;1
+202108;76130 - Candelaria;4
+202109;76130 - Candelaria;1
+202110;76130 - Candelaria;1
+202111;76130 - Candelaria;1
+202101;76147 - Cartago;3
+202102;76147 - Cartago;3
+202103;76147 - Cartago;5
+202104;76147 - Cartago;2
+202105;76147 - Cartago;5
+202106;76147 - Cartago;10
+202107;76147 - Cartago;12
+202108;76147 - Cartago;10
+202109;76147 - Cartago;8
+202110;76147 - Cartago;2
+202111;76147 - Cartago;3
+202112;76147 - Cartago;4
+202103;76233 - Dagua;1
+202104;76233 - Dagua;1
+202106;76233 - Dagua;1
+202107;76233 - Dagua;1
+202109;76246 - El Cairo;1
+202102;76248 - El Cerrito;1
+202104;76248 - El Cerrito;1
+202106;76248 - El Cerrito;1
+202106;76275 - Florida;2
+202107;76275 - Florida;1
+202108;76275 - Florida;1
+202110;76275 - Florida;1
+202111;76275 - Florida;4
+202112;76275 - Florida;2
+202108;76306 - Ginebra;1
+202112;76306 - Ginebra;2
+202107;76318 - Guacarí;2
+202109;76318 - Guacarí;3
+202101;76364 - Jamundí;1
+202103;76364 - Jamundí;1
+202104;76364 - Jamundí;1
+202107;76364 - Jamundí;2
+202108;76364 - Jamundí;1
+202109;76364 - Jamundí;1
+202111;76364 - Jamundí;1
+202112;76364 - Jamundí;1
+202107;76400 - La Unión;2
+202105;76497 - Obando;1
+202106;76497 - Obando;1
+202109;76497 - Obando;1
+202101;76520 - Palmira;26
+202102;76520 - Palmira;41
+202103;76520 - Palmira;52
+202104;76520 - Palmira;37
+202105;76520 - Palmira;37
+202106;76520 - Palmira;39
+202107;76520 - Palmira;39
+202108;76520 - Palmira;33
+202109;76520 - Palmira;29
+202110;76520 - Palmira;24
+202111;76520 - Palmira;29
+202112;76520 - Palmira;32
+202103;76563 - Pradera;2
+202104;76563 - Pradera;1
+202105;76563 - Pradera;1
+202108;76563 - Pradera;1
+202111;76563 - Pradera;2
+202107;76606 - Restrepo;2
+202111;76606 - Restrepo;1
+202101;76616 - Riofrío;1
+202112;76616 - Riofrío;1
+202103;76622 - Roldanillo;1
+202107;76622 - Roldanillo;3
+202109;76622 - Roldanillo;1
+202110;76622 - Roldanillo;1
+202111;76622 - Roldanillo;2
+202102;76670 - San Pedro;1
+202111;76670 - San Pedro;1
+202103;76736 - Sevilla;1
+202105;76736 - Sevilla;1
+202106;76736 - Sevilla;2
+202108;76736 - Sevilla;2
+202109;76736 - Sevilla;1
+202111;76736 - Sevilla;5
+202112;76736 - Sevilla;1
+202108;76823 - Toro;1
+202112;76823 - Toro;1
+202101;76828 - Trujillo;1
+202102;76828 - Trujillo;1
+202104;76828 - Trujillo;1
+202105;76828 - Trujillo;1
+202109;76828 - Trujillo;1
+202101;76834 - Tuluá;15
+202102;76834 - Tuluá;9
+202103;76834 - Tuluá;15
+202104;76834 - Tuluá;17
+202105;76834 - Tuluá;13
+202106;76834 - Tuluá;23
+202107;76834 - Tuluá;17
+202108;76834 - Tuluá;15
+202109;76834 - Tuluá;8
+202110;76834 - Tuluá;6
+202111;76834 - Tuluá;13
+202112;76834 - Tuluá;3
+202101;76863 - Versalles;1
+202108;76863 - Versalles;1
+202103;76869 - Vijes;1
+202101;76890 - Yotoco;1
+202102;76890 - Yotoco;2
+202104;76890 - Yotoco;1
+202104;76892 - Yumbo;1
+202111;76892 - Yumbo;5
+202112;76892 - Yumbo;1
+202102;76895 - Zarzal;2
+202112;76895 - Zarzal;1
+202102;81001 - Arauca;2
+202103;81001 - Arauca;3
+202104;81001 - Arauca;7
+202105;81001 - Arauca;5
+202106;81001 - Arauca;4
+202107;81001 - Arauca;2
+202108;81001 - Arauca;1
+202109;81001 - Arauca;6
+202110;81001 - Arauca;2
+202111;81001 - Arauca;2
+202112;81001 - Arauca;6
+202101;81065 - Arauquita;1
+202105;81065 - Arauquita;1
+202109;81065 - Arauquita;3
+202110;81065 - Arauquita;1
+202111;81065 - Arauquita;1
+202112;81065 - Arauquita;1
+202111;81220 - Cravo Norte;1
+202101;81736 - Saravena;3
+202102;81736 - Saravena;3
+202103;81736 - Saravena;6
+202104;81736 - Saravena;4
+202105;81736 - Saravena;4
+202106;81736 - Saravena;5
+202107;81736 - Saravena;3
+202108;81736 - Saravena;5
+202109;81736 - Saravena;6
+202110;81736 - Saravena;5
+202111;81736 - Saravena;2
+202112;81736 - Saravena;6
+202101;81794 - Tame;1
+202102;81794 - Tame;1
+202103;81794 - Tame;2
+202105;81794 - Tame;4
+202106;81794 - Tame;1
+202108;81794 - Tame;1
+202112;81794 - Tame;1
+202101;85001 - Yopal;3
+202102;85001 - Yopal;1
+202103;85001 - Yopal;7
+202104;85001 - Yopal;1
+202105;85001 - Yopal;3
+202106;85001 - Yopal;6
+202107;85001 - Yopal;8
+202108;85001 - Yopal;8
+202109;85001 - Yopal;5
+202110;85001 - Yopal;4
+202111;85001 - Yopal;5
+202112;85001 - Yopal;7
+202103;85010 - Aguazul;1
+202104;85010 - Aguazul;1
+202105;85010 - Aguazul;1
+202107;85010 - Aguazul;1
+202107;85015 - Chameza;1
+202108;85015 - Chameza;1
+202109;85015 - Chameza;1
+202108;85125 - Hato Corozal;1
+202101;85162 - Monterrey;1
+202102;85162 - Monterrey;1
+202111;85162 - Monterrey;1
+202103;85250 - Paz De Ariporo;1
+202105;85250 - Paz De Ariporo;2
+202107;85250 - Paz De Ariporo;1
+202108;85250 - Paz De Ariporo;1
+202112;85250 - Paz De Ariporo;1
+202111;85315 - Sácama;1
+202112;85325 - San Luis De Palenque;1
+202112;85400 - Támara;1
+202103;85410 - Tauramena;1
+202108;85410 - Tauramena;2
+202111;85410 - Tauramena;1
+202104;85440 - Villanueva;1
+202107;85440 - Villanueva;1
+202109;85440 - Villanueva;1
+202111;85440 - Villanueva;3
+202112;85440 - Villanueva;2
+202101;86001 - Mocoa;1
+202102;86001 - Mocoa;1
+202104;86001 - Mocoa;2
+202105;86001 - Mocoa;1
+202107;86001 - Mocoa;2
+202108;86001 - Mocoa;4
+202109;86001 - Mocoa;2
+202110;86001 - Mocoa;1
+202111;86001 - Mocoa;2
+202112;86001 - Mocoa;1
+202104;86219 - Colón;1
+202111;86219 - Colón;4
+202102;86320 - Orito;1
+202103;86320 - Orito;3
+202104;86320 - Orito;2
+202105;86320 - Orito;1
+202106;86320 - Orito;2
+202107;86320 - Orito;1
+202109;86320 - Orito;1
+202111;86320 - Orito;3
+202101;86568 - Puerto Asís;9
+202102;86568 - Puerto Asís;4
+202103;86568 - Puerto Asís;8
+202104;86568 - Puerto Asís;10
+202105;86568 - Puerto Asís;7
+202106;86568 - Puerto Asís;9
+202107;86568 - Puerto Asís;13
+202108;86568 - Puerto Asís;6
+202109;86568 - Puerto Asís;4
+202110;86568 - Puerto Asís;5
+202111;86568 - Puerto Asís;9
+202112;86568 - Puerto Asís;5
+202104;86569 - Puerto Caicedo;1
+202109;86571 - Puerto Guzmán;1
+202108;86749 - Sibundoy;1
+202111;86749 - Sibundoy;1
+202107;86757 - San Miguel;1
+202111;86757 - San Miguel;1
+202101;86865 - Valle Del Guamuez;1
+202102;86865 - Valle Del Guamuez;1
+202103;86865 - Valle Del Guamuez;1
+202104;86865 - Valle Del Guamuez;2
+202105;86865 - Valle Del Guamuez;1
+202106;86865 - Valle Del Guamuez;1
+202107;86865 - Valle Del Guamuez;1
+202108;86865 - Valle Del Guamuez;1
+202111;86865 - Valle Del Guamuez;1
+202102;86885 - Villagarzón;1
+202105;86885 - Villagarzón;2
+202106;86885 - Villagarzón;1
+202107;86885 - Villagarzón;1
+202101;88001 - San Andrés;1
+202102;88001 - San Andrés;2
+202103;88001 - San Andrés;1
+202104;88001 - San Andrés;2
+202105;88001 - San Andrés;2
+202108;88001 - San Andrés;1
+202109;88001 - San Andrés;1
+202110;88001 - San Andrés;1
+202111;88001 - San Andrés;1
+202106;91001 - Leticia;1
+202105;94001 - Inírida;1
+202101;95001 - San José Del Guaviare;1
+202103;95001 - San José Del Guaviare;1
+202106;95001 - San José Del Guaviare;3
+202107;95001 - San José Del Guaviare;1
+202108;95001 - San José Del Guaviare;2
+202110;95001 - San José Del Guaviare;1
+202112;95025 - El Retorno;1
+202109;99001 - Puerto Carreño;1
+202102;-1 - No Definido;58
+202103;-1 - No Definido;60
+202104;-1 - No Definido;62
+202105;-1 - No Definido;61
+202106;-1 - No Definido;73
+202107;-1 - No Definido;78
+202108;-1 - No Definido;3
+202109;-1 - No Definido;31
+202110;-1 - No Definido;31
+202111;-1 - No Definido;75
+202112;-1 - No Definido;4

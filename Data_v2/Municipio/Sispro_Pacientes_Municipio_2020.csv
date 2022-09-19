@@ -1,0 +1,2608 @@
+﻿PeriodoNum;Municipio;CantidadPacientes
+202001;05001 - Medellín;468
+202002;05001 - Medellín;458
+202003;05001 - Medellín;269
+202004;05001 - Medellín;213
+202005;05001 - Medellín;272
+202006;05001 - Medellín;287
+202007;05001 - Medellín;237
+202008;05001 - Medellín;275
+202009;05001 - Medellín;404
+202010;05001 - Medellín;343
+202011;05001 - Medellín;327
+202012;05001 - Medellín;257
+202006;05002 - Abejorral;1
+202008;05002 - Abejorral;1
+202010;05002 - Abejorral;1
+202012;05002 - Abejorral;2
+202001;05030 - Amagá;7
+202002;05030 - Amagá;5
+202003;05030 - Amagá;1
+202004;05030 - Amagá;1
+202005;05030 - Amagá;2
+202006;05030 - Amagá;1
+202007;05030 - Amagá;1
+202008;05030 - Amagá;1
+202009;05030 - Amagá;4
+202010;05030 - Amagá;1
+202003;05031 - Amalfi;1
+202004;05031 - Amalfi;1
+202008;05031 - Amalfi;4
+202009;05031 - Amalfi;1
+202002;05034 - Andes;1
+202005;05034 - Andes;1
+202006;05034 - Andes;2
+202007;05034 - Andes;1
+202008;05034 - Andes;1
+202009;05034 - Andes;1
+202002;05036 - Angelópolis;1
+202002;05038 - Angostura;1
+202010;05038 - Angostura;1
+202012;05040 - Anorí;1
+202001;05042 - Santafé De Antioquia;1
+202002;05042 - Santafé De Antioquia;4
+202003;05042 - Santafé De Antioquia;1
+202005;05042 - Santafé De Antioquia;1
+202007;05042 - Santafé De Antioquia;2
+202008;05042 - Santafé De Antioquia;1
+202009;05042 - Santafé De Antioquia;2
+202012;05042 - Santafé De Antioquia;1
+202001;05045 - Apartadó;20
+202002;05045 - Apartadó;16
+202003;05045 - Apartadó;9
+202004;05045 - Apartadó;4
+202005;05045 - Apartadó;4
+202006;05045 - Apartadó;7
+202007;05045 - Apartadó;6
+202008;05045 - Apartadó;8
+202009;05045 - Apartadó;12
+202010;05045 - Apartadó;12
+202011;05045 - Apartadó;19
+202012;05045 - Apartadó;10
+202004;05055 - Argelia;1
+202009;05059 - Armenia;1
+202001;05079 - Barbosa;1
+202002;05079 - Barbosa;1
+202005;05079 - Barbosa;1
+202007;05079 - Barbosa;1
+202010;05079 - Barbosa;2
+202001;05088 - Bello;102
+202002;05088 - Bello;84
+202003;05088 - Bello;78
+202004;05088 - Bello;65
+202005;05088 - Bello;63
+202006;05088 - Bello;54
+202007;05088 - Bello;54
+202008;05088 - Bello;52
+202009;05088 - Bello;67
+202010;05088 - Bello;48
+202011;05088 - Bello;43
+202012;05088 - Bello;48
+202002;05091 - Betania;1
+202003;05091 - Betania;1
+202007;05091 - Betania;1
+202008;05091 - Betania;1
+202002;05101 - Ciudad Bolívar;4
+202003;05101 - Ciudad Bolívar;1
+202007;05101 - Ciudad Bolívar;1
+202009;05101 - Ciudad Bolívar;3
+202010;05101 - Ciudad Bolívar;2
+202011;05101 - Ciudad Bolívar;2
+202001;05107 - Briceño;1
+202002;05107 - Briceño;1
+202003;05107 - Briceño;1
+202009;05107 - Briceño;1
+202008;05113 - Buriticá;1
+202010;05120 - Cáceres;1
+202011;05120 - Cáceres;1
+202001;05129 - Caldas;14
+202002;05129 - Caldas;11
+202003;05129 - Caldas;3
+202004;05129 - Caldas;5
+202005;05129 - Caldas;1
+202006;05129 - Caldas;6
+202007;05129 - Caldas;3
+202008;05129 - Caldas;2
+202009;05129 - Caldas;3
+202010;05129 - Caldas;8
+202011;05129 - Caldas;5
+202012;05129 - Caldas;5
+202007;05145 - Caramanta;1
+202009;05145 - Caramanta;1
+202001;05147 - Carepa;3
+202003;05147 - Carepa;1
+202004;05147 - Carepa;1
+202009;05147 - Carepa;1
+202010;05147 - Carepa;1
+202011;05147 - Carepa;1
+202001;05148 - El Carmen De Viboral;2
+202002;05148 - El Carmen De Viboral;5
+202003;05148 - El Carmen De Viboral;3
+202004;05148 - El Carmen De Viboral;1
+202005;05148 - El Carmen De Viboral;1
+202006;05148 - El Carmen De Viboral;5
+202008;05148 - El Carmen De Viboral;1
+202009;05148 - El Carmen De Viboral;4
+202010;05148 - El Carmen De Viboral;5
+202011;05148 - El Carmen De Viboral;5
+202002;05150 - Carolina;1
+202004;05150 - Carolina;1
+202001;05154 - Caucasia;1
+202002;05154 - Caucasia;3
+202004;05154 - Caucasia;1
+202008;05154 - Caucasia;1
+202010;05154 - Caucasia;2
+202012;05154 - Caucasia;1
+202001;05172 - Chigorodó;1
+202002;05172 - Chigorodó;1
+202007;05172 - Chigorodó;1
+202012;05172 - Chigorodó;1
+202008;05197 - Cocorná;1
+202009;05206 - Concepción;1
+202007;05209 - Concordia;1
+202008;05209 - Concordia;1
+202001;05212 - Copacabana;4
+202002;05212 - Copacabana;4
+202003;05212 - Copacabana;1
+202004;05212 - Copacabana;2
+202005;05212 - Copacabana;1
+202006;05212 - Copacabana;1
+202009;05212 - Copacabana;3
+202010;05212 - Copacabana;1
+202011;05212 - Copacabana;2
+202012;05212 - Copacabana;1
+202003;05234 - Dabeiba;1
+202006;05234 - Dabeiba;1
+202010;05234 - Dabeiba;1
+202002;05237 - Don Matías;2
+202008;05237 - Don Matías;1
+202012;05237 - Don Matías;1
+202003;05240 - Ebéjico;1
+202005;05250 - El Bagre;3
+202006;05250 - El Bagre;1
+202008;05250 - El Bagre;1
+202011;05250 - El Bagre;1
+202001;05266 - Envigado;17
+202002;05266 - Envigado;13
+202003;05266 - Envigado;14
+202004;05266 - Envigado;17
+202005;05266 - Envigado;18
+202006;05266 - Envigado;15
+202007;05266 - Envigado;17
+202008;05266 - Envigado;8
+202009;05266 - Envigado;23
+202010;05266 - Envigado;16
+202011;05266 - Envigado;9
+202012;05266 - Envigado;14
+202002;05282 - Fredonia;1
+202007;05282 - Fredonia;1
+202001;05284 - Frontino;1
+202002;05284 - Frontino;1
+202005;05284 - Frontino;1
+202010;05284 - Frontino;1
+202001;05308 - Girardota;3
+202002;05308 - Girardota;2
+202004;05308 - Girardota;1
+202005;05308 - Girardota;2
+202007;05308 - Girardota;2
+202008;05308 - Girardota;1
+202009;05308 - Girardota;4
+202011;05308 - Girardota;1
+202012;05308 - Girardota;1
+202001;05310 - Gómez Plata;1
+202009;05310 - Gómez Plata;1
+202001;05318 - Guarne;1
+202002;05318 - Guarne;1
+202003;05318 - Guarne;2
+202004;05318 - Guarne;1
+202006;05318 - Guarne;1
+202007;05318 - Guarne;1
+202012;05318 - Guarne;1
+202012;05321 - Guatape;1
+202002;05353 - Hispania;1
+202010;05353 - Hispania;1
+202001;05360 - Itagui;28
+202002;05360 - Itagui;20
+202003;05360 - Itagui;12
+202004;05360 - Itagui;7
+202005;05360 - Itagui;11
+202006;05360 - Itagui;10
+202007;05360 - Itagui;8
+202008;05360 - Itagui;21
+202009;05360 - Itagui;25
+202010;05360 - Itagui;14
+202011;05360 - Itagui;19
+202012;05360 - Itagui;17
+202008;05361 - Ituango;1
+202011;05361 - Ituango;1
+202012;05361 - Ituango;1
+202003;05364 - Jardín;1
+202011;05364 - Jardín;1
+202003;05368 - Jericó;2
+202005;05368 - Jericó;1
+202006;05368 - Jericó;1
+202010;05368 - Jericó;1
+202001;05376 - La Ceja;7
+202002;05376 - La Ceja;7
+202003;05376 - La Ceja;3
+202004;05376 - La Ceja;4
+202005;05376 - La Ceja;5
+202006;05376 - La Ceja;3
+202007;05376 - La Ceja;2
+202008;05376 - La Ceja;3
+202009;05376 - La Ceja;2
+202010;05376 - La Ceja;5
+202011;05376 - La Ceja;2
+202012;05376 - La Ceja;4
+202001;05380 - La Estrella;1
+202002;05380 - La Estrella;1
+202004;05380 - La Estrella;3
+202005;05380 - La Estrella;1
+202006;05380 - La Estrella;2
+202009;05380 - La Estrella;2
+202010;05380 - La Estrella;1
+202002;05390 - La Pintada;1
+202009;05400 - La Unión;1
+202002;05411 - Liborina;1
+202005;05411 - Liborina;1
+202008;05411 - Liborina;1
+202002;05440 - Marinilla;1
+202003;05440 - Marinilla;1
+202004;05440 - Marinilla;1
+202005;05440 - Marinilla;1
+202007;05440 - Marinilla;1
+202010;05440 - Marinilla;1
+202011;05440 - Marinilla;2
+202007;05467 - Montebello;1
+202011;05467 - Montebello;1
+202012;05467 - Montebello;1
+202002;05490 - Necoclí;1
+202008;05490 - Necoclí;1
+202010;05490 - Necoclí;1
+202001;05495 - Nechí;1
+202003;05495 - Nechí;1
+202010;05495 - Nechí;1
+202011;05495 - Nechí;1
+202012;05501 - Olaya;1
+202001;05541 - Peñol;2
+202002;05541 - Peñol;1
+202012;05543 - Peque;1
+202009;05576 - Pueblorrico;1
+202012;05576 - Pueblorrico;1
+202002;05579 - Puerto Berrío;1
+202007;05579 - Puerto Berrío;1
+202009;05607 - Retiro;1
+202001;05615 - Rionegro;41
+202002;05615 - Rionegro;37
+202003;05615 - Rionegro;30
+202004;05615 - Rionegro;17
+202005;05615 - Rionegro;21
+202006;05615 - Rionegro;17
+202007;05615 - Rionegro;33
+202008;05615 - Rionegro;36
+202009;05615 - Rionegro;34
+202010;05615 - Rionegro;41
+202011;05615 - Rionegro;26
+202012;05615 - Rionegro;30
+202002;05628 - Sabanalarga;1
+202008;05628 - Sabanalarga;1
+202001;05631 - Sabaneta;3
+202002;05631 - Sabaneta;3
+202003;05631 - Sabaneta;2
+202004;05631 - Sabaneta;5
+202005;05631 - Sabaneta;3
+202006;05631 - Sabaneta;5
+202007;05631 - Sabaneta;2
+202008;05631 - Sabaneta;1
+202009;05631 - Sabaneta;1
+202010;05631 - Sabaneta;3
+202011;05631 - Sabaneta;4
+202012;05631 - Sabaneta;4
+202008;05642 - Salgar;1
+202002;05652 - San Francisco;1
+202007;05656 - San Jerónimo;1
+202009;05656 - San Jerónimo;1
+202009;05659 - San Juan De Urabá;1
+202010;05659 - San Juan De Urabá;1
+202001;05664 - San Pedro;2
+202003;05664 - San Pedro;1
+202004;05664 - San Pedro;1
+202007;05664 - San Pedro;1
+202008;05664 - San Pedro;2
+202002;05665 - San Pedro De Uraba;1
+202007;05665 - San Pedro De Uraba;2
+202008;05667 - San Rafael;2
+202012;05667 - San Rafael;1
+202003;05674 - San Vicente;1
+202008;05674 - San Vicente;1
+202002;05679 - Santa Bárbara;1
+202003;05679 - Santa Bárbara;1
+202006;05679 - Santa Bárbara;1
+202008;05679 - Santa Bárbara;1
+202010;05679 - Santa Bárbara;1
+202002;05686 - Santa Rosa De Osos;2
+202006;05686 - Santa Rosa De Osos;2
+202011;05686 - Santa Rosa De Osos;1
+202008;05690 - Santo Domingo;1
+202006;05697 - El Santuario;1
+202007;05697 - El Santuario;2
+202008;05697 - El Santuario;1
+202012;05697 - El Santuario;1
+202003;05736 - Segovia;1
+202008;05736 - Segovia;1
+202012;05736 - Segovia;1
+202001;05756 - Sonson;1
+202008;05756 - Sonson;3
+202002;05789 - Támesis;1
+202004;05789 - Támesis;1
+202006;05789 - Támesis;1
+202007;05789 - Támesis;1
+202010;05789 - Támesis;1
+202011;05789 - Támesis;2
+202001;05790 - Tarazá;1
+202001;05792 - Tarso;1
+202005;05792 - Tarso;1
+202006;05792 - Tarso;1
+202007;05792 - Tarso;1
+202001;05809 - Titiribí;1
+202002;05809 - Titiribí;1
+202003;05809 - Titiribí;1
+202004;05809 - Titiribí;1
+202002;05837 - Turbo;3
+202003;05837 - Turbo;2
+202004;05837 - Turbo;1
+202005;05837 - Turbo;2
+202006;05837 - Turbo;3
+202007;05837 - Turbo;2
+202008;05837 - Turbo;1
+202009;05837 - Turbo;2
+202010;05837 - Turbo;3
+202011;05837 - Turbo;2
+202001;05847 - Urrao;1
+202003;05847 - Urrao;1
+202004;05847 - Urrao;1
+202005;05847 - Urrao;1
+202002;05854 - Valdivia;1
+202003;05854 - Valdivia;1
+202012;05854 - Valdivia;1
+202002;05858 - Vegachí;1
+202012;05858 - Vegachí;1
+202002;05861 - Venecia;2
+202002;05885 - Yalí;2
+202005;05885 - Yalí;1
+202001;05887 - Yarumal;1
+202007;05887 - Yarumal;2
+202008;05887 - Yarumal;2
+202009;05887 - Yarumal;1
+202001;05890 - Yolombó;1
+202002;05890 - Yolombó;1
+202003;05890 - Yolombó;1
+202006;05890 - Yolombó;1
+202007;05890 - Yolombó;1
+202008;05890 - Yolombó;2
+202009;05890 - Yolombó;1
+202010;05890 - Yolombó;1
+202012;05890 - Yolombó;1
+202002;05895 - Zaragoza;1
+202011;05895 - Zaragoza;1
+202001;08001 - Barranquilla;449
+202002;08001 - Barranquilla;224
+202003;08001 - Barranquilla;106
+202004;08001 - Barranquilla;116
+202005;08001 - Barranquilla;117
+202006;08001 - Barranquilla;176
+202007;08001 - Barranquilla;54
+202008;08001 - Barranquilla;59
+202009;08001 - Barranquilla;82
+202010;08001 - Barranquilla;107
+202011;08001 - Barranquilla;94
+202012;08001 - Barranquilla;83
+202001;08078 - Baranoa;2
+202003;08078 - Baranoa;1
+202005;08078 - Baranoa;3
+202008;08078 - Baranoa;2
+202009;08078 - Baranoa;3
+202010;08078 - Baranoa;1
+202011;08078 - Baranoa;1
+202001;08137 - Campo De La Cruz;1
+202002;08137 - Campo De La Cruz;2
+202005;08137 - Campo De La Cruz;2
+202011;08137 - Campo De La Cruz;1
+202001;08141 - Candelaria;2
+202002;08141 - Candelaria;2
+202001;08296 - Galapa;8
+202002;08372 - Juan De Acosta;1
+202001;08421 - Luruaco;1
+202006;08421 - Luruaco;1
+202001;08433 - Malambo;26
+202002;08433 - Malambo;4
+202004;08433 - Malambo;1
+202005;08433 - Malambo;4
+202006;08433 - Malambo;7
+202001;08520 - Palmar De Varela;1
+202001;08573 - Puerto Colombia;20
+202002;08573 - Puerto Colombia;7
+202003;08573 - Puerto Colombia;6
+202004;08573 - Puerto Colombia;16
+202005;08573 - Puerto Colombia;11
+202006;08573 - Puerto Colombia;8
+202007;08573 - Puerto Colombia;1
+202008;08573 - Puerto Colombia;3
+202010;08573 - Puerto Colombia;5
+202011;08573 - Puerto Colombia;6
+202012;08573 - Puerto Colombia;5
+202001;08606 - Repelón;1
+202002;08606 - Repelón;1
+202004;08606 - Repelón;1
+202001;08634 - Sabanagrande;7
+202002;08634 - Sabanagrande;2
+202001;08638 - Sabanalarga;11
+202002;08638 - Sabanalarga;1
+202004;08638 - Sabanalarga;3
+202005;08638 - Sabanalarga;2
+202006;08638 - Sabanalarga;1
+202009;08638 - Sabanalarga;1
+202011;08638 - Sabanalarga;3
+202007;08685 - Santo Tomás;1
+202010;08685 - Santo Tomás;1
+202001;08758 - Soledad;114
+202002;08758 - Soledad;61
+202003;08758 - Soledad;4
+202004;08758 - Soledad;20
+202005;08758 - Soledad;20
+202006;08758 - Soledad;30
+202007;08758 - Soledad;3
+202008;08758 - Soledad;4
+202009;08758 - Soledad;3
+202010;08758 - Soledad;12
+202011;08758 - Soledad;7
+202012;08758 - Soledad;8
+202001;08832 - Tubará;1
+202004;08849 - Usiacurí;1
+202005;08849 - Usiacurí;1
+202001;11001 - Bogotá, D.C.;941
+202002;11001 - Bogotá, D.C.;878
+202003;11001 - Bogotá, D.C.;733
+202004;11001 - Bogotá, D.C.;526
+202005;11001 - Bogotá, D.C.;504
+202006;11001 - Bogotá, D.C.;562
+202007;11001 - Bogotá, D.C.;452
+202008;11001 - Bogotá, D.C.;518
+202009;11001 - Bogotá, D.C.;657
+202010;11001 - Bogotá, D.C.;641
+202011;11001 - Bogotá, D.C.;577
+202012;11001 - Bogotá, D.C.;391
+202001;13001 - Cartagena;213
+202002;13001 - Cartagena;122
+202003;13001 - Cartagena;48
+202004;13001 - Cartagena;42
+202005;13001 - Cartagena;46
+202006;13001 - Cartagena;48
+202007;13001 - Cartagena;25
+202008;13001 - Cartagena;29
+202009;13001 - Cartagena;45
+202010;13001 - Cartagena;42
+202011;13001 - Cartagena;37
+202012;13001 - Cartagena;49
+202002;13006 - Achí;2
+202004;13006 - Achí;1
+202005;13006 - Achí;1
+202008;13042 - Arenal;1
+202001;13052 - Arjona;4
+202002;13052 - Arjona;3
+202003;13052 - Arjona;2
+202004;13052 - Arjona;1
+202005;13052 - Arjona;1
+202008;13052 - Arjona;1
+202009;13052 - Arjona;1
+202010;13052 - Arjona;1
+202001;13074 - Barranco De Loba;1
+202005;13074 - Barranco De Loba;1
+202001;13140 - Calamar;5
+202002;13222 - Clemencia;1
+202001;13244 - El Carmen De Bolívar;49
+202002;13244 - El Carmen De Bolívar;32
+202003;13244 - El Carmen De Bolívar;3
+202004;13244 - El Carmen De Bolívar;14
+202005;13244 - El Carmen De Bolívar;30
+202006;13244 - El Carmen De Bolívar;18
+202007;13244 - El Carmen De Bolívar;1
+202010;13244 - El Carmen De Bolívar;1
+202002;13268 - El Peñón;2
+202001;13430 - Magangué;5
+202002;13430 - Magangué;7
+202003;13430 - Magangué;9
+202004;13430 - Magangué;9
+202005;13430 - Magangué;10
+202006;13430 - Magangué;6
+202007;13430 - Magangué;4
+202008;13430 - Magangué;4
+202009;13430 - Magangué;4
+202010;13430 - Magangué;5
+202011;13430 - Magangué;3
+202012;13430 - Magangué;1
+202002;13433 - Mahates;1
+202001;13442 - María La Baja;19
+202002;13442 - María La Baja;7
+202003;13442 - María La Baja;1
+202004;13442 - María La Baja;1
+202001;13458 - Montecristo;1
+202003;13458 - Montecristo;1
+202006;13458 - Montecristo;4
+202001;13468 - Mompós;6
+202002;13468 - Mompós;1
+202007;13468 - Mompós;2
+202009;13468 - Mompós;1
+202010;13468 - Mompós;4
+202011;13468 - Mompós;5
+202012;13468 - Mompós;1
+202001;13549 - Pinillos;7
+202002;13549 - Pinillos;3
+202011;13647 - San Estanislao;1
+202001;13654 - San Jacinto;9
+202002;13654 - San Jacinto;1
+202004;13654 - San Jacinto;2
+202005;13654 - San Jacinto;2
+202006;13654 - San Jacinto;6
+202001;13655 - San Jacinto Del Cauca;1
+202002;13655 - San Jacinto Del Cauca;2
+202001;13657 - San Juan Nepomuceno;32
+202002;13657 - San Juan Nepomuceno;25
+202004;13657 - San Juan Nepomuceno;11
+202005;13657 - San Juan Nepomuceno;8
+202006;13657 - San Juan Nepomuceno;7
+202011;13657 - San Juan Nepomuceno;3
+202012;13657 - San Juan Nepomuceno;1
+202002;13670 - San Pablo;1
+202001;13683 - Santa Rosa;3
+202002;13683 - Santa Rosa;1
+202010;13683 - Santa Rosa;1
+202006;13688 - Santa Rosa Del Sur;1
+202010;13688 - Santa Rosa Del Sur;1
+202001;13744 - Simití;3
+202002;13744 - Simití;2
+202004;13744 - Simití;2
+202005;13744 - Simití;1
+202002;13760 - Soplaviento;1
+202001;13780 - Talaigua Nuevo;4
+202002;13780 - Talaigua Nuevo;1
+202001;13810 - Tiquisio;3
+202002;13810 - Tiquisio;1
+202006;13810 - Tiquisio;2
+202001;13836 - Turbaco;3
+202002;13836 - Turbaco;1
+202004;13836 - Turbaco;2
+202006;13836 - Turbaco;2
+202007;13836 - Turbaco;1
+202010;13836 - Turbaco;2
+202012;13836 - Turbaco;1
+202001;13894 - Zambrano;1
+202002;13894 - Zambrano;1
+202001;15001 - Tunja;99
+202002;15001 - Tunja;97
+202003;15001 - Tunja;89
+202004;15001 - Tunja;37
+202005;15001 - Tunja;42
+202006;15001 - Tunja;63
+202007;15001 - Tunja;44
+202008;15001 - Tunja;53
+202009;15001 - Tunja;73
+202010;15001 - Tunja;73
+202011;15001 - Tunja;74
+202012;15001 - Tunja;30
+202007;15047 - Aquitania;1
+202002;15051 - Arcabuco;1
+202007;15087 - Belén;1
+202004;15090 - Berbeo;2
+202002;15092 - Betéitiva;1
+202001;15176 - Chiquinquirá;6
+202002;15176 - Chiquinquirá;2
+202003;15176 - Chiquinquirá;3
+202004;15176 - Chiquinquirá;4
+202005;15176 - Chiquinquirá;5
+202006;15176 - Chiquinquirá;2
+202007;15176 - Chiquinquirá;2
+202008;15176 - Chiquinquirá;4
+202009;15176 - Chiquinquirá;5
+202010;15176 - Chiquinquirá;3
+202011;15176 - Chiquinquirá;1
+202012;15176 - Chiquinquirá;1
+202001;15189 - Ciénega;1
+202002;15215 - Corrales;1
+202001;15223 - Cubará;1
+202005;15232 - Chíquiza;1
+202006;15232 - Chíquiza;2
+202001;15236 - Chivor;1
+202003;15236 - Chivor;1
+202005;15236 - Chivor;1
+202006;15236 - Chivor;1
+202008;15236 - Chivor;1
+202001;15238 - Duitama;10
+202002;15238 - Duitama;11
+202003;15238 - Duitama;8
+202004;15238 - Duitama;6
+202005;15238 - Duitama;5
+202006;15238 - Duitama;8
+202007;15238 - Duitama;7
+202008;15238 - Duitama;9
+202009;15238 - Duitama;12
+202010;15238 - Duitama;9
+202011;15238 - Duitama;5
+202012;15238 - Duitama;10
+202003;15244 - El Cocuy;1
+202006;15272 - Firavitoba;1
+202009;15276 - Floresta;1
+202002;15293 - Gachantivá;1
+202005;15299 - Garagoa;1
+202006;15299 - Garagoa;1
+202007;15299 - Garagoa;2
+202008;15299 - Garagoa;1
+202009;15299 - Garagoa;1
+202010;15299 - Garagoa;1
+202011;15299 - Garagoa;1
+202001;15322 - Guateque;1
+202002;15322 - Guateque;1
+202005;15322 - Guateque;2
+202006;15322 - Guateque;2
+202008;15322 - Guateque;1
+202009;15322 - Guateque;3
+202010;15322 - Guateque;3
+202011;15322 - Guateque;4
+202012;15322 - Guateque;1
+202011;15332 - Güicán;1
+202006;15377 - Labranzagrande;1
+202011;15403 - La Uvita;1
+202001;15407 - Villa De Leyva;2
+202005;15407 - Villa De Leyva;3
+202008;15407 - Villa De Leyva;1
+202009;15407 - Villa De Leyva;1
+202010;15407 - Villa De Leyva;1
+202012;15407 - Villa De Leyva;1
+202001;15425 - Macanal;1
+202011;15425 - Macanal;1
+202005;15442 - Maripí;1
+202008;15442 - Maripí;1
+202009;15442 - Maripí;1
+202010;15442 - Maripí;1
+202011;15442 - Maripí;1
+202001;15455 - Miraflores;1
+202002;15455 - Miraflores;2
+202003;15455 - Miraflores;1
+202007;15455 - Miraflores;2
+202008;15455 - Miraflores;3
+202011;15455 - Miraflores;1
+202003;15469 - Moniquirá;1
+202006;15469 - Moniquirá;1
+202008;15469 - Moniquirá;1
+202010;15469 - Moniquirá;1
+202011;15469 - Moniquirá;1
+202001;15476 - Motavita;1
+202004;15480 - Muzo;1
+202006;15480 - Muzo;1
+202007;15480 - Muzo;1
+202008;15480 - Muzo;1
+202010;15491 - Nobsa;1
+202002;15494 - Nuevo Colón;1
+202006;15507 - Otanche;1
+202007;15514 - Páez;1
+202010;15514 - Páez;1
+202001;15516 - Paipa;1
+202005;15516 - Paipa;1
+202006;15516 - Paipa;1
+202007;15516 - Paipa;1
+202012;15516 - Paipa;1
+202006;15531 - Pauna;1
+202001;15572 - Puerto Boyacá;1
+202003;15572 - Puerto Boyacá;1
+202006;15572 - Puerto Boyacá;1
+202008;15572 - Puerto Boyacá;2
+202009;15572 - Puerto Boyacá;3
+202010;15572 - Puerto Boyacá;1
+202009;15580 - Quípama;1
+202010;15580 - Quípama;1
+202001;15599 - Ramiriquí;1
+202002;15599 - Ramiriquí;1
+202005;15599 - Ramiriquí;1
+202010;15599 - Ramiriquí;1
+202011;15638 - Sáchica;1
+202001;15646 - Samacá;2
+202007;15646 - Samacá;1
+202009;15646 - Samacá;3
+202010;15646 - Samacá;1
+202011;15646 - Samacá;1
+202012;15646 - Samacá;1
+202001;15664 - San José De Pare;1
+202006;15676 - San Miguel De Sema;1
+202003;15681 - San Pablo De Borbur;1
+202012;15681 - San Pablo De Borbur;1
+202009;15740 - Siachoque;1
+202001;15753 - Soatá;1
+202002;15753 - Soatá;2
+202003;15753 - Soatá;4
+202004;15753 - Soatá;2
+202006;15753 - Soatá;2
+202007;15753 - Soatá;2
+202008;15753 - Soatá;2
+202010;15753 - Soatá;1
+202011;15753 - Soatá;4
+202012;15753 - Soatá;2
+202006;15755 - Socotá;1
+202001;15759 - Sogamoso;22
+202002;15759 - Sogamoso;24
+202003;15759 - Sogamoso;12
+202004;15759 - Sogamoso;7
+202005;15759 - Sogamoso;9
+202006;15759 - Sogamoso;11
+202007;15759 - Sogamoso;9
+202008;15759 - Sogamoso;14
+202009;15759 - Sogamoso;14
+202010;15759 - Sogamoso;14
+202011;15759 - Sogamoso;7
+202012;15759 - Sogamoso;11
+202002;15763 - Sotaquirá;1
+202005;15763 - Sotaquirá;1
+202009;15763 - Sotaquirá;1
+202002;15776 - Sutamarchán;1
+202006;15776 - Sutamarchán;2
+202010;15776 - Sutamarchán;1
+202003;15814 - Toca;1
+202004;15814 - Toca;1
+202008;15814 - Toca;1
+202008;15816 - Togüí;1
+202009;15816 - Togüí;1
+202010;15816 - Togüí;1
+202002;15820 - Tópaga;1
+202003;15820 - Tópaga;1
+202005;15820 - Tópaga;1
+202008;15822 - Tota;1
+202001;15835 - Turmequé;1
+202009;15835 - Turmequé;1
+202003;15842 - Umbita;1
+202008;15842 - Umbita;1
+202009;15842 - Umbita;1
+202003;15861 - Ventaquemada;2
+202001;17001 - Manizales;49
+202002;17001 - Manizales;53
+202003;17001 - Manizales;39
+202004;17001 - Manizales;24
+202005;17001 - Manizales;28
+202006;17001 - Manizales;40
+202007;17001 - Manizales;28
+202008;17001 - Manizales;25
+202009;17001 - Manizales;48
+202010;17001 - Manizales;33
+202011;17001 - Manizales;23
+202012;17001 - Manizales;21
+202004;17013 - Aguadas;1
+202002;17042 - Anserma;2
+202009;17042 - Anserma;1
+202010;17042 - Anserma;1
+202002;17050 - Aranzazu;1
+202004;17050 - Aranzazu;1
+202007;17050 - Aranzazu;1
+202009;17050 - Aranzazu;1
+202005;17088 - Belalcázar;1
+202009;17088 - Belalcázar;1
+202001;17174 - Chinchiná;2
+202002;17174 - Chinchiná;4
+202003;17174 - Chinchiná;1
+202004;17174 - Chinchiná;2
+202005;17174 - Chinchiná;1
+202007;17174 - Chinchiná;1
+202008;17174 - Chinchiná;2
+202009;17174 - Chinchiná;2
+202010;17174 - Chinchiná;3
+202011;17174 - Chinchiná;4
+202012;17174 - Chinchiná;1
+202007;17272 - Filadelfia;1
+202001;17380 - La Dorada;6
+202002;17380 - La Dorada;2
+202003;17380 - La Dorada;6
+202004;17380 - La Dorada;4
+202005;17380 - La Dorada;6
+202006;17380 - La Dorada;7
+202007;17380 - La Dorada;2
+202008;17380 - La Dorada;6
+202009;17380 - La Dorada;7
+202010;17380 - La Dorada;6
+202011;17380 - La Dorada;7
+202012;17380 - La Dorada;2
+202001;17433 - Manzanares;1
+202001;17486 - Neira;1
+202004;17486 - Neira;1
+202011;17495 - Norcasia;1
+202002;17513 - Pácora;1
+202005;17541 - Pensilvania;1
+202006;17541 - Pensilvania;2
+202007;17541 - Pensilvania;1
+202008;17541 - Pensilvania;1
+202011;17541 - Pensilvania;1
+202012;17541 - Pensilvania;1
+202001;17614 - Riosucio;1
+202002;17614 - Riosucio;2
+202004;17614 - Riosucio;1
+202005;17614 - Riosucio;1
+202006;17614 - Riosucio;1
+202007;17614 - Riosucio;1
+202001;17616 - Risaralda;1
+202003;17616 - Risaralda;1
+202004;17616 - Risaralda;1
+202005;17616 - Risaralda;2
+202006;17616 - Risaralda;1
+202008;17616 - Risaralda;1
+202009;17616 - Risaralda;1
+202010;17616 - Risaralda;2
+202011;17616 - Risaralda;1
+202012;17616 - Risaralda;1
+202001;17662 - Samaná;1
+202012;17665 - San José;1
+202001;17777 - Supía;3
+202003;17777 - Supía;2
+202004;17777 - Supía;1
+202005;17777 - Supía;1
+202008;17777 - Supía;2
+202009;17777 - Supía;1
+202011;17777 - Supía;2
+202012;17777 - Supía;1
+202007;17867 - Victoria;1
+202008;17867 - Victoria;1
+202002;17873 - Villamaría;1
+202007;17873 - Villamaría;2
+202009;17873 - Villamaría;1
+202011;17873 - Villamaría;1
+202004;17877 - Viterbo;1
+202001;18001 - Florencia;15
+202002;18001 - Florencia;20
+202003;18001 - Florencia;12
+202004;18001 - Florencia;11
+202005;18001 - Florencia;14
+202006;18001 - Florencia;11
+202007;18001 - Florencia;6
+202008;18001 - Florencia;11
+202009;18001 - Florencia;25
+202010;18001 - Florencia;16
+202011;18001 - Florencia;9
+202012;18001 - Florencia;7
+202004;18094 - Belén De Los Andaquies;1
+202002;18150 - Cartagena Del Chairá;1
+202003;18150 - Cartagena Del Chairá;1
+202008;18150 - Cartagena Del Chairá;1
+202004;18247 - El Doncello;1
+202003;18410 - La Montañita;1
+202009;18460 - Milán;1
+202001;18592 - Puerto Rico;1
+202005;18592 - Puerto Rico;1
+202009;18610 - San José Del Fragua;1
+202010;18610 - San José Del Fragua;1
+202007;18753 - San Vicente Del Caguán;1
+202001;19001 - Popayán;50
+202002;19001 - Popayán;50
+202003;19001 - Popayán;43
+202004;19001 - Popayán;26
+202005;19001 - Popayán;34
+202006;19001 - Popayán;29
+202007;19001 - Popayán;15
+202008;19001 - Popayán;39
+202009;19001 - Popayán;41
+202010;19001 - Popayán;36
+202011;19001 - Popayán;40
+202012;19001 - Popayán;19
+202002;19075 - Balboa;1
+202005;19075 - Balboa;1
+202005;19100 - Bolívar;2
+202006;19100 - Bolívar;4
+202008;19100 - Bolívar;2
+202011;19100 - Bolívar;1
+202001;19110 - Buenos Aires;2
+202006;19110 - Buenos Aires;1
+202008;19110 - Buenos Aires;1
+202009;19110 - Buenos Aires;1
+202010;19110 - Buenos Aires;2
+202011;19110 - Buenos Aires;1
+202007;19130 - Cajibío;1
+202010;19130 - Cajibío;2
+202001;19137 - Caldono;1
+202009;19137 - Caldono;1
+202012;19137 - Caldono;1
+202002;19142 - Caloto;1
+202001;19256 - El Tambo;1
+202002;19256 - El Tambo;1
+202006;19256 - El Tambo;3
+202007;19256 - El Tambo;1
+202009;19256 - El Tambo;1
+202010;19256 - El Tambo;2
+202011;19256 - El Tambo;1
+202005;19290 - Florencia;1
+202008;19290 - Florencia;1
+202009;19290 - Florencia;1
+202003;19300 - Guachené;1
+202007;19300 - Guachené;1
+202009;19300 - Guachené;1
+202010;19300 - Guachené;1
+202006;19355 - Inzá;1
+202011;19355 - Inzá;2
+202002;19392 - La Sierra;1
+202001;19450 - Mercaderes;1
+202002;19450 - Mercaderes;1
+202003;19473 - Morales;1
+202006;19473 - Morales;1
+202009;19473 - Morales;1
+202011;19473 - Morales;2
+202011;19517 - Paez;1
+202001;19532 - Patía;6
+202002;19532 - Patía;1
+202003;19532 - Patía;2
+202004;19532 - Patía;2
+202005;19532 - Patía;1
+202006;19532 - Patía;1
+202008;19532 - Patía;1
+202009;19532 - Patía;2
+202010;19532 - Patía;1
+202011;19532 - Patía;1
+202003;19548 - Piendamó;1
+202001;19573 - Puerto Tejada;2
+202002;19573 - Puerto Tejada;5
+202003;19573 - Puerto Tejada;2
+202007;19573 - Puerto Tejada;1
+202008;19573 - Puerto Tejada;1
+202009;19573 - Puerto Tejada;3
+202010;19573 - Puerto Tejada;1
+202011;19573 - Puerto Tejada;2
+202012;19573 - Puerto Tejada;1
+202004;19585 - Puracé;1
+202011;19585 - Puracé;1
+202003;19698 - Santander De Quilichao;2
+202004;19698 - Santander De Quilichao;2
+202005;19698 - Santander De Quilichao;2
+202006;19698 - Santander De Quilichao;1
+202007;19698 - Santander De Quilichao;1
+202008;19698 - Santander De Quilichao;3
+202009;19698 - Santander De Quilichao;6
+202010;19698 - Santander De Quilichao;2
+202011;19698 - Santander De Quilichao;3
+202012;19698 - Santander De Quilichao;2
+202002;19701 - Santa Rosa;1
+202007;19743 - Silvia;1
+202004;19785 - Sucre;2
+202010;19785 - Sucre;1
+202004;19807 - Timbío;1
+202005;19807 - Timbío;1
+202006;19807 - Timbío;1
+202008;19807 - Timbío;1
+202001;20001 - Valledupar;30
+202002;20001 - Valledupar;39
+202003;20001 - Valledupar;36
+202004;20001 - Valledupar;20
+202005;20001 - Valledupar;24
+202006;20001 - Valledupar;19
+202007;20001 - Valledupar;19
+202008;20001 - Valledupar;32
+202009;20001 - Valledupar;35
+202010;20001 - Valledupar;42
+202011;20001 - Valledupar;34
+202012;20001 - Valledupar;26
+202001;20011 - Aguachica;2
+202002;20011 - Aguachica;2
+202003;20011 - Aguachica;1
+202004;20011 - Aguachica;1
+202005;20011 - Aguachica;1
+202008;20011 - Aguachica;1
+202009;20011 - Aguachica;2
+202011;20011 - Aguachica;3
+202012;20011 - Aguachica;1
+202001;20045 - Becerril;1
+202008;20045 - Becerril;1
+202011;20045 - Becerril;1
+202002;20060 - Bosconia;1
+202003;20060 - Bosconia;1
+202004;20060 - Bosconia;1
+202007;20060 - Bosconia;2
+202008;20060 - Bosconia;1
+202009;20060 - Bosconia;4
+202010;20060 - Bosconia;3
+202011;20060 - Bosconia;1
+202001;20178 - Chiriguaná;1
+202006;20178 - Chiriguaná;1
+202007;20178 - Chiriguaná;1
+202008;20400 - La Jagua De Ibirico;1
+202002;20517 - Pailitas;1
+202009;20710 - San Alberto;1
+202001;20750 - San Diego;1
+202001;20770 - San Martín;1
+202002;20770 - San Martín;1
+202003;20770 - San Martín;1
+202004;20770 - San Martín;1
+202007;20770 - San Martín;1
+202010;20770 - San Martín;1
+202001;23001 - Montería;260
+202002;23001 - Montería;164
+202003;23001 - Montería;73
+202004;23001 - Montería;63
+202005;23001 - Montería;94
+202006;23001 - Montería;83
+202007;23001 - Montería;19
+202008;23001 - Montería;39
+202009;23001 - Montería;56
+202010;23001 - Montería;68
+202011;23001 - Montería;44
+202012;23001 - Montería;39
+202005;23068 - Ayapel;1
+202006;23068 - Ayapel;3
+202007;23068 - Ayapel;1
+202001;23090 - Canalete;4
+202002;23090 - Canalete;5
+202005;23090 - Canalete;1
+202006;23090 - Canalete;1
+202010;23090 - Canalete;1
+202001;23162 - Cereté;136
+202002;23162 - Cereté;15
+202004;23162 - Cereté;1
+202006;23162 - Cereté;1
+202001;23168 - Chimá;7
+202002;23168 - Chimá;2
+202004;23168 - Chimá;8
+202005;23168 - Chimá;3
+202006;23168 - Chimá;4
+202001;23182 - Chinú;11
+202002;23182 - Chinú;3
+202010;23182 - Chinú;2
+202001;23189 - Ciénaga De Oro;38
+202002;23189 - Ciénaga De Oro;3
+202004;23189 - Ciénaga De Oro;4
+202005;23189 - Ciénaga De Oro;1
+202006;23189 - Ciénaga De Oro;1
+202001;23300 - Cotorra;1
+202002;23300 - Cotorra;1
+202005;23300 - Cotorra;1
+202001;23417 - Lorica;10
+202002;23417 - Lorica;11
+202003;23417 - Lorica;37
+202004;23417 - Lorica;45
+202005;23417 - Lorica;8
+202006;23417 - Lorica;26
+202007;23417 - Lorica;8
+202008;23417 - Lorica;1
+202010;23417 - Lorica;5
+202011;23417 - Lorica;2
+202012;23417 - Lorica;1
+202007;23419 - Los Córdobas;1
+202008;23419 - Los Córdobas;2
+202009;23419 - Los Córdobas;1
+202001;23464 - Momil;2
+202002;23464 - Momil;2
+202004;23464 - Momil;4
+202005;23464 - Momil;1
+202006;23464 - Momil;1
+202010;23464 - Momil;1
+202001;23466 - Montelíbano;3
+202003;23466 - Montelíbano;4
+202006;23466 - Montelíbano;1
+202001;23500 - Moñitos;1
+202002;23500 - Moñitos;1
+202005;23500 - Moñitos;1
+202009;23500 - Moñitos;1
+202001;23555 - Planeta Rica;10
+202002;23555 - Planeta Rica;6
+202003;23555 - Planeta Rica;1
+202005;23555 - Planeta Rica;5
+202006;23555 - Planeta Rica;5
+202007;23555 - Planeta Rica;1
+202010;23555 - Planeta Rica;1
+202005;23570 - Pueblo Nuevo;4
+202006;23570 - Pueblo Nuevo;5
+202007;23570 - Pueblo Nuevo;1
+202008;23574 - Puerto Escondido;1
+202009;23574 - Puerto Escondido;1
+202001;23580 - Puerto Libertador;1
+202002;23580 - Puerto Libertador;1
+202006;23580 - Puerto Libertador;1
+202001;23586 - Purísima;5
+202002;23586 - Purísima;6
+202004;23586 - Purísima;1
+202005;23586 - Purísima;1
+202006;23586 - Purísima;3
+202011;23586 - Purísima;1
+202001;23660 - Sahagún;5
+202002;23660 - Sahagún;13
+202005;23660 - Sahagún;3
+202007;23660 - Sahagún;1
+202008;23660 - Sahagún;5
+202009;23660 - Sahagún;4
+202010;23660 - Sahagún;3
+202011;23660 - Sahagún;3
+202001;23670 - San Andrés Sotavento;11
+202002;23670 - San Andrés Sotavento;9
+202005;23670 - San Andrés Sotavento;1
+202006;23670 - San Andrés Sotavento;1
+202004;23672 - San Antero;1
+202006;23672 - San Antero;1
+202005;23675 - San Bernardo Del Viento;1
+202006;23675 - San Bernardo Del Viento;2
+202012;23675 - San Bernardo Del Viento;1
+202001;23678 - San Carlos;1
+202010;23678 - San Carlos;1
+202011;23678 - San Carlos;1
+202001;23686 - San Pelayo;2
+202002;23686 - San Pelayo;1
+202005;23686 - San Pelayo;1
+202006;23686 - San Pelayo;5
+202009;23686 - San Pelayo;2
+202011;23686 - San Pelayo;1
+202001;23807 - Tierralta;5
+202002;23807 - Tierralta;7
+202003;23807 - Tierralta;1
+202004;23807 - Tierralta;1
+202005;23807 - Tierralta;6
+202006;23807 - Tierralta;2
+202008;23807 - Tierralta;1
+202010;23807 - Tierralta;2
+202004;23815 - Tuchín;1
+202005;23815 - Tuchín;2
+202006;23815 - Tuchín;2
+202001;23855 - Valencia;3
+202004;23855 - Valencia;4
+202005;23855 - Valencia;1
+202006;23855 - Valencia;1
+202008;23855 - Valencia;1
+202010;23855 - Valencia;1
+202001;25040 - Anolaima;1
+202008;25040 - Anolaima;1
+202001;25053 - Arbeláez;1
+202002;25053 - Arbeláez;3
+202004;25053 - Arbeláez;1
+202006;25053 - Arbeláez;2
+202001;25126 - Cajicá;2
+202002;25126 - Cajicá;2
+202011;25126 - Cajicá;1
+202001;25151 - Caqueza;1
+202002;25151 - Caqueza;1
+202008;25151 - Caqueza;1
+202010;25151 - Caqueza;1
+202006;25154 - Carmen De Carupa;3
+202009;25154 - Carmen De Carupa;1
+202010;25154 - Carmen De Carupa;1
+202001;25175 - Chía;21
+202002;25175 - Chía;22
+202003;25175 - Chía;18
+202004;25175 - Chía;3
+202005;25175 - Chía;12
+202006;25175 - Chía;14
+202007;25175 - Chía;9
+202008;25175 - Chía;9
+202009;25175 - Chía;21
+202010;25175 - Chía;19
+202011;25175 - Chía;9
+202012;25175 - Chía;6
+202001;25183 - Chocontá;1
+202002;25183 - Chocontá;2
+202003;25183 - Chocontá;2
+202004;25183 - Chocontá;1
+202006;25183 - Chocontá;1
+202007;25183 - Chocontá;2
+202008;25183 - Chocontá;1
+202010;25183 - Chocontá;1
+202011;25183 - Chocontá;1
+202007;25214 - Cota;1
+202010;25214 - Cota;1
+202011;25214 - Cota;1
+202002;25245 - El Colegio;1
+202006;25245 - El Colegio;1
+202001;25260 - El Rosal;1
+202009;25260 - El Rosal;1
+202011;25260 - El Rosal;2
+202001;25269 - Facatativá;22
+202002;25269 - Facatativá;21
+202003;25269 - Facatativá;22
+202004;25269 - Facatativá;20
+202005;25269 - Facatativá;11
+202006;25269 - Facatativá;10
+202007;25269 - Facatativá;21
+202008;25269 - Facatativá;25
+202009;25269 - Facatativá;25
+202010;25269 - Facatativá;22
+202011;25269 - Facatativá;6
+202012;25269 - Facatativá;20
+202001;25279 - Fomeque;1
+202002;25279 - Fomeque;2
+202003;25279 - Fomeque;1
+202006;25279 - Fomeque;3
+202007;25279 - Fomeque;1
+202010;25279 - Fomeque;1
+202001;25286 - Funza;6
+202002;25286 - Funza;9
+202003;25286 - Funza;7
+202004;25286 - Funza;5
+202005;25286 - Funza;2
+202006;25286 - Funza;2
+202007;25286 - Funza;7
+202008;25286 - Funza;5
+202009;25286 - Funza;1
+202010;25286 - Funza;2
+202011;25286 - Funza;1
+202001;25290 - Fusagasugá;21
+202002;25290 - Fusagasugá;12
+202003;25290 - Fusagasugá;19
+202004;25290 - Fusagasugá;8
+202005;25290 - Fusagasugá;8
+202006;25290 - Fusagasugá;5
+202007;25290 - Fusagasugá;7
+202008;25290 - Fusagasugá;5
+202009;25290 - Fusagasugá;4
+202010;25290 - Fusagasugá;14
+202011;25290 - Fusagasugá;10
+202012;25290 - Fusagasugá;5
+202002;25297 - Gachetá;1
+202003;25297 - Gachetá;2
+202007;25297 - Gachetá;1
+202009;25297 - Gachetá;1
+202012;25297 - Gachetá;1
+202001;25307 - Girardot;4
+202002;25307 - Girardot;6
+202003;25307 - Girardot;5
+202004;25307 - Girardot;8
+202005;25307 - Girardot;4
+202006;25307 - Girardot;5
+202007;25307 - Girardot;2
+202008;25307 - Girardot;5
+202009;25307 - Girardot;5
+202010;25307 - Girardot;12
+202011;25307 - Girardot;12
+202012;25307 - Girardot;14
+202001;25320 - Guaduas;1
+202002;25320 - Guaduas;1
+202003;25320 - Guaduas;1
+202004;25320 - Guaduas;1
+202005;25320 - Guaduas;2
+202008;25320 - Guaduas;2
+202009;25320 - Guaduas;4
+202010;25320 - Guaduas;3
+202011;25320 - Guaduas;2
+202012;25320 - Guaduas;1
+202005;25326 - Guatavita;1
+202009;25326 - Guatavita;1
+202010;25326 - Guatavita;1
+202002;25372 - Junín;1
+202004;25372 - Junín;1
+202009;25372 - Junín;1
+202001;25386 - La Mesa;2
+202002;25386 - La Mesa;1
+202005;25386 - La Mesa;1
+202006;25386 - La Mesa;1
+202007;25386 - La Mesa;1
+202008;25386 - La Mesa;1
+202001;25394 - La Palma;1
+202008;25394 - La Palma;1
+202001;25402 - La Vega;1
+202001;25430 - Madrid;4
+202002;25430 - Madrid;2
+202003;25430 - Madrid;3
+202004;25430 - Madrid;5
+202005;25430 - Madrid;2
+202006;25430 - Madrid;3
+202007;25430 - Madrid;5
+202008;25430 - Madrid;1
+202009;25430 - Madrid;5
+202010;25430 - Madrid;3
+202011;25430 - Madrid;5
+202004;25438 - Medina;1
+202010;25438 - Medina;1
+202011;25438 - Medina;1
+202001;25473 - Mosquera;1
+202003;25473 - Mosquera;1
+202005;25473 - Mosquera;1
+202008;25473 - Mosquera;2
+202011;25473 - Mosquera;4
+202001;25486 - Nemocón;1
+202009;25486 - Nemocón;2
+202001;25513 - Pacho;1
+202003;25513 - Pacho;1
+202004;25513 - Pacho;1
+202010;25513 - Pacho;1
+202008;25535 - Pasca;1
+202003;25572 - Puerto Salgar;1
+202001;25599 - Apulo;1
+202008;25645 - San Antonio Del Tequendama;1
+202003;25658 - San Francisco;1
+202006;25658 - San Francisco;2
+202009;25658 - San Francisco;1
+202009;25662 - San Juan De Río Seco;1
+202007;25718 - Sasaima;1
+202009;25718 - Sasaima;1
+202011;25718 - Sasaima;1
+202012;25718 - Sasaima;1
+202001;25736 - Sesquilé;1
+202002;25736 - Sesquilé;1
+202003;25736 - Sesquilé;1
+202004;25736 - Sesquilé;1
+202005;25736 - Sesquilé;1
+202009;25736 - Sesquilé;2
+202008;25740 - Sibaté;1
+202009;25740 - Sibaté;1
+202001;25754 - Soacha;32
+202002;25754 - Soacha;15
+202003;25754 - Soacha;14
+202004;25754 - Soacha;19
+202005;25754 - Soacha;25
+202006;25754 - Soacha;20
+202007;25754 - Soacha;22
+202008;25754 - Soacha;19
+202009;25754 - Soacha;31
+202010;25754 - Soacha;25
+202011;25754 - Soacha;15
+202012;25754 - Soacha;13
+202002;25758 - Sopó;2
+202003;25758 - Sopó;1
+202011;25758 - Sopó;1
+202001;25772 - Suesca;1
+202009;25793 - Tausa;1
+202005;25799 - Tenjo;2
+202009;25799 - Tenjo;1
+202012;25799 - Tenjo;1
+202006;25815 - Tocaima;1
+202010;25815 - Tocaima;1
+202011;25815 - Tocaima;1
+202001;25817 - Tocancipá;1
+202002;25817 - Tocancipá;2
+202006;25817 - Tocancipá;1
+202009;25817 - Tocancipá;1
+202001;25843 - Villa De San Diego De Ubate;3
+202002;25843 - Villa De San Diego De Ubate;5
+202003;25843 - Villa De San Diego De Ubate;1
+202004;25843 - Villa De San Diego De Ubate;1
+202005;25843 - Villa De San Diego De Ubate;2
+202006;25843 - Villa De San Diego De Ubate;6
+202008;25843 - Villa De San Diego De Ubate;2
+202009;25843 - Villa De San Diego De Ubate;2
+202010;25843 - Villa De San Diego De Ubate;3
+202012;25843 - Villa De San Diego De Ubate;1
+202005;25845 - Une;1
+202007;25862 - Vergara;1
+202010;25862 - Vergara;1
+202005;25875 - Villeta;2
+202008;25875 - Villeta;3
+202009;25875 - Villeta;1
+202010;25875 - Villeta;2
+202006;25878 - Viotá;2
+202001;25899 - Zipaquirá;20
+202002;25899 - Zipaquirá;20
+202003;25899 - Zipaquirá;11
+202004;25899 - Zipaquirá;5
+202005;25899 - Zipaquirá;6
+202006;25899 - Zipaquirá;10
+202007;25899 - Zipaquirá;8
+202008;25899 - Zipaquirá;5
+202009;25899 - Zipaquirá;20
+202010;25899 - Zipaquirá;14
+202011;25899 - Zipaquirá;12
+202012;25899 - Zipaquirá;5
+202001;27001 - Quibdó;5
+202002;27001 - Quibdó;4
+202003;27001 - Quibdó;4
+202004;27001 - Quibdó;7
+202005;27001 - Quibdó;4
+202006;27001 - Quibdó;3
+202007;27001 - Quibdó;1
+202008;27001 - Quibdó;4
+202009;27001 - Quibdó;1
+202010;27001 - Quibdó;9
+202011;27001 - Quibdó;5
+202012;27001 - Quibdó;2
+202010;27150 - Carmen Del Darien;1
+202001;27245 - El Carmen De Atrato;1
+202001;41001 - Neiva;59
+202002;41001 - Neiva;66
+202003;41001 - Neiva;63
+202004;41001 - Neiva;37
+202005;41001 - Neiva;50
+202006;41001 - Neiva;71
+202007;41001 - Neiva;46
+202008;41001 - Neiva;45
+202009;41001 - Neiva;68
+202010;41001 - Neiva;62
+202011;41001 - Neiva;43
+202012;41001 - Neiva;51
+202003;41006 - Acevedo;1
+202006;41006 - Acevedo;1
+202010;41006 - Acevedo;1
+202007;41016 - Aipe;1
+202009;41016 - Aipe;1
+202001;41020 - Algeciras;4
+202002;41020 - Algeciras;1
+202004;41020 - Algeciras;1
+202006;41020 - Algeciras;1
+202001;41132 - Campoalegre;1
+202005;41132 - Campoalegre;1
+202006;41132 - Campoalegre;1
+202012;41132 - Campoalegre;1
+202005;41244 - Elías;1
+202001;41298 - Garzón;12
+202002;41298 - Garzón;10
+202003;41298 - Garzón;7
+202004;41298 - Garzón;11
+202005;41298 - Garzón;9
+202006;41298 - Garzón;6
+202007;41298 - Garzón;5
+202008;41298 - Garzón;8
+202009;41298 - Garzón;10
+202010;41298 - Garzón;11
+202011;41298 - Garzón;7
+202012;41298 - Garzón;2
+202009;41319 - Guadalupe;1
+202011;41319 - Guadalupe;2
+202007;41349 - Hobo;1
+202001;41378 - La Argentina;1
+202004;41378 - La Argentina;1
+202006;41378 - La Argentina;1
+202001;41396 - La Plata;3
+202002;41396 - La Plata;4
+202003;41396 - La Plata;1
+202004;41396 - La Plata;2
+202005;41396 - La Plata;1
+202007;41396 - La Plata;2
+202008;41396 - La Plata;2
+202009;41396 - La Plata;7
+202010;41396 - La Plata;2
+202011;41396 - La Plata;3
+202012;41396 - La Plata;1
+202002;41524 - Palermo;1
+202001;41530 - Palestina;1
+202001;41548 - Pital;1
+202009;41548 - Pital;1
+202011;41548 - Pital;1
+202001;41551 - Pitalito;11
+202002;41551 - Pitalito;13
+202003;41551 - Pitalito;7
+202004;41551 - Pitalito;5
+202005;41551 - Pitalito;8
+202006;41551 - Pitalito;4
+202007;41551 - Pitalito;8
+202008;41551 - Pitalito;6
+202009;41551 - Pitalito;9
+202010;41551 - Pitalito;4
+202011;41551 - Pitalito;8
+202012;41551 - Pitalito;6
+202003;41615 - Rivera;1
+202009;41660 - Saladoblanco;2
+202010;41660 - Saladoblanco;1
+202012;41668 - San Agustín;1
+202001;41770 - Suaza;1
+202005;41770 - Suaza;1
+202007;41770 - Suaza;1
+202012;41770 - Suaza;1
+202010;41791 - Tarqui;1
+202009;41797 - Tesalia;1
+202006;41799 - Tello;1
+202009;41801 - Teruel;1
+202006;41807 - Timaná;1
+202009;41807 - Timaná;1
+202012;41807 - Timaná;1
+202012;41885 - Yaguará;1
+202001;44001 - Riohacha;4
+202002;44001 - Riohacha;11
+202003;44001 - Riohacha;4
+202004;44001 - Riohacha;4
+202005;44001 - Riohacha;8
+202006;44001 - Riohacha;5
+202007;44001 - Riohacha;6
+202008;44001 - Riohacha;9
+202009;44001 - Riohacha;6
+202010;44001 - Riohacha;8
+202011;44001 - Riohacha;2
+202012;44001 - Riohacha;1
+202011;44098 - Distracción;1
+202001;44430 - Maicao;4
+202002;44430 - Maicao;5
+202003;44430 - Maicao;7
+202004;44430 - Maicao;4
+202005;44430 - Maicao;2
+202006;44430 - Maicao;3
+202007;44430 - Maicao;6
+202008;44430 - Maicao;9
+202009;44430 - Maicao;3
+202010;44430 - Maicao;1
+202011;44430 - Maicao;5
+202001;44650 - San Juan Del Cesar;3
+202002;44650 - San Juan Del Cesar;3
+202003;44650 - San Juan Del Cesar;4
+202004;44650 - San Juan Del Cesar;5
+202005;44650 - San Juan Del Cesar;6
+202006;44650 - San Juan Del Cesar;10
+202007;44650 - San Juan Del Cesar;2
+202008;44650 - San Juan Del Cesar;3
+202009;44650 - San Juan Del Cesar;4
+202010;44650 - San Juan Del Cesar;4
+202011;44650 - San Juan Del Cesar;4
+202012;44650 - San Juan Del Cesar;3
+202007;44847 - Uribia;1
+202008;44847 - Uribia;1
+202010;44847 - Uribia;1
+202001;47001 - Santa Marta;199
+202002;47001 - Santa Marta;44
+202003;47001 - Santa Marta;23
+202004;47001 - Santa Marta;11
+202005;47001 - Santa Marta;24
+202006;47001 - Santa Marta;25
+202007;47001 - Santa Marta;9
+202008;47001 - Santa Marta;8
+202009;47001 - Santa Marta;25
+202010;47001 - Santa Marta;25
+202011;47001 - Santa Marta;15
+202012;47001 - Santa Marta;10
+202001;47189 - Ciénaga;28
+202002;47189 - Ciénaga;13
+202003;47189 - Ciénaga;1
+202004;47189 - Ciénaga;11
+202005;47189 - Ciénaga;13
+202006;47189 - Ciénaga;9
+202008;47189 - Ciénaga;2
+202009;47189 - Ciénaga;2
+202010;47189 - Ciénaga;2
+202011;47189 - Ciénaga;2
+202012;47189 - Ciénaga;1
+202001;47245 - El Banco;10
+202002;47245 - El Banco;2
+202004;47245 - El Banco;7
+202005;47245 - El Banco;2
+202006;47245 - El Banco;4
+202009;47245 - El Banco;2
+202010;47245 - El Banco;2
+202011;47245 - El Banco;4
+202012;47245 - El Banco;1
+202009;47268 - El Retén;1
+202001;47288 - Fundación;1
+202002;47288 - Fundación;1
+202003;47288 - Fundación;1
+202004;47288 - Fundación;1
+202005;47288 - Fundación;1
+202006;47288 - Fundación;2
+202007;47288 - Fundación;2
+202011;47288 - Fundación;2
+202012;47288 - Fundación;1
+202001;47318 - Guamal;1
+202002;47318 - Guamal;2
+202001;47460 - Nueva Granada;5
+202002;47460 - Nueva Granada;2
+202001;47551 - Pivijay;1
+202011;47551 - Pivijay;1
+202001;47555 - Plato;21
+202002;47555 - Plato;6
+202004;47555 - Plato;12
+202005;47555 - Plato;5
+202006;47555 - Plato;16
+202009;47555 - Plato;1
+202011;47570 - Puebloviejo;1
+202001;47675 - Salamina;1
+202006;47675 - Salamina;1
+202001;47707 - Santa Ana;5
+202002;47707 - Santa Ana;3
+202004;47707 - Santa Ana;1
+202011;47720 - Santa Bárbara De Pinto;1
+202010;47745 - Sitionuevo;1
+202003;47798 - Tenerife;1
+202011;47980 - Zona Bananera;1
+202001;50001 - Villavicencio;52
+202002;50001 - Villavicencio;61
+202003;50001 - Villavicencio;51
+202004;50001 - Villavicencio;31
+202005;50001 - Villavicencio;42
+202006;50001 - Villavicencio;43
+202007;50001 - Villavicencio;31
+202008;50001 - Villavicencio;39
+202009;50001 - Villavicencio;30
+202010;50001 - Villavicencio;35
+202011;50001 - Villavicencio;40
+202012;50001 - Villavicencio;35
+202001;50006 - Acacías;1
+202002;50006 - Acacías;3
+202003;50006 - Acacías;4
+202005;50006 - Acacías;4
+202006;50006 - Acacías;1
+202008;50006 - Acacías;3
+202009;50006 - Acacías;2
+202010;50006 - Acacías;2
+202011;50006 - Acacías;2
+202003;50150 - Castilla La Nueva;1
+202002;50287 - Fuente De Oro;1
+202006;50287 - Fuente De Oro;1
+202008;50287 - Fuente De Oro;1
+202001;50313 - Granada;7
+202002;50313 - Granada;7
+202003;50313 - Granada;6
+202004;50313 - Granada;4
+202005;50313 - Granada;3
+202006;50313 - Granada;6
+202007;50313 - Granada;1
+202008;50313 - Granada;6
+202009;50313 - Granada;6
+202010;50313 - Granada;7
+202011;50313 - Granada;1
+202012;50313 - Granada;2
+202003;50318 - Guamal;1
+202010;50318 - Guamal;1
+202011;50318 - Guamal;1
+202005;50330 - Mesetas;1
+202006;50330 - Mesetas;1
+202003;50350 - La Macarena;1
+202004;50350 - La Macarena;1
+202008;50400 - Lejanías;1
+202010;50568 - Puerto Gaitán;1
+202006;50606 - Restrepo;1
+202002;50680 - San Carlos De Guaroa;1
+202009;50711 - Vistahermosa;1
+202001;52001 - Pasto;118
+202002;52001 - Pasto;130
+202003;52001 - Pasto;82
+202004;52001 - Pasto;39
+202005;52001 - Pasto;60
+202006;52001 - Pasto;47
+202007;52001 - Pasto;33
+202008;52001 - Pasto;74
+202009;52001 - Pasto;73
+202010;52001 - Pasto;94
+202011;52001 - Pasto;86
+202012;52001 - Pasto;43
+202003;52019 - Albán;1
+202005;52019 - Albán;2
+202008;52019 - Albán;2
+202010;52019 - Albán;1
+202011;52019 - Albán;1
+202012;52019 - Albán;1
+202002;52051 - Arboleda;1
+202006;52051 - Arboleda;1
+202009;52051 - Arboleda;1
+202012;52051 - Arboleda;1
+202009;52079 - Barbacoas;1
+202010;52079 - Barbacoas;1
+202011;52079 - Barbacoas;1
+202012;52079 - Barbacoas;1
+202001;52110 - Buesaco;2
+202002;52110 - Buesaco;1
+202003;52110 - Buesaco;2
+202008;52110 - Buesaco;1
+202012;52110 - Buesaco;1
+202004;52203 - Colón;1
+202005;52203 - Colón;1
+202009;52203 - Colón;1
+202004;52207 - Consaca;1
+202005;52207 - Consaca;1
+202011;52215 - Córdoba;1
+202012;52215 - Córdoba;1
+202010;52227 - Cumbal;1
+202001;52240 - Chachagüí;1
+202002;52240 - Chachagüí;1
+202009;52240 - Chachagüí;1
+202003;52250 - El Charco;1
+202004;52250 - El Charco;1
+202012;52250 - El Charco;1
+202009;52258 - El Tablón De Gómez;1
+202002;52260 - El Tambo;1
+202003;52260 - El Tambo;2
+202007;52260 - El Tambo;1
+202004;52287 - Funes;1
+202004;52317 - Guachucal;2
+202007;52317 - Guachucal;2
+202002;52320 - Guaitarilla;1
+202003;52320 - Guaitarilla;1
+202005;52320 - Guaitarilla;1
+202008;52320 - Guaitarilla;1
+202009;52320 - Guaitarilla;1
+202012;52320 - Guaitarilla;1
+202003;52323 - Gualmatán;1
+202005;52323 - Gualmatán;1
+202012;52323 - Gualmatán;1
+202006;52352 - Iles;2
+202009;52352 - Iles;1
+202010;52352 - Iles;1
+202011;52352 - Iles;1
+202004;52354 - Imués;1
+202009;52354 - Imués;1
+202011;52354 - Imués;1
+202001;52356 - Ipiales;21
+202002;52356 - Ipiales;17
+202003;52356 - Ipiales;12
+202004;52356 - Ipiales;14
+202005;52356 - Ipiales;17
+202006;52356 - Ipiales;10
+202007;52356 - Ipiales;7
+202008;52356 - Ipiales;14
+202009;52356 - Ipiales;18
+202010;52356 - Ipiales;17
+202011;52356 - Ipiales;14
+202012;52356 - Ipiales;13
+202001;52378 - La Cruz;4
+202002;52378 - La Cruz;1
+202003;52378 - La Cruz;2
+202004;52378 - La Cruz;1
+202005;52378 - La Cruz;1
+202006;52378 - La Cruz;6
+202007;52378 - La Cruz;6
+202008;52378 - La Cruz;4
+202009;52378 - La Cruz;5
+202010;52378 - La Cruz;4
+202011;52378 - La Cruz;3
+202012;52378 - La Cruz;2
+202001;52381 - La Florida;1
+202002;52390 - La Tola;1
+202007;52390 - La Tola;1
+202001;52399 - La Unión;1
+202002;52399 - La Unión;2
+202003;52399 - La Unión;2
+202006;52399 - La Unión;1
+202008;52399 - La Unión;1
+202009;52399 - La Unión;2
+202010;52399 - La Unión;3
+202011;52399 - La Unión;4
+202012;52399 - La Unión;2
+202003;52435 - Mallama;1
+202009;52490 - Olaya Herrera;1
+202001;52506 - Ospina;1
+202005;52506 - Ospina;1
+202010;52506 - Ospina;1
+202010;52540 - Policarpa;1
+202012;52585 - Pupiales;1
+202002;52612 - Ricaurte;1
+202010;52612 - Ricaurte;1
+202001;52678 - Samaniego;1
+202002;52678 - Samaniego;1
+202003;52678 - Samaniego;1
+202001;52683 - Sandoná;1
+202002;52683 - Sandoná;1
+202003;52683 - Sandoná;3
+202005;52683 - Sandoná;2
+202006;52683 - Sandoná;1
+202011;52683 - Sandoná;3
+202003;52685 - San Bernardo;1
+202005;52685 - San Bernardo;1
+202008;52685 - San Bernardo;1
+202002;52687 - San Lorenzo;1
+202008;52687 - San Lorenzo;1
+202012;52687 - San Lorenzo;1
+202009;52693 - San Pablo;1
+202010;52693 - San Pablo;1
+202012;52693 - San Pablo;1
+202009;52786 - Taminango;1
+202010;52786 - Taminango;1
+202011;52786 - Taminango;1
+202001;52788 - Tangua;1
+202011;52788 - Tangua;1
+202012;52788 - Tangua;1
+202001;52835 - San Andres De Tumaco;3
+202002;52835 - San Andres De Tumaco;3
+202003;52835 - San Andres De Tumaco;2
+202004;52835 - San Andres De Tumaco;2
+202005;52835 - San Andres De Tumaco;2
+202008;52835 - San Andres De Tumaco;6
+202009;52835 - San Andres De Tumaco;4
+202010;52835 - San Andres De Tumaco;3
+202011;52835 - San Andres De Tumaco;2
+202012;52835 - San Andres De Tumaco;5
+202001;52838 - Túquerres;2
+202006;52838 - Túquerres;2
+202008;52838 - Túquerres;1
+202009;52838 - Túquerres;1
+202010;52838 - Túquerres;1
+202011;52838 - Túquerres;1
+202012;52838 - Túquerres;1
+202001;52885 - Yacuanquer;1
+202002;52885 - Yacuanquer;1
+202005;52885 - Yacuanquer;1
+202006;52885 - Yacuanquer;1
+202007;52885 - Yacuanquer;1
+202008;52885 - Yacuanquer;1
+202012;52885 - Yacuanquer;1
+202001;54001 - Cúcuta;99
+202002;54001 - Cúcuta;73
+202003;54001 - Cúcuta;59
+202004;54001 - Cúcuta;37
+202005;54001 - Cúcuta;51
+202006;54001 - Cúcuta;49
+202007;54001 - Cúcuta;43
+202008;54001 - Cúcuta;41
+202009;54001 - Cúcuta;44
+202010;54001 - Cúcuta;51
+202011;54001 - Cúcuta;25
+202012;54001 - Cúcuta;24
+202002;54003 - Abrego;1
+202005;54003 - Abrego;1
+202005;54051 - Arboledas;1
+202001;54128 - Cachirá;1
+202003;54128 - Cachirá;2
+202007;54128 - Cachirá;1
+202008;54128 - Cachirá;1
+202001;54172 - Chinácota;2
+202004;54172 - Chinácota;1
+202005;54172 - Chinácota;2
+202011;54172 - Chinácota;1
+202009;54206 - Convención;1
+202007;54223 - Cucutilla;1
+202002;54250 - El Tarra;1
+202001;54261 - El Zulia;1
+202010;54261 - El Zulia;1
+202012;54261 - El Zulia;1
+202001;54498 - Ocaña;5
+202002;54498 - Ocaña;1
+202003;54498 - Ocaña;5
+202004;54498 - Ocaña;1
+202005;54498 - Ocaña;2
+202006;54498 - Ocaña;2
+202007;54498 - Ocaña;1
+202008;54498 - Ocaña;4
+202009;54498 - Ocaña;3
+202011;54498 - Ocaña;4
+202012;54498 - Ocaña;8
+202001;54518 - Pamplona;2
+202002;54518 - Pamplona;1
+202003;54518 - Pamplona;3
+202004;54518 - Pamplona;1
+202005;54518 - Pamplona;3
+202006;54518 - Pamplona;3
+202007;54518 - Pamplona;4
+202008;54518 - Pamplona;3
+202009;54518 - Pamplona;7
+202010;54518 - Pamplona;1
+202011;54518 - Pamplona;2
+202012;54518 - Pamplona;3
+202006;54800 - Teorama;1
+202005;54810 - Tibú;1
+202006;54810 - Tibú;2
+202007;54810 - Tibú;2
+202008;54810 - Tibú;2
+202009;54810 - Tibú;1
+202010;54810 - Tibú;1
+202011;54810 - Tibú;1
+202006;54874 - Villa Del Rosario;1
+202011;54874 - Villa Del Rosario;1
+202012;54874 - Villa Del Rosario;1
+202001;63001 - Armenia;79
+202002;63001 - Armenia;72
+202003;63001 - Armenia;46
+202004;63001 - Armenia;43
+202005;63001 - Armenia;52
+202006;63001 - Armenia;62
+202007;63001 - Armenia;52
+202008;63001 - Armenia;53
+202009;63001 - Armenia;70
+202010;63001 - Armenia;60
+202011;63001 - Armenia;39
+202012;63001 - Armenia;41
+202001;63130 - Calarca;3
+202002;63130 - Calarca;1
+202004;63130 - Calarca;1
+202010;63130 - Calarca;2
+202008;63190 - Circasia;1
+202009;63190 - Circasia;3
+202010;63190 - Circasia;1
+202011;63190 - Circasia;2
+202003;63212 - Córdoba;1
+202006;63212 - Córdoba;1
+202009;63212 - Córdoba;1
+202002;63272 - Filandia;1
+202010;63272 - Filandia;1
+202005;63302 - Génova;1
+202001;63401 - La Tebaida;1
+202002;63401 - La Tebaida;1
+202003;63401 - La Tebaida;1
+202004;63401 - La Tebaida;1
+202006;63401 - La Tebaida;2
+202007;63401 - La Tebaida;2
+202008;63401 - La Tebaida;1
+202009;63401 - La Tebaida;1
+202001;63470 - Montenegro;2
+202002;63470 - Montenegro;1
+202003;63470 - Montenegro;2
+202005;63470 - Montenegro;1
+202008;63470 - Montenegro;1
+202009;63470 - Montenegro;2
+202010;63470 - Montenegro;2
+202011;63470 - Montenegro;2
+202001;63594 - Quimbaya;1
+202002;63594 - Quimbaya;1
+202005;63594 - Quimbaya;1
+202007;63594 - Quimbaya;1
+202008;63594 - Quimbaya;1
+202010;63594 - Quimbaya;1
+202011;63594 - Quimbaya;3
+202001;63690 - Salento;1
+202001;66001 - Pereira;84
+202002;66001 - Pereira;75
+202003;66001 - Pereira;50
+202004;66001 - Pereira;28
+202005;66001 - Pereira;48
+202006;66001 - Pereira;59
+202007;66001 - Pereira;53
+202008;66001 - Pereira;43
+202009;66001 - Pereira;75
+202010;66001 - Pereira;60
+202011;66001 - Pereira;48
+202012;66001 - Pereira;53
+202002;66045 - Apía;1
+202003;66045 - Apía;1
+202008;66045 - Apía;2
+202010;66045 - Apía;1
+202011;66045 - Apía;1
+202012;66045 - Apía;3
+202010;66075 - Balboa;1
+202011;66075 - Balboa;1
+202001;66088 - Belén De Umbría;2
+202002;66088 - Belén De Umbría;2
+202004;66088 - Belén De Umbría;2
+202007;66088 - Belén De Umbría;1
+202011;66088 - Belén De Umbría;1
+202001;66170 - Dosquebradas;12
+202002;66170 - Dosquebradas;9
+202003;66170 - Dosquebradas;6
+202004;66170 - Dosquebradas;8
+202005;66170 - Dosquebradas;5
+202006;66170 - Dosquebradas;5
+202007;66170 - Dosquebradas;4
+202008;66170 - Dosquebradas;2
+202009;66170 - Dosquebradas;5
+202010;66170 - Dosquebradas;4
+202011;66170 - Dosquebradas;4
+202012;66170 - Dosquebradas;8
+202002;66318 - Guática;1
+202004;66318 - Guática;1
+202007;66318 - Guática;1
+202009;66318 - Guática;1
+202004;66383 - La Celia;1
+202002;66400 - La Virginia;1
+202006;66400 - La Virginia;1
+202007;66400 - La Virginia;1
+202009;66400 - La Virginia;2
+202010;66400 - La Virginia;3
+202012;66400 - La Virginia;1
+202004;66440 - Marsella;2
+202006;66440 - Marsella;2
+202001;66594 - Quinchía;1
+202002;66594 - Quinchía;1
+202004;66594 - Quinchía;1
+202005;66594 - Quinchía;1
+202006;66594 - Quinchía;1
+202007;66594 - Quinchía;2
+202011;66594 - Quinchía;2
+202012;66594 - Quinchía;2
+202001;66682 - Santa Rosa De Cabal;1
+202002;66682 - Santa Rosa De Cabal;1
+202003;66682 - Santa Rosa De Cabal;1
+202005;66682 - Santa Rosa De Cabal;1
+202006;66682 - Santa Rosa De Cabal;6
+202007;66682 - Santa Rosa De Cabal;5
+202008;66682 - Santa Rosa De Cabal;2
+202009;66682 - Santa Rosa De Cabal;4
+202010;66682 - Santa Rosa De Cabal;1
+202001;68001 - Bucaramanga;69
+202002;68001 - Bucaramanga;62
+202003;68001 - Bucaramanga;62
+202004;68001 - Bucaramanga;37
+202005;68001 - Bucaramanga;55
+202006;68001 - Bucaramanga;62
+202007;68001 - Bucaramanga;38
+202008;68001 - Bucaramanga;48
+202009;68001 - Bucaramanga;56
+202010;68001 - Bucaramanga;62
+202011;68001 - Bucaramanga;55
+202012;68001 - Bucaramanga;47
+202001;68013 - Aguada;1
+202002;68020 - Albania;1
+202001;68051 - Aratoca;1
+202011;68051 - Aratoca;1
+202002;68077 - Barbosa;1
+202006;68077 - Barbosa;2
+202007;68077 - Barbosa;1
+202010;68077 - Barbosa;1
+202011;68077 - Barbosa;1
+202001;68081 - Barrancabermeja;15
+202002;68081 - Barrancabermeja;21
+202003;68081 - Barrancabermeja;15
+202004;68081 - Barrancabermeja;6
+202005;68081 - Barrancabermeja;3
+202006;68081 - Barrancabermeja;9
+202007;68081 - Barrancabermeja;8
+202008;68081 - Barrancabermeja;9
+202009;68081 - Barrancabermeja;9
+202010;68081 - Barrancabermeja;15
+202011;68081 - Barrancabermeja;13
+202012;68081 - Barrancabermeja;4
+202010;68167 - Charalá;1
+202001;68190 - Cimitarra;2
+202002;68190 - Cimitarra;1
+202003;68190 - Cimitarra;1
+202005;68190 - Cimitarra;1
+202010;68190 - Cimitarra;1
+202011;68190 - Cimitarra;3
+202005;68207 - Concepción;1
+202005;68209 - Confines;1
+202003;68211 - Contratación;1
+202003;68217 - Coromoro;1
+202001;68229 - Curití;1
+202009;68235 - El Carmen De Chucurí;1
+202011;68235 - El Carmen De Chucurí;1
+202011;68255 - El Playón;1
+202006;68271 - Florián;1
+202010;68271 - Florián;1
+202011;68271 - Florián;1
+202001;68276 - Floridablanca;31
+202002;68276 - Floridablanca;24
+202003;68276 - Floridablanca;13
+202004;68276 - Floridablanca;31
+202005;68276 - Floridablanca;18
+202006;68276 - Floridablanca;13
+202007;68276 - Floridablanca;18
+202008;68276 - Floridablanca;21
+202009;68276 - Floridablanca;28
+202010;68276 - Floridablanca;18
+202011;68276 - Floridablanca;23
+202012;68276 - Floridablanca;24
+202003;68296 - Galán;1
+202001;68307 - Girón;2
+202002;68307 - Girón;3
+202003;68307 - Girón;1
+202004;68307 - Girón;5
+202005;68307 - Girón;7
+202006;68307 - Girón;7
+202007;68307 - Girón;1
+202008;68307 - Girón;4
+202009;68307 - Girón;6
+202010;68307 - Girón;8
+202011;68307 - Girón;3
+202012;68368 - Jesús María;1
+202009;68377 - La Belleza;2
+202011;68377 - La Belleza;1
+202010;68385 - Landázuri;1
+202004;68397 - La Paz;1
+202005;68406 - Lebríja;1
+202009;68406 - Lebríja;1
+202011;68406 - Lebríja;2
+202007;68418 - Los Santos;1
+202001;68432 - Málaga;1
+202005;68432 - Málaga;1
+202006;68432 - Málaga;1
+202008;68432 - Málaga;1
+202011;68432 - Málaga;1
+202002;68444 - Matanza;1
+202008;68498 - Ocamonte;1
+202010;68498 - Ocamonte;1
+202011;68498 - Ocamonte;1
+202001;68502 - Onzaga;1
+202011;68502 - Onzaga;1
+202002;68533 - Páramo;1
+202001;68547 - Piedecuesta;16
+202002;68547 - Piedecuesta;26
+202003;68547 - Piedecuesta;19
+202004;68547 - Piedecuesta;17
+202005;68547 - Piedecuesta;14
+202006;68547 - Piedecuesta;14
+202007;68547 - Piedecuesta;11
+202008;68547 - Piedecuesta;19
+202009;68547 - Piedecuesta;23
+202010;68547 - Piedecuesta;17
+202011;68547 - Piedecuesta;11
+202012;68547 - Piedecuesta;28
+202001;68573 - Puerto Parra;1
+202009;68575 - Puerto Wilches;1
+202011;68575 - Puerto Wilches;1
+202008;68615 - Rionegro;1
+202001;68655 - Sabana De Torres;2
+202002;68655 - Sabana De Torres;1
+202003;68655 - Sabana De Torres;1
+202004;68655 - Sabana De Torres;1
+202011;68669 - San Andrés;1
+202001;68679 - San Gil;6
+202002;68679 - San Gil;2
+202003;68679 - San Gil;7
+202004;68679 - San Gil;3
+202005;68679 - San Gil;1
+202006;68679 - San Gil;3
+202007;68679 - San Gil;2
+202008;68679 - San Gil;2
+202009;68679 - San Gil;3
+202010;68679 - San Gil;7
+202011;68679 - San Gil;1
+202012;68679 - San Gil;2
+202003;68684 - San José De Miranda;1
+202006;68689 - San Vicente De Chucurí;1
+202009;68689 - San Vicente De Chucurí;1
+202009;68720 - Santa Helena Del Opón;1
+202001;68755 - Socorro;5
+202002;68755 - Socorro;10
+202003;68755 - Socorro;9
+202004;68755 - Socorro;7
+202005;68755 - Socorro;5
+202006;68755 - Socorro;8
+202007;68755 - Socorro;4
+202008;68755 - Socorro;11
+202009;68755 - Socorro;6
+202010;68755 - Socorro;4
+202011;68755 - Socorro;6
+202012;68755 - Socorro;4
+202004;68773 - Sucre;1
+202004;68855 - Valle De San José;1
+202001;68861 - Vélez;1
+202002;68861 - Vélez;1
+202004;68861 - Vélez;1
+202008;68861 - Vélez;2
+202009;68861 - Vélez;1
+202010;68861 - Vélez;1
+202011;68861 - Vélez;2
+202003;68895 - Zapatoca;1
+202004;68895 - Zapatoca;1
+202008;68895 - Zapatoca;1
+202009;68895 - Zapatoca;1
+202001;70001 - Sincelejo;87
+202002;70001 - Sincelejo;61
+202003;70001 - Sincelejo;25
+202004;70001 - Sincelejo;43
+202005;70001 - Sincelejo;47
+202006;70001 - Sincelejo;28
+202007;70001 - Sincelejo;10
+202008;70001 - Sincelejo;16
+202009;70001 - Sincelejo;37
+202010;70001 - Sincelejo;42
+202011;70001 - Sincelejo;34
+202012;70001 - Sincelejo;14
+202001;70215 - Corozal;21
+202002;70215 - Corozal;13
+202003;70215 - Corozal;4
+202004;70215 - Corozal;4
+202005;70215 - Corozal;2
+202006;70215 - Corozal;2
+202011;70215 - Corozal;1
+202005;70221 - Coveñas;2
+202001;70230 - Chalán;1
+202007;70230 - Chalán;1
+202001;70235 - Galeras;5
+202002;70235 - Galeras;2
+202004;70235 - Galeras;1
+202005;70235 - Galeras;2
+202006;70235 - Galeras;3
+202003;70265 - Guaranda;1
+202010;70265 - Guaranda;2
+202001;70400 - La Unión;1
+202001;70473 - Morroa;1
+202004;70473 - Morroa;1
+202006;70473 - Morroa;1
+202009;70473 - Morroa;1
+202001;70508 - Ovejas;3
+202002;70508 - Ovejas;5
+202003;70508 - Ovejas;1
+202004;70508 - Ovejas;3
+202005;70508 - Ovejas;3
+202006;70508 - Ovejas;5
+202007;70508 - Ovejas;1
+202004;70670 - Sampués;1
+202006;70678 - San Benito Abad;1
+202001;70708 - San Marcos;22
+202002;70708 - San Marcos;8
+202004;70708 - San Marcos;4
+202005;70708 - San Marcos;2
+202006;70708 - San Marcos;6
+202011;70708 - San Marcos;1
+202001;70713 - San Onofre;2
+202002;70713 - San Onofre;8
+202005;70713 - San Onofre;6
+202006;70713 - San Onofre;1
+202010;70713 - San Onofre;2
+202011;70713 - San Onofre;1
+202001;70717 - San Pedro;2
+202002;70717 - San Pedro;4
+202004;70717 - San Pedro;1
+202005;70717 - San Pedro;2
+202010;70717 - San Pedro;1
+202011;70717 - San Pedro;1
+202001;70742 - San Luis De Sincé;17
+202004;70742 - San Luis De Sincé;2
+202005;70742 - San Luis De Sincé;1
+202006;70742 - San Luis De Sincé;5
+202001;70771 - Sucre;1
+202002;70771 - Sucre;1
+202004;70820 - Santiago De Tolú;1
+202001;70823 - Tolú Viejo;1
+202001;73001 - Ibagué;65
+202002;73001 - Ibagué;57
+202003;73001 - Ibagué;48
+202004;73001 - Ibagué;43
+202005;73001 - Ibagué;47
+202006;73001 - Ibagué;43
+202007;73001 - Ibagué;31
+202008;73001 - Ibagué;40
+202009;73001 - Ibagué;59
+202010;73001 - Ibagué;51
+202011;73001 - Ibagué;49
+202012;73001 - Ibagué;29
+202002;73026 - Alvarado;2
+202004;73030 - Ambalema;1
+202005;73030 - Ambalema;2
+202006;73030 - Ambalema;1
+202011;73030 - Ambalema;1
+202012;73030 - Ambalema;1
+202010;73124 - Cajamarca;1
+202003;73152 - Casabianca;1
+202011;73152 - Casabianca;1
+202001;73168 - Chaparral;2
+202002;73168 - Chaparral;1
+202003;73168 - Chaparral;1
+202007;73168 - Chaparral;2
+202008;73168 - Chaparral;1
+202009;73168 - Chaparral;4
+202010;73168 - Chaparral;3
+202011;73168 - Chaparral;1
+202010;73200 - Coello;1
+202003;73217 - Coyaima;1
+202004;73217 - Coyaima;1
+202010;73236 - Dolores;1
+202001;73268 - Espinal;5
+202002;73268 - Espinal;5
+202003;73268 - Espinal;4
+202004;73268 - Espinal;3
+202005;73268 - Espinal;7
+202006;73268 - Espinal;9
+202007;73268 - Espinal;10
+202008;73268 - Espinal;3
+202009;73268 - Espinal;7
+202010;73268 - Espinal;10
+202011;73268 - Espinal;9
+202012;73268 - Espinal;4
+202012;73275 - Flandes;1
+202001;73283 - Fresno;1
+202002;73283 - Fresno;1
+202004;73283 - Fresno;1
+202008;73283 - Fresno;1
+202001;73349 - Honda;2
+202002;73349 - Honda;1
+202003;73349 - Honda;2
+202004;73349 - Honda;1
+202005;73349 - Honda;2
+202006;73349 - Honda;3
+202007;73349 - Honda;1
+202008;73349 - Honda;3
+202009;73349 - Honda;2
+202010;73349 - Honda;2
+202011;73349 - Honda;4
+202012;73349 - Honda;2
+202007;73408 - Lérida;1
+202001;73411 - Líbano;2
+202002;73411 - Líbano;2
+202003;73411 - Líbano;2
+202004;73411 - Líbano;1
+202005;73411 - Líbano;1
+202006;73411 - Líbano;3
+202007;73411 - Líbano;2
+202008;73411 - Líbano;5
+202009;73411 - Líbano;5
+202010;73411 - Líbano;2
+202011;73411 - Líbano;7
+202012;73411 - Líbano;3
+202001;73443 - Mariquita;1
+202002;73443 - Mariquita;1
+202003;73443 - Mariquita;3
+202006;73443 - Mariquita;1
+202007;73443 - Mariquita;1
+202008;73443 - Mariquita;1
+202009;73443 - Mariquita;1
+202010;73443 - Mariquita;1
+202011;73443 - Mariquita;2
+202001;73449 - Melgar;1
+202006;73449 - Melgar;1
+202007;73449 - Melgar;1
+202011;73449 - Melgar;1
+202012;73449 - Melgar;1
+202004;73504 - Ortega;1
+202009;73520 - Palocabildo;1
+202011;73520 - Palocabildo;1
+202001;73555 - Planadas;1
+202008;73555 - Planadas;1
+202010;73616 - Rioblanco;1
+202001;73624 - Rovira;1
+202002;73675 - San Antonio;1
+202008;73675 - San Antonio;1
+202005;73678 - San Luis;1
+202010;73678 - San Luis;1
+202001;73861 - Venadillo;1
+202004;73873 - Villarrica;1
+202001;76001 - Cali;362
+202002;76001 - Cali;319
+202003;76001 - Cali;219
+202004;76001 - Cali;135
+202005;76001 - Cali;163
+202006;76001 - Cali;148
+202007;76001 - Cali;144
+202008;76001 - Cali;264
+202009;76001 - Cali;287
+202010;76001 - Cali;248
+202011;76001 - Cali;250
+202012;76001 - Cali;161
+202009;76020 - Alcalá;1
+202001;76036 - Andalucía;2
+202002;76036 - Andalucía;2
+202003;76036 - Andalucía;1
+202004;76036 - Andalucía;2
+202006;76036 - Andalucía;2
+202007;76036 - Andalucía;1
+202009;76036 - Andalucía;3
+202010;76036 - Andalucía;1
+202011;76036 - Andalucía;1
+202002;76100 - Bolívar;1
+202008;76100 - Bolívar;1
+202001;76109 - Buenaventura;1
+202002;76109 - Buenaventura;4
+202003;76109 - Buenaventura;1
+202004;76109 - Buenaventura;6
+202005;76109 - Buenaventura;2
+202006;76109 - Buenaventura;2
+202007;76109 - Buenaventura;2
+202008;76109 - Buenaventura;2
+202009;76109 - Buenaventura;2
+202010;76109 - Buenaventura;4
+202011;76109 - Buenaventura;3
+202012;76109 - Buenaventura;4
+202001;76111 - Guadalajara De Buga;16
+202002;76111 - Guadalajara De Buga;16
+202003;76111 - Guadalajara De Buga;18
+202004;76111 - Guadalajara De Buga;13
+202005;76111 - Guadalajara De Buga;9
+202006;76111 - Guadalajara De Buga;12
+202007;76111 - Guadalajara De Buga;6
+202008;76111 - Guadalajara De Buga;13
+202009;76111 - Guadalajara De Buga;16
+202010;76111 - Guadalajara De Buga;9
+202011;76111 - Guadalajara De Buga;10
+202012;76111 - Guadalajara De Buga;4
+202001;76113 - Bugalagrande;2
+202002;76113 - Bugalagrande;1
+202008;76113 - Bugalagrande;1
+202010;76113 - Bugalagrande;2
+202001;76122 - Caicedonia;1
+202002;76122 - Caicedonia;1
+202006;76122 - Caicedonia;1
+202011;76122 - Caicedonia;1
+202001;76126 - Calima;1
+202002;76126 - Calima;1
+202008;76126 - Calima;1
+202009;76126 - Calima;1
+202010;76126 - Calima;1
+202011;76126 - Calima;1
+202001;76130 - Candelaria;3
+202002;76130 - Candelaria;1
+202003;76130 - Candelaria;1
+202009;76130 - Candelaria;2
+202010;76130 - Candelaria;1
+202011;76130 - Candelaria;1
+202001;76147 - Cartago;7
+202002;76147 - Cartago;8
+202003;76147 - Cartago;12
+202004;76147 - Cartago;6
+202005;76147 - Cartago;9
+202006;76147 - Cartago;7
+202007;76147 - Cartago;11
+202008;76147 - Cartago;10
+202009;76147 - Cartago;15
+202010;76147 - Cartago;9
+202011;76147 - Cartago;5
+202012;76147 - Cartago;4
+202001;76233 - Dagua;2
+202002;76233 - Dagua;1
+202003;76233 - Dagua;1
+202004;76233 - Dagua;3
+202006;76233 - Dagua;3
+202007;76233 - Dagua;1
+202009;76233 - Dagua;1
+202001;76243 - El Águila;1
+202006;76243 - El Águila;1
+202009;76243 - El Águila;1
+202001;76248 - El Cerrito;1
+202003;76248 - El Cerrito;2
+202006;76248 - El Cerrito;2
+202008;76248 - El Cerrito;1
+202009;76248 - El Cerrito;2
+202010;76248 - El Cerrito;2
+202011;76248 - El Cerrito;1
+202006;76275 - Florida;1
+202009;76275 - Florida;1
+202010;76275 - Florida;1
+202011;76275 - Florida;1
+202005;76306 - Ginebra;1
+202001;76318 - Guacarí;2
+202002;76318 - Guacarí;1
+202006;76318 - Guacarí;1
+202007;76318 - Guacarí;1
+202011;76318 - Guacarí;1
+202001;76364 - Jamundí;2
+202002;76364 - Jamundí;1
+202005;76364 - Jamundí;3
+202006;76364 - Jamundí;2
+202007;76364 - Jamundí;4
+202008;76364 - Jamundí;2
+202009;76364 - Jamundí;1
+202010;76364 - Jamundí;4
+202011;76364 - Jamundí;2
+202002;76377 - La Cumbre;2
+202005;76400 - La Unión;1
+202007;76400 - La Unión;1
+202010;76400 - La Unión;1
+202002;76403 - La Victoria;2
+202005;76497 - Obando;1
+202010;76497 - Obando;1
+202001;76520 - Palmira;25
+202002;76520 - Palmira;32
+202003;76520 - Palmira;25
+202004;76520 - Palmira;17
+202005;76520 - Palmira;24
+202006;76520 - Palmira;25
+202007;76520 - Palmira;15
+202008;76520 - Palmira;22
+202009;76520 - Palmira;29
+202010;76520 - Palmira;32
+202011;76520 - Palmira;27
+202012;76520 - Palmira;20
+202001;76563 - Pradera;4
+202002;76563 - Pradera;1
+202003;76563 - Pradera;1
+202004;76563 - Pradera;1
+202005;76563 - Pradera;3
+202006;76563 - Pradera;1
+202007;76563 - Pradera;2
+202010;76563 - Pradera;1
+202012;76563 - Pradera;1
+202002;76606 - Restrepo;1
+202005;76616 - Riofrío;1
+202006;76616 - Riofrío;1
+202002;76622 - Roldanillo;1
+202003;76622 - Roldanillo;3
+202004;76622 - Roldanillo;1
+202006;76622 - Roldanillo;1
+202008;76622 - Roldanillo;1
+202008;76670 - San Pedro;1
+202010;76670 - San Pedro;1
+202002;76736 - Sevilla;1
+202010;76823 - Toro;1
+202001;76828 - Trujillo;1
+202001;76834 - Tuluá;19
+202002;76834 - Tuluá;18
+202003;76834 - Tuluá;22
+202004;76834 - Tuluá;21
+202005;76834 - Tuluá;18
+202006;76834 - Tuluá;18
+202007;76834 - Tuluá;6
+202008;76834 - Tuluá;18
+202009;76834 - Tuluá;19
+202010;76834 - Tuluá;22
+202011;76834 - Tuluá;15
+202012;76834 - Tuluá;4
+202002;76845 - Ulloa;1
+202007;76845 - Ulloa;1
+202009;76845 - Ulloa;1
+202002;76869 - Vijes;1
+202003;76890 - Yotoco;1
+202003;76892 - Yumbo;2
+202004;76892 - Yumbo;3
+202008;76892 - Yumbo;2
+202009;76892 - Yumbo;1
+202010;76892 - Yumbo;1
+202011;76892 - Yumbo;1
+202008;76895 - Zarzal;1
+202009;76895 - Zarzal;4
+202010;76895 - Zarzal;1
+202001;81001 - Arauca;7
+202002;81001 - Arauca;9
+202003;81001 - Arauca;3
+202005;81001 - Arauca;3
+202007;81001 - Arauca;1
+202009;81001 - Arauca;3
+202010;81001 - Arauca;5
+202011;81001 - Arauca;1
+202012;81001 - Arauca;1
+202001;81065 - Arauquita;1
+202003;81065 - Arauquita;2
+202005;81065 - Arauquita;1
+202006;81065 - Arauquita;1
+202007;81065 - Arauquita;1
+202011;81065 - Arauquita;1
+202006;81300 - Fortul;1
+202001;81736 - Saravena;5
+202002;81736 - Saravena;3
+202003;81736 - Saravena;6
+202004;81736 - Saravena;1
+202005;81736 - Saravena;2
+202006;81736 - Saravena;7
+202007;81736 - Saravena;2
+202008;81736 - Saravena;4
+202009;81736 - Saravena;4
+202010;81736 - Saravena;6
+202011;81736 - Saravena;4
+202012;81736 - Saravena;1
+202002;81794 - Tame;1
+202005;81794 - Tame;2
+202008;81794 - Tame;1
+202001;85001 - Yopal;4
+202002;85001 - Yopal;7
+202003;85001 - Yopal;6
+202004;85001 - Yopal;1
+202005;85001 - Yopal;5
+202006;85001 - Yopal;4
+202007;85001 - Yopal;13
+202008;85001 - Yopal;9
+202009;85001 - Yopal;4
+202010;85001 - Yopal;9
+202011;85001 - Yopal;5
+202012;85001 - Yopal;2
+202007;85010 - Aguazul;1
+202008;85010 - Aguazul;2
+202009;85010 - Aguazul;1
+202009;85162 - Monterrey;1
+202010;85162 - Monterrey;1
+202011;85162 - Monterrey;1
+202002;85250 - Paz De Ariporo;1
+202003;85250 - Paz De Ariporo;1
+202007;85250 - Paz De Ariporo;1
+202011;85250 - Paz De Ariporo;1
+202007;85410 - Tauramena;1
+202008;85410 - Tauramena;1
+202009;85410 - Tauramena;1
+202004;85430 - Trinidad;1
+202001;86001 - Mocoa;2
+202002;86001 - Mocoa;1
+202005;86001 - Mocoa;1
+202006;86001 - Mocoa;2
+202008;86001 - Mocoa;2
+202010;86001 - Mocoa;1
+202011;86001 - Mocoa;2
+202009;86219 - Colón;2
+202010;86219 - Colón;1
+202006;86320 - Orito;1
+202007;86320 - Orito;1
+202001;86568 - Puerto Asís;5
+202002;86568 - Puerto Asís;10
+202003;86568 - Puerto Asís;6
+202004;86568 - Puerto Asís;3
+202005;86568 - Puerto Asís;2
+202006;86568 - Puerto Asís;2
+202008;86568 - Puerto Asís;3
+202009;86568 - Puerto Asís;4
+202010;86568 - Puerto Asís;9
+202011;86568 - Puerto Asís;2
+202012;86568 - Puerto Asís;2
+202006;86571 - Puerto Guzmán;1
+202008;86760 - Santiago;1
+202011;86865 - Valle Del Guamuez;1
+202001;86885 - Villagarzón;1
+202002;86885 - Villagarzón;1
+202008;86885 - Villagarzón;1
+202001;88001 - San Andrés;2
+202002;88001 - San Andrés;8
+202004;88001 - San Andrés;1
+202005;88001 - San Andrés;1
+202006;88001 - San Andrés;5
+202008;88001 - San Andrés;4
+202009;88001 - San Andrés;2
+202010;88001 - San Andrés;4
+202011;88001 - San Andrés;1
+202012;88001 - San Andrés;1
+202001;91001 - Leticia;1
+202006;91001 - Leticia;1
+202009;91001 - Leticia;3
+202010;91001 - Leticia;2
+202011;91001 - Leticia;1
+202012;91001 - Leticia;1
+202001;94001 - Inírida;1
+202002;94001 - Inírida;1
+202001;95001 - San José Del Guaviare;1
+202002;95001 - San José Del Guaviare;1
+202003;95001 - San José Del Guaviare;1
+202004;95001 - San José Del Guaviare;2
+202006;95001 - San José Del Guaviare;2
+202007;95001 - San José Del Guaviare;2
+202010;97001 - Mitú;1
+202011;97001 - Mitú;1
+202009;99624 - Santa Rosalía;1
+202011;99624 - Santa Rosalía;1
+202001;-1 - No Definido;32
+202002;-1 - No Definido;1
+202004;-1 - No Definido;36
+202005;-1 - No Definido;23
+202006;-1 - No Definido;37
+202007;-1 - No Definido;48
+202008;-1 - No Definido;1
+202009;-1 - No Definido;45
+202010;-1 - No Definido;49
+202011;-1 - No Definido;49
+202012;-1 - No Definido;1

@@ -1,0 +1,2829 @@
+﻿PeriodoNum;Municipio;CantidadPacientes
+201901;05001 - Medellín;318
+201902;05001 - Medellín;295
+201903;05001 - Medellín;300
+201904;05001 - Medellín;334
+201905;05001 - Medellín;342
+201906;05001 - Medellín;299
+201907;05001 - Medellín;460
+201908;05001 - Medellín;468
+201909;05001 - Medellín;500
+201910;05001 - Medellín;463
+201911;05001 - Medellín;472
+201912;05001 - Medellín;426
+201901;05002 - Abejorral;2
+201902;05002 - Abejorral;1
+201904;05002 - Abejorral;1
+201907;05002 - Abejorral;1
+201908;05002 - Abejorral;1
+201911;05002 - Abejorral;2
+201903;05030 - Amagá;2
+201905;05030 - Amagá;2
+201909;05030 - Amagá;1
+201910;05030 - Amagá;2
+201911;05030 - Amagá;5
+201912;05030 - Amagá;2
+201908;05031 - Amalfi;1
+201909;05031 - Amalfi;1
+201912;05031 - Amalfi;1
+201903;05034 - Andes;2
+201904;05034 - Andes;1
+201906;05034 - Andes;3
+201907;05034 - Andes;1
+201908;05034 - Andes;3
+201909;05034 - Andes;2
+201910;05034 - Andes;2
+201911;05034 - Andes;1
+201901;05038 - Angostura;2
+201903;05038 - Angostura;1
+201904;05038 - Angostura;2
+201905;05038 - Angostura;1
+201908;05038 - Angostura;1
+201910;05038 - Angostura;1
+201901;05042 - Santafé De Antioquia;1
+201904;05042 - Santafé De Antioquia;4
+201905;05042 - Santafé De Antioquia;6
+201906;05042 - Santafé De Antioquia;1
+201907;05042 - Santafé De Antioquia;4
+201908;05042 - Santafé De Antioquia;4
+201909;05042 - Santafé De Antioquia;2
+201910;05042 - Santafé De Antioquia;1
+201911;05042 - Santafé De Antioquia;6
+201906;05044 - Anza;1
+201901;05045 - Apartadó;15
+201902;05045 - Apartadó;9
+201903;05045 - Apartadó;12
+201904;05045 - Apartadó;9
+201905;05045 - Apartadó;10
+201906;05045 - Apartadó;14
+201907;05045 - Apartadó;17
+201908;05045 - Apartadó;26
+201909;05045 - Apartadó;26
+201910;05045 - Apartadó;12
+201911;05045 - Apartadó;23
+201912;05045 - Apartadó;11
+201909;05051 - Arboletes;1
+201911;05051 - Arboletes;1
+201903;05055 - Argelia;1
+201904;05059 - Armenia;2
+201906;05059 - Armenia;1
+201910;05059 - Armenia;1
+201901;05079 - Barbosa;1
+201903;05079 - Barbosa;3
+201904;05079 - Barbosa;1
+201905;05079 - Barbosa;2
+201906;05079 - Barbosa;1
+201908;05079 - Barbosa;2
+201909;05079 - Barbosa;1
+201910;05079 - Barbosa;1
+201911;05079 - Barbosa;1
+201910;05086 - Belmira;1
+201901;05088 - Bello;55
+201902;05088 - Bello;65
+201903;05088 - Bello;104
+201904;05088 - Bello;198
+201905;05088 - Bello;72
+201906;05088 - Bello;88
+201907;05088 - Bello;77
+201908;05088 - Bello;129
+201909;05088 - Bello;57
+201910;05088 - Bello;81
+201911;05088 - Bello;136
+201912;05088 - Bello;77
+201906;05091 - Betania;3
+201907;05091 - Betania;1
+201908;05091 - Betania;2
+201909;05091 - Betania;1
+201901;05093 - Betulia;1
+201901;05101 - Ciudad Bolívar;1
+201904;05101 - Ciudad Bolívar;2
+201906;05101 - Ciudad Bolívar;1
+201907;05101 - Ciudad Bolívar;1
+201908;05101 - Ciudad Bolívar;2
+201909;05101 - Ciudad Bolívar;1
+201910;05101 - Ciudad Bolívar;1
+201912;05101 - Ciudad Bolívar;1
+201908;05107 - Briceño;1
+201909;05107 - Briceño;2
+201910;05107 - Briceño;1
+201911;05107 - Briceño;3
+201912;05107 - Briceño;3
+201911;05120 - Cáceres;1
+201911;05125 - Caicedo;2
+201901;05129 - Caldas;4
+201902;05129 - Caldas;5
+201903;05129 - Caldas;5
+201904;05129 - Caldas;8
+201905;05129 - Caldas;4
+201906;05129 - Caldas;6
+201907;05129 - Caldas;7
+201908;05129 - Caldas;4
+201909;05129 - Caldas;6
+201910;05129 - Caldas;6
+201911;05129 - Caldas;4
+201912;05129 - Caldas;5
+201910;05134 - Campamento;1
+201902;05138 - Cañasgordas;1
+201903;05138 - Cañasgordas;2
+201905;05138 - Cañasgordas;1
+201906;05138 - Cañasgordas;1
+201911;05138 - Cañasgordas;1
+201909;05142 - Caracolí;1
+201902;05145 - Caramanta;1
+201910;05145 - Caramanta;1
+201901;05147 - Carepa;2
+201902;05147 - Carepa;3
+201904;05147 - Carepa;2
+201907;05147 - Carepa;3
+201908;05147 - Carepa;2
+201909;05147 - Carepa;1
+201910;05147 - Carepa;1
+201901;05148 - El Carmen De Viboral;1
+201902;05148 - El Carmen De Viboral;1
+201903;05148 - El Carmen De Viboral;4
+201904;05148 - El Carmen De Viboral;4
+201906;05148 - El Carmen De Viboral;1
+201907;05148 - El Carmen De Viboral;2
+201908;05148 - El Carmen De Viboral;1
+201909;05148 - El Carmen De Viboral;3
+201910;05148 - El Carmen De Viboral;10
+201911;05148 - El Carmen De Viboral;2
+201901;05150 - Carolina;1
+201903;05150 - Carolina;1
+201906;05150 - Carolina;1
+201911;05150 - Carolina;1
+201912;05150 - Carolina;1
+201901;05154 - Caucasia;1
+201903;05154 - Caucasia;2
+201904;05154 - Caucasia;4
+201905;05154 - Caucasia;3
+201906;05154 - Caucasia;1
+201907;05154 - Caucasia;2
+201908;05154 - Caucasia;1
+201909;05154 - Caucasia;1
+201910;05154 - Caucasia;1
+201911;05154 - Caucasia;1
+201912;05154 - Caucasia;4
+201903;05172 - Chigorodó;1
+201907;05172 - Chigorodó;1
+201908;05172 - Chigorodó;3
+201909;05172 - Chigorodó;1
+201910;05172 - Chigorodó;1
+201906;05190 - Cisneros;1
+201902;05197 - Cocorná;1
+201903;05197 - Cocorná;2
+201904;05197 - Cocorná;1
+201905;05197 - Cocorná;2
+201907;05209 - Concordia;1
+201909;05209 - Concordia;1
+201901;05212 - Copacabana;2
+201902;05212 - Copacabana;2
+201903;05212 - Copacabana;6
+201904;05212 - Copacabana;6
+201905;05212 - Copacabana;2
+201906;05212 - Copacabana;4
+201907;05212 - Copacabana;1
+201909;05212 - Copacabana;2
+201910;05212 - Copacabana;2
+201911;05212 - Copacabana;4
+201912;05212 - Copacabana;2
+201902;05234 - Dabeiba;1
+201907;05234 - Dabeiba;1
+201910;05234 - Dabeiba;2
+201911;05234 - Dabeiba;1
+201902;05237 - Don Matías;1
+201903;05237 - Don Matías;1
+201904;05237 - Don Matías;1
+201909;05237 - Don Matías;1
+201910;05237 - Don Matías;1
+201901;05250 - El Bagre;1
+201902;05250 - El Bagre;1
+201903;05250 - El Bagre;1
+201904;05250 - El Bagre;1
+201905;05250 - El Bagre;1
+201911;05250 - El Bagre;1
+201912;05250 - El Bagre;1
+201901;05266 - Envigado;16
+201902;05266 - Envigado;20
+201903;05266 - Envigado;18
+201904;05266 - Envigado;21
+201905;05266 - Envigado;23
+201906;05266 - Envigado;17
+201907;05266 - Envigado;30
+201908;05266 - Envigado;29
+201909;05266 - Envigado;24
+201910;05266 - Envigado;42
+201911;05266 - Envigado;33
+201912;05266 - Envigado;26
+201901;05282 - Fredonia;1
+201903;05282 - Fredonia;1
+201901;05284 - Frontino;1
+201905;05284 - Frontino;2
+201906;05284 - Frontino;1
+201902;05308 - Girardota;4
+201903;05308 - Girardota;2
+201905;05308 - Girardota;1
+201906;05308 - Girardota;1
+201907;05308 - Girardota;2
+201908;05308 - Girardota;4
+201909;05308 - Girardota;3
+201910;05308 - Girardota;3
+201911;05308 - Girardota;6
+201904;05310 - Gómez Plata;1
+201907;05310 - Gómez Plata;1
+201901;05315 - Guadalupe;1
+201902;05315 - Guadalupe;1
+201901;05318 - Guarne;1
+201902;05318 - Guarne;1
+201905;05318 - Guarne;2
+201906;05318 - Guarne;1
+201910;05318 - Guarne;1
+201911;05318 - Guarne;2
+201903;05321 - Guatape;1
+201904;05321 - Guatape;2
+201902;05347 - Heliconia;1
+201904;05353 - Hispania;1
+201906;05353 - Hispania;1
+201907;05353 - Hispania;1
+201901;05360 - Itagui;24
+201902;05360 - Itagui;15
+201903;05360 - Itagui;19
+201904;05360 - Itagui;21
+201905;05360 - Itagui;13
+201906;05360 - Itagui;22
+201907;05360 - Itagui;14
+201908;05360 - Itagui;18
+201909;05360 - Itagui;23
+201910;05360 - Itagui;22
+201911;05360 - Itagui;22
+201912;05360 - Itagui;9
+201911;05361 - Ituango;2
+201909;05364 - Jardín;1
+201902;05368 - Jericó;1
+201903;05368 - Jericó;1
+201905;05368 - Jericó;1
+201909;05368 - Jericó;1
+201910;05368 - Jericó;1
+201901;05376 - La Ceja;5
+201902;05376 - La Ceja;4
+201903;05376 - La Ceja;4
+201904;05376 - La Ceja;6
+201905;05376 - La Ceja;6
+201906;05376 - La Ceja;4
+201907;05376 - La Ceja;8
+201908;05376 - La Ceja;8
+201909;05376 - La Ceja;7
+201910;05376 - La Ceja;10
+201911;05376 - La Ceja;8
+201912;05376 - La Ceja;6
+201901;05380 - La Estrella;1
+201903;05380 - La Estrella;1
+201904;05380 - La Estrella;1
+201905;05380 - La Estrella;1
+201906;05380 - La Estrella;1
+201907;05380 - La Estrella;2
+201908;05380 - La Estrella;1
+201910;05380 - La Estrella;1
+201911;05380 - La Estrella;2
+201912;05380 - La Estrella;2
+201903;05400 - La Unión;1
+201907;05400 - La Unión;1
+201910;05411 - Liborina;1
+201904;05425 - Maceo;1
+201912;05425 - Maceo;1
+201901;05440 - Marinilla;2
+201902;05440 - Marinilla;1
+201903;05440 - Marinilla;2
+201904;05440 - Marinilla;3
+201906;05440 - Marinilla;2
+201907;05440 - Marinilla;2
+201908;05440 - Marinilla;1
+201909;05440 - Marinilla;1
+201910;05440 - Marinilla;6
+201911;05440 - Marinilla;1
+201902;05490 - Necoclí;2
+201905;05490 - Necoclí;1
+201910;05490 - Necoclí;1
+201907;05495 - Nechí;1
+201902;05541 - Peñol;3
+201910;05541 - Peñol;2
+201901;05543 - Peque;1
+201908;05543 - Peque;1
+201903;05576 - Pueblorrico;1
+201904;05576 - Pueblorrico;1
+201906;05576 - Pueblorrico;2
+201908;05576 - Pueblorrico;1
+201908;05579 - Puerto Berrío;2
+201911;05579 - Puerto Berrío;1
+201909;05585 - Puerto Nare;2
+201910;05585 - Puerto Nare;1
+201903;05591 - Puerto Triunfo;1
+201909;05591 - Puerto Triunfo;1
+201911;05591 - Puerto Triunfo;1
+201903;05604 - Remedios;1
+201908;05604 - Remedios;1
+201909;05604 - Remedios;1
+201910;05604 - Remedios;2
+201901;05607 - Retiro;1
+201906;05607 - Retiro;1
+201901;05615 - Rionegro;43
+201902;05615 - Rionegro;37
+201903;05615 - Rionegro;41
+201904;05615 - Rionegro;38
+201905;05615 - Rionegro;45
+201906;05615 - Rionegro;36
+201907;05615 - Rionegro;49
+201908;05615 - Rionegro;48
+201909;05615 - Rionegro;44
+201910;05615 - Rionegro;42
+201911;05615 - Rionegro;39
+201912;05615 - Rionegro;30
+201910;05628 - Sabanalarga;1
+201901;05631 - Sabaneta;7
+201902;05631 - Sabaneta;7
+201903;05631 - Sabaneta;3
+201904;05631 - Sabaneta;5
+201905;05631 - Sabaneta;3
+201906;05631 - Sabaneta;6
+201907;05631 - Sabaneta;5
+201908;05631 - Sabaneta;5
+201909;05631 - Sabaneta;4
+201910;05631 - Sabaneta;5
+201911;05631 - Sabaneta;4
+201912;05631 - Sabaneta;5
+201905;05642 - Salgar;1
+201912;05642 - Salgar;1
+201901;05647 - San Andrés De Cuerquía;1
+201903;05647 - San Andrés De Cuerquía;1
+201904;05647 - San Andrés De Cuerquía;1
+201905;05647 - San Andrés De Cuerquía;1
+201906;05647 - San Andrés De Cuerquía;1
+201902;05649 - San Carlos;1
+201903;05649 - San Carlos;2
+201904;05649 - San Carlos;1
+201905;05649 - San Carlos;1
+201906;05649 - San Carlos;2
+201908;05649 - San Carlos;1
+201910;05649 - San Carlos;1
+201911;05649 - San Carlos;3
+201901;05656 - San Jerónimo;1
+201902;05656 - San Jerónimo;1
+201903;05656 - San Jerónimo;1
+201907;05656 - San Jerónimo;1
+201911;05656 - San Jerónimo;1
+201909;05659 - San Juan De Urabá;1
+201906;05660 - San Luis;1
+201909;05660 - San Luis;1
+201910;05660 - San Luis;1
+201901;05664 - San Pedro;2
+201902;05664 - San Pedro;1
+201903;05664 - San Pedro;3
+201904;05664 - San Pedro;4
+201905;05664 - San Pedro;1
+201906;05664 - San Pedro;2
+201907;05664 - San Pedro;6
+201908;05664 - San Pedro;1
+201909;05664 - San Pedro;1
+201910;05664 - San Pedro;4
+201911;05664 - San Pedro;1
+201912;05664 - San Pedro;1
+201901;05665 - San Pedro De Uraba;2
+201906;05665 - San Pedro De Uraba;1
+201907;05665 - San Pedro De Uraba;1
+201908;05665 - San Pedro De Uraba;1
+201910;05665 - San Pedro De Uraba;1
+201903;05667 - San Rafael;1
+201904;05667 - San Rafael;1
+201910;05667 - San Rafael;1
+201911;05667 - San Rafael;2
+201912;05667 - San Rafael;2
+201902;05670 - San Roque;1
+201906;05670 - San Roque;1
+201911;05670 - San Roque;1
+201901;05674 - San Vicente;1
+201902;05674 - San Vicente;1
+201905;05674 - San Vicente;2
+201906;05674 - San Vicente;2
+201908;05674 - San Vicente;2
+201901;05679 - Santa Bárbara;2
+201902;05679 - Santa Bárbara;1
+201904;05679 - Santa Bárbara;1
+201905;05679 - Santa Bárbara;2
+201906;05679 - Santa Bárbara;3
+201907;05679 - Santa Bárbara;3
+201909;05679 - Santa Bárbara;2
+201910;05679 - Santa Bárbara;2
+201912;05679 - Santa Bárbara;3
+201901;05686 - Santa Rosa De Osos;2
+201903;05686 - Santa Rosa De Osos;1
+201905;05686 - Santa Rosa De Osos;1
+201906;05686 - Santa Rosa De Osos;2
+201909;05686 - Santa Rosa De Osos;3
+201910;05686 - Santa Rosa De Osos;1
+201911;05686 - Santa Rosa De Osos;1
+201902;05690 - Santo Domingo;1
+201907;05690 - Santo Domingo;1
+201901;05697 - El Santuario;1
+201902;05697 - El Santuario;1
+201903;05697 - El Santuario;1
+201904;05697 - El Santuario;1
+201906;05697 - El Santuario;2
+201907;05697 - El Santuario;4
+201908;05697 - El Santuario;1
+201909;05697 - El Santuario;1
+201910;05697 - El Santuario;1
+201906;05736 - Segovia;1
+201908;05736 - Segovia;3
+201909;05736 - Segovia;1
+201910;05736 - Segovia;2
+201901;05756 - Sonson;1
+201904;05756 - Sonson;1
+201905;05756 - Sonson;2
+201906;05756 - Sonson;1
+201908;05756 - Sonson;1
+201912;05756 - Sonson;1
+201903;05761 - Sopetrán;1
+201901;05789 - Támesis;2
+201902;05789 - Támesis;2
+201903;05789 - Támesis;2
+201905;05789 - Támesis;1
+201906;05789 - Támesis;1
+201908;05789 - Támesis;1
+201905;05790 - Tarazá;1
+201910;05790 - Tarazá;1
+201903;05792 - Tarso;1
+201909;05792 - Tarso;2
+201910;05792 - Tarso;1
+201911;05792 - Tarso;3
+201912;05792 - Tarso;1
+201904;05809 - Titiribí;3
+201906;05809 - Titiribí;2
+201908;05809 - Titiribí;1
+201909;05809 - Titiribí;2
+201910;05809 - Titiribí;2
+201911;05809 - Titiribí;3
+201912;05809 - Titiribí;1
+201901;05837 - Turbo;2
+201903;05837 - Turbo;2
+201904;05837 - Turbo;2
+201905;05837 - Turbo;3
+201906;05837 - Turbo;3
+201907;05837 - Turbo;1
+201908;05837 - Turbo;1
+201909;05837 - Turbo;2
+201910;05837 - Turbo;2
+201911;05837 - Turbo;2
+201901;05847 - Urrao;1
+201902;05847 - Urrao;1
+201905;05847 - Urrao;2
+201906;05847 - Urrao;3
+201907;05847 - Urrao;1
+201909;05847 - Urrao;1
+201911;05847 - Urrao;1
+201906;05854 - Valdivia;1
+201907;05854 - Valdivia;1
+201910;05854 - Valdivia;1
+201903;05856 - Valparaíso;1
+201903;05858 - Vegachí;1
+201905;05858 - Vegachí;1
+201905;05861 - Venecia;1
+201909;05861 - Venecia;2
+201910;05861 - Venecia;1
+201911;05861 - Venecia;1
+201910;05873 - Vigía Del Fuerte;1
+201901;05887 - Yarumal;3
+201903;05887 - Yarumal;1
+201904;05887 - Yarumal;1
+201905;05887 - Yarumal;2
+201906;05887 - Yarumal;2
+201907;05887 - Yarumal;1
+201908;05887 - Yarumal;1
+201910;05887 - Yarumal;1
+201911;05887 - Yarumal;1
+201905;05890 - Yolombó;2
+201907;05890 - Yolombó;1
+201908;05890 - Yolombó;1
+201910;05890 - Yolombó;1
+201912;05890 - Yolombó;1
+201901;08001 - Barranquilla;82
+201902;08001 - Barranquilla;80
+201903;08001 - Barranquilla;83
+201904;08001 - Barranquilla;92
+201905;08001 - Barranquilla;104
+201906;08001 - Barranquilla;83
+201907;08001 - Barranquilla;195
+201908;08001 - Barranquilla;180
+201909;08001 - Barranquilla;425
+201910;08001 - Barranquilla;288
+201911;08001 - Barranquilla;126
+201912;08001 - Barranquilla;218
+201901;08078 - Baranoa;1
+201902;08078 - Baranoa;1
+201911;08078 - Baranoa;1
+201912;08078 - Baranoa;2
+201909;08137 - Campo De La Cruz;2
+201910;08137 - Campo De La Cruz;2
+201911;08137 - Campo De La Cruz;1
+201912;08137 - Campo De La Cruz;3
+201909;08141 - Candelaria;1
+201903;08296 - Galapa;1
+201903;08372 - Juan De Acosta;1
+201912;08372 - Juan De Acosta;4
+201907;08421 - Luruaco;1
+201901;08433 - Malambo;1
+201904;08433 - Malambo;1
+201907;08433 - Malambo;5
+201908;08433 - Malambo;11
+201909;08433 - Malambo;5
+201910;08433 - Malambo;5
+201912;08433 - Malambo;7
+201909;08558 - Polonuevo;3
+201910;08558 - Polonuevo;3
+201911;08558 - Polonuevo;2
+201901;08560 - Ponedera;2
+201901;08573 - Puerto Colombia;9
+201902;08573 - Puerto Colombia;8
+201903;08573 - Puerto Colombia;3
+201904;08573 - Puerto Colombia;4
+201905;08573 - Puerto Colombia;2
+201906;08573 - Puerto Colombia;2
+201907;08573 - Puerto Colombia;8
+201908;08573 - Puerto Colombia;12
+201909;08573 - Puerto Colombia;11
+201910;08573 - Puerto Colombia;7
+201911;08573 - Puerto Colombia;4
+201912;08573 - Puerto Colombia;14
+201909;08634 - Sabanagrande;1
+201910;08634 - Sabanagrande;1
+201911;08634 - Sabanagrande;1
+201901;08638 - Sabanalarga;2
+201902;08638 - Sabanalarga;3
+201903;08638 - Sabanalarga;3
+201904;08638 - Sabanalarga;1
+201905;08638 - Sabanalarga;1
+201906;08638 - Sabanalarga;1
+201907;08638 - Sabanalarga;3
+201908;08638 - Sabanalarga;2
+201909;08638 - Sabanalarga;10
+201910;08638 - Sabanalarga;13
+201911;08638 - Sabanalarga;2
+201912;08638 - Sabanalarga;4
+201901;08758 - Soledad;6
+201902;08758 - Soledad;8
+201903;08758 - Soledad;11
+201904;08758 - Soledad;6
+201905;08758 - Soledad;4
+201906;08758 - Soledad;3
+201907;08758 - Soledad;65
+201908;08758 - Soledad;35
+201909;08758 - Soledad;63
+201910;08758 - Soledad;54
+201911;08758 - Soledad;21
+201912;08758 - Soledad;58
+201908;08832 - Tubará;1
+201912;08849 - Usiacurí;1
+201901;11001 - Bogotá, D.C.;682
+201902;11001 - Bogotá, D.C.;661
+201903;11001 - Bogotá, D.C.;716
+201904;11001 - Bogotá, D.C.;747
+201905;11001 - Bogotá, D.C.;842
+201906;11001 - Bogotá, D.C.;781
+201907;11001 - Bogotá, D.C.;848
+201908;11001 - Bogotá, D.C.;867
+201909;11001 - Bogotá, D.C.;815
+201910;11001 - Bogotá, D.C.;911
+201911;11001 - Bogotá, D.C.;841
+201912;11001 - Bogotá, D.C.;726
+201901;13001 - Cartagena;142
+201902;13001 - Cartagena;301
+201903;13001 - Cartagena;225
+201904;13001 - Cartagena;323
+201905;13001 - Cartagena;110
+201906;13001 - Cartagena;146
+201907;13001 - Cartagena;175
+201908;13001 - Cartagena;95
+201909;13001 - Cartagena;119
+201910;13001 - Cartagena;112
+201911;13001 - Cartagena;60
+201912;13001 - Cartagena;99
+201909;13006 - Achí;1
+201911;13006 - Achí;1
+201904;13052 - Arjona;2
+201906;13052 - Arjona;1
+201907;13052 - Arjona;2
+201908;13052 - Arjona;2
+201909;13052 - Arjona;1
+201910;13052 - Arjona;2
+201911;13052 - Arjona;1
+201910;13062 - Arroyohondo;2
+201907;13074 - Barranco De Loba;1
+201910;13074 - Barranco De Loba;2
+201912;13074 - Barranco De Loba;1
+201908;13160 - Cantagallo;7
+201910;13188 - Cicuco;2
+201907;13222 - Clemencia;1
+201901;13244 - El Carmen De Bolívar;1
+201903;13244 - El Carmen De Bolívar;1
+201904;13244 - El Carmen De Bolívar;4
+201907;13244 - El Carmen De Bolívar;29
+201908;13244 - El Carmen De Bolívar;27
+201909;13244 - El Carmen De Bolívar;57
+201910;13244 - El Carmen De Bolívar;33
+201911;13244 - El Carmen De Bolívar;3
+201912;13244 - El Carmen De Bolívar;5
+201909;13268 - El Peñón;1
+201901;13430 - Magangué;4
+201902;13430 - Magangué;11
+201903;13430 - Magangué;8
+201904;13430 - Magangué;11
+201905;13430 - Magangué;8
+201906;13430 - Magangué;5
+201907;13430 - Magangué;11
+201908;13430 - Magangué;11
+201909;13430 - Magangué;16
+201910;13430 - Magangué;11
+201911;13430 - Magangué;11
+201912;13430 - Magangué;7
+201908;13442 - María La Baja;5
+201909;13442 - María La Baja;14
+201910;13442 - María La Baja;8
+201912;13442 - María La Baja;12
+201907;13458 - Montecristo;1
+201901;13468 - Mompós;1
+201905;13468 - Mompós;1
+201907;13468 - Mompós;3
+201908;13468 - Mompós;1
+201909;13468 - Mompós;3
+201910;13468 - Mompós;1
+201911;13468 - Mompós;1
+201902;13473 - Morales;1
+201903;13473 - Morales;1
+201910;13549 - Pinillos;4
+201911;13549 - Pinillos;2
+201907;13654 - San Jacinto;6
+201912;13654 - San Jacinto;3
+201910;13655 - San Jacinto Del Cauca;1
+201903;13657 - San Juan Nepomuceno;1
+201904;13657 - San Juan Nepomuceno;1
+201905;13657 - San Juan Nepomuceno;2
+201907;13657 - San Juan Nepomuceno;15
+201908;13657 - San Juan Nepomuceno;17
+201909;13657 - San Juan Nepomuceno;14
+201910;13657 - San Juan Nepomuceno;6
+201911;13657 - San Juan Nepomuceno;2
+201912;13657 - San Juan Nepomuceno;10
+201909;13667 - San Martín De Loba;1
+201901;13670 - San Pablo;1
+201903;13670 - San Pablo;2
+201905;13670 - San Pablo;1
+201909;13670 - San Pablo;1
+201910;13670 - San Pablo;1
+201909;13673 - Santa Catalina;1
+201901;13683 - Santa Rosa;1
+201902;13683 - Santa Rosa;1
+201906;13683 - Santa Rosa;1
+201907;13683 - Santa Rosa;1
+201910;13683 - Santa Rosa;1
+201911;13683 - Santa Rosa;1
+201906;13688 - Santa Rosa Del Sur;1
+201909;13688 - Santa Rosa Del Sur;1
+201907;13744 - Simití;7
+201909;13744 - Simití;6
+201907;13810 - Tiquisio;3
+201908;13810 - Tiquisio;2
+201909;13810 - Tiquisio;5
+201910;13810 - Tiquisio;5
+201912;13810 - Tiquisio;2
+201902;13836 - Turbaco;1
+201906;13836 - Turbaco;2
+201907;13836 - Turbaco;4
+201908;13836 - Turbaco;3
+201909;13836 - Turbaco;13
+201910;13836 - Turbaco;3
+201911;13836 - Turbaco;3
+201912;13836 - Turbaco;5
+201907;13894 - Zambrano;3
+201908;13894 - Zambrano;2
+201909;13894 - Zambrano;3
+201910;13894 - Zambrano;1
+201912;13894 - Zambrano;1
+201901;15001 - Tunja;55
+201902;15001 - Tunja;55
+201903;15001 - Tunja;45
+201904;15001 - Tunja;69
+201905;15001 - Tunja;84
+201906;15001 - Tunja;54
+201907;15001 - Tunja;73
+201908;15001 - Tunja;62
+201909;15001 - Tunja;78
+201910;15001 - Tunja;99
+201911;15001 - Tunja;105
+201912;15001 - Tunja;69
+201909;15022 - Almeida;1
+201904;15047 - Aquitania;1
+201908;15047 - Aquitania;1
+201904;15051 - Arcabuco;1
+201902;15087 - Belén;1
+201901;15092 - Betéitiva;1
+201905;15092 - Betéitiva;1
+201911;15092 - Betéitiva;1
+201911;15104 - Boyacá;1
+201902;15114 - Busbanzá;1
+201903;15114 - Busbanzá;1
+201901;15176 - Chiquinquirá;1
+201902;15176 - Chiquinquirá;3
+201903;15176 - Chiquinquirá;5
+201904;15176 - Chiquinquirá;1
+201905;15176 - Chiquinquirá;1
+201906;15176 - Chiquinquirá;1
+201907;15176 - Chiquinquirá;1
+201908;15176 - Chiquinquirá;2
+201909;15176 - Chiquinquirá;1
+201910;15176 - Chiquinquirá;1
+201911;15176 - Chiquinquirá;1
+201910;15189 - Ciénega;1
+201905;15204 - Cómbita;1
+201905;15223 - Cubará;1
+201909;15226 - Cuítiva;1
+201910;15236 - Chivor;1
+201901;15238 - Duitama;7
+201902;15238 - Duitama;6
+201903;15238 - Duitama;12
+201904;15238 - Duitama;10
+201905;15238 - Duitama;8
+201906;15238 - Duitama;10
+201907;15238 - Duitama;10
+201908;15238 - Duitama;13
+201909;15238 - Duitama;10
+201910;15238 - Duitama;11
+201911;15238 - Duitama;13
+201912;15238 - Duitama;5
+201909;15244 - El Cocuy;1
+201905;15272 - Firavitoba;1
+201904;15276 - Floresta;1
+201909;15276 - Floresta;1
+201911;15293 - Gachantivá;1
+201902;15299 - Garagoa;1
+201908;15299 - Garagoa;1
+201909;15299 - Garagoa;1
+201911;15299 - Garagoa;1
+201912;15299 - Garagoa;1
+201901;15322 - Guateque;4
+201902;15322 - Guateque;5
+201903;15322 - Guateque;9
+201905;15322 - Guateque;4
+201906;15322 - Guateque;3
+201907;15322 - Guateque;1
+201908;15322 - Guateque;1
+201909;15322 - Guateque;1
+201910;15322 - Guateque;2
+201911;15322 - Guateque;3
+201912;15322 - Guateque;4
+201902;15380 - La Capilla;1
+201902;15407 - Villa De Leyva;2
+201903;15407 - Villa De Leyva;1
+201904;15407 - Villa De Leyva;1
+201905;15407 - Villa De Leyva;1
+201906;15407 - Villa De Leyva;1
+201909;15407 - Villa De Leyva;1
+201906;15425 - Macanal;1
+201902;15455 - Miraflores;1
+201904;15455 - Miraflores;1
+201907;15455 - Miraflores;1
+201908;15455 - Miraflores;2
+201910;15455 - Miraflores;1
+201902;15464 - Mongua;1
+201901;15469 - Moniquirá;1
+201903;15469 - Moniquirá;1
+201909;15469 - Moniquirá;1
+201910;15469 - Moniquirá;1
+201911;15469 - Moniquirá;1
+201902;15494 - Nuevo Colón;1
+201903;15494 - Nuevo Colón;1
+201906;15494 - Nuevo Colón;1
+201910;15494 - Nuevo Colón;1
+201907;15516 - Paipa;1
+201908;15516 - Paipa;1
+201909;15516 - Paipa;1
+201906;15531 - Pauna;1
+201905;15537 - Paz De Río;1
+201904;15542 - Pesca;1
+201901;15572 - Puerto Boyacá;1
+201902;15572 - Puerto Boyacá;1
+201903;15572 - Puerto Boyacá;1
+201905;15572 - Puerto Boyacá;1
+201909;15572 - Puerto Boyacá;1
+201911;15572 - Puerto Boyacá;1
+201901;15599 - Ramiriquí;1
+201904;15599 - Ramiriquí;2
+201906;15599 - Ramiriquí;1
+201907;15599 - Ramiriquí;1
+201910;15599 - Ramiriquí;1
+201904;15632 - Saboyá;1
+201907;15632 - Saboyá;1
+201901;15638 - Sáchica;1
+201901;15646 - Samacá;1
+201906;15646 - Samacá;1
+201910;15646 - Samacá;1
+201912;15646 - Samacá;1
+201903;15667 - San Luis De Gaceno;1
+201903;15686 - Santana;1
+201901;15753 - Soatá;2
+201902;15753 - Soatá;3
+201903;15753 - Soatá;1
+201908;15753 - Soatá;1
+201909;15753 - Soatá;4
+201910;15753 - Soatá;1
+201911;15753 - Soatá;5
+201912;15753 - Soatá;1
+201902;15757 - Socha;1
+201901;15759 - Sogamoso;15
+201902;15759 - Sogamoso;8
+201903;15759 - Sogamoso;18
+201904;15759 - Sogamoso;13
+201905;15759 - Sogamoso;19
+201906;15759 - Sogamoso;12
+201907;15759 - Sogamoso;35
+201908;15759 - Sogamoso;27
+201909;15759 - Sogamoso;12
+201910;15759 - Sogamoso;18
+201911;15759 - Sogamoso;14
+201912;15759 - Sogamoso;8
+201901;15776 - Sutamarchán;1
+201912;15798 - Tenza;1
+201912;15804 - Tibaná;1
+201912;15808 - Tinjacá;1
+201906;15814 - Toca;1
+201907;15814 - Toca;1
+201912;15820 - Tópaga;1
+201911;15822 - Tota;1
+201902;15835 - Turmequé;1
+201908;15835 - Turmequé;1
+201910;15835 - Turmequé;1
+201911;15835 - Turmequé;1
+201902;15837 - Tuta;2
+201904;15837 - Tuta;1
+201907;15842 - Umbita;1
+201901;17001 - Manizales;49
+201902;17001 - Manizales;55
+201903;17001 - Manizales;51
+201904;17001 - Manizales;55
+201905;17001 - Manizales;51
+201906;17001 - Manizales;49
+201907;17001 - Manizales;41
+201908;17001 - Manizales;58
+201909;17001 - Manizales;56
+201910;17001 - Manizales;58
+201911;17001 - Manizales;53
+201912;17001 - Manizales;51
+201903;17042 - Anserma;1
+201906;17050 - Aranzazu;1
+201908;17050 - Aranzazu;1
+201910;17050 - Aranzazu;1
+201907;17088 - Belalcázar;1
+201901;17174 - Chinchiná;2
+201902;17174 - Chinchiná;2
+201904;17174 - Chinchiná;3
+201905;17174 - Chinchiná;1
+201907;17174 - Chinchiná;2
+201908;17174 - Chinchiná;1
+201909;17174 - Chinchiná;1
+201911;17174 - Chinchiná;1
+201912;17174 - Chinchiná;2
+201911;17272 - Filadelfia;1
+201901;17380 - La Dorada;5
+201902;17380 - La Dorada;6
+201903;17380 - La Dorada;9
+201904;17380 - La Dorada;4
+201905;17380 - La Dorada;5
+201906;17380 - La Dorada;7
+201907;17380 - La Dorada;6
+201908;17380 - La Dorada;8
+201909;17380 - La Dorada;7
+201910;17380 - La Dorada;7
+201911;17380 - La Dorada;9
+201912;17380 - La Dorada;11
+201908;17433 - Manzanares;1
+201907;17444 - Marquetalia;1
+201910;17444 - Marquetalia;1
+201901;17486 - Neira;1
+201902;17486 - Neira;2
+201907;17486 - Neira;1
+201908;17486 - Neira;1
+201903;17495 - Norcasia;2
+201905;17541 - Pensilvania;1
+201911;17541 - Pensilvania;1
+201901;17614 - Riosucio;1
+201902;17614 - Riosucio;1
+201906;17614 - Riosucio;1
+201907;17614 - Riosucio;2
+201908;17614 - Riosucio;2
+201909;17614 - Riosucio;1
+201910;17614 - Riosucio;1
+201903;17616 - Risaralda;1
+201910;17653 - Salamina;1
+201911;17653 - Salamina;1
+201901;17662 - Samaná;2
+201902;17662 - Samaná;1
+201903;17662 - Samaná;1
+201904;17662 - Samaná;1
+201906;17662 - Samaná;1
+201907;17662 - Samaná;1
+201908;17662 - Samaná;1
+201903;17777 - Supía;3
+201905;17777 - Supía;5
+201906;17777 - Supía;2
+201909;17777 - Supía;1
+201910;17777 - Supía;1
+201908;17867 - Victoria;1
+201901;17873 - Villamaría;2
+201903;17873 - Villamaría;1
+201905;17873 - Villamaría;2
+201906;17873 - Villamaría;1
+201909;17873 - Villamaría;1
+201903;17877 - Viterbo;1
+201911;17877 - Viterbo;1
+201912;17877 - Viterbo;1
+201901;18001 - Florencia;16
+201902;18001 - Florencia;18
+201903;18001 - Florencia;15
+201904;18001 - Florencia;13
+201905;18001 - Florencia;20
+201906;18001 - Florencia;23
+201907;18001 - Florencia;24
+201908;18001 - Florencia;24
+201909;18001 - Florencia;20
+201910;18001 - Florencia;19
+201911;18001 - Florencia;28
+201912;18001 - Florencia;20
+201905;18094 - Belén De Los Andaquies;1
+201908;18094 - Belén De Los Andaquies;1
+201911;18094 - Belén De Los Andaquies;1
+201905;18150 - Cartagena Del Chairá;1
+201906;18150 - Cartagena Del Chairá;1
+201907;18150 - Cartagena Del Chairá;1
+201910;18205 - Curillo;1
+201904;18247 - El Doncello;1
+201903;18460 - Milán;1
+201908;18610 - San José Del Fragua;1
+201905;18753 - San Vicente Del Caguán;1
+201911;18753 - San Vicente Del Caguán;2
+201912;18753 - San Vicente Del Caguán;1
+201901;19001 - Popayán;51
+201902;19001 - Popayán;33
+201903;19001 - Popayán;41
+201904;19001 - Popayán;44
+201905;19001 - Popayán;46
+201906;19001 - Popayán;39
+201907;19001 - Popayán;60
+201908;19001 - Popayán;41
+201909;19001 - Popayán;50
+201910;19001 - Popayán;29
+201911;19001 - Popayán;33
+201912;19001 - Popayán;45
+201903;19050 - Argelia;1
+201912;19050 - Argelia;1
+201901;19100 - Bolívar;1
+201902;19100 - Bolívar;1
+201903;19100 - Bolívar;2
+201904;19100 - Bolívar;2
+201905;19100 - Bolívar;2
+201906;19100 - Bolívar;1
+201907;19100 - Bolívar;2
+201908;19100 - Bolívar;2
+201911;19100 - Bolívar;1
+201907;19110 - Buenos Aires;1
+201901;19130 - Cajibío;1
+201902;19130 - Cajibío;1
+201904;19130 - Cajibío;1
+201906;19130 - Cajibío;2
+201907;19130 - Cajibío;1
+201909;19137 - Caldono;1
+201904;19142 - Caloto;1
+201910;19212 - Corinto;1
+201901;19256 - El Tambo;1
+201902;19256 - El Tambo;1
+201903;19256 - El Tambo;1
+201904;19256 - El Tambo;3
+201905;19256 - El Tambo;1
+201907;19256 - El Tambo;1
+201910;19256 - El Tambo;2
+201911;19256 - El Tambo;2
+201912;19256 - El Tambo;1
+201906;19290 - Florencia;1
+201901;19300 - Guachené;1
+201901;19318 - Guapi;1
+201902;19318 - Guapi;1
+201903;19318 - Guapi;1
+201905;19318 - Guapi;1
+201908;19318 - Guapi;1
+201911;19355 - Inzá;1
+201912;19355 - Inzá;1
+201911;19397 - La Vega;1
+201903;19450 - Mercaderes;1
+201904;19450 - Mercaderes;1
+201908;19450 - Mercaderes;1
+201910;19450 - Mercaderes;1
+201902;19473 - Morales;2
+201903;19473 - Morales;1
+201908;19473 - Morales;1
+201909;19473 - Morales;2
+201912;19473 - Morales;1
+201901;19532 - Patía;2
+201908;19532 - Patía;1
+201910;19532 - Patía;3
+201911;19532 - Patía;1
+201912;19532 - Patía;1
+201904;19548 - Piendamó;1
+201906;19548 - Piendamó;1
+201907;19548 - Piendamó;1
+201908;19548 - Piendamó;4
+201909;19548 - Piendamó;2
+201910;19548 - Piendamó;1
+201912;19548 - Piendamó;1
+201901;19573 - Puerto Tejada;1
+201902;19573 - Puerto Tejada;2
+201903;19573 - Puerto Tejada;2
+201904;19573 - Puerto Tejada;3
+201905;19573 - Puerto Tejada;1
+201906;19573 - Puerto Tejada;2
+201907;19573 - Puerto Tejada;3
+201909;19573 - Puerto Tejada;1
+201910;19573 - Puerto Tejada;2
+201911;19573 - Puerto Tejada;1
+201912;19573 - Puerto Tejada;1
+201911;19622 - Rosas;1
+201901;19698 - Santander De Quilichao;2
+201904;19698 - Santander De Quilichao;4
+201906;19698 - Santander De Quilichao;2
+201907;19698 - Santander De Quilichao;5
+201908;19698 - Santander De Quilichao;4
+201909;19698 - Santander De Quilichao;7
+201910;19698 - Santander De Quilichao;1
+201911;19698 - Santander De Quilichao;1
+201912;19698 - Santander De Quilichao;2
+201905;19701 - Santa Rosa;1
+201910;19701 - Santa Rosa;1
+201906;19743 - Silvia;1
+201912;19780 - Suárez;1
+201904;19807 - Timbío;1
+201907;19807 - Timbío;1
+201910;19807 - Timbío;1
+201903;19821 - Toribio;1
+201909;19824 - Totoró;1
+201901;20001 - Valledupar;31
+201902;20001 - Valledupar;25
+201903;20001 - Valledupar;35
+201904;20001 - Valledupar;35
+201905;20001 - Valledupar;40
+201906;20001 - Valledupar;37
+201907;20001 - Valledupar;31
+201908;20001 - Valledupar;50
+201909;20001 - Valledupar;31
+201910;20001 - Valledupar;41
+201911;20001 - Valledupar;47
+201912;20001 - Valledupar;37
+201901;20011 - Aguachica;1
+201902;20011 - Aguachica;4
+201903;20011 - Aguachica;4
+201904;20011 - Aguachica;1
+201906;20011 - Aguachica;1
+201907;20011 - Aguachica;2
+201908;20011 - Aguachica;1
+201909;20011 - Aguachica;1
+201911;20011 - Aguachica;1
+201912;20011 - Aguachica;1
+201903;20013 - Agustín Codazzi;1
+201904;20013 - Agustín Codazzi;1
+201905;20013 - Agustín Codazzi;1
+201912;20013 - Agustín Codazzi;1
+201901;20060 - Bosconia;1
+201905;20060 - Bosconia;1
+201907;20060 - Bosconia;2
+201908;20060 - Bosconia;1
+201909;20060 - Bosconia;1
+201910;20060 - Bosconia;1
+201906;20175 - Chimichagua;1
+201902;20250 - El Paso;1
+201904;20295 - Gamarra;1
+201902;20400 - La Jagua De Ibirico;1
+201905;20550 - Pelaya;1
+201911;20614 - Río De Oro;1
+201912;20614 - Río De Oro;1
+201901;20710 - San Alberto;1
+201905;20710 - San Alberto;1
+201907;20710 - San Alberto;2
+201908;20770 - San Martín;1
+201912;20770 - San Martín;1
+201901;23001 - Montería;84
+201902;23001 - Montería;80
+201903;23001 - Montería;86
+201904;23001 - Montería;87
+201905;23001 - Montería;96
+201906;23001 - Montería;112
+201907;23001 - Montería;208
+201908;23001 - Montería;187
+201909;23001 - Montería;220
+201910;23001 - Montería;141
+201911;23001 - Montería;104
+201912;23001 - Montería;139
+201905;23068 - Ayapel;1
+201906;23068 - Ayapel;1
+201905;23090 - Canalete;1
+201907;23090 - Canalete;1
+201909;23090 - Canalete;4
+201910;23090 - Canalete;1
+201901;23162 - Cereté;2
+201902;23162 - Cereté;2
+201903;23162 - Cereté;1
+201904;23162 - Cereté;2
+201905;23162 - Cereté;2
+201906;23162 - Cereté;3
+201907;23162 - Cereté;3
+201908;23162 - Cereté;12
+201909;23162 - Cereté;122
+201910;23162 - Cereté;26
+201911;23162 - Cereté;20
+201912;23162 - Cereté;74
+201907;23168 - Chimá;6
+201908;23168 - Chimá;2
+201909;23168 - Chimá;6
+201910;23168 - Chimá;7
+201911;23168 - Chimá;2
+201912;23168 - Chimá;5
+201907;23182 - Chinú;12
+201908;23182 - Chinú;3
+201909;23182 - Chinú;10
+201910;23182 - Chinú;8
+201911;23182 - Chinú;2
+201912;23182 - Chinú;7
+201907;23189 - Ciénaga De Oro;15
+201908;23189 - Ciénaga De Oro;7
+201909;23189 - Ciénaga De Oro;10
+201910;23189 - Ciénaga De Oro;6
+201912;23189 - Ciénaga De Oro;2
+201907;23300 - Cotorra;1
+201908;23300 - Cotorra;6
+201912;23300 - Cotorra;1
+201901;23417 - Lorica;2
+201903;23417 - Lorica;2
+201904;23417 - Lorica;2
+201905;23417 - Lorica;3
+201906;23417 - Lorica;3
+201907;23417 - Lorica;3
+201908;23417 - Lorica;5
+201909;23417 - Lorica;9
+201910;23417 - Lorica;2
+201911;23417 - Lorica;3
+201912;23417 - Lorica;4
+201908;23419 - Los Córdobas;1
+201907;23464 - Momil;3
+201908;23464 - Momil;1
+201909;23464 - Momil;2
+201910;23464 - Momil;2
+201911;23464 - Momil;1
+201901;23466 - Montelíbano;1
+201903;23466 - Montelíbano;1
+201904;23466 - Montelíbano;2
+201906;23466 - Montelíbano;1
+201910;23466 - Montelíbano;4
+201911;23466 - Montelíbano;2
+201912;23466 - Montelíbano;3
+201906;23500 - Moñitos;1
+201908;23500 - Moñitos;1
+201909;23500 - Moñitos;5
+201910;23500 - Moñitos;3
+201911;23500 - Moñitos;4
+201912;23500 - Moñitos;1
+201901;23555 - Planeta Rica;1
+201903;23555 - Planeta Rica;1
+201906;23555 - Planeta Rica;1
+201907;23555 - Planeta Rica;11
+201908;23555 - Planeta Rica;10
+201909;23555 - Planeta Rica;14
+201910;23555 - Planeta Rica;8
+201911;23555 - Planeta Rica;3
+201912;23555 - Planeta Rica;3
+201907;23570 - Pueblo Nuevo;2
+201908;23570 - Pueblo Nuevo;2
+201909;23570 - Pueblo Nuevo;3
+201906;23580 - Puerto Libertador;1
+201911;23580 - Puerto Libertador;1
+201904;23586 - Purísima;1
+201905;23586 - Purísima;1
+201907;23586 - Purísima;4
+201908;23586 - Purísima;3
+201909;23586 - Purísima;5
+201910;23586 - Purísima;5
+201912;23586 - Purísima;3
+201901;23660 - Sahagún;2
+201902;23660 - Sahagún;2
+201904;23660 - Sahagún;2
+201905;23660 - Sahagún;3
+201906;23660 - Sahagún;2
+201907;23660 - Sahagún;10
+201908;23660 - Sahagún;5
+201909;23660 - Sahagún;6
+201910;23660 - Sahagún;4
+201911;23660 - Sahagún;2
+201912;23660 - Sahagún;6
+201907;23670 - San Andrés Sotavento;5
+201908;23670 - San Andrés Sotavento;18
+201909;23670 - San Andrés Sotavento;9
+201910;23670 - San Andrés Sotavento;2
+201911;23670 - San Andrés Sotavento;3
+201912;23670 - San Andrés Sotavento;3
+201906;23672 - San Antero;1
+201907;23672 - San Antero;1
+201908;23672 - San Antero;3
+201909;23672 - San Antero;9
+201910;23672 - San Antero;6
+201911;23672 - San Antero;3
+201912;23672 - San Antero;5
+201907;23675 - San Bernardo Del Viento;4
+201909;23675 - San Bernardo Del Viento;3
+201912;23675 - San Bernardo Del Viento;1
+201908;23686 - San Pelayo;4
+201910;23686 - San Pelayo;5
+201911;23686 - San Pelayo;3
+201912;23686 - San Pelayo;4
+201905;23807 - Tierralta;1
+201907;23807 - Tierralta;6
+201908;23807 - Tierralta;4
+201910;23807 - Tierralta;3
+201912;23807 - Tierralta;3
+201907;23855 - Valencia;3
+201908;23855 - Valencia;3
+201909;23855 - Valencia;2
+201910;23855 - Valencia;2
+201911;23855 - Valencia;3
+201912;23855 - Valencia;1
+201905;25040 - Anolaima;1
+201907;25040 - Anolaima;1
+201910;25040 - Anolaima;1
+201912;25040 - Anolaima;1
+201908;25053 - Arbeláez;1
+201910;25099 - Bojacá;1
+201904;25123 - Cachipay;1
+201901;25126 - Cajicá;1
+201902;25126 - Cajicá;1
+201903;25126 - Cajicá;1
+201905;25126 - Cajicá;2
+201907;25126 - Cajicá;1
+201908;25126 - Cajicá;1
+201909;25126 - Cajicá;1
+201910;25126 - Cajicá;2
+201911;25126 - Cajicá;3
+201901;25151 - Caqueza;1
+201902;25151 - Caqueza;1
+201904;25151 - Caqueza;2
+201905;25151 - Caqueza;1
+201906;25151 - Caqueza;1
+201908;25151 - Caqueza;1
+201909;25151 - Caqueza;1
+201910;25154 - Carmen De Carupa;1
+201901;25175 - Chía;15
+201902;25175 - Chía;12
+201903;25175 - Chía;18
+201904;25175 - Chía;20
+201905;25175 - Chía;14
+201906;25175 - Chía;19
+201907;25175 - Chía;14
+201908;25175 - Chía;15
+201909;25175 - Chía;16
+201910;25175 - Chía;22
+201911;25175 - Chía;20
+201912;25175 - Chía;20
+201901;25183 - Chocontá;2
+201902;25183 - Chocontá;4
+201903;25183 - Chocontá;1
+201905;25183 - Chocontá;4
+201906;25183 - Chocontá;2
+201907;25183 - Chocontá;3
+201908;25183 - Chocontá;1
+201909;25183 - Chocontá;1
+201910;25183 - Chocontá;2
+201911;25183 - Chocontá;1
+201912;25183 - Chocontá;3
+201901;25245 - El Colegio;1
+201902;25245 - El Colegio;1
+201903;25245 - El Colegio;2
+201906;25245 - El Colegio;1
+201907;25245 - El Colegio;2
+201909;25245 - El Colegio;1
+201903;25260 - El Rosal;1
+201904;25260 - El Rosal;1
+201908;25260 - El Rosal;1
+201901;25269 - Facatativá;22
+201902;25269 - Facatativá;18
+201903;25269 - Facatativá;10
+201904;25269 - Facatativá;10
+201905;25269 - Facatativá;25
+201906;25269 - Facatativá;20
+201907;25269 - Facatativá;19
+201908;25269 - Facatativá;19
+201909;25269 - Facatativá;14
+201910;25269 - Facatativá;23
+201911;25269 - Facatativá;24
+201912;25269 - Facatativá;22
+201903;25279 - Fomeque;2
+201905;25279 - Fomeque;1
+201908;25279 - Fomeque;1
+201910;25279 - Fomeque;1
+201911;25279 - Fomeque;1
+201901;25286 - Funza;2
+201902;25286 - Funza;11
+201903;25286 - Funza;9
+201904;25286 - Funza;9
+201905;25286 - Funza;8
+201906;25286 - Funza;6
+201907;25286 - Funza;6
+201908;25286 - Funza;10
+201909;25286 - Funza;8
+201910;25286 - Funza;10
+201911;25286 - Funza;6
+201912;25286 - Funza;5
+201901;25290 - Fusagasugá;8
+201902;25290 - Fusagasugá;6
+201903;25290 - Fusagasugá;7
+201904;25290 - Fusagasugá;14
+201905;25290 - Fusagasugá;15
+201906;25290 - Fusagasugá;13
+201907;25290 - Fusagasugá;12
+201908;25290 - Fusagasugá;5
+201909;25290 - Fusagasugá;20
+201910;25290 - Fusagasugá;14
+201911;25290 - Fusagasugá;15
+201912;25290 - Fusagasugá;12
+201901;25297 - Gachetá;1
+201909;25297 - Gachetá;2
+201910;25297 - Gachetá;2
+201912;25297 - Gachetá;4
+201901;25307 - Girardot;15
+201902;25307 - Girardot;7
+201903;25307 - Girardot;10
+201904;25307 - Girardot;10
+201905;25307 - Girardot;6
+201906;25307 - Girardot;7
+201907;25307 - Girardot;7
+201908;25307 - Girardot;5
+201909;25307 - Girardot;12
+201910;25307 - Girardot;4
+201911;25307 - Girardot;8
+201912;25307 - Girardot;5
+201902;25317 - Guachetá;1
+201909;25317 - Guachetá;1
+201911;25317 - Guachetá;1
+201901;25320 - Guaduas;1
+201902;25320 - Guaduas;1
+201903;25320 - Guaduas;2
+201904;25320 - Guaduas;1
+201905;25320 - Guaduas;3
+201906;25320 - Guaduas;3
+201910;25320 - Guaduas;3
+201911;25320 - Guaduas;1
+201902;25322 - Guasca;1
+201901;25326 - Guatavita;1
+201910;25326 - Guatavita;1
+201911;25372 - Junín;1
+201901;25386 - La Mesa;1
+201902;25386 - La Mesa;4
+201903;25386 - La Mesa;2
+201905;25386 - La Mesa;2
+201906;25386 - La Mesa;1
+201907;25386 - La Mesa;1
+201908;25386 - La Mesa;1
+201909;25386 - La Mesa;1
+201910;25386 - La Mesa;1
+201912;25386 - La Mesa;3
+201903;25402 - La Vega;1
+201905;25402 - La Vega;1
+201906;25402 - La Vega;1
+201907;25402 - La Vega;1
+201912;25402 - La Vega;1
+201901;25430 - Madrid;2
+201902;25430 - Madrid;1
+201903;25430 - Madrid;3
+201904;25430 - Madrid;3
+201905;25430 - Madrid;3
+201906;25430 - Madrid;2
+201907;25430 - Madrid;6
+201908;25430 - Madrid;6
+201909;25430 - Madrid;8
+201910;25430 - Madrid;4
+201912;25430 - Madrid;2
+201905;25438 - Medina;1
+201901;25473 - Mosquera;4
+201902;25473 - Mosquera;2
+201903;25473 - Mosquera;1
+201904;25473 - Mosquera;4
+201905;25473 - Mosquera;1
+201907;25473 - Mosquera;1
+201908;25473 - Mosquera;3
+201909;25473 - Mosquera;1
+201911;25473 - Mosquera;1
+201912;25473 - Mosquera;1
+201906;25486 - Nemocón;1
+201908;25486 - Nemocón;1
+201912;25486 - Nemocón;1
+201901;25513 - Pacho;1
+201902;25513 - Pacho;1
+201903;25513 - Pacho;6
+201904;25513 - Pacho;1
+201907;25513 - Pacho;1
+201909;25513 - Pacho;1
+201911;25513 - Pacho;2
+201907;25572 - Puerto Salgar;2
+201907;25599 - Apulo;1
+201903;25645 - San Antonio Del Tequendama;1
+201911;25645 - San Antonio Del Tequendama;1
+201909;25658 - San Francisco;1
+201906;25662 - San Juan De Río Seco;1
+201909;25662 - San Juan De Río Seco;1
+201911;25662 - San Juan De Río Seco;1
+201907;25718 - Sasaima;1
+201908;25736 - Sesquilé;1
+201903;25740 - Sibaté;1
+201904;25740 - Sibaté;2
+201905;25740 - Sibaté;4
+201908;25740 - Sibaté;1
+201909;25740 - Sibaté;2
+201910;25740 - Sibaté;1
+201911;25740 - Sibaté;1
+201912;25740 - Sibaté;1
+201907;25743 - Silvania;1
+201911;25743 - Silvania;1
+201901;25754 - Soacha;20
+201902;25754 - Soacha;19
+201903;25754 - Soacha;27
+201904;25754 - Soacha;21
+201905;25754 - Soacha;29
+201906;25754 - Soacha;18
+201907;25754 - Soacha;17
+201908;25754 - Soacha;22
+201909;25754 - Soacha;19
+201910;25754 - Soacha;28
+201911;25754 - Soacha;16
+201912;25754 - Soacha;22
+201901;25758 - Sopó;1
+201904;25758 - Sopó;1
+201906;25758 - Sopó;1
+201907;25758 - Sopó;1
+201910;25758 - Sopó;1
+201901;25769 - Subachoque;1
+201902;25769 - Subachoque;1
+201903;25769 - Subachoque;1
+201904;25769 - Subachoque;1
+201902;25772 - Suesca;1
+201909;25772 - Suesca;1
+201910;25793 - Tausa;1
+201902;25799 - Tenjo;2
+201903;25799 - Tenjo;1
+201904;25799 - Tenjo;1
+201908;25815 - Tocaima;1
+201912;25815 - Tocaima;1
+201901;25817 - Tocancipá;1
+201904;25817 - Tocancipá;2
+201905;25817 - Tocancipá;1
+201906;25817 - Tocancipá;1
+201910;25817 - Tocancipá;1
+201911;25817 - Tocancipá;1
+201902;25843 - Villa De San Diego De Ubate;1
+201903;25843 - Villa De San Diego De Ubate;1
+201904;25843 - Villa De San Diego De Ubate;1
+201905;25843 - Villa De San Diego De Ubate;2
+201906;25843 - Villa De San Diego De Ubate;1
+201907;25843 - Villa De San Diego De Ubate;5
+201908;25843 - Villa De San Diego De Ubate;2
+201909;25843 - Villa De San Diego De Ubate;1
+201910;25843 - Villa De San Diego De Ubate;6
+201911;25843 - Villa De San Diego De Ubate;1
+201912;25843 - Villa De San Diego De Ubate;2
+201909;25867 - Vianí;1
+201911;25867 - Vianí;1
+201902;25875 - Villeta;1
+201905;25875 - Villeta;1
+201910;25875 - Villeta;1
+201911;25875 - Villeta;1
+201912;25875 - Villeta;1
+201907;25878 - Viotá;1
+201901;25899 - Zipaquirá;15
+201902;25899 - Zipaquirá;14
+201903;25899 - Zipaquirá;14
+201904;25899 - Zipaquirá;14
+201905;25899 - Zipaquirá;18
+201906;25899 - Zipaquirá;11
+201907;25899 - Zipaquirá;7
+201908;25899 - Zipaquirá;21
+201909;25899 - Zipaquirá;13
+201910;25899 - Zipaquirá;25
+201911;25899 - Zipaquirá;18
+201912;25899 - Zipaquirá;19
+201901;27001 - Quibdó;11
+201902;27001 - Quibdó;12
+201903;27001 - Quibdó;11
+201904;27001 - Quibdó;12
+201905;27001 - Quibdó;9
+201906;27001 - Quibdó;10
+201907;27001 - Quibdó;4
+201908;27001 - Quibdó;6
+201909;27001 - Quibdó;7
+201910;27001 - Quibdó;8
+201911;27001 - Quibdó;4
+201912;27001 - Quibdó;9
+201911;27150 - Carmen Del Darien;1
+201901;27361 - Istmina;1
+201909;27800 - Unguía;1
+201910;27800 - Unguía;1
+201911;27800 - Unguía;1
+201901;41001 - Neiva;40
+201902;41001 - Neiva;34
+201903;41001 - Neiva;42
+201904;41001 - Neiva;29
+201905;41001 - Neiva;42
+201906;41001 - Neiva;43
+201907;41001 - Neiva;45
+201908;41001 - Neiva;40
+201909;41001 - Neiva;57
+201910;41001 - Neiva;65
+201911;41001 - Neiva;73
+201912;41001 - Neiva;53
+201904;41006 - Acevedo;1
+201907;41006 - Acevedo;2
+201911;41016 - Aipe;1
+201912;41016 - Aipe;1
+201901;41020 - Algeciras;1
+201904;41020 - Algeciras;1
+201905;41020 - Algeciras;1
+201911;41020 - Algeciras;1
+201905;41078 - Baraya;1
+201910;41132 - Campoalegre;1
+201911;41132 - Campoalegre;1
+201901;41298 - Garzón;5
+201902;41298 - Garzón;4
+201903;41298 - Garzón;7
+201904;41298 - Garzón;7
+201905;41298 - Garzón;7
+201906;41298 - Garzón;10
+201907;41298 - Garzón;10
+201908;41298 - Garzón;8
+201909;41298 - Garzón;14
+201910;41298 - Garzón;5
+201911;41298 - Garzón;16
+201912;41298 - Garzón;11
+201901;41306 - Gigante;1
+201903;41306 - Gigante;1
+201908;41306 - Gigante;1
+201907;41319 - Guadalupe;1
+201907;41349 - Hobo;1
+201908;41349 - Hobo;1
+201906;41359 - Isnos;1
+201902;41396 - La Plata;2
+201903;41396 - La Plata;3
+201904;41396 - La Plata;1
+201905;41396 - La Plata;3
+201906;41396 - La Plata;4
+201907;41396 - La Plata;2
+201908;41396 - La Plata;1
+201909;41396 - La Plata;4
+201910;41396 - La Plata;4
+201911;41396 - La Plata;5
+201901;41503 - Oporapa;1
+201902;41503 - Oporapa;1
+201904;41503 - Oporapa;1
+201907;41524 - Palermo;1
+201910;41524 - Palermo;1
+201901;41530 - Palestina;1
+201901;41548 - Pital;1
+201902;41548 - Pital;1
+201903;41548 - Pital;1
+201909;41548 - Pital;1
+201911;41548 - Pital;1
+201901;41551 - Pitalito;9
+201902;41551 - Pitalito;5
+201903;41551 - Pitalito;9
+201904;41551 - Pitalito;3
+201905;41551 - Pitalito;7
+201906;41551 - Pitalito;6
+201907;41551 - Pitalito;3
+201908;41551 - Pitalito;5
+201909;41551 - Pitalito;13
+201910;41551 - Pitalito;2
+201911;41551 - Pitalito;9
+201912;41551 - Pitalito;9
+201907;41615 - Rivera;1
+201908;41615 - Rivera;1
+201901;41660 - Saladoblanco;1
+201902;41660 - Saladoblanco;1
+201906;41660 - Saladoblanco;1
+201911;41660 - Saladoblanco;1
+201908;41668 - San Agustín;1
+201910;41668 - San Agustín;1
+201905;41676 - Santa María;1
+201908;41676 - Santa María;1
+201910;41676 - Santa María;1
+201904;41770 - Suaza;3
+201905;41770 - Suaza;1
+201906;41770 - Suaza;1
+201908;41770 - Suaza;2
+201908;41791 - Tarqui;1
+201909;41791 - Tarqui;1
+201910;41791 - Tarqui;1
+201911;41791 - Tarqui;1
+201906;41885 - Yaguará;1
+201901;44001 - Riohacha;10
+201902;44001 - Riohacha;9
+201903;44001 - Riohacha;6
+201904;44001 - Riohacha;10
+201905;44001 - Riohacha;8
+201906;44001 - Riohacha;8
+201907;44001 - Riohacha;10
+201908;44001 - Riohacha;10
+201909;44001 - Riohacha;10
+201910;44001 - Riohacha;10
+201911;44001 - Riohacha;8
+201912;44001 - Riohacha;5
+201907;44078 - Barrancas;1
+201908;44090 - Dibulla;1
+201903;44098 - Distracción;1
+201902;44279 - Fonseca;2
+201903;44279 - Fonseca;1
+201904;44279 - Fonseca;1
+201905;44279 - Fonseca;2
+201906;44279 - Fonseca;1
+201907;44279 - Fonseca;1
+201908;44378 - Hatonuevo;1
+201901;44430 - Maicao;5
+201902;44430 - Maicao;1
+201903;44430 - Maicao;2
+201904;44430 - Maicao;2
+201905;44430 - Maicao;4
+201906;44430 - Maicao;6
+201907;44430 - Maicao;5
+201908;44430 - Maicao;4
+201909;44430 - Maicao;2
+201910;44430 - Maicao;3
+201911;44430 - Maicao;3
+201912;44430 - Maicao;2
+201901;44650 - San Juan Del Cesar;3
+201902;44650 - San Juan Del Cesar;3
+201903;44650 - San Juan Del Cesar;4
+201904;44650 - San Juan Del Cesar;5
+201905;44650 - San Juan Del Cesar;6
+201906;44650 - San Juan Del Cesar;5
+201907;44650 - San Juan Del Cesar;4
+201908;44650 - San Juan Del Cesar;2
+201909;44650 - San Juan Del Cesar;6
+201910;44650 - San Juan Del Cesar;3
+201911;44650 - San Juan Del Cesar;5
+201912;44650 - San Juan Del Cesar;1
+201908;44847 - Uribia;1
+201902;44874 - Villanueva;1
+201912;44874 - Villanueva;1
+201901;47001 - Santa Marta;10
+201902;47001 - Santa Marta;10
+201903;47001 - Santa Marta;10
+201904;47001 - Santa Marta;7
+201905;47001 - Santa Marta;23
+201906;47001 - Santa Marta;17
+201907;47001 - Santa Marta;35
+201908;47001 - Santa Marta;32
+201909;47001 - Santa Marta;33
+201910;47001 - Santa Marta;32
+201911;47001 - Santa Marta;25
+201912;47001 - Santa Marta;31
+201901;47189 - Ciénaga;1
+201902;47189 - Ciénaga;1
+201903;47189 - Ciénaga;2
+201904;47189 - Ciénaga;2
+201905;47189 - Ciénaga;4
+201906;47189 - Ciénaga;1
+201907;47189 - Ciénaga;27
+201908;47189 - Ciénaga;18
+201909;47189 - Ciénaga;24
+201910;47189 - Ciénaga;21
+201911;47189 - Ciénaga;11
+201912;47189 - Ciénaga;6
+201902;47245 - El Banco;1
+201905;47245 - El Banco;1
+201906;47245 - El Banco;1
+201907;47245 - El Banco;21
+201908;47245 - El Banco;5
+201909;47245 - El Banco;15
+201910;47245 - El Banco;4
+201912;47245 - El Banco;9
+201902;47288 - Fundación;1
+201903;47288 - Fundación;2
+201904;47288 - Fundación;3
+201905;47288 - Fundación;5
+201906;47288 - Fundación;1
+201907;47288 - Fundación;7
+201908;47288 - Fundación;2
+201909;47288 - Fundación;1
+201910;47288 - Fundación;1
+201911;47288 - Fundación;4
+201912;47288 - Fundación;3
+201904;47318 - Guamal;1
+201906;47318 - Guamal;1
+201908;47318 - Guamal;2
+201909;47318 - Guamal;1
+201910;47318 - Guamal;1
+201911;47318 - Guamal;1
+201908;47460 - Nueva Granada;2
+201910;47460 - Nueva Granada;2
+201912;47460 - Nueva Granada;6
+201903;47551 - Pivijay;1
+201904;47551 - Pivijay;1
+201905;47551 - Pivijay;1
+201910;47551 - Pivijay;2
+201901;47555 - Plato;1
+201903;47555 - Plato;3
+201907;47555 - Plato;8
+201908;47555 - Plato;11
+201909;47555 - Plato;16
+201910;47555 - Plato;8
+201911;47555 - Plato;3
+201912;47555 - Plato;22
+201906;47570 - Puebloviejo;1
+201907;47675 - Salamina;2
+201909;47675 - Salamina;1
+201910;47675 - Salamina;2
+201910;47692 - San Sebastián De Buenavista;1
+201907;47707 - Santa Ana;6
+201908;47707 - Santa Ana;8
+201909;47707 - Santa Ana;6
+201910;47707 - Santa Ana;3
+201911;47707 - Santa Ana;3
+201905;47980 - Zona Bananera;1
+201901;50001 - Villavicencio;26
+201902;50001 - Villavicencio;37
+201903;50001 - Villavicencio;38
+201904;50001 - Villavicencio;48
+201905;50001 - Villavicencio;43
+201906;50001 - Villavicencio;42
+201907;50001 - Villavicencio;57
+201908;50001 - Villavicencio;75
+201909;50001 - Villavicencio;43
+201910;50001 - Villavicencio;30
+201911;50001 - Villavicencio;34
+201912;50001 - Villavicencio;32
+201901;50006 - Acacías;1
+201902;50006 - Acacías;1
+201903;50006 - Acacías;1
+201905;50006 - Acacías;2
+201906;50006 - Acacías;2
+201908;50006 - Acacías;3
+201909;50006 - Acacías;4
+201910;50006 - Acacías;3
+201912;50006 - Acacías;5
+201908;50223 - Cubarral;1
+201912;50223 - Cubarral;1
+201902;50226 - Cumaral;1
+201901;50287 - Fuente De Oro;1
+201904;50287 - Fuente De Oro;1
+201905;50287 - Fuente De Oro;1
+201907;50287 - Fuente De Oro;1
+201908;50287 - Fuente De Oro;1
+201909;50287 - Fuente De Oro;1
+201901;50313 - Granada;4
+201902;50313 - Granada;7
+201903;50313 - Granada;10
+201904;50313 - Granada;2
+201905;50313 - Granada;5
+201906;50313 - Granada;7
+201907;50313 - Granada;5
+201908;50313 - Granada;8
+201909;50313 - Granada;7
+201910;50313 - Granada;7
+201911;50313 - Granada;5
+201912;50313 - Granada;5
+201903;50318 - Guamal;1
+201906;50330 - Mesetas;1
+201903;50573 - Puerto López;1
+201904;50573 - Puerto López;1
+201910;50573 - Puerto López;1
+201901;50606 - Restrepo;1
+201903;50606 - Restrepo;1
+201904;50606 - Restrepo;1
+201910;50606 - Restrepo;1
+201901;52001 - Pasto;105
+201902;52001 - Pasto;131
+201903;52001 - Pasto;116
+201904;52001 - Pasto;126
+201905;52001 - Pasto;137
+201906;52001 - Pasto;157
+201907;52001 - Pasto;151
+201908;52001 - Pasto;169
+201909;52001 - Pasto;157
+201910;52001 - Pasto;129
+201911;52001 - Pasto;119
+201912;52001 - Pasto;125
+201901;52019 - Albán;1
+201902;52019 - Albán;1
+201905;52019 - Albán;2
+201907;52019 - Albán;1
+201908;52019 - Albán;1
+201911;52019 - Albán;1
+201910;52036 - Ancuyá;1
+201904;52079 - Barbacoas;1
+201905;52079 - Barbacoas;2
+201906;52079 - Barbacoas;1
+201907;52079 - Barbacoas;1
+201909;52079 - Barbacoas;1
+201910;52079 - Barbacoas;2
+201901;52110 - Buesaco;2
+201906;52110 - Buesaco;1
+201907;52110 - Buesaco;1
+201908;52110 - Buesaco;1
+201909;52110 - Buesaco;1
+201910;52110 - Buesaco;1
+201909;52203 - Colón;1
+201902;52207 - Consaca;1
+201903;52207 - Consaca;1
+201904;52207 - Consaca;3
+201905;52207 - Consaca;2
+201906;52207 - Consaca;1
+201909;52210 - Contadero;1
+201911;52210 - Contadero;1
+201903;52215 - Córdoba;1
+201911;52215 - Córdoba;1
+201903;52227 - Cumbal;1
+201904;52227 - Cumbal;1
+201902;52240 - Chachagüí;2
+201903;52240 - Chachagüí;1
+201906;52250 - El Charco;1
+201906;52258 - El Tablón De Gómez;2
+201907;52258 - El Tablón De Gómez;2
+201902;52260 - El Tambo;1
+201903;52260 - El Tambo;2
+201904;52260 - El Tambo;1
+201906;52260 - El Tambo;1
+201907;52260 - El Tambo;1
+201905;52287 - Funes;1
+201907;52287 - Funes;2
+201912;52317 - Guachucal;1
+201902;52320 - Guaitarilla;1
+201903;52320 - Guaitarilla;2
+201906;52320 - Guaitarilla;1
+201907;52320 - Guaitarilla;1
+201908;52320 - Guaitarilla;1
+201901;52354 - Imués;2
+201902;52354 - Imués;1
+201903;52354 - Imués;1
+201904;52354 - Imués;1
+201908;52354 - Imués;1
+201901;52356 - Ipiales;25
+201902;52356 - Ipiales;30
+201903;52356 - Ipiales;32
+201904;52356 - Ipiales;28
+201905;52356 - Ipiales;38
+201906;52356 - Ipiales;30
+201907;52356 - Ipiales;28
+201908;52356 - Ipiales;30
+201909;52356 - Ipiales;22
+201910;52356 - Ipiales;30
+201911;52356 - Ipiales;22
+201912;52356 - Ipiales;24
+201901;52378 - La Cruz;4
+201902;52378 - La Cruz;4
+201903;52378 - La Cruz;1
+201905;52378 - La Cruz;3
+201906;52378 - La Cruz;1
+201907;52378 - La Cruz;1
+201908;52378 - La Cruz;1
+201909;52378 - La Cruz;1
+201910;52378 - La Cruz;2
+201911;52378 - La Cruz;1
+201912;52378 - La Cruz;4
+201901;52399 - La Unión;1
+201903;52399 - La Unión;1
+201904;52399 - La Unión;3
+201905;52399 - La Unión;2
+201906;52399 - La Unión;6
+201907;52399 - La Unión;4
+201908;52399 - La Unión;2
+201909;52399 - La Unión;2
+201910;52399 - La Unión;2
+201911;52399 - La Unión;2
+201912;52399 - La Unión;3
+201904;52405 - Leiva;1
+201905;52405 - Leiva;1
+201909;52411 - Linares;1
+201912;52411 - Linares;1
+201903;52418 - Los Andes;1
+201905;52418 - Los Andes;1
+201911;52506 - Ospina;1
+201912;52506 - Ospina;1
+201910;52540 - Policarpa;1
+201903;52560 - Potosí;1
+201908;52573 - Puerres;1
+201912;52585 - Pupiales;1
+201910;52612 - Ricaurte;1
+201906;52678 - Samaniego;1
+201909;52678 - Samaniego;1
+201910;52678 - Samaniego;2
+201911;52678 - Samaniego;1
+201912;52678 - Samaniego;1
+201902;52683 - Sandoná;1
+201903;52683 - Sandoná;1
+201906;52683 - Sandoná;1
+201907;52683 - Sandoná;1
+201908;52683 - Sandoná;3
+201909;52683 - Sandoná;1
+201910;52683 - Sandoná;1
+201911;52683 - Sandoná;2
+201912;52683 - Sandoná;2
+201903;52685 - San Bernardo;1
+201908;52685 - San Bernardo;1
+201909;52685 - San Bernardo;1
+201912;52685 - San Bernardo;1
+201902;52687 - San Lorenzo;1
+201904;52687 - San Lorenzo;1
+201907;52687 - San Lorenzo;1
+201908;52687 - San Lorenzo;1
+201910;52687 - San Lorenzo;1
+201911;52687 - San Lorenzo;1
+201908;52693 - San Pablo;1
+201903;52694 - San Pedro De Cartago;1
+201910;52694 - San Pedro De Cartago;1
+201910;52720 - Sapuyes;1
+201901;52786 - Taminango;3
+201902;52786 - Taminango;1
+201903;52786 - Taminango;1
+201905;52786 - Taminango;1
+201906;52786 - Taminango;2
+201909;52786 - Taminango;2
+201911;52786 - Taminango;2
+201912;52786 - Taminango;1
+201901;52788 - Tangua;1
+201906;52788 - Tangua;1
+201901;52835 - San Andres De Tumaco;3
+201902;52835 - San Andres De Tumaco;3
+201903;52835 - San Andres De Tumaco;6
+201904;52835 - San Andres De Tumaco;9
+201905;52835 - San Andres De Tumaco;4
+201906;52835 - San Andres De Tumaco;4
+201907;52835 - San Andres De Tumaco;3
+201908;52835 - San Andres De Tumaco;3
+201909;52835 - San Andres De Tumaco;3
+201910;52835 - San Andres De Tumaco;6
+201911;52835 - San Andres De Tumaco;2
+201912;52835 - San Andres De Tumaco;6
+201902;52838 - Túquerres;2
+201903;52838 - Túquerres;2
+201904;52838 - Túquerres;1
+201905;52838 - Túquerres;3
+201906;52838 - Túquerres;6
+201907;52838 - Túquerres;5
+201908;52838 - Túquerres;2
+201909;52838 - Túquerres;2
+201910;52838 - Túquerres;3
+201911;52838 - Túquerres;3
+201912;52838 - Túquerres;5
+201904;52885 - Yacuanquer;1
+201905;52885 - Yacuanquer;1
+201906;52885 - Yacuanquer;1
+201908;52885 - Yacuanquer;1
+201909;52885 - Yacuanquer;2
+201910;52885 - Yacuanquer;2
+201911;52885 - Yacuanquer;2
+201912;52885 - Yacuanquer;1
+201901;54001 - Cúcuta;57
+201902;54001 - Cúcuta;72
+201903;54001 - Cúcuta;90
+201904;54001 - Cúcuta;74
+201905;54001 - Cúcuta;92
+201906;54001 - Cúcuta;68
+201907;54001 - Cúcuta;90
+201908;54001 - Cúcuta;74
+201909;54001 - Cúcuta;90
+201910;54001 - Cúcuta;82
+201911;54001 - Cúcuta;84
+201912;54001 - Cúcuta;56
+201911;54003 - Abrego;1
+201902;54051 - Arboledas;1
+201901;54128 - Cachirá;1
+201905;54128 - Cachirá;1
+201902;54172 - Chinácota;1
+201909;54172 - Chinácota;1
+201910;54172 - Chinácota;1
+201911;54172 - Chinácota;1
+201908;54261 - El Zulia;2
+201909;54261 - El Zulia;1
+201901;54344 - Hacarí;2
+201902;54344 - Hacarí;1
+201904;54347 - Herrán;1
+201907;54347 - Herrán;1
+201902;54398 - La Playa;1
+201903;54398 - La Playa;1
+201901;54405 - Los Patios;1
+201907;54405 - Los Patios;1
+201909;54405 - Los Patios;1
+201911;54405 - Los Patios;1
+201901;54498 - Ocaña;4
+201902;54498 - Ocaña;3
+201903;54498 - Ocaña;2
+201904;54498 - Ocaña;2
+201905;54498 - Ocaña;2
+201906;54498 - Ocaña;2
+201907;54498 - Ocaña;4
+201908;54498 - Ocaña;2
+201909;54498 - Ocaña;4
+201910;54498 - Ocaña;5
+201911;54498 - Ocaña;1
+201901;54518 - Pamplona;1
+201903;54518 - Pamplona;1
+201904;54518 - Pamplona;1
+201906;54518 - Pamplona;1
+201909;54518 - Pamplona;1
+201910;54518 - Pamplona;3
+201911;54518 - Pamplona;2
+201912;54518 - Pamplona;1
+201901;54553 - Puerto Santander;1
+201902;54553 - Puerto Santander;1
+201903;54680 - Santiago;1
+201903;54810 - Tibú;1
+201910;54871 - Villa Caro;1
+201911;54871 - Villa Caro;1
+201902;54874 - Villa Del Rosario;1
+201903;54874 - Villa Del Rosario;2
+201904;54874 - Villa Del Rosario;2
+201905;54874 - Villa Del Rosario;2
+201906;54874 - Villa Del Rosario;1
+201907;54874 - Villa Del Rosario;1
+201908;54874 - Villa Del Rosario;1
+201911;54874 - Villa Del Rosario;1
+201901;63001 - Armenia;51
+201902;63001 - Armenia;58
+201903;63001 - Armenia;60
+201904;63001 - Armenia;54
+201905;63001 - Armenia;66
+201906;63001 - Armenia;52
+201907;63001 - Armenia;57
+201908;63001 - Armenia;68
+201909;63001 - Armenia;67
+201910;63001 - Armenia;77
+201911;63001 - Armenia;50
+201912;63001 - Armenia;60
+201908;63111 - Buenavista;1
+201903;63130 - Calarca;1
+201905;63130 - Calarca;2
+201907;63130 - Calarca;2
+201908;63130 - Calarca;3
+201909;63130 - Calarca;4
+201910;63130 - Calarca;2
+201911;63130 - Calarca;2
+201912;63130 - Calarca;1
+201911;63190 - Circasia;1
+201912;63212 - Córdoba;1
+201909;63272 - Filandia;1
+201901;63302 - Génova;1
+201903;63302 - Génova;1
+201905;63302 - Génova;1
+201912;63302 - Génova;1
+201902;63401 - La Tebaida;1
+201903;63401 - La Tebaida;1
+201905;63401 - La Tebaida;2
+201906;63401 - La Tebaida;2
+201907;63401 - La Tebaida;2
+201908;63401 - La Tebaida;1
+201909;63401 - La Tebaida;2
+201901;63470 - Montenegro;2
+201902;63470 - Montenegro;1
+201903;63470 - Montenegro;1
+201904;63470 - Montenegro;1
+201905;63470 - Montenegro;1
+201910;63470 - Montenegro;1
+201901;63594 - Quimbaya;1
+201909;63594 - Quimbaya;1
+201910;63594 - Quimbaya;2
+201911;63594 - Quimbaya;1
+201911;63690 - Salento;1
+201901;66001 - Pereira;55
+201902;66001 - Pereira;49
+201903;66001 - Pereira;98
+201904;66001 - Pereira;76
+201905;66001 - Pereira;68
+201906;66001 - Pereira;56
+201907;66001 - Pereira;79
+201908;66001 - Pereira;67
+201909;66001 - Pereira;79
+201910;66001 - Pereira;65
+201911;66001 - Pereira;46
+201912;66001 - Pereira;54
+201905;66045 - Apía;1
+201902;66088 - Belén De Umbría;2
+201903;66088 - Belén De Umbría;2
+201906;66088 - Belén De Umbría;5
+201908;66088 - Belén De Umbría;1
+201909;66088 - Belén De Umbría;1
+201910;66088 - Belén De Umbría;2
+201912;66088 - Belén De Umbría;1
+201901;66170 - Dosquebradas;6
+201902;66170 - Dosquebradas;5
+201903;66170 - Dosquebradas;2
+201904;66170 - Dosquebradas;2
+201905;66170 - Dosquebradas;2
+201906;66170 - Dosquebradas;4
+201907;66170 - Dosquebradas;8
+201908;66170 - Dosquebradas;8
+201909;66170 - Dosquebradas;5
+201910;66170 - Dosquebradas;15
+201911;66170 - Dosquebradas;2
+201912;66170 - Dosquebradas;5
+201901;66318 - Guática;1
+201909;66318 - Guática;1
+201901;66400 - La Virginia;1
+201903;66400 - La Virginia;2
+201904;66400 - La Virginia;1
+201905;66400 - La Virginia;2
+201907;66400 - La Virginia;1
+201908;66400 - La Virginia;1
+201909;66400 - La Virginia;3
+201910;66400 - La Virginia;1
+201901;66440 - Marsella;1
+201903;66440 - Marsella;1
+201909;66440 - Marsella;1
+201910;66440 - Marsella;1
+201908;66456 - Mistrató;1
+201903;66572 - Pueblo Rico;1
+201905;66594 - Quinchía;2
+201906;66594 - Quinchía;1
+201907;66594 - Quinchía;1
+201908;66594 - Quinchía;1
+201909;66594 - Quinchía;1
+201910;66594 - Quinchía;1
+201902;66682 - Santa Rosa De Cabal;1
+201903;66682 - Santa Rosa De Cabal;2
+201905;66682 - Santa Rosa De Cabal;2
+201906;66682 - Santa Rosa De Cabal;1
+201907;66682 - Santa Rosa De Cabal;1
+201910;66682 - Santa Rosa De Cabal;1
+201911;66682 - Santa Rosa De Cabal;2
+201912;66682 - Santa Rosa De Cabal;1
+201907;66687 - Santuario;1
+201912;66687 - Santuario;1
+201901;68001 - Bucaramanga;49
+201902;68001 - Bucaramanga;42
+201903;68001 - Bucaramanga;58
+201904;68001 - Bucaramanga;54
+201905;68001 - Bucaramanga;75
+201906;68001 - Bucaramanga;63
+201907;68001 - Bucaramanga;71
+201908;68001 - Bucaramanga;73
+201909;68001 - Bucaramanga;76
+201910;68001 - Bucaramanga;67
+201911;68001 - Bucaramanga;74
+201912;68001 - Bucaramanga;51
+201908;68020 - Albania;1
+201910;68051 - Aratoca;1
+201903;68077 - Barbosa;1
+201906;68079 - Barichara;1
+201901;68081 - Barrancabermeja;3
+201902;68081 - Barrancabermeja;6
+201903;68081 - Barrancabermeja;6
+201904;68081 - Barrancabermeja;3
+201905;68081 - Barrancabermeja;11
+201906;68081 - Barrancabermeja;12
+201907;68081 - Barrancabermeja;10
+201908;68081 - Barrancabermeja;14
+201909;68081 - Barrancabermeja;10
+201910;68081 - Barrancabermeja;12
+201911;68081 - Barrancabermeja;12
+201912;68081 - Barrancabermeja;11
+201905;68101 - Bolívar;1
+201911;68162 - Cerrito;1
+201905;68176 - Chima;1
+201901;68190 - Cimitarra;1
+201902;68190 - Cimitarra;1
+201903;68190 - Cimitarra;1
+201904;68190 - Cimitarra;2
+201906;68209 - Confines;1
+201903;68217 - Coromoro;1
+201904;68217 - Coromoro;1
+201911;68229 - Curití;2
+201912;68229 - Curití;1
+201908;68250 - El Peñón;1
+201901;68255 - El Playón;1
+201903;68255 - El Playón;1
+201907;68255 - El Playón;1
+201909;68255 - El Playón;2
+201910;68255 - El Playón;2
+201912;68255 - El Playón;1
+201911;68271 - Florián;1
+201901;68276 - Floridablanca;8
+201902;68276 - Floridablanca;20
+201903;68276 - Floridablanca;18
+201904;68276 - Floridablanca;19
+201905;68276 - Floridablanca;23
+201906;68276 - Floridablanca;13
+201907;68276 - Floridablanca;18
+201908;68276 - Floridablanca;17
+201909;68276 - Floridablanca;27
+201910;68276 - Floridablanca;19
+201911;68276 - Floridablanca;21
+201912;68276 - Floridablanca;10
+201906;68296 - Galán;1
+201907;68296 - Galán;1
+201910;68296 - Galán;1
+201901;68307 - Girón;6
+201902;68307 - Girón;7
+201903;68307 - Girón;6
+201904;68307 - Girón;3
+201905;68307 - Girón;7
+201906;68307 - Girón;9
+201907;68307 - Girón;10
+201908;68307 - Girón;15
+201909;68307 - Girón;10
+201910;68307 - Girón;9
+201911;68307 - Girón;11
+201912;68307 - Girón;7
+201901;68318 - Guaca;1
+201912;68322 - Guapotá;1
+201908;68324 - Guavatá;1
+201904;68327 - Güepsa;1
+201901;68344 - Hato;1
+201910;68377 - La Belleza;1
+201912;68377 - La Belleza;1
+201904;68406 - Lebríja;1
+201907;68406 - Lebríja;1
+201909;68406 - Lebríja;1
+201911;68406 - Lebríja;1
+201903;68432 - Málaga;1
+201905;68432 - Málaga;1
+201909;68432 - Málaga;1
+201910;68432 - Málaga;2
+201911;68432 - Málaga;1
+201905;68498 - Ocamonte;1
+201906;68498 - Ocamonte;1
+201907;68498 - Ocamonte;1
+201912;68533 - Páramo;1
+201901;68547 - Piedecuesta;5
+201902;68547 - Piedecuesta;10
+201903;68547 - Piedecuesta;7
+201904;68547 - Piedecuesta;9
+201905;68547 - Piedecuesta;21
+201906;68547 - Piedecuesta;20
+201907;68547 - Piedecuesta;35
+201908;68547 - Piedecuesta;44
+201909;68547 - Piedecuesta;39
+201910;68547 - Piedecuesta;40
+201911;68547 - Piedecuesta;43
+201912;68547 - Piedecuesta;35
+201901;68575 - Puerto Wilches;1
+201904;68575 - Puerto Wilches;1
+201906;68615 - Rionegro;1
+201911;68655 - Sabana De Torres;1
+201901;68673 - San Benito;1
+201906;68673 - San Benito;1
+201901;68679 - San Gil;2
+201902;68679 - San Gil;2
+201903;68679 - San Gil;2
+201904;68679 - San Gil;1
+201905;68679 - San Gil;2
+201908;68679 - San Gil;2
+201909;68679 - San Gil;4
+201910;68679 - San Gil;3
+201911;68679 - San Gil;4
+201912;68679 - San Gil;2
+201907;68689 - San Vicente De Chucurí;1
+201908;68689 - San Vicente De Chucurí;1
+201912;68689 - San Vicente De Chucurí;1
+201907;68745 - Simacota;1
+201901;68755 - Socorro;3
+201902;68755 - Socorro;2
+201903;68755 - Socorro;5
+201904;68755 - Socorro;3
+201905;68755 - Socorro;4
+201906;68755 - Socorro;4
+201907;68755 - Socorro;7
+201908;68755 - Socorro;1
+201909;68755 - Socorro;1
+201910;68755 - Socorro;3
+201911;68755 - Socorro;7
+201912;68755 - Socorro;3
+201906;68770 - Suaita;1
+201912;68770 - Suaita;1
+201910;68780 - Suratá;1
+201902;68861 - Vélez;1
+201903;68861 - Vélez;2
+201905;68861 - Vélez;1
+201906;68861 - Vélez;1
+201907;68861 - Vélez;3
+201910;68861 - Vélez;1
+201902;68895 - Zapatoca;1
+201906;68895 - Zapatoca;1
+201907;68895 - Zapatoca;1
+201910;68895 - Zapatoca;1
+201901;70001 - Sincelejo;34
+201902;70001 - Sincelejo;20
+201903;70001 - Sincelejo;28
+201904;70001 - Sincelejo;39
+201905;70001 - Sincelejo;37
+201906;70001 - Sincelejo;28
+201907;70001 - Sincelejo;61
+201908;70001 - Sincelejo;62
+201909;70001 - Sincelejo;43
+201910;70001 - Sincelejo;33
+201911;70001 - Sincelejo;38
+201912;70001 - Sincelejo;80
+201910;70204 - Coloso;3
+201901;70215 - Corozal;1
+201904;70215 - Corozal;1
+201906;70215 - Corozal;2
+201907;70215 - Corozal;13
+201908;70215 - Corozal;14
+201909;70215 - Corozal;18
+201910;70215 - Corozal;12
+201911;70215 - Corozal;2
+201912;70215 - Corozal;2
+201907;70221 - Coveñas;1
+201909;70221 - Coveñas;1
+201910;70221 - Coveñas;2
+201901;70230 - Chalán;1
+201903;70235 - Galeras;1
+201908;70235 - Galeras;6
+201909;70235 - Galeras;4
+201910;70235 - Galeras;3
+201911;70235 - Galeras;2
+201912;70235 - Galeras;4
+201905;70265 - Guaranda;1
+201907;70265 - Guaranda;2
+201910;70265 - Guaranda;1
+201909;70418 - Los Palmitos;5
+201911;70418 - Los Palmitos;1
+201912;70418 - Los Palmitos;1
+201908;70429 - Majagual;1
+201907;70473 - Morroa;3
+201908;70473 - Morroa;1
+201909;70473 - Morroa;3
+201910;70473 - Morroa;2
+201911;70473 - Morroa;2
+201912;70473 - Morroa;2
+201907;70508 - Ovejas;1
+201908;70508 - Ovejas;5
+201909;70508 - Ovejas;4
+201910;70508 - Ovejas;2
+201911;70508 - Ovejas;1
+201912;70508 - Ovejas;2
+201908;70670 - Sampués;1
+201910;70670 - Sampués;1
+201912;70670 - Sampués;1
+201901;70708 - San Marcos;1
+201907;70708 - San Marcos;21
+201908;70708 - San Marcos;11
+201909;70708 - San Marcos;17
+201910;70708 - San Marcos;4
+201911;70708 - San Marcos;2
+201912;70708 - San Marcos;7
+201908;70713 - San Onofre;1
+201909;70713 - San Onofre;7
+201910;70713 - San Onofre;6
+201912;70713 - San Onofre;5
+201907;70717 - San Pedro;4
+201908;70717 - San Pedro;4
+201909;70717 - San Pedro;2
+201910;70717 - San Pedro;1
+201912;70717 - San Pedro;5
+201907;70742 - San Luis De Sincé;3
+201908;70742 - San Luis De Sincé;4
+201909;70742 - San Luis De Sincé;4
+201910;70742 - San Luis De Sincé;2
+201911;70742 - San Luis De Sincé;6
+201912;70742 - San Luis De Sincé;9
+201904;70820 - Santiago De Tolú;1
+201901;73001 - Ibagué;48
+201902;73001 - Ibagué;48
+201903;73001 - Ibagué;44
+201904;73001 - Ibagué;29
+201905;73001 - Ibagué;28
+201906;73001 - Ibagué;39
+201907;73001 - Ibagué;48
+201908;73001 - Ibagué;50
+201909;73001 - Ibagué;49
+201910;73001 - Ibagué;52
+201911;73001 - Ibagué;54
+201912;73001 - Ibagué;61
+201905;73043 - Anzoátegui;1
+201901;73067 - Ataco;1
+201904;73067 - Ataco;1
+201901;73124 - Cajamarca;1
+201902;73124 - Cajamarca;1
+201907;73124 - Cajamarca;1
+201909;73124 - Cajamarca;1
+201910;73124 - Cajamarca;1
+201911;73124 - Cajamarca;1
+201912;73124 - Cajamarca;1
+201911;73148 - Carmen De Apicalá;1
+201901;73168 - Chaparral;2
+201902;73168 - Chaparral;3
+201903;73168 - Chaparral;5
+201905;73168 - Chaparral;2
+201906;73168 - Chaparral;2
+201907;73168 - Chaparral;2
+201908;73168 - Chaparral;4
+201909;73168 - Chaparral;1
+201910;73168 - Chaparral;4
+201911;73168 - Chaparral;2
+201912;73168 - Chaparral;1
+201901;73217 - Coyaima;1
+201902;73217 - Coyaima;1
+201905;73226 - Cunday;2
+201906;73226 - Cunday;1
+201901;73268 - Espinal;5
+201902;73268 - Espinal;2
+201903;73268 - Espinal;6
+201904;73268 - Espinal;6
+201905;73268 - Espinal;8
+201906;73268 - Espinal;1
+201907;73268 - Espinal;11
+201908;73268 - Espinal;5
+201909;73268 - Espinal;7
+201910;73268 - Espinal;3
+201911;73268 - Espinal;3
+201912;73268 - Espinal;4
+201901;73283 - Fresno;1
+201903;73283 - Fresno;1
+201904;73283 - Fresno;1
+201906;73283 - Fresno;1
+201907;73283 - Fresno;1
+201909;73283 - Fresno;1
+201912;73283 - Fresno;1
+201901;73349 - Honda;2
+201902;73349 - Honda;3
+201903;73349 - Honda;2
+201904;73349 - Honda;3
+201906;73349 - Honda;1
+201908;73349 - Honda;1
+201909;73349 - Honda;3
+201910;73349 - Honda;1
+201911;73349 - Honda;1
+201912;73349 - Honda;2
+201904;73408 - Lérida;1
+201911;73408 - Lérida;1
+201901;73411 - Líbano;3
+201903;73411 - Líbano;1
+201904;73411 - Líbano;1
+201905;73411 - Líbano;3
+201906;73411 - Líbano;2
+201907;73411 - Líbano;2
+201908;73411 - Líbano;3
+201909;73411 - Líbano;3
+201910;73411 - Líbano;4
+201912;73411 - Líbano;6
+201910;73443 - Mariquita;1
+201911;73443 - Mariquita;5
+201912;73443 - Mariquita;1
+201905;73449 - Melgar;1
+201903;73483 - Natagaima;1
+201904;73483 - Natagaima;1
+201907;73483 - Natagaima;1
+201908;73483 - Natagaima;1
+201901;73520 - Palocabildo;1
+201908;73555 - Planadas;2
+201909;73555 - Planadas;1
+201911;73555 - Planadas;1
+201901;73563 - Prado;1
+201910;73563 - Prado;1
+201911;73563 - Prado;1
+201901;73585 - Purificación;2
+201904;73585 - Purificación;1
+201909;73585 - Purificación;1
+201905;73616 - Rioblanco;1
+201901;73624 - Rovira;1
+201907;73624 - Rovira;1
+201911;73624 - Rovira;1
+201901;73671 - Saldaña;1
+201912;73671 - Saldaña;1
+201904;73770 - Suárez;1
+201909;73854 - Valle De San Juan;1
+201907;73861 - Venadillo;1
+201901;76001 - Cali;242
+201902;76001 - Cali;250
+201903;76001 - Cali;278
+201904;76001 - Cali;242
+201905;76001 - Cali;264
+201906;76001 - Cali;298
+201907;76001 - Cali;278
+201908;76001 - Cali;247
+201909;76001 - Cali;274
+201910;76001 - Cali;313
+201911;76001 - Cali;293
+201912;76001 - Cali;262
+201901;76036 - Andalucía;1
+201902;76036 - Andalucía;2
+201910;76036 - Andalucía;3
+201911;76036 - Andalucía;3
+201912;76036 - Andalucía;2
+201901;76041 - Ansermanuevo;1
+201903;76041 - Ansermanuevo;1
+201908;76100 - Bolívar;1
+201912;76100 - Bolívar;1
+201901;76109 - Buenaventura;5
+201902;76109 - Buenaventura;2
+201903;76109 - Buenaventura;6
+201904;76109 - Buenaventura;3
+201905;76109 - Buenaventura;5
+201906;76109 - Buenaventura;6
+201907;76109 - Buenaventura;1
+201908;76109 - Buenaventura;4
+201909;76109 - Buenaventura;6
+201910;76109 - Buenaventura;1
+201911;76109 - Buenaventura;4
+201912;76109 - Buenaventura;4
+201901;76111 - Guadalajara De Buga;6
+201902;76111 - Guadalajara De Buga;9
+201903;76111 - Guadalajara De Buga;17
+201904;76111 - Guadalajara De Buga;17
+201905;76111 - Guadalajara De Buga;16
+201906;76111 - Guadalajara De Buga;13
+201907;76111 - Guadalajara De Buga;11
+201908;76111 - Guadalajara De Buga;12
+201909;76111 - Guadalajara De Buga;15
+201910;76111 - Guadalajara De Buga;14
+201911;76111 - Guadalajara De Buga;12
+201912;76111 - Guadalajara De Buga;10
+201905;76113 - Bugalagrande;3
+201906;76113 - Bugalagrande;5
+201908;76113 - Bugalagrande;1
+201909;76113 - Bugalagrande;2
+201910;76113 - Bugalagrande;8
+201911;76113 - Bugalagrande;1
+201901;76122 - Caicedonia;1
+201903;76122 - Caicedonia;2
+201905;76122 - Caicedonia;1
+201910;76122 - Caicedonia;1
+201902;76126 - Calima;1
+201905;76126 - Calima;1
+201907;76126 - Calima;1
+201908;76126 - Calima;1
+201909;76126 - Calima;1
+201912;76126 - Calima;1
+201902;76130 - Candelaria;1
+201903;76130 - Candelaria;1
+201904;76130 - Candelaria;1
+201905;76130 - Candelaria;2
+201908;76130 - Candelaria;1
+201910;76130 - Candelaria;1
+201911;76130 - Candelaria;3
+201912;76130 - Candelaria;1
+201901;76147 - Cartago;8
+201902;76147 - Cartago;10
+201903;76147 - Cartago;9
+201904;76147 - Cartago;11
+201905;76147 - Cartago;6
+201906;76147 - Cartago;6
+201907;76147 - Cartago;9
+201908;76147 - Cartago;12
+201909;76147 - Cartago;14
+201910;76147 - Cartago;9
+201911;76147 - Cartago;5
+201912;76147 - Cartago;2
+201908;76233 - Dagua;1
+201909;76233 - Dagua;1
+201911;76233 - Dagua;2
+201901;76246 - El Cairo;1
+201906;76246 - El Cairo;1
+201909;76248 - El Cerrito;1
+201910;76248 - El Cerrito;2
+201911;76248 - El Cerrito;1
+201912;76248 - El Cerrito;1
+201903;76275 - Florida;2
+201905;76275 - Florida;1
+201907;76275 - Florida;1
+201909;76275 - Florida;1
+201910;76275 - Florida;2
+201901;76306 - Ginebra;1
+201903;76318 - Guacarí;2
+201904;76318 - Guacarí;1
+201905;76318 - Guacarí;2
+201909;76318 - Guacarí;2
+201910;76318 - Guacarí;1
+201901;76364 - Jamundí;1
+201902;76364 - Jamundí;4
+201903;76364 - Jamundí;5
+201904;76364 - Jamundí;1
+201905;76364 - Jamundí;1
+201906;76364 - Jamundí;7
+201907;76364 - Jamundí;6
+201908;76364 - Jamundí;3
+201909;76364 - Jamundí;2
+201910;76364 - Jamundí;2
+201911;76364 - Jamundí;2
+201912;76364 - Jamundí;2
+201912;76377 - La Cumbre;1
+201903;76400 - La Unión;2
+201909;76400 - La Unión;1
+201905;76403 - La Victoria;1
+201906;76403 - La Victoria;1
+201901;76520 - Palmira;17
+201902;76520 - Palmira;27
+201903;76520 - Palmira;18
+201904;76520 - Palmira;17
+201905;76520 - Palmira;21
+201906;76520 - Palmira;18
+201907;76520 - Palmira;40
+201908;76520 - Palmira;23
+201909;76520 - Palmira;26
+201910;76520 - Palmira;31
+201911;76520 - Palmira;26
+201912;76520 - Palmira;27
+201902;76563 - Pradera;1
+201904;76563 - Pradera;1
+201905;76563 - Pradera;1
+201906;76563 - Pradera;1
+201907;76563 - Pradera;2
+201908;76563 - Pradera;1
+201909;76563 - Pradera;2
+201910;76563 - Pradera;1
+201911;76563 - Pradera;2
+201912;76563 - Pradera;1
+201905;76606 - Restrepo;1
+201910;76606 - Restrepo;1
+201903;76616 - Riofrío;1
+201905;76616 - Riofrío;2
+201906;76616 - Riofrío;1
+201910;76616 - Riofrío;2
+201911;76616 - Riofrío;1
+201905;76622 - Roldanillo;1
+201906;76622 - Roldanillo;1
+201909;76622 - Roldanillo;1
+201908;76670 - San Pedro;1
+201912;76736 - Sevilla;1
+201901;76823 - Toro;1
+201906;76823 - Toro;1
+201901;76828 - Trujillo;1
+201904;76828 - Trujillo;1
+201908;76828 - Trujillo;1
+201912;76828 - Trujillo;1
+201901;76834 - Tuluá;13
+201902;76834 - Tuluá;8
+201903;76834 - Tuluá;21
+201904;76834 - Tuluá;21
+201905;76834 - Tuluá;23
+201906;76834 - Tuluá;28
+201907;76834 - Tuluá;20
+201908;76834 - Tuluá;27
+201909;76834 - Tuluá;15
+201910;76834 - Tuluá;21
+201911;76834 - Tuluá;16
+201912;76834 - Tuluá;16
+201903;76845 - Ulloa;1
+201902;76863 - Versalles;1
+201905;76890 - Yotoco;1
+201907;76890 - Yotoco;1
+201910;76890 - Yotoco;1
+201901;76892 - Yumbo;2
+201902;76892 - Yumbo;1
+201903;76892 - Yumbo;5
+201904;76892 - Yumbo;1
+201905;76892 - Yumbo;3
+201906;76892 - Yumbo;3
+201907;76892 - Yumbo;4
+201908;76892 - Yumbo;3
+201909;76892 - Yumbo;4
+201910;76892 - Yumbo;4
+201911;76892 - Yumbo;1
+201904;76895 - Zarzal;1
+201905;76895 - Zarzal;1
+201906;76895 - Zarzal;1
+201907;76895 - Zarzal;1
+201910;76895 - Zarzal;1
+201911;76895 - Zarzal;1
+201901;81001 - Arauca;2
+201902;81001 - Arauca;5
+201903;81001 - Arauca;2
+201904;81001 - Arauca;1
+201905;81001 - Arauca;2
+201906;81001 - Arauca;2
+201907;81001 - Arauca;1
+201908;81001 - Arauca;3
+201909;81001 - Arauca;4
+201910;81001 - Arauca;3
+201911;81001 - Arauca;2
+201912;81001 - Arauca;1
+201907;81065 - Arauquita;2
+201909;81065 - Arauquita;1
+201911;81300 - Fortul;1
+201901;81736 - Saravena;5
+201902;81736 - Saravena;6
+201903;81736 - Saravena;3
+201904;81736 - Saravena;3
+201905;81736 - Saravena;3
+201906;81736 - Saravena;3
+201907;81736 - Saravena;4
+201908;81736 - Saravena;4
+201909;81736 - Saravena;2
+201910;81736 - Saravena;5
+201911;81736 - Saravena;7
+201912;81736 - Saravena;3
+201904;81794 - Tame;4
+201901;85001 - Yopal;9
+201902;85001 - Yopal;9
+201903;85001 - Yopal;5
+201904;85001 - Yopal;2
+201905;85001 - Yopal;16
+201906;85001 - Yopal;10
+201907;85001 - Yopal;14
+201908;85001 - Yopal;9
+201909;85001 - Yopal;12
+201910;85001 - Yopal;17
+201911;85001 - Yopal;19
+201912;85001 - Yopal;7
+201910;85010 - Aguazul;1
+201911;85010 - Aguazul;2
+201912;85010 - Aguazul;1
+201902;85139 - Maní;1
+201907;85162 - Monterrey;1
+201910;85162 - Monterrey;1
+201911;85162 - Monterrey;1
+201907;85230 - Orocué;1
+201901;85250 - Paz De Ariporo;1
+201903;85250 - Paz De Ariporo;1
+201904;85250 - Paz De Ariporo;2
+201905;85250 - Paz De Ariporo;1
+201907;85325 - San Luis De Palenque;1
+201901;85410 - Tauramena;1
+201905;85410 - Tauramena;1
+201912;85410 - Tauramena;1
+201905;85440 - Villanueva;2
+201906;85440 - Villanueva;1
+201907;85440 - Villanueva;1
+201901;86001 - Mocoa;1
+201902;86001 - Mocoa;1
+201903;86001 - Mocoa;3
+201904;86001 - Mocoa;2
+201905;86001 - Mocoa;1
+201906;86001 - Mocoa;3
+201908;86001 - Mocoa;1
+201909;86001 - Mocoa;3
+201910;86001 - Mocoa;1
+201911;86001 - Mocoa;2
+201901;86320 - Orito;2
+201902;86320 - Orito;1
+201903;86320 - Orito;1
+201904;86320 - Orito;1
+201905;86320 - Orito;1
+201910;86320 - Orito;3
+201911;86320 - Orito;1
+201901;86568 - Puerto Asís;1
+201903;86568 - Puerto Asís;2
+201905;86568 - Puerto Asís;1
+201908;86568 - Puerto Asís;1
+201909;86568 - Puerto Asís;1
+201910;86568 - Puerto Asís;1
+201911;86568 - Puerto Asís;1
+201912;86568 - Puerto Asís;1
+201902;86569 - Puerto Caicedo;1
+201901;86571 - Puerto Guzmán;1
+201910;86571 - Puerto Guzmán;1
+201906;86573 - Leguízamo;1
+201901;86749 - Sibundoy;1
+201902;86749 - Sibundoy;1
+201903;86749 - Sibundoy;3
+201904;86749 - Sibundoy;1
+201906;86749 - Sibundoy;1
+201907;86749 - Sibundoy;1
+201903;86757 - San Miguel;1
+201903;86865 - Valle Del Guamuez;1
+201904;86865 - Valle Del Guamuez;1
+201905;86865 - Valle Del Guamuez;2
+201908;86865 - Valle Del Guamuez;1
+201910;86865 - Valle Del Guamuez;2
+201911;86865 - Valle Del Guamuez;1
+201912;86885 - Villagarzón;1
+201905;88001 - San Andrés;3
+201907;88001 - San Andrés;1
+201908;88001 - San Andrés;2
+201909;88001 - San Andrés;4
+201910;88001 - San Andrés;1
+201911;88001 - San Andrés;1
+201912;88001 - San Andrés;2
+201904;91001 - Leticia;1
+201905;91001 - Leticia;1
+201906;91001 - Leticia;2
+201909;91001 - Leticia;1
+201912;91001 - Leticia;1
+201902;94001 - Inírida;1
+201904;94001 - Inírida;2
+201905;94001 - Inírida;1
+201908;94001 - Inírida;1
+201909;94001 - Inírida;1
+201911;94001 - Inírida;2
+201903;95001 - San José Del Guaviare;1
+201905;95001 - San José Del Guaviare;3
+201908;95001 - San José Del Guaviare;2
+201911;95001 - San José Del Guaviare;2
+201912;95001 - San José Del Guaviare;2
+201910;99001 - Puerto Carreño;1
+201908;99624 - Santa Rosalía;1
+201901;-1 - No Definido;2
+201902;-1 - No Definido;35
+201903;-1 - No Definido;30
+201904;-1 - No Definido;37
+201905;-1 - No Definido;45
+201906;-1 - No Definido;55
+201907;-1 - No Definido;57
+201908;-1 - No Definido;49
+201911;-1 - No Definido;38
+201912;-1 - No Definido;31

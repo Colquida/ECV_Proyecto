@@ -1,0 +1,1302 @@
+﻿PeriodoNum;Municipio;CantidadPacientes
+201101;05001 - Medellín;160
+201102;05001 - Medellín;166
+201103;05001 - Medellín;164
+201104;05001 - Medellín;143
+201105;05001 - Medellín;189
+201106;05001 - Medellín;179
+201107;05001 - Medellín;138
+201108;05001 - Medellín;128
+201109;05001 - Medellín;154
+201110;05001 - Medellín;110
+201111;05001 - Medellín;120
+201112;05001 - Medellín;151
+201102;05030 - Amagá;1
+201101;05031 - Amalfi;1
+201101;05034 - Andes;1
+201111;05034 - Andes;1
+201109;05038 - Angostura;1
+201108;05044 - Anza;1
+201101;05045 - Apartadó;4
+201102;05045 - Apartadó;6
+201103;05045 - Apartadó;7
+201104;05045 - Apartadó;4
+201106;05045 - Apartadó;3
+201107;05045 - Apartadó;1
+201108;05045 - Apartadó;4
+201109;05045 - Apartadó;5
+201110;05045 - Apartadó;2
+201111;05045 - Apartadó;3
+201112;05045 - Apartadó;4
+201105;05059 - Armenia;1
+201101;05088 - Bello;7
+201102;05088 - Bello;2
+201103;05088 - Bello;4
+201104;05088 - Bello;3
+201105;05088 - Bello;7
+201106;05088 - Bello;8
+201107;05088 - Bello;11
+201108;05088 - Bello;14
+201109;05088 - Bello;14
+201110;05088 - Bello;7
+201111;05088 - Bello;7
+201112;05088 - Bello;14
+201107;05093 - Betulia;1
+201109;05093 - Betulia;1
+201105;05101 - Ciudad Bolívar;1
+201108;05101 - Ciudad Bolívar;1
+201101;05129 - Caldas;1
+201102;05129 - Caldas;1
+201104;05129 - Caldas;1
+201105;05129 - Caldas;2
+201106;05129 - Caldas;2
+201108;05129 - Caldas;2
+201109;05129 - Caldas;2
+201106;05142 - Caracolí;1
+201106;05147 - Carepa;1
+201108;05147 - Carepa;2
+201109;05147 - Carepa;1
+201111;05147 - Carepa;1
+201112;05147 - Carepa;1
+201102;05148 - El Carmen De Viboral;1
+201101;05154 - Caucasia;1
+201103;05154 - Caucasia;1
+201110;05154 - Caucasia;1
+201108;05172 - Chigorodó;1
+201110;05197 - Cocorná;1
+201107;05209 - Concordia;1
+201101;05212 - Copacabana;2
+201105;05212 - Copacabana;1
+201103;05250 - El Bagre;1
+201104;05264 - Entrerrios;1
+201101;05266 - Envigado;7
+201102;05266 - Envigado;7
+201103;05266 - Envigado;7
+201104;05266 - Envigado;17
+201105;05266 - Envigado;19
+201106;05266 - Envigado;20
+201107;05266 - Envigado;7
+201108;05266 - Envigado;11
+201109;05266 - Envigado;11
+201110;05266 - Envigado;8
+201111;05266 - Envigado;5
+201112;05266 - Envigado;12
+201102;05284 - Frontino;1
+201101;05360 - Itagui;10
+201102;05360 - Itagui;7
+201104;05360 - Itagui;5
+201105;05360 - Itagui;2
+201106;05360 - Itagui;1
+201107;05360 - Itagui;2
+201108;05360 - Itagui;3
+201109;05360 - Itagui;7
+201111;05360 - Itagui;1
+201112;05360 - Itagui;5
+201111;05361 - Ituango;1
+201101;05376 - La Ceja;2
+201102;05376 - La Ceja;3
+201105;05376 - La Ceja;1
+201106;05376 - La Ceja;2
+201107;05376 - La Ceja;3
+201108;05376 - La Ceja;2
+201109;05376 - La Ceja;3
+201110;05376 - La Ceja;4
+201111;05376 - La Ceja;2
+201112;05376 - La Ceja;5
+201108;05380 - La Estrella;1
+201101;05400 - La Unión;1
+201105;05400 - La Unión;1
+201106;05440 - Marinilla;1
+201112;05483 - Nariño;2
+201101;05576 - Pueblorrico;1
+201102;05579 - Puerto Berrío;1
+201107;05579 - Puerto Berrío;1
+201108;05579 - Puerto Berrío;1
+201109;05579 - Puerto Berrío;1
+201110;05579 - Puerto Berrío;1
+201111;05604 - Remedios;1
+201101;05615 - Rionegro;3
+201102;05615 - Rionegro;9
+201103;05615 - Rionegro;5
+201104;05615 - Rionegro;4
+201105;05615 - Rionegro;3
+201106;05615 - Rionegro;7
+201107;05615 - Rionegro;5
+201108;05615 - Rionegro;6
+201109;05615 - Rionegro;9
+201110;05615 - Rionegro;5
+201111;05615 - Rionegro;11
+201112;05615 - Rionegro;10
+201107;05631 - Sabaneta;1
+201111;05631 - Sabaneta;1
+201109;05652 - San Francisco;1
+201106;05656 - San Jerónimo;1
+201101;05664 - San Pedro;1
+201102;05664 - San Pedro;1
+201111;05664 - San Pedro;1
+201103;05674 - San Vicente;1
+201111;05679 - Santa Bárbara;1
+201112;05679 - Santa Bárbara;1
+201104;05697 - El Santuario;1
+201105;05697 - El Santuario;1
+201103;05736 - Segovia;1
+201112;05736 - Segovia;1
+201101;05756 - Sonson;1
+201102;05756 - Sonson;1
+201103;05756 - Sonson;1
+201104;05756 - Sonson;1
+201106;05756 - Sonson;1
+201109;05756 - Sonson;1
+201110;05756 - Sonson;1
+201112;05756 - Sonson;1
+201101;05837 - Turbo;2
+201102;05837 - Turbo;1
+201103;05837 - Turbo;1
+201105;05837 - Turbo;1
+201106;05837 - Turbo;2
+201108;05837 - Turbo;1
+201111;05837 - Turbo;1
+201104;05847 - Urrao;1
+201103;05858 - Vegachí;1
+201101;05887 - Yarumal;1
+201102;05887 - Yarumal;2
+201103;05887 - Yarumal;1
+201105;05887 - Yarumal;1
+201106;05887 - Yarumal;1
+201108;05887 - Yarumal;2
+201110;05887 - Yarumal;1
+201111;05887 - Yarumal;1
+201101;08001 - Barranquilla;44
+201102;08001 - Barranquilla;44
+201103;08001 - Barranquilla;65
+201104;08001 - Barranquilla;38
+201105;08001 - Barranquilla;55
+201106;08001 - Barranquilla;54
+201107;08001 - Barranquilla;39
+201108;08001 - Barranquilla;37
+201109;08001 - Barranquilla;33
+201110;08001 - Barranquilla;11
+201111;08001 - Barranquilla;26
+201112;08001 - Barranquilla;26
+201101;08433 - Malambo;1
+201103;08433 - Malambo;2
+201105;08433 - Malambo;1
+201107;08433 - Malambo;1
+201108;08433 - Malambo;1
+201110;08433 - Malambo;1
+201106;08436 - Manatí;1
+201112;08558 - Polonuevo;1
+201112;08573 - Puerto Colombia;1
+201108;08634 - Sabanagrande;1
+201102;08638 - Sabanalarga;2
+201105;08638 - Sabanalarga;2
+201106;08638 - Sabanalarga;1
+201107;08638 - Sabanalarga;1
+201110;08638 - Sabanalarga;1
+201112;08638 - Sabanalarga;2
+201101;08758 - Soledad;2
+201102;08758 - Soledad;1
+201103;08758 - Soledad;1
+201104;08758 - Soledad;4
+201105;08758 - Soledad;2
+201106;08758 - Soledad;1
+201101;11001 - Bogotá, D.C.;398
+201102;11001 - Bogotá, D.C.;417
+201103;11001 - Bogotá, D.C.;431
+201104;11001 - Bogotá, D.C.;297
+201105;11001 - Bogotá, D.C.;430
+201106;11001 - Bogotá, D.C.;400
+201107;11001 - Bogotá, D.C.;403
+201108;11001 - Bogotá, D.C.;397
+201109;11001 - Bogotá, D.C.;380
+201110;11001 - Bogotá, D.C.;311
+201111;11001 - Bogotá, D.C.;351
+201112;11001 - Bogotá, D.C.;333
+201101;13001 - Cartagena;21
+201102;13001 - Cartagena;48
+201103;13001 - Cartagena;26
+201104;13001 - Cartagena;30
+201105;13001 - Cartagena;39
+201106;13001 - Cartagena;27
+201107;13001 - Cartagena;30
+201108;13001 - Cartagena;29
+201109;13001 - Cartagena;33
+201110;13001 - Cartagena;29
+201111;13001 - Cartagena;35
+201112;13001 - Cartagena;39
+201110;13052 - Arjona;1
+201101;13244 - El Carmen De Bolívar;1
+201110;13244 - El Carmen De Bolívar;1
+201102;13430 - Magangué;1
+201104;13430 - Magangué;1
+201105;13430 - Magangué;1
+201108;13430 - Magangué;2
+201110;13430 - Magangué;1
+201109;13433 - Mahates;1
+201103;13549 - Pinillos;1
+201106;13549 - Pinillos;1
+201106;13836 - Turbaco;1
+201103;13873 - Villanueva;1
+201105;13894 - Zambrano;1
+201101;15001 - Tunja;54
+201102;15001 - Tunja;63
+201103;15001 - Tunja;68
+201104;15001 - Tunja;42
+201105;15001 - Tunja;57
+201106;15001 - Tunja;57
+201107;15001 - Tunja;52
+201108;15001 - Tunja;42
+201109;15001 - Tunja;51
+201110;15001 - Tunja;22
+201111;15001 - Tunja;32
+201112;15001 - Tunja;54
+201101;15176 - Chiquinquirá;3
+201103;15176 - Chiquinquirá;1
+201105;15176 - Chiquinquirá;1
+201106;15176 - Chiquinquirá;3
+201107;15176 - Chiquinquirá;2
+201108;15176 - Chiquinquirá;2
+201109;15176 - Chiquinquirá;1
+201101;15238 - Duitama;13
+201102;15238 - Duitama;7
+201103;15238 - Duitama;8
+201104;15238 - Duitama;7
+201105;15238 - Duitama;9
+201106;15238 - Duitama;3
+201107;15238 - Duitama;7
+201108;15238 - Duitama;8
+201109;15238 - Duitama;6
+201110;15238 - Duitama;5
+201111;15238 - Duitama;5
+201112;15238 - Duitama;1
+201105;15244 - El Cocuy;1
+201107;15244 - El Cocuy;1
+201105;15299 - Garagoa;1
+201109;15299 - Garagoa;2
+201102;15322 - Guateque;1
+201105;15322 - Guateque;1
+201103;15367 - Jenesano;1
+201107;15367 - Jenesano;1
+201112;15367 - Jenesano;1
+201104;15407 - Villa De Leyva;1
+201110;15407 - Villa De Leyva;2
+201101;15425 - Macanal;1
+201104;15455 - Miraflores;1
+201106;15455 - Miraflores;1
+201109;15455 - Miraflores;1
+201101;15469 - Moniquirá;2
+201107;15469 - Moniquirá;1
+201111;15469 - Moniquirá;1
+201103;15516 - Paipa;1
+201106;15516 - Paipa;1
+201108;15516 - Paipa;1
+201109;15516 - Paipa;1
+201111;15516 - Paipa;1
+201102;15572 - Puerto Boyacá;2
+201105;15572 - Puerto Boyacá;1
+201108;15572 - Puerto Boyacá;2
+201111;15572 - Puerto Boyacá;1
+201105;15599 - Ramiriquí;1
+201104;15632 - Saboyá;1
+201108;15638 - Sáchica;2
+201107;15646 - Samacá;1
+201108;15646 - Samacá;1
+201109;15646 - Samacá;1
+201105;15753 - Soatá;2
+201106;15753 - Soatá;1
+201108;15753 - Soatá;1
+201109;15753 - Soatá;1
+201110;15753 - Soatá;1
+201112;15753 - Soatá;1
+201110;15755 - Socotá;1
+201101;15759 - Sogamoso;3
+201102;15759 - Sogamoso;5
+201103;15759 - Sogamoso;5
+201104;15759 - Sogamoso;2
+201105;15759 - Sogamoso;5
+201106;15759 - Sogamoso;6
+201107;15759 - Sogamoso;7
+201108;15759 - Sogamoso;5
+201109;15759 - Sogamoso;2
+201110;15759 - Sogamoso;2
+201111;15759 - Sogamoso;5
+201112;15759 - Sogamoso;1
+201103;15808 - Tinjacá;1
+201109;15816 - Togüí;1
+201111;15822 - Tota;1
+201101;17001 - Manizales;11
+201102;17001 - Manizales;17
+201103;17001 - Manizales;23
+201104;17001 - Manizales;14
+201105;17001 - Manizales;16
+201106;17001 - Manizales;16
+201107;17001 - Manizales;14
+201108;17001 - Manizales;12
+201109;17001 - Manizales;16
+201110;17001 - Manizales;15
+201111;17001 - Manizales;15
+201112;17001 - Manizales;9
+201102;17042 - Anserma;1
+201106;17042 - Anserma;1
+201103;17050 - Aranzazu;1
+201104;17050 - Aranzazu;1
+201110;17088 - Belalcázar;1
+201102;17174 - Chinchiná;1
+201103;17174 - Chinchiná;1
+201104;17174 - Chinchiná;1
+201105;17174 - Chinchiná;3
+201106;17174 - Chinchiná;2
+201109;17174 - Chinchiná;1
+201105;17380 - La Dorada;2
+201107;17380 - La Dorada;1
+201108;17380 - La Dorada;1
+201111;17380 - La Dorada;2
+201112;17380 - La Dorada;1
+201101;17513 - Pácora;1
+201102;17513 - Pácora;1
+201103;17513 - Pácora;1
+201101;17541 - Pensilvania;1
+201102;17541 - Pensilvania;1
+201109;17614 - Riosucio;1
+201112;17777 - Supía;1
+201103;17873 - Villamaría;1
+201105;17873 - Villamaría;1
+201102;17877 - Viterbo;1
+201101;18001 - Florencia;11
+201102;18001 - Florencia;7
+201103;18001 - Florencia;7
+201104;18001 - Florencia;6
+201105;18001 - Florencia;3
+201106;18001 - Florencia;7
+201107;18001 - Florencia;6
+201108;18001 - Florencia;1
+201109;18001 - Florencia;18
+201110;18001 - Florencia;13
+201111;18001 - Florencia;4
+201112;18001 - Florencia;4
+201110;18205 - Curillo;3
+201111;18205 - Curillo;1
+201105;18592 - Puerto Rico;1
+201101;19001 - Popayán;22
+201102;19001 - Popayán;32
+201103;19001 - Popayán;36
+201104;19001 - Popayán;27
+201105;19001 - Popayán;26
+201106;19001 - Popayán;21
+201107;19001 - Popayán;27
+201108;19001 - Popayán;22
+201109;19001 - Popayán;38
+201110;19001 - Popayán;34
+201111;19001 - Popayán;24
+201112;19001 - Popayán;33
+201103;19050 - Argelia;1
+201109;19050 - Argelia;2
+201105;19100 - Bolívar;1
+201111;19100 - Bolívar;1
+201103;19110 - Buenos Aires;1
+201105;19110 - Buenos Aires;1
+201108;19110 - Buenos Aires;1
+201110;19110 - Buenos Aires;1
+201110;19130 - Cajibío;1
+201105;19142 - Caloto;1
+201107;19142 - Caloto;1
+201103;19318 - Guapi;1
+201101;19355 - Inzá;1
+201103;19355 - Inzá;1
+201109;19418 - López;1
+201104;19473 - Morales;1
+201102;19532 - Patía;1
+201109;19533 - Piamonte;1
+201102;19548 - Piendamó;1
+201107;19548 - Piendamó;1
+201108;19548 - Piendamó;1
+201109;19548 - Piendamó;1
+201111;19548 - Piendamó;1
+201101;19573 - Puerto Tejada;5
+201102;19573 - Puerto Tejada;8
+201103;19573 - Puerto Tejada;5
+201104;19573 - Puerto Tejada;1
+201105;19573 - Puerto Tejada;8
+201106;19573 - Puerto Tejada;6
+201107;19573 - Puerto Tejada;5
+201108;19573 - Puerto Tejada;9
+201109;19573 - Puerto Tejada;2
+201110;19573 - Puerto Tejada;8
+201111;19573 - Puerto Tejada;5
+201112;19573 - Puerto Tejada;5
+201105;19585 - Puracé;1
+201106;19585 - Puracé;1
+201103;19698 - Santander De Quilichao;1
+201105;19698 - Santander De Quilichao;2
+201108;19698 - Santander De Quilichao;2
+201110;19698 - Santander De Quilichao;1
+201111;19698 - Santander De Quilichao;1
+201101;19743 - Silvia;1
+201104;19743 - Silvia;1
+201110;19743 - Silvia;1
+201110;19780 - Suárez;1
+201101;19807 - Timbío;1
+201102;19807 - Timbío;1
+201112;19807 - Timbío;1
+201101;20001 - Valledupar;6
+201102;20001 - Valledupar;1
+201103;20001 - Valledupar;6
+201104;20001 - Valledupar;3
+201105;20001 - Valledupar;5
+201106;20001 - Valledupar;3
+201107;20001 - Valledupar;1
+201108;20001 - Valledupar;4
+201109;20001 - Valledupar;6
+201110;20001 - Valledupar;3
+201111;20001 - Valledupar;5
+201112;20001 - Valledupar;4
+201102;20011 - Aguachica;3
+201103;20011 - Aguachica;1
+201105;20011 - Aguachica;1
+201111;20011 - Aguachica;1
+201103;20013 - Agustín Codazzi;1
+201109;20013 - Agustín Codazzi;1
+201104;20178 - Chiriguaná;1
+201108;20238 - El Copey;1
+201101;20295 - Gamarra;1
+201105;20383 - La Gloria;1
+201111;20400 - La Jagua De Ibirico;1
+201111;20443 - Manaure;1
+201101;23001 - Montería;25
+201102;23001 - Montería;29
+201103;23001 - Montería;27
+201104;23001 - Montería;14
+201105;23001 - Montería;21
+201106;23001 - Montería;24
+201107;23001 - Montería;23
+201108;23001 - Montería;21
+201109;23001 - Montería;19
+201110;23001 - Montería;12
+201111;23001 - Montería;33
+201112;23001 - Montería;26
+201105;23162 - Cereté;1
+201107;23162 - Cereté;1
+201103;23417 - Lorica;1
+201109;23417 - Lorica;1
+201112;23417 - Lorica;1
+201103;23466 - Montelíbano;1
+201102;23555 - Planeta Rica;1
+201105;23555 - Planeta Rica;1
+201107;23555 - Planeta Rica;2
+201108;23555 - Planeta Rica;2
+201111;23555 - Planeta Rica;1
+201112;23555 - Planeta Rica;1
+201103;23660 - Sahagún;4
+201104;23660 - Sahagún;1
+201105;23660 - Sahagún;2
+201107;23660 - Sahagún;1
+201108;23660 - Sahagún;1
+201109;23660 - Sahagún;1
+201111;23672 - San Antero;1
+201112;23672 - San Antero;1
+201111;23807 - Tierralta;1
+201107;25053 - Arbeláez;1
+201109;25053 - Arbeláez;4
+201110;25126 - Cajicá;1
+201109;25151 - Caqueza;3
+201111;25151 - Caqueza;1
+201102;25154 - Carmen De Carupa;1
+201101;25175 - Chía;7
+201102;25175 - Chía;7
+201103;25175 - Chía;5
+201104;25175 - Chía;4
+201105;25175 - Chía;8
+201106;25175 - Chía;6
+201107;25175 - Chía;2
+201108;25175 - Chía;5
+201109;25175 - Chía;5
+201110;25175 - Chía;3
+201111;25175 - Chía;10
+201112;25175 - Chía;6
+201105;25183 - Chocontá;1
+201106;25183 - Chocontá;1
+201107;25183 - Chocontá;3
+201109;25183 - Chocontá;1
+201110;25183 - Chocontá;1
+201111;25183 - Chocontá;2
+201112;25183 - Chocontá;1
+201109;25214 - Cota;1
+201102;25260 - El Rosal;1
+201101;25269 - Facatativá;6
+201102;25269 - Facatativá;9
+201103;25269 - Facatativá;10
+201104;25269 - Facatativá;14
+201105;25269 - Facatativá;11
+201106;25269 - Facatativá;5
+201107;25269 - Facatativá;6
+201108;25269 - Facatativá;3
+201109;25269 - Facatativá;3
+201110;25269 - Facatativá;4
+201111;25269 - Facatativá;2
+201112;25269 - Facatativá;5
+201102;25286 - Funza;1
+201105;25286 - Funza;1
+201109;25286 - Funza;1
+201110;25286 - Funza;1
+201101;25290 - Fusagasugá;7
+201102;25290 - Fusagasugá;3
+201103;25290 - Fusagasugá;2
+201104;25290 - Fusagasugá;4
+201105;25290 - Fusagasugá;4
+201106;25290 - Fusagasugá;5
+201107;25290 - Fusagasugá;4
+201108;25290 - Fusagasugá;4
+201109;25290 - Fusagasugá;1
+201110;25290 - Fusagasugá;3
+201111;25290 - Fusagasugá;6
+201112;25290 - Fusagasugá;5
+201101;25307 - Girardot;3
+201102;25307 - Girardot;3
+201103;25307 - Girardot;5
+201104;25307 - Girardot;5
+201105;25307 - Girardot;5
+201106;25307 - Girardot;4
+201107;25307 - Girardot;6
+201108;25307 - Girardot;6
+201109;25307 - Girardot;5
+201110;25307 - Girardot;6
+201111;25307 - Girardot;2
+201112;25307 - Girardot;4
+201108;25317 - Guachetá;1
+201102;25320 - Guaduas;2
+201109;25320 - Guaduas;1
+201108;25322 - Guasca;1
+201110;25372 - Junín;1
+201102;25377 - La Calera;1
+201106;25377 - La Calera;2
+201108;25377 - La Calera;3
+201101;25386 - La Mesa;1
+201104;25386 - La Mesa;1
+201109;25386 - La Mesa;1
+201110;25386 - La Mesa;1
+201111;25386 - La Mesa;1
+201112;25386 - La Mesa;3
+201102;25430 - Madrid;1
+201103;25430 - Madrid;2
+201104;25430 - Madrid;1
+201107;25430 - Madrid;1
+201108;25430 - Madrid;1
+201109;25430 - Madrid;1
+201110;25430 - Madrid;2
+201111;25430 - Madrid;2
+201103;25486 - Nemocón;1
+201101;25513 - Pacho;1
+201105;25513 - Pacho;2
+201108;25513 - Pacho;1
+201110;25513 - Pacho;2
+201112;25513 - Pacho;1
+201102;25572 - Puerto Salgar;1
+201109;25572 - Puerto Salgar;1
+201110;25572 - Puerto Salgar;1
+201112;25743 - Silvania;1
+201102;25754 - Soacha;5
+201103;25754 - Soacha;2
+201104;25754 - Soacha;6
+201105;25754 - Soacha;7
+201106;25754 - Soacha;5
+201107;25754 - Soacha;4
+201108;25754 - Soacha;5
+201109;25754 - Soacha;1
+201110;25754 - Soacha;2
+201111;25754 - Soacha;3
+201112;25754 - Soacha;1
+201103;25817 - Tocancipá;1
+201108;25817 - Tocancipá;1
+201110;25817 - Tocancipá;1
+201111;25817 - Tocancipá;1
+201101;25875 - Villeta;2
+201110;25875 - Villeta;3
+201102;25899 - Zipaquirá;4
+201103;25899 - Zipaquirá;1
+201104;25899 - Zipaquirá;1
+201105;25899 - Zipaquirá;4
+201106;25899 - Zipaquirá;3
+201107;25899 - Zipaquirá;2
+201108;25899 - Zipaquirá;3
+201109;25899 - Zipaquirá;1
+201111;25899 - Zipaquirá;2
+201112;25899 - Zipaquirá;2
+201102;27001 - Quibdó;3
+201106;27001 - Quibdó;1
+201107;27001 - Quibdó;1
+201108;27001 - Quibdó;1
+201101;41001 - Neiva;21
+201102;41001 - Neiva;23
+201103;41001 - Neiva;18
+201104;41001 - Neiva;9
+201105;41001 - Neiva;8
+201106;41001 - Neiva;17
+201107;41001 - Neiva;17
+201108;41001 - Neiva;33
+201109;41001 - Neiva;12
+201110;41001 - Neiva;23
+201111;41001 - Neiva;19
+201112;41001 - Neiva;7
+201101;41132 - Campoalegre;2
+201102;41132 - Campoalegre;1
+201103;41132 - Campoalegre;2
+201104;41132 - Campoalegre;1
+201105;41132 - Campoalegre;2
+201106;41132 - Campoalegre;1
+201107;41132 - Campoalegre;3
+201108;41132 - Campoalegre;1
+201111;41132 - Campoalegre;1
+201112;41132 - Campoalegre;1
+201101;41298 - Garzón;1
+201102;41298 - Garzón;2
+201103;41298 - Garzón;3
+201104;41298 - Garzón;1
+201105;41298 - Garzón;1
+201106;41298 - Garzón;2
+201107;41298 - Garzón;2
+201108;41298 - Garzón;6
+201109;41298 - Garzón;7
+201110;41298 - Garzón;8
+201111;41298 - Garzón;7
+201112;41298 - Garzón;2
+201109;41306 - Gigante;1
+201104;41396 - La Plata;1
+201107;41396 - La Plata;1
+201110;41396 - La Plata;1
+201110;41503 - Oporapa;1
+201101;41551 - Pitalito;1
+201102;41551 - Pitalito;1
+201103;41551 - Pitalito;2
+201107;41551 - Pitalito;1
+201109;41551 - Pitalito;4
+201110;41551 - Pitalito;6
+201111;41551 - Pitalito;4
+201112;41551 - Pitalito;1
+201102;41791 - Tarqui;1
+201105;41791 - Tarqui;1
+201108;41791 - Tarqui;1
+201101;44001 - Riohacha;2
+201103;44001 - Riohacha;1
+201104;44001 - Riohacha;1
+201105;44001 - Riohacha;1
+201106;44001 - Riohacha;1
+201107;44001 - Riohacha;1
+201108;44001 - Riohacha;1
+201109;44001 - Riohacha;1
+201110;44001 - Riohacha;4
+201111;44001 - Riohacha;3
+201112;44001 - Riohacha;2
+201111;44279 - Fonseca;1
+201101;44430 - Maicao;1
+201102;44430 - Maicao;1
+201104;44430 - Maicao;2
+201105;44430 - Maicao;1
+201106;44430 - Maicao;1
+201111;44430 - Maicao;1
+201104;44560 - Manaure;1
+201111;44560 - Manaure;1
+201104;44650 - San Juan Del Cesar;1
+201109;44650 - San Juan Del Cesar;1
+201110;44650 - San Juan Del Cesar;1
+201111;44650 - San Juan Del Cesar;1
+201103;44874 - Villanueva;1
+201105;44874 - Villanueva;1
+201101;47001 - Santa Marta;18
+201102;47001 - Santa Marta;18
+201103;47001 - Santa Marta;13
+201104;47001 - Santa Marta;2
+201105;47001 - Santa Marta;23
+201106;47001 - Santa Marta;18
+201107;47001 - Santa Marta;12
+201108;47001 - Santa Marta;13
+201109;47001 - Santa Marta;19
+201110;47001 - Santa Marta;9
+201111;47001 - Santa Marta;6
+201112;47001 - Santa Marta;16
+201101;47189 - Ciénaga;1
+201102;47189 - Ciénaga;2
+201103;47189 - Ciénaga;3
+201106;47189 - Ciénaga;2
+201107;47189 - Ciénaga;3
+201108;47189 - Ciénaga;5
+201109;47189 - Ciénaga;2
+201110;47189 - Ciénaga;1
+201111;47189 - Ciénaga;1
+201112;47189 - Ciénaga;1
+201101;47245 - El Banco;3
+201104;47245 - El Banco;3
+201105;47245 - El Banco;1
+201106;47245 - El Banco;1
+201108;47245 - El Banco;1
+201109;47245 - El Banco;1
+201110;47245 - El Banco;1
+201105;47288 - Fundación;1
+201106;47288 - Fundación;1
+201107;47288 - Fundación;1
+201108;47288 - Fundación;1
+201109;47288 - Fundación;1
+201110;47288 - Fundación;1
+201111;47288 - Fundación;1
+201105;47318 - Guamal;1
+201103;47551 - Pivijay;1
+201102;47555 - Plato;1
+201111;47675 - Salamina;1
+201110;47703 - San Zenón;1
+201110;47980 - Zona Bananera;1
+201111;47980 - Zona Bananera;1
+201101;50001 - Villavicencio;16
+201102;50001 - Villavicencio;16
+201103;50001 - Villavicencio;15
+201104;50001 - Villavicencio;9
+201105;50001 - Villavicencio;20
+201106;50001 - Villavicencio;12
+201107;50001 - Villavicencio;21
+201108;50001 - Villavicencio;20
+201109;50001 - Villavicencio;13
+201110;50001 - Villavicencio;8
+201111;50001 - Villavicencio;9
+201112;50001 - Villavicencio;13
+201102;50006 - Acacías;3
+201103;50006 - Acacías;2
+201104;50006 - Acacías;1
+201106;50006 - Acacías;1
+201107;50006 - Acacías;1
+201108;50006 - Acacías;1
+201108;50226 - Cumaral;1
+201109;50226 - Cumaral;1
+201101;50313 - Granada;1
+201102;50313 - Granada;3
+201103;50313 - Granada;5
+201104;50313 - Granada;1
+201105;50313 - Granada;2
+201106;50313 - Granada;2
+201107;50313 - Granada;2
+201108;50313 - Granada;2
+201109;50313 - Granada;4
+201110;50313 - Granada;3
+201111;50313 - Granada;2
+201112;50313 - Granada;3
+201104;50573 - Puerto López;1
+201109;50606 - Restrepo;1
+201112;50683 - San Juan De Arama;1
+201102;50689 - San Martín;1
+201103;50689 - San Martín;1
+201107;50689 - San Martín;1
+201108;50689 - San Martín;1
+201112;50711 - Vistahermosa;1
+201101;52001 - Pasto;78
+201102;52001 - Pasto;26
+201103;52001 - Pasto;23
+201104;52001 - Pasto;14
+201105;52001 - Pasto;25
+201106;52001 - Pasto;27
+201107;52001 - Pasto;30
+201108;52001 - Pasto;36
+201109;52001 - Pasto;28
+201110;52001 - Pasto;12
+201111;52001 - Pasto;33
+201112;52001 - Pasto;27
+201101;52079 - Barbacoas;1
+201109;52203 - Colón;1
+201107;52224 - Cuaspud;1
+201109;52227 - Cumbal;3
+201101;52240 - Chachagüí;2
+201103;52240 - Chachagüí;1
+201108;52240 - Chachagüí;1
+201109;52240 - Chachagüí;1
+201111;52240 - Chachagüí;1
+201111;52258 - El Tablón De Gómez;1
+201102;52287 - Funes;1
+201107;52317 - Guachucal;1
+201112;52320 - Guaitarilla;1
+201101;52356 - Ipiales;2
+201102;52356 - Ipiales;1
+201103;52356 - Ipiales;2
+201105;52356 - Ipiales;3
+201107;52356 - Ipiales;2
+201108;52356 - Ipiales;2
+201109;52356 - Ipiales;1
+201110;52356 - Ipiales;7
+201111;52356 - Ipiales;4
+201103;52381 - La Florida;1
+201110;52381 - La Florida;1
+201112;52381 - La Florida;1
+201106;52399 - La Unión;1
+201107;52399 - La Unión;1
+201108;52565 - Providencia;1
+201109;52565 - Providencia;1
+201105;52573 - Puerres;1
+201107;52573 - Puerres;1
+201108;52573 - Puerres;1
+201111;52573 - Puerres;1
+201112;52573 - Puerres;1
+201109;52612 - Ricaurte;1
+201101;52683 - Sandoná;1
+201102;52683 - Sandoná;1
+201103;52683 - Sandoná;2
+201104;52683 - Sandoná;1
+201110;52683 - Sandoná;1
+201112;52683 - Sandoná;1
+201103;52687 - San Lorenzo;1
+201108;52687 - San Lorenzo;1
+201103;52693 - San Pablo;1
+201109;52786 - Taminango;1
+201110;52786 - Taminango;1
+201103;52788 - Tangua;1
+201102;52835 - San Andres De Tumaco;1
+201104;52835 - San Andres De Tumaco;1
+201105;52835 - San Andres De Tumaco;1
+201107;52835 - San Andres De Tumaco;4
+201109;52835 - San Andres De Tumaco;1
+201111;52835 - San Andres De Tumaco;1
+201112;52835 - San Andres De Tumaco;1
+201102;52838 - Túquerres;1
+201103;52838 - Túquerres;1
+201107;52838 - Túquerres;1
+201111;52838 - Túquerres;1
+201104;52885 - Yacuanquer;1
+201101;54001 - Cúcuta;29
+201102;54001 - Cúcuta;25
+201103;54001 - Cúcuta;26
+201104;54001 - Cúcuta;13
+201105;54001 - Cúcuta;28
+201106;54001 - Cúcuta;28
+201107;54001 - Cúcuta;21
+201108;54001 - Cúcuta;24
+201109;54001 - Cúcuta;24
+201110;54001 - Cúcuta;9
+201111;54001 - Cúcuta;21
+201112;54001 - Cúcuta;21
+201102;54128 - Cachirá;1
+201103;54498 - Ocaña;1
+201106;54498 - Ocaña;1
+201108;54498 - Ocaña;2
+201109;54498 - Ocaña;1
+201111;54498 - Ocaña;1
+201101;54518 - Pamplona;2
+201102;54518 - Pamplona;1
+201105;54518 - Pamplona;3
+201106;54518 - Pamplona;1
+201107;54518 - Pamplona;2
+201108;54518 - Pamplona;1
+201109;54518 - Pamplona;2
+201106;54720 - Sardinata;1
+201111;54874 - Villa Del Rosario;1
+201101;63001 - Armenia;16
+201102;63001 - Armenia;26
+201103;63001 - Armenia;11
+201104;63001 - Armenia;10
+201105;63001 - Armenia;21
+201106;63001 - Armenia;18
+201107;63001 - Armenia;16
+201108;63001 - Armenia;18
+201109;63001 - Armenia;23
+201110;63001 - Armenia;11
+201111;63001 - Armenia;10
+201112;63001 - Armenia;7
+201102;63130 - Calarca;2
+201103;63130 - Calarca;2
+201104;63130 - Calarca;1
+201105;63130 - Calarca;1
+201107;63130 - Calarca;1
+201108;63130 - Calarca;1
+201109;63130 - Calarca;1
+201111;63130 - Calarca;1
+201112;63130 - Calarca;1
+201103;63190 - Circasia;1
+201108;63212 - Córdoba;1
+201106;63690 - Salento;1
+201101;66001 - Pereira;36
+201102;66001 - Pereira;46
+201103;66001 - Pereira;67
+201104;66001 - Pereira;14
+201105;66001 - Pereira;40
+201106;66001 - Pereira;47
+201107;66001 - Pereira;46
+201108;66001 - Pereira;39
+201109;66001 - Pereira;51
+201110;66001 - Pereira;19
+201111;66001 - Pereira;40
+201112;66001 - Pereira;46
+201104;66088 - Belén De Umbría;1
+201107;66088 - Belén De Umbría;1
+201110;66088 - Belén De Umbría;2
+201101;66170 - Dosquebradas;1
+201102;66170 - Dosquebradas;2
+201103;66170 - Dosquebradas;5
+201104;66170 - Dosquebradas;2
+201105;66170 - Dosquebradas;6
+201106;66170 - Dosquebradas;2
+201107;66170 - Dosquebradas;3
+201108;66170 - Dosquebradas;3
+201109;66170 - Dosquebradas;1
+201110;66170 - Dosquebradas;1
+201111;66170 - Dosquebradas;2
+201105;66318 - Guática;1
+201110;66318 - Guática;1
+201112;66383 - La Celia;1
+201101;66400 - La Virginia;1
+201103;66400 - La Virginia;1
+201105;66400 - La Virginia;1
+201106;66400 - La Virginia;2
+201107;66400 - La Virginia;3
+201108;66400 - La Virginia;1
+201109;66400 - La Virginia;1
+201111;66400 - La Virginia;1
+201112;66400 - La Virginia;1
+201101;66440 - Marsella;1
+201105;66456 - Mistrató;1
+201107;66594 - Quinchía;1
+201110;66594 - Quinchía;1
+201102;66682 - Santa Rosa De Cabal;2
+201103;66682 - Santa Rosa De Cabal;1
+201105;66682 - Santa Rosa De Cabal;1
+201108;66682 - Santa Rosa De Cabal;1
+201109;66682 - Santa Rosa De Cabal;1
+201101;68001 - Bucaramanga;32
+201102;68001 - Bucaramanga;27
+201103;68001 - Bucaramanga;14
+201104;68001 - Bucaramanga;10
+201105;68001 - Bucaramanga;18
+201106;68001 - Bucaramanga;16
+201107;68001 - Bucaramanga;31
+201108;68001 - Bucaramanga;27
+201109;68001 - Bucaramanga;34
+201110;68001 - Bucaramanga;24
+201111;68001 - Bucaramanga;14
+201112;68001 - Bucaramanga;13
+201101;68081 - Barrancabermeja;2
+201103;68081 - Barrancabermeja;3
+201105;68081 - Barrancabermeja;5
+201106;68081 - Barrancabermeja;1
+201107;68081 - Barrancabermeja;2
+201108;68081 - Barrancabermeja;5
+201109;68081 - Barrancabermeja;1
+201111;68081 - Barrancabermeja;1
+201108;68190 - Cimitarra;1
+201112;68190 - Cimitarra;1
+201104;68217 - Coromoro;1
+201110;68217 - Coromoro;1
+201101;68276 - Floridablanca;25
+201102;68276 - Floridablanca;33
+201103;68276 - Floridablanca;8
+201104;68276 - Floridablanca;12
+201105;68276 - Floridablanca;22
+201106;68276 - Floridablanca;23
+201107;68276 - Floridablanca;9
+201108;68276 - Floridablanca;23
+201109;68276 - Floridablanca;8
+201110;68276 - Floridablanca;19
+201111;68276 - Floridablanca;16
+201112;68276 - Floridablanca;13
+201101;68307 - Girón;1
+201106;68307 - Girón;1
+201110;68320 - Guadalupe;1
+201111;68320 - Guadalupe;1
+201110;68344 - Hato;1
+201112;68344 - Hato;1
+201110;68377 - La Belleza;1
+201111;68377 - La Belleza;1
+201106;68385 - Landázuri;1
+201102;68432 - Málaga;1
+201105;68432 - Málaga;1
+201107;68432 - Málaga;1
+201108;68432 - Málaga;2
+201109;68432 - Málaga;1
+201111;68500 - Oiba;1
+201102;68533 - Páramo;1
+201101;68547 - Piedecuesta;1
+201105;68547 - Piedecuesta;1
+201109;68547 - Piedecuesta;3
+201111;68547 - Piedecuesta;1
+201101;68575 - Puerto Wilches;1
+201103;68575 - Puerto Wilches;3
+201104;68575 - Puerto Wilches;2
+201105;68575 - Puerto Wilches;1
+201108;68575 - Puerto Wilches;1
+201103;68615 - Rionegro;1
+201103;68655 - Sabana De Torres;1
+201101;68679 - San Gil;3
+201102;68679 - San Gil;2
+201103;68679 - San Gil;1
+201106;68679 - San Gil;1
+201107;68679 - San Gil;1
+201108;68679 - San Gil;2
+201111;68679 - San Gil;1
+201112;68679 - San Gil;1
+201104;68689 - San Vicente De Chucurí;1
+201110;68689 - San Vicente De Chucurí;1
+201104;68745 - Simacota;1
+201102;68755 - Socorro;1
+201103;68755 - Socorro;2
+201105;68755 - Socorro;1
+201106;68755 - Socorro;1
+201107;68755 - Socorro;3
+201108;68755 - Socorro;4
+201109;68755 - Socorro;8
+201110;68755 - Socorro;1
+201111;68755 - Socorro;7
+201112;68755 - Socorro;3
+201103;68770 - Suaita;1
+201106;68895 - Zapatoca;1
+201101;70001 - Sincelejo;10
+201102;70001 - Sincelejo;10
+201103;70001 - Sincelejo;4
+201104;70001 - Sincelejo;3
+201105;70001 - Sincelejo;5
+201106;70001 - Sincelejo;9
+201107;70001 - Sincelejo;5
+201108;70001 - Sincelejo;8
+201109;70001 - Sincelejo;6
+201110;70001 - Sincelejo;6
+201111;70001 - Sincelejo;7
+201112;70001 - Sincelejo;8
+201106;70124 - Caimito;1
+201103;70215 - Corozal;2
+201110;70215 - Corozal;1
+201101;70221 - Coveñas;1
+201105;70670 - Sampués;1
+201110;70708 - San Marcos;1
+201101;73001 - Ibagué;35
+201102;73001 - Ibagué;29
+201103;73001 - Ibagué;23
+201104;73001 - Ibagué;16
+201105;73001 - Ibagué;27
+201106;73001 - Ibagué;31
+201107;73001 - Ibagué;28
+201108;73001 - Ibagué;23
+201109;73001 - Ibagué;20
+201110;73001 - Ibagué;19
+201111;73001 - Ibagué;18
+201112;73001 - Ibagué;31
+201102;73030 - Ambalema;1
+201107;73030 - Ambalema;1
+201101;73268 - Espinal;4
+201102;73268 - Espinal;1
+201103;73268 - Espinal;1
+201105;73268 - Espinal;2
+201107;73268 - Espinal;1
+201108;73268 - Espinal;1
+201109;73268 - Espinal;1
+201111;73268 - Espinal;2
+201112;73268 - Espinal;1
+201101;73283 - Fresno;1
+201102;73319 - Guamo;1
+201104;73319 - Guamo;1
+201103;73349 - Honda;2
+201106;73349 - Honda;1
+201107;73349 - Honda;1
+201111;73349 - Honda;2
+201101;73408 - Lérida;2
+201102;73408 - Lérida;3
+201103;73408 - Lérida;2
+201105;73408 - Lérida;1
+201110;73408 - Lérida;2
+201101;73411 - Líbano;1
+201102;73411 - Líbano;2
+201103;73411 - Líbano;3
+201104;73411 - Líbano;3
+201105;73411 - Líbano;1
+201107;73411 - Líbano;1
+201108;73411 - Líbano;1
+201109;73411 - Líbano;1
+201110;73411 - Líbano;2
+201111;73411 - Líbano;2
+201101;73443 - Mariquita;1
+201103;73443 - Mariquita;1
+201105;73443 - Mariquita;1
+201107;73443 - Mariquita;1
+201111;73443 - Mariquita;1
+201102;73449 - Melgar;1
+201106;73449 - Melgar;1
+201111;73449 - Melgar;2
+201112;73449 - Melgar;2
+201104;73585 - Purificación;1
+201107;73585 - Purificación;1
+201108;73585 - Purificación;1
+201102;73675 - San Antonio;1
+201111;73770 - Suárez;1
+201102;73861 - Venadillo;1
+201101;76001 - Cali;102
+201102;76001 - Cali;99
+201103;76001 - Cali;129
+201104;76001 - Cali;108
+201105;76001 - Cali;105
+201106;76001 - Cali;150
+201107;76001 - Cali;152
+201108;76001 - Cali;148
+201109;76001 - Cali;142
+201110;76001 - Cali;134
+201111;76001 - Cali;123
+201112;76001 - Cali;157
+201101;76036 - Andalucía;1
+201102;76036 - Andalucía;1
+201108;76036 - Andalucía;1
+201101;76109 - Buenaventura;3
+201102;76109 - Buenaventura;6
+201103;76109 - Buenaventura;3
+201104;76109 - Buenaventura;1
+201106;76109 - Buenaventura;4
+201107;76109 - Buenaventura;3
+201108;76109 - Buenaventura;1
+201110;76109 - Buenaventura;1
+201111;76109 - Buenaventura;4
+201112;76109 - Buenaventura;2
+201101;76111 - Guadalajara De Buga;1
+201103;76111 - Guadalajara De Buga;3
+201104;76111 - Guadalajara De Buga;1
+201105;76111 - Guadalajara De Buga;9
+201106;76111 - Guadalajara De Buga;11
+201107;76111 - Guadalajara De Buga;1
+201108;76111 - Guadalajara De Buga;2
+201109;76111 - Guadalajara De Buga;5
+201110;76111 - Guadalajara De Buga;2
+201111;76111 - Guadalajara De Buga;3
+201112;76111 - Guadalajara De Buga;5
+201101;76113 - Bugalagrande;1
+201102;76113 - Bugalagrande;1
+201108;76122 - Caicedonia;1
+201102;76130 - Candelaria;1
+201104;76130 - Candelaria;1
+201105;76130 - Candelaria;2
+201106;76130 - Candelaria;1
+201108;76130 - Candelaria;1
+201101;76147 - Cartago;1
+201102;76147 - Cartago;3
+201103;76147 - Cartago;3
+201105;76147 - Cartago;2
+201106;76147 - Cartago;3
+201108;76147 - Cartago;1
+201109;76147 - Cartago;1
+201110;76147 - Cartago;2
+201101;76233 - Dagua;1
+201111;76233 - Dagua;1
+201105;76248 - El Cerrito;1
+201110;76248 - El Cerrito;1
+201103;76275 - Florida;1
+201104;76275 - Florida;1
+201106;76275 - Florida;1
+201108;76306 - Ginebra;1
+201101;76318 - Guacarí;4
+201103;76318 - Guacarí;1
+201101;76364 - Jamundí;1
+201104;76364 - Jamundí;1
+201105;76364 - Jamundí;1
+201106;76364 - Jamundí;1
+201108;76364 - Jamundí;1
+201110;76364 - Jamundí;1
+201112;76364 - Jamundí;1
+201102;76400 - La Unión;1
+201101;76497 - Obando;1
+201104;76497 - Obando;1
+201105;76497 - Obando;1
+201101;76520 - Palmira;7
+201102;76520 - Palmira;11
+201103;76520 - Palmira;17
+201104;76520 - Palmira;6
+201105;76520 - Palmira;11
+201106;76520 - Palmira;4
+201107;76520 - Palmira;8
+201108;76520 - Palmira;5
+201109;76520 - Palmira;4
+201110;76520 - Palmira;5
+201111;76520 - Palmira;4
+201112;76520 - Palmira;7
+201103;76606 - Restrepo;1
+201101;76616 - Riofrío;1
+201106;76616 - Riofrío;1
+201108;76616 - Riofrío;1
+201111;76616 - Riofrío;1
+201106;76622 - Roldanillo;1
+201109;76670 - San Pedro;1
+201102;76736 - Sevilla;1
+201103;76736 - Sevilla;2
+201107;76736 - Sevilla;1
+201101;76834 - Tuluá;18
+201102;76834 - Tuluá;12
+201103;76834 - Tuluá;12
+201104;76834 - Tuluá;4
+201105;76834 - Tuluá;9
+201106;76834 - Tuluá;18
+201107;76834 - Tuluá;21
+201108;76834 - Tuluá;23
+201109;76834 - Tuluá;21
+201110;76834 - Tuluá;17
+201111;76834 - Tuluá;20
+201112;76834 - Tuluá;26
+201106;76890 - Yotoco;1
+201111;76890 - Yotoco;1
+201102;76892 - Yumbo;1
+201103;76892 - Yumbo;1
+201108;76892 - Yumbo;1
+201101;76895 - Zarzal;8
+201102;76895 - Zarzal;6
+201103;76895 - Zarzal;7
+201104;76895 - Zarzal;7
+201105;76895 - Zarzal;10
+201106;76895 - Zarzal;11
+201107;76895 - Zarzal;7
+201108;76895 - Zarzal;12
+201109;76895 - Zarzal;7
+201110;76895 - Zarzal;6
+201111;76895 - Zarzal;7
+201112;76895 - Zarzal;3
+201101;81001 - Arauca;1
+201102;81001 - Arauca;2
+201103;81001 - Arauca;1
+201104;81001 - Arauca;4
+201105;81001 - Arauca;5
+201106;81001 - Arauca;1
+201108;81001 - Arauca;2
+201109;81001 - Arauca;1
+201111;81001 - Arauca;2
+201112;81001 - Arauca;1
+201112;81591 - Puerto Rondón;1
+201101;81736 - Saravena;1
+201104;81736 - Saravena;1
+201105;81736 - Saravena;1
+201107;81736 - Saravena;2
+201108;81736 - Saravena;5
+201109;81736 - Saravena;1
+201111;81736 - Saravena;1
+201112;81736 - Saravena;1
+201101;81794 - Tame;1
+201105;81794 - Tame;1
+201110;81794 - Tame;2
+201101;85001 - Yopal;2
+201102;85001 - Yopal;4
+201103;85001 - Yopal;5
+201104;85001 - Yopal;6
+201105;85001 - Yopal;2
+201106;85001 - Yopal;2
+201107;85001 - Yopal;2
+201108;85001 - Yopal;5
+201109;85001 - Yopal;5
+201110;85001 - Yopal;2
+201111;85001 - Yopal;3
+201112;85001 - Yopal;1
+201111;85410 - Tauramena;1
+201107;85440 - Villanueva;1
+201107;86219 - Colón;1
+201112;86219 - Colón;1
+201101;86320 - Orito;1
+201112;86320 - Orito;1
+201101;86568 - Puerto Asís;1
+201103;86568 - Puerto Asís;1
+201106;86568 - Puerto Asís;1
+201105;86865 - Valle Del Guamuez;1
+201108;86865 - Valle Del Guamuez;1
+201101;91001 - Leticia;1
+201105;91001 - Leticia;1
+201110;95001 - San José Del Guaviare;1
+201101;-1 - No Definido;9
+201102;-1 - No Definido;4
+201103;-1 - No Definido;13
+201105;-1 - No Definido;18
+201106;-1 - No Definido;10
+201107;-1 - No Definido;14
+201108;-1 - No Definido;26
+201109;-1 - No Definido;24
+201110;-1 - No Definido;23
+201111;-1 - No Definido;15
+201112;-1 - No Definido;1

@@ -1,0 +1,1807 @@
+﻿PeriodoNum;Municipio;CantidadPacientes
+201401;05001 - Medellín;241
+201402;05001 - Medellín;238
+201403;05001 - Medellín;315
+201404;05001 - Medellín;300
+201405;05001 - Medellín;211
+201406;05001 - Medellín;253
+201407;05001 - Medellín;324
+201408;05001 - Medellín;304
+201409;05001 - Medellín;282
+201410;05001 - Medellín;245
+201411;05001 - Medellín;244
+201412;05001 - Medellín;281
+201401;05002 - Abejorral;1
+201406;05002 - Abejorral;1
+201409;05002 - Abejorral;1
+201403;05030 - Amagá;1
+201406;05030 - Amagá;1
+201407;05031 - Amalfi;2
+201402;05034 - Andes;1
+201401;05038 - Angostura;1
+201404;05038 - Angostura;1
+201407;05038 - Angostura;1
+201410;05038 - Angostura;1
+201402;05042 - Santafé De Antioquia;1
+201404;05042 - Santafé De Antioquia;2
+201406;05042 - Santafé De Antioquia;1
+201408;05042 - Santafé De Antioquia;4
+201409;05042 - Santafé De Antioquia;3
+201411;05042 - Santafé De Antioquia;2
+201412;05042 - Santafé De Antioquia;2
+201401;05045 - Apartadó;5
+201402;05045 - Apartadó;1
+201404;05045 - Apartadó;3
+201405;05045 - Apartadó;3
+201406;05045 - Apartadó;4
+201407;05045 - Apartadó;5
+201408;05045 - Apartadó;5
+201409;05045 - Apartadó;4
+201410;05045 - Apartadó;4
+201411;05045 - Apartadó;6
+201412;05045 - Apartadó;15
+201401;05051 - Arboletes;1
+201411;05051 - Arboletes;1
+201403;05079 - Barbosa;1
+201404;05079 - Barbosa;1
+201406;05079 - Barbosa;1
+201408;05079 - Barbosa;1
+201401;05088 - Bello;11
+201402;05088 - Bello;15
+201403;05088 - Bello;13
+201404;05088 - Bello;24
+201405;05088 - Bello;15
+201406;05088 - Bello;18
+201407;05088 - Bello;23
+201408;05088 - Bello;32
+201409;05088 - Bello;27
+201410;05088 - Bello;9
+201411;05088 - Bello;10
+201412;05088 - Bello;14
+201406;05091 - Betania;1
+201407;05091 - Betania;1
+201408;05091 - Betania;1
+201409;05091 - Betania;1
+201411;05091 - Betania;1
+201408;05093 - Betulia;1
+201410;05093 - Betulia;1
+201402;05101 - Ciudad Bolívar;1
+201403;05101 - Ciudad Bolívar;1
+201408;05101 - Ciudad Bolívar;1
+201409;05101 - Ciudad Bolívar;1
+201412;05101 - Ciudad Bolívar;1
+201401;05129 - Caldas;1
+201402;05129 - Caldas;1
+201403;05129 - Caldas;3
+201404;05129 - Caldas;1
+201405;05129 - Caldas;1
+201406;05129 - Caldas;7
+201407;05129 - Caldas;4
+201408;05129 - Caldas;2
+201409;05129 - Caldas;8
+201410;05129 - Caldas;4
+201411;05129 - Caldas;3
+201412;05129 - Caldas;5
+201406;05134 - Campamento;1
+201408;05134 - Campamento;1
+201404;05138 - Cañasgordas;3
+201408;05142 - Caracolí;1
+201401;05147 - Carepa;2
+201402;05147 - Carepa;1
+201403;05147 - Carepa;1
+201405;05147 - Carepa;1
+201406;05147 - Carepa;1
+201407;05147 - Carepa;1
+201408;05147 - Carepa;1
+201409;05147 - Carepa;3
+201401;05148 - El Carmen De Viboral;2
+201402;05148 - El Carmen De Viboral;1
+201404;05148 - El Carmen De Viboral;2
+201409;05148 - El Carmen De Viboral;2
+201411;05150 - Carolina;1
+201403;05154 - Caucasia;3
+201405;05154 - Caucasia;1
+201406;05154 - Caucasia;1
+201407;05154 - Caucasia;1
+201408;05154 - Caucasia;1
+201409;05154 - Caucasia;2
+201410;05154 - Caucasia;2
+201412;05154 - Caucasia;2
+201401;05172 - Chigorodó;1
+201403;05172 - Chigorodó;1
+201404;05172 - Chigorodó;1
+201408;05172 - Chigorodó;2
+201403;05190 - Cisneros;1
+201404;05190 - Cisneros;1
+201402;05206 - Concepción;1
+201403;05206 - Concepción;1
+201404;05206 - Concepción;1
+201409;05206 - Concepción;1
+201404;05209 - Concordia;1
+201401;05212 - Copacabana;1
+201403;05212 - Copacabana;1
+201404;05212 - Copacabana;1
+201406;05212 - Copacabana;1
+201408;05212 - Copacabana;1
+201411;05212 - Copacabana;1
+201412;05212 - Copacabana;1
+201401;05237 - Don Matías;1
+201403;05237 - Don Matías;1
+201404;05237 - Don Matías;1
+201406;05237 - Don Matías;4
+201407;05237 - Don Matías;1
+201408;05237 - Don Matías;1
+201401;05250 - El Bagre;1
+201401;05266 - Envigado;8
+201402;05266 - Envigado;6
+201403;05266 - Envigado;6
+201404;05266 - Envigado;7
+201405;05266 - Envigado;7
+201406;05266 - Envigado;9
+201407;05266 - Envigado;9
+201408;05266 - Envigado;10
+201409;05266 - Envigado;9
+201410;05266 - Envigado;8
+201411;05266 - Envigado;9
+201412;05266 - Envigado;9
+201403;05282 - Fredonia;2
+201407;05282 - Fredonia;1
+201412;05282 - Fredonia;1
+201412;05284 - Frontino;2
+201401;05308 - Girardota;1
+201402;05308 - Girardota;1
+201403;05308 - Girardota;1
+201404;05308 - Girardota;1
+201409;05308 - Girardota;1
+201411;05308 - Girardota;2
+201412;05308 - Girardota;1
+201401;05310 - Gómez Plata;1
+201402;05310 - Gómez Plata;1
+201406;05310 - Gómez Plata;2
+201406;05313 - Granada;1
+201401;05360 - Itagui;6
+201402;05360 - Itagui;3
+201403;05360 - Itagui;8
+201404;05360 - Itagui;7
+201405;05360 - Itagui;7
+201406;05360 - Itagui;2
+201407;05360 - Itagui;10
+201408;05360 - Itagui;9
+201409;05360 - Itagui;3
+201410;05360 - Itagui;3
+201411;05360 - Itagui;3
+201412;05360 - Itagui;10
+201404;05361 - Ituango;1
+201406;05361 - Ituango;1
+201402;05364 - Jardín;3
+201403;05364 - Jardín;1
+201408;05364 - Jardín;1
+201402;05368 - Jericó;1
+201407;05368 - Jericó;1
+201409;05368 - Jericó;1
+201412;05368 - Jericó;1
+201402;05376 - La Ceja;2
+201403;05376 - La Ceja;3
+201404;05376 - La Ceja;3
+201405;05376 - La Ceja;1
+201406;05376 - La Ceja;4
+201407;05376 - La Ceja;3
+201408;05376 - La Ceja;6
+201409;05376 - La Ceja;7
+201410;05376 - La Ceja;5
+201411;05376 - La Ceja;5
+201412;05376 - La Ceja;8
+201402;05380 - La Estrella;1
+201409;05380 - La Estrella;1
+201407;05390 - La Pintada;1
+201411;05390 - La Pintada;1
+201408;05400 - La Unión;1
+201409;05400 - La Unión;1
+201411;05400 - La Unión;1
+201406;05411 - Liborina;1
+201402;05440 - Marinilla;2
+201405;05440 - Marinilla;1
+201411;05440 - Marinilla;1
+201402;05467 - Montebello;1
+201407;05467 - Montebello;1
+201408;05467 - Montebello;1
+201402;05483 - Nariño;1
+201411;05483 - Nariño;1
+201401;05490 - Necoclí;1
+201409;05495 - Nechí;1
+201407;05541 - Peñol;2
+201402;05576 - Pueblorrico;1
+201403;05576 - Pueblorrico;1
+201407;05576 - Pueblorrico;1
+201409;05576 - Pueblorrico;1
+201411;05576 - Pueblorrico;1
+201406;05579 - Puerto Berrío;1
+201409;05579 - Puerto Berrío;1
+201410;05579 - Puerto Berrío;1
+201411;05579 - Puerto Berrío;3
+201411;05585 - Puerto Nare;1
+201408;05591 - Puerto Triunfo;1
+201407;05607 - Retiro;1
+201401;05615 - Rionegro;16
+201402;05615 - Rionegro;20
+201403;05615 - Rionegro;16
+201404;05615 - Rionegro;15
+201405;05615 - Rionegro;20
+201406;05615 - Rionegro;18
+201407;05615 - Rionegro;27
+201408;05615 - Rionegro;26
+201409;05615 - Rionegro;25
+201410;05615 - Rionegro;16
+201411;05615 - Rionegro;11
+201412;05615 - Rionegro;18
+201401;05631 - Sabaneta;3
+201402;05631 - Sabaneta;2
+201403;05631 - Sabaneta;1
+201404;05631 - Sabaneta;1
+201405;05631 - Sabaneta;1
+201406;05631 - Sabaneta;2
+201407;05631 - Sabaneta;1
+201408;05631 - Sabaneta;1
+201409;05631 - Sabaneta;1
+201410;05631 - Sabaneta;2
+201412;05631 - Sabaneta;3
+201404;05647 - San Andrés De Cuerquía;1
+201409;05647 - San Andrés De Cuerquía;1
+201411;05649 - San Carlos;1
+201412;05649 - San Carlos;1
+201405;05656 - San Jerónimo;1
+201410;05656 - San Jerónimo;1
+201411;05656 - San Jerónimo;1
+201404;05658 - San José De La Montaña;1
+201408;05660 - San Luis;1
+201403;05664 - San Pedro;1
+201408;05664 - San Pedro;1
+201411;05664 - San Pedro;1
+201411;05665 - San Pedro De Uraba;1
+201402;05674 - San Vicente;2
+201403;05674 - San Vicente;2
+201402;05679 - Santa Bárbara;1
+201405;05679 - Santa Bárbara;1
+201405;05686 - Santa Rosa De Osos;1
+201411;05686 - Santa Rosa De Osos;4
+201401;05690 - Santo Domingo;1
+201406;05697 - El Santuario;1
+201407;05697 - El Santuario;1
+201409;05736 - Segovia;1
+201410;05736 - Segovia;1
+201401;05756 - Sonson;1
+201402;05756 - Sonson;5
+201403;05756 - Sonson;2
+201404;05756 - Sonson;2
+201406;05756 - Sonson;2
+201407;05756 - Sonson;5
+201408;05756 - Sonson;3
+201409;05756 - Sonson;3
+201411;05756 - Sonson;1
+201412;05756 - Sonson;3
+201403;05761 - Sopetrán;1
+201403;05789 - Támesis;1
+201404;05789 - Támesis;1
+201405;05789 - Támesis;1
+201407;05789 - Támesis;1
+201408;05789 - Támesis;1
+201409;05789 - Támesis;1
+201412;05789 - Támesis;1
+201404;05790 - Tarazá;1
+201404;05792 - Tarso;1
+201402;05837 - Turbo;4
+201404;05837 - Turbo;1
+201407;05837 - Turbo;2
+201410;05837 - Turbo;1
+201402;05847 - Urrao;1
+201404;05847 - Urrao;1
+201406;05847 - Urrao;1
+201409;05847 - Urrao;1
+201408;05854 - Valdivia;2
+201403;05856 - Valparaíso;1
+201407;05858 - Vegachí;1
+201404;05873 - Vigía Del Fuerte;1
+201408;05873 - Vigía Del Fuerte;1
+201401;05887 - Yarumal;1
+201402;05887 - Yarumal;1
+201403;05887 - Yarumal;2
+201404;05887 - Yarumal;2
+201407;05887 - Yarumal;3
+201408;05887 - Yarumal;4
+201410;05887 - Yarumal;1
+201411;05887 - Yarumal;1
+201406;05890 - Yolombó;1
+201408;05890 - Yolombó;1
+201403;05893 - Yondó;1
+201407;05895 - Zaragoza;1
+201401;08001 - Barranquilla;47
+201402;08001 - Barranquilla;40
+201403;08001 - Barranquilla;39
+201404;08001 - Barranquilla;51
+201405;08001 - Barranquilla;48
+201406;08001 - Barranquilla;40
+201407;08001 - Barranquilla;66
+201408;08001 - Barranquilla;62
+201409;08001 - Barranquilla;79
+201410;08001 - Barranquilla;66
+201411;08001 - Barranquilla;69
+201412;08001 - Barranquilla;70
+201406;08078 - Baranoa;1
+201407;08296 - Galapa;2
+201407;08573 - Puerto Colombia;1
+201408;08573 - Puerto Colombia;5
+201409;08573 - Puerto Colombia;1
+201410;08573 - Puerto Colombia;1
+201411;08573 - Puerto Colombia;1
+201412;08573 - Puerto Colombia;1
+201403;08638 - Sabanalarga;1
+201404;08638 - Sabanalarga;1
+201407;08638 - Sabanalarga;1
+201412;08638 - Sabanalarga;1
+201408;08685 - Santo Tomás;1
+201401;08758 - Soledad;4
+201402;08758 - Soledad;3
+201403;08758 - Soledad;1
+201404;08758 - Soledad;3
+201405;08758 - Soledad;4
+201406;08758 - Soledad;5
+201407;08758 - Soledad;4
+201408;08758 - Soledad;7
+201409;08758 - Soledad;2
+201410;08758 - Soledad;3
+201411;08758 - Soledad;3
+201412;08758 - Soledad;5
+201406;08832 - Tubará;1
+201401;11001 - Bogotá, D.C.;387
+201402;11001 - Bogotá, D.C.;388
+201403;11001 - Bogotá, D.C.;407
+201404;11001 - Bogotá, D.C.;405
+201405;11001 - Bogotá, D.C.;465
+201406;11001 - Bogotá, D.C.;423
+201407;11001 - Bogotá, D.C.;442
+201408;11001 - Bogotá, D.C.;447
+201409;11001 - Bogotá, D.C.;527
+201410;11001 - Bogotá, D.C.;519
+201411;11001 - Bogotá, D.C.;472
+201412;11001 - Bogotá, D.C.;498
+201401;13001 - Cartagena;38
+201402;13001 - Cartagena;27
+201403;13001 - Cartagena;37
+201404;13001 - Cartagena;41
+201405;13001 - Cartagena;47
+201406;13001 - Cartagena;37
+201407;13001 - Cartagena;55
+201408;13001 - Cartagena;49
+201409;13001 - Cartagena;55
+201410;13001 - Cartagena;62
+201411;13001 - Cartagena;58
+201412;13001 - Cartagena;51
+201402;13052 - Arjona;1
+201406;13052 - Arjona;1
+201408;13052 - Arjona;3
+201405;13074 - Barranco De Loba;1
+201410;13222 - Clemencia;1
+201403;13244 - El Carmen De Bolívar;1
+201405;13244 - El Carmen De Bolívar;1
+201406;13244 - El Carmen De Bolívar;1
+201407;13244 - El Carmen De Bolívar;1
+201401;13430 - Magangué;2
+201402;13430 - Magangué;1
+201403;13430 - Magangué;1
+201404;13430 - Magangué;6
+201405;13430 - Magangué;4
+201406;13430 - Magangué;3
+201407;13430 - Magangué;5
+201408;13430 - Magangué;5
+201409;13430 - Magangué;1
+201410;13430 - Magangué;2
+201411;13430 - Magangué;6
+201412;13430 - Magangué;4
+201401;13433 - Mahates;1
+201407;13468 - Mompós;1
+201408;13468 - Mompós;1
+201401;13654 - San Jacinto;1
+201411;13657 - San Juan Nepomuceno;1
+201407;13670 - San Pablo;1
+201403;13836 - Turbaco;1
+201407;13836 - Turbaco;1
+201409;13836 - Turbaco;2
+201401;15001 - Tunja;55
+201402;15001 - Tunja;53
+201403;15001 - Tunja;52
+201404;15001 - Tunja;59
+201405;15001 - Tunja;54
+201406;15001 - Tunja;43
+201407;15001 - Tunja;46
+201408;15001 - Tunja;40
+201409;15001 - Tunja;51
+201410;15001 - Tunja;57
+201411;15001 - Tunja;40
+201412;15001 - Tunja;46
+201410;15047 - Aquitania;1
+201407;15087 - Belén;3
+201408;15087 - Belén;1
+201410;15087 - Belén;2
+201410;15162 - Cerinza;1
+201401;15176 - Chiquinquirá;1
+201402;15176 - Chiquinquirá;5
+201404;15176 - Chiquinquirá;1
+201405;15176 - Chiquinquirá;2
+201406;15176 - Chiquinquirá;2
+201407;15176 - Chiquinquirá;1
+201408;15176 - Chiquinquirá;1
+201409;15176 - Chiquinquirá;2
+201410;15176 - Chiquinquirá;4
+201411;15176 - Chiquinquirá;2
+201412;15176 - Chiquinquirá;2
+201402;15215 - Corrales;2
+201403;15215 - Corrales;2
+201408;15224 - Cucaita;2
+201406;15232 - Chíquiza;1
+201401;15238 - Duitama;5
+201402;15238 - Duitama;12
+201403;15238 - Duitama;8
+201404;15238 - Duitama;6
+201405;15238 - Duitama;9
+201406;15238 - Duitama;9
+201407;15238 - Duitama;9
+201408;15238 - Duitama;13
+201409;15238 - Duitama;11
+201410;15238 - Duitama;14
+201411;15238 - Duitama;2
+201412;15238 - Duitama;16
+201401;15322 - Guateque;3
+201402;15322 - Guateque;1
+201403;15322 - Guateque;4
+201404;15322 - Guateque;1
+201405;15322 - Guateque;3
+201406;15322 - Guateque;2
+201407;15322 - Guateque;1
+201408;15322 - Guateque;3
+201409;15322 - Guateque;3
+201410;15322 - Guateque;1
+201411;15322 - Guateque;3
+201412;15322 - Guateque;2
+201409;15367 - Jenesano;1
+201410;15367 - Jenesano;1
+201406;15380 - La Capilla;1
+201409;15380 - La Capilla;1
+201405;15407 - Villa De Leyva;1
+201406;15407 - Villa De Leyva;1
+201407;15407 - Villa De Leyva;1
+201412;15407 - Villa De Leyva;1
+201402;15455 - Miraflores;1
+201403;15455 - Miraflores;1
+201406;15455 - Miraflores;3
+201408;15455 - Miraflores;1
+201404;15464 - Mongua;1
+201407;15464 - Mongua;1
+201403;15469 - Moniquirá;2
+201406;15469 - Moniquirá;2
+201407;15469 - Moniquirá;2
+201409;15469 - Moniquirá;1
+201410;15469 - Moniquirá;1
+201411;15469 - Moniquirá;1
+201412;15469 - Moniquirá;2
+201402;15480 - Muzo;1
+201407;15480 - Muzo;1
+201401;15491 - Nobsa;1
+201402;15494 - Nuevo Colón;1
+201409;15507 - Otanche;1
+201410;15507 - Otanche;1
+201408;15514 - Páez;1
+201409;15514 - Páez;1
+201410;15514 - Páez;1
+201412;15514 - Páez;1
+201403;15516 - Paipa;2
+201406;15516 - Paipa;1
+201408;15516 - Paipa;2
+201410;15516 - Paipa;1
+201411;15516 - Paipa;1
+201403;15542 - Pesca;1
+201410;15572 - Puerto Boyacá;1
+201412;15572 - Puerto Boyacá;1
+201407;15599 - Ramiriquí;1
+201410;15599 - Ramiriquí;1
+201406;15632 - Saboyá;1
+201405;15646 - Samacá;1
+201411;15646 - Samacá;1
+201412;15646 - Samacá;2
+201401;15753 - Soatá;1
+201402;15753 - Soatá;2
+201403;15753 - Soatá;1
+201404;15753 - Soatá;4
+201405;15753 - Soatá;2
+201407;15753 - Soatá;1
+201408;15753 - Soatá;1
+201411;15753 - Soatá;3
+201406;15757 - Socha;1
+201409;15757 - Socha;2
+201412;15757 - Socha;1
+201401;15759 - Sogamoso;5
+201402;15759 - Sogamoso;7
+201403;15759 - Sogamoso;4
+201404;15759 - Sogamoso;5
+201405;15759 - Sogamoso;6
+201406;15759 - Sogamoso;7
+201407;15759 - Sogamoso;7
+201408;15759 - Sogamoso;4
+201409;15759 - Sogamoso;3
+201410;15759 - Sogamoso;5
+201411;15759 - Sogamoso;9
+201412;15759 - Sogamoso;2
+201401;15761 - Somondoco;1
+201401;15764 - Soracá;1
+201411;15764 - Soracá;1
+201401;15776 - Sutamarchán;1
+201405;15776 - Sutamarchán;1
+201410;15806 - Tibasosa;1
+201401;15814 - Toca;1
+201403;15835 - Turmequé;1
+201404;15835 - Turmequé;1
+201408;15835 - Turmequé;1
+201409;15835 - Turmequé;1
+201411;15835 - Turmequé;1
+201401;17001 - Manizales;19
+201402;17001 - Manizales;14
+201403;17001 - Manizales;21
+201404;17001 - Manizales;17
+201405;17001 - Manizales;30
+201406;17001 - Manizales;22
+201407;17001 - Manizales;15
+201408;17001 - Manizales;25
+201409;17001 - Manizales;22
+201410;17001 - Manizales;24
+201411;17001 - Manizales;36
+201412;17001 - Manizales;39
+201405;17013 - Aguadas;1
+201409;17050 - Aranzazu;1
+201411;17088 - Belalcázar;1
+201401;17174 - Chinchiná;1
+201404;17174 - Chinchiná;1
+201409;17174 - Chinchiná;1
+201410;17174 - Chinchiná;2
+201411;17174 - Chinchiná;1
+201412;17174 - Chinchiná;2
+201401;17380 - La Dorada;1
+201402;17380 - La Dorada;1
+201403;17380 - La Dorada;1
+201404;17380 - La Dorada;2
+201406;17380 - La Dorada;1
+201407;17380 - La Dorada;2
+201408;17380 - La Dorada;1
+201411;17380 - La Dorada;1
+201412;17380 - La Dorada;2
+201402;17433 - Manzanares;1
+201403;17433 - Manzanares;1
+201409;17433 - Manzanares;1
+201401;17444 - Marquetalia;2
+201405;17444 - Marquetalia;1
+201407;17486 - Neira;1
+201412;17541 - Pensilvania;1
+201408;17614 - Riosucio;1
+201410;17653 - Salamina;1
+201405;17662 - Samaná;1
+201407;17777 - Supía;1
+201412;17777 - Supía;1
+201407;17873 - Villamaría;1
+201408;17873 - Villamaría;1
+201410;17873 - Villamaría;1
+201411;17873 - Villamaría;1
+201409;17877 - Viterbo;1
+201410;17877 - Viterbo;2
+201411;17877 - Viterbo;1
+201412;17877 - Viterbo;2
+201401;18001 - Florencia;5
+201402;18001 - Florencia;7
+201403;18001 - Florencia;7
+201404;18001 - Florencia;15
+201405;18001 - Florencia;18
+201406;18001 - Florencia;15
+201407;18001 - Florencia;16
+201408;18001 - Florencia;17
+201409;18001 - Florencia;18
+201410;18001 - Florencia;19
+201411;18001 - Florencia;14
+201412;18001 - Florencia;9
+201406;18205 - Curillo;1
+201408;18205 - Curillo;1
+201410;18205 - Curillo;1
+201407;18247 - El Doncello;1
+201408;18247 - El Doncello;1
+201411;18410 - La Montañita;1
+201404;18610 - San José Del Fragua;1
+201410;18610 - San José Del Fragua;1
+201411;18610 - San José Del Fragua;1
+201407;18753 - San Vicente Del Caguán;1
+201409;18753 - San Vicente Del Caguán;1
+201401;19001 - Popayán;22
+201402;19001 - Popayán;18
+201403;19001 - Popayán;35
+201404;19001 - Popayán;33
+201405;19001 - Popayán;40
+201406;19001 - Popayán;42
+201407;19001 - Popayán;34
+201408;19001 - Popayán;39
+201409;19001 - Popayán;39
+201410;19001 - Popayán;29
+201411;19001 - Popayán;33
+201412;19001 - Popayán;40
+201401;19022 - Almaguer;2
+201406;19050 - Argelia;1
+201409;19050 - Argelia;1
+201402;19100 - Bolívar;1
+201405;19100 - Bolívar;1
+201406;19100 - Bolívar;2
+201406;19110 - Buenos Aires;1
+201407;19110 - Buenos Aires;2
+201411;19110 - Buenos Aires;1
+201412;19130 - Cajibío;1
+201401;19137 - Caldono;1
+201401;19142 - Caloto;3
+201403;19142 - Caloto;1
+201407;19142 - Caloto;1
+201411;19212 - Corinto;1
+201412;19212 - Corinto;1
+201405;19256 - El Tambo;3
+201406;19256 - El Tambo;1
+201407;19256 - El Tambo;1
+201409;19256 - El Tambo;2
+201411;19256 - El Tambo;1
+201412;19256 - El Tambo;2
+201402;19318 - Guapi;1
+201408;19318 - Guapi;1
+201409;19318 - Guapi;1
+201411;19318 - Guapi;1
+201405;19397 - La Vega;1
+201409;19397 - La Vega;1
+201411;19455 - Miranda;2
+201404;19473 - Morales;1
+201412;19473 - Morales;1
+201403;19532 - Patía;1
+201407;19532 - Patía;1
+201408;19532 - Patía;1
+201412;19532 - Patía;2
+201408;19548 - Piendamó;1
+201410;19548 - Piendamó;2
+201411;19548 - Piendamó;1
+201412;19548 - Piendamó;1
+201401;19573 - Puerto Tejada;1
+201407;19573 - Puerto Tejada;2
+201412;19573 - Puerto Tejada;1
+201402;19585 - Puracé;1
+201412;19622 - Rosas;1
+201401;19698 - Santander De Quilichao;2
+201404;19698 - Santander De Quilichao;1
+201405;19698 - Santander De Quilichao;1
+201406;19698 - Santander De Quilichao;2
+201408;19698 - Santander De Quilichao;1
+201411;19698 - Santander De Quilichao;2
+201412;19698 - Santander De Quilichao;1
+201403;19701 - Santa Rosa;1
+201410;19701 - Santa Rosa;1
+201403;19785 - Sucre;1
+201409;19785 - Sucre;1
+201402;19807 - Timbío;2
+201407;19807 - Timbío;1
+201408;19807 - Timbío;1
+201411;19807 - Timbío;1
+201406;19824 - Totoró;1
+201404;19845 - Villa Rica;1
+201412;19845 - Villa Rica;1
+201401;20001 - Valledupar;2
+201402;20001 - Valledupar;8
+201403;20001 - Valledupar;5
+201404;20001 - Valledupar;5
+201405;20001 - Valledupar;8
+201406;20001 - Valledupar;13
+201407;20001 - Valledupar;9
+201408;20001 - Valledupar;10
+201409;20001 - Valledupar;9
+201410;20001 - Valledupar;11
+201411;20001 - Valledupar;13
+201412;20001 - Valledupar;9
+201401;20011 - Aguachica;1
+201402;20011 - Aguachica;2
+201403;20011 - Aguachica;1
+201404;20011 - Aguachica;1
+201405;20011 - Aguachica;1
+201408;20011 - Aguachica;1
+201409;20011 - Aguachica;5
+201410;20011 - Aguachica;1
+201404;20013 - Agustín Codazzi;1
+201409;20013 - Agustín Codazzi;2
+201410;20013 - Agustín Codazzi;1
+201407;20032 - Astrea;1
+201404;20175 - Chimichagua;1
+201405;20175 - Chimichagua;1
+201408;20175 - Chimichagua;1
+201408;20178 - Chiriguaná;1
+201401;23001 - Montería;36
+201402;23001 - Montería;41
+201403;23001 - Montería;46
+201404;23001 - Montería;46
+201405;23001 - Montería;63
+201406;23001 - Montería;42
+201407;23001 - Montería;51
+201408;23001 - Montería;41
+201409;23001 - Montería;40
+201410;23001 - Montería;62
+201411;23001 - Montería;52
+201412;23001 - Montería;57
+201405;23079 - Buenavista;1
+201401;23162 - Cereté;1
+201403;23162 - Cereté;1
+201404;23162 - Cereté;1
+201407;23162 - Cereté;1
+201410;23162 - Cereté;1
+201411;23162 - Cereté;1
+201412;23162 - Cereté;1
+201404;23182 - Chinú;1
+201405;23182 - Chinú;1
+201408;23182 - Chinú;1
+201411;23182 - Chinú;1
+201412;23182 - Chinú;1
+201402;23350 - La Apartada;5
+201401;23417 - Lorica;1
+201403;23417 - Lorica;3
+201405;23417 - Lorica;1
+201408;23417 - Lorica;7
+201410;23417 - Lorica;3
+201411;23417 - Lorica;5
+201412;23417 - Lorica;8
+201401;23464 - Momil;1
+201401;23500 - Moñitos;1
+201402;23555 - Planeta Rica;1
+201403;23555 - Planeta Rica;2
+201404;23555 - Planeta Rica;2
+201405;23555 - Planeta Rica;2
+201406;23555 - Planeta Rica;1
+201407;23555 - Planeta Rica;1
+201408;23555 - Planeta Rica;1
+201409;23555 - Planeta Rica;1
+201412;23555 - Planeta Rica;1
+201408;23580 - Puerto Libertador;1
+201401;23660 - Sahagún;2
+201402;23660 - Sahagún;1
+201403;23660 - Sahagún;1
+201412;23660 - Sahagún;2
+201408;23675 - San Bernardo Del Viento;1
+201404;23686 - San Pelayo;1
+201412;23686 - San Pelayo;1
+201403;23807 - Tierralta;1
+201404;23807 - Tierralta;1
+201412;23807 - Tierralta;3
+201409;23815 - Tuchín;1
+201404;23855 - Valencia;1
+201402;25053 - Arbeláez;1
+201406;25053 - Arbeláez;1
+201411;25053 - Arbeláez;1
+201403;25126 - Cajicá;1
+201405;25126 - Cajicá;1
+201409;25126 - Cajicá;1
+201410;25126 - Cajicá;2
+201411;25126 - Cajicá;2
+201403;25151 - Caqueza;1
+201407;25151 - Caqueza;1
+201408;25151 - Caqueza;1
+201409;25151 - Caqueza;1
+201410;25151 - Caqueza;1
+201412;25151 - Caqueza;1
+201406;25154 - Carmen De Carupa;1
+201410;25154 - Carmen De Carupa;1
+201401;25175 - Chía;6
+201402;25175 - Chía;5
+201403;25175 - Chía;11
+201404;25175 - Chía;9
+201405;25175 - Chía;15
+201406;25175 - Chía;12
+201407;25175 - Chía;12
+201408;25175 - Chía;15
+201409;25175 - Chía;8
+201410;25175 - Chía;9
+201411;25175 - Chía;8
+201412;25175 - Chía;12
+201402;25183 - Chocontá;1
+201404;25183 - Chocontá;2
+201406;25183 - Chocontá;2
+201408;25183 - Chocontá;1
+201412;25183 - Chocontá;1
+201404;25214 - Cota;1
+201401;25260 - El Rosal;1
+201402;25260 - El Rosal;1
+201407;25260 - El Rosal;1
+201401;25269 - Facatativá;7
+201402;25269 - Facatativá;3
+201403;25269 - Facatativá;7
+201404;25269 - Facatativá;6
+201405;25269 - Facatativá;6
+201406;25269 - Facatativá;3
+201407;25269 - Facatativá;2
+201408;25269 - Facatativá;7
+201409;25269 - Facatativá;4
+201410;25269 - Facatativá;5
+201411;25269 - Facatativá;5
+201412;25269 - Facatativá;6
+201402;25279 - Fomeque;1
+201401;25286 - Funza;1
+201402;25286 - Funza;3
+201403;25286 - Funza;2
+201404;25286 - Funza;4
+201405;25286 - Funza;1
+201407;25286 - Funza;1
+201410;25286 - Funza;1
+201411;25286 - Funza;2
+201401;25290 - Fusagasugá;4
+201402;25290 - Fusagasugá;5
+201403;25290 - Fusagasugá;4
+201404;25290 - Fusagasugá;3
+201405;25290 - Fusagasugá;3
+201406;25290 - Fusagasugá;7
+201407;25290 - Fusagasugá;8
+201408;25290 - Fusagasugá;5
+201409;25290 - Fusagasugá;5
+201410;25290 - Fusagasugá;5
+201411;25290 - Fusagasugá;11
+201412;25290 - Fusagasugá;12
+201401;25307 - Girardot;4
+201402;25307 - Girardot;3
+201403;25307 - Girardot;3
+201404;25307 - Girardot;11
+201405;25307 - Girardot;9
+201406;25307 - Girardot;7
+201407;25307 - Girardot;7
+201409;25307 - Girardot;9
+201410;25307 - Girardot;13
+201411;25307 - Girardot;11
+201412;25307 - Girardot;2
+201402;25320 - Guaduas;1
+201406;25320 - Guaduas;1
+201410;25320 - Guaduas;2
+201407;25322 - Guasca;1
+201412;25322 - Guasca;1
+201403;25326 - Guatavita;2
+201406;25326 - Guatavita;1
+201401;25377 - La Calera;2
+201406;25386 - La Mesa;1
+201407;25386 - La Mesa;1
+201409;25386 - La Mesa;1
+201412;25386 - La Mesa;1
+201401;25394 - La Palma;1
+201401;25430 - Madrid;1
+201404;25430 - Madrid;1
+201406;25430 - Madrid;2
+201407;25430 - Madrid;2
+201408;25430 - Madrid;2
+201409;25430 - Madrid;2
+201410;25430 - Madrid;1
+201411;25430 - Madrid;2
+201412;25430 - Madrid;1
+201401;25438 - Medina;1
+201405;25473 - Mosquera;1
+201410;25486 - Nemocón;1
+201402;25513 - Pacho;1
+201403;25513 - Pacho;1
+201405;25513 - Pacho;1
+201406;25513 - Pacho;1
+201410;25513 - Pacho;2
+201411;25513 - Pacho;1
+201412;25513 - Pacho;1
+201409;25580 - Pulí;1
+201406;25740 - Sibaté;1
+201410;25740 - Sibaté;1
+201401;25754 - Soacha;6
+201402;25754 - Soacha;6
+201403;25754 - Soacha;6
+201404;25754 - Soacha;7
+201405;25754 - Soacha;21
+201406;25754 - Soacha;6
+201407;25754 - Soacha;14
+201408;25754 - Soacha;4
+201409;25754 - Soacha;4
+201410;25754 - Soacha;16
+201411;25754 - Soacha;8
+201412;25754 - Soacha;6
+201401;25758 - Sopó;2
+201402;25758 - Sopó;3
+201405;25758 - Sopó;2
+201406;25758 - Sopó;1
+201407;25758 - Sopó;2
+201408;25758 - Sopó;1
+201409;25758 - Sopó;2
+201410;25758 - Sopó;1
+201411;25758 - Sopó;1
+201412;25758 - Sopó;1
+201410;25785 - Tabio;1
+201407;25799 - Tenjo;1
+201410;25799 - Tenjo;1
+201412;25799 - Tenjo;1
+201406;25815 - Tocaima;1
+201401;25817 - Tocancipá;2
+201404;25817 - Tocancipá;1
+201408;25817 - Tocancipá;2
+201409;25817 - Tocancipá;1
+201410;25817 - Tocancipá;1
+201404;25843 - Villa De San Diego De Ubate;1
+201409;25843 - Villa De San Diego De Ubate;2
+201410;25843 - Villa De San Diego De Ubate;1
+201411;25843 - Villa De San Diego De Ubate;1
+201412;25843 - Villa De San Diego De Ubate;1
+201412;25875 - Villeta;1
+201401;25899 - Zipaquirá;1
+201402;25899 - Zipaquirá;3
+201404;25899 - Zipaquirá;9
+201405;25899 - Zipaquirá;14
+201406;25899 - Zipaquirá;11
+201407;25899 - Zipaquirá;6
+201408;25899 - Zipaquirá;1
+201409;25899 - Zipaquirá;2
+201410;25899 - Zipaquirá;1
+201412;25899 - Zipaquirá;7
+201401;27001 - Quibdó;3
+201402;27001 - Quibdó;4
+201403;27001 - Quibdó;1
+201404;27001 - Quibdó;3
+201405;27001 - Quibdó;2
+201406;27001 - Quibdó;2
+201407;27001 - Quibdó;2
+201408;27001 - Quibdó;3
+201410;27001 - Quibdó;5
+201412;27001 - Quibdó;1
+201405;27077 - Bajo Baudó;1
+201410;27245 - El Carmen De Atrato;1
+201402;27361 - Istmina;1
+201403;27361 - Istmina;1
+201404;27361 - Istmina;2
+201405;27361 - Istmina;1
+201407;27361 - Istmina;1
+201411;27361 - Istmina;1
+201404;27372 - Juradó;1
+201405;27450 - Medio San Juan;1
+201411;27787 - Tadó;1
+201401;41001 - Neiva;22
+201402;41001 - Neiva;31
+201403;41001 - Neiva;56
+201404;41001 - Neiva;26
+201405;41001 - Neiva;41
+201406;41001 - Neiva;48
+201407;41001 - Neiva;46
+201408;41001 - Neiva;49
+201409;41001 - Neiva;33
+201410;41001 - Neiva;38
+201411;41001 - Neiva;54
+201412;41001 - Neiva;36
+201403;41006 - Acevedo;1
+201412;41006 - Acevedo;1
+201403;41020 - Algeciras;1
+201408;41020 - Algeciras;1
+201411;41020 - Algeciras;1
+201404;41078 - Baraya;2
+201406;41078 - Baraya;1
+201405;41132 - Campoalegre;1
+201409;41132 - Campoalegre;1
+201411;41132 - Campoalegre;1
+201412;41132 - Campoalegre;1
+201401;41298 - Garzón;2
+201402;41298 - Garzón;1
+201403;41298 - Garzón;3
+201404;41298 - Garzón;5
+201405;41298 - Garzón;6
+201406;41298 - Garzón;5
+201407;41298 - Garzón;2
+201408;41298 - Garzón;2
+201409;41298 - Garzón;1
+201410;41298 - Garzón;8
+201411;41298 - Garzón;10
+201412;41298 - Garzón;4
+201410;41357 - Iquira;1
+201405;41359 - Isnos;1
+201412;41359 - Isnos;1
+201402;41396 - La Plata;1
+201405;41396 - La Plata;1
+201406;41396 - La Plata;1
+201408;41396 - La Plata;2
+201410;41396 - La Plata;1
+201411;41396 - La Plata;1
+201411;41503 - Oporapa;1
+201403;41524 - Palermo;1
+201409;41524 - Palermo;1
+201410;41524 - Palermo;1
+201412;41524 - Palermo;2
+201403;41548 - Pital;1
+201405;41548 - Pital;1
+201401;41551 - Pitalito;2
+201402;41551 - Pitalito;3
+201403;41551 - Pitalito;6
+201404;41551 - Pitalito;1
+201406;41551 - Pitalito;3
+201407;41551 - Pitalito;4
+201408;41551 - Pitalito;4
+201409;41551 - Pitalito;5
+201410;41551 - Pitalito;1
+201411;41551 - Pitalito;4
+201412;41551 - Pitalito;4
+201403;41615 - Rivera;1
+201410;41660 - Saladoblanco;1
+201411;41668 - San Agustín;2
+201412;41668 - San Agustín;1
+201411;41770 - Suaza;1
+201405;41791 - Tarqui;1
+201408;41807 - Timaná;1
+201409;41807 - Timaná;1
+201410;41807 - Timaná;1
+201401;44001 - Riohacha;3
+201402;44001 - Riohacha;3
+201403;44001 - Riohacha;4
+201404;44001 - Riohacha;2
+201405;44001 - Riohacha;6
+201406;44001 - Riohacha;1
+201407;44001 - Riohacha;6
+201408;44001 - Riohacha;7
+201409;44001 - Riohacha;3
+201410;44001 - Riohacha;4
+201411;44001 - Riohacha;4
+201412;44001 - Riohacha;3
+201403;44090 - Dibulla;1
+201412;44098 - Distracción;1
+201401;44430 - Maicao;4
+201402;44430 - Maicao;4
+201404;44430 - Maicao;2
+201405;44430 - Maicao;3
+201406;44430 - Maicao;3
+201407;44430 - Maicao;3
+201408;44430 - Maicao;1
+201409;44430 - Maicao;2
+201411;44430 - Maicao;2
+201412;44430 - Maicao;3
+201403;44560 - Manaure;1
+201401;44650 - San Juan Del Cesar;1
+201403;44650 - San Juan Del Cesar;1
+201405;44650 - San Juan Del Cesar;1
+201407;44650 - San Juan Del Cesar;4
+201408;44650 - San Juan Del Cesar;1
+201409;44650 - San Juan Del Cesar;4
+201410;44650 - San Juan Del Cesar;4
+201411;44650 - San Juan Del Cesar;3
+201412;44650 - San Juan Del Cesar;1
+201401;47001 - Santa Marta;18
+201402;47001 - Santa Marta;18
+201403;47001 - Santa Marta;13
+201404;47001 - Santa Marta;16
+201405;47001 - Santa Marta;16
+201406;47001 - Santa Marta;13
+201407;47001 - Santa Marta;20
+201408;47001 - Santa Marta;22
+201409;47001 - Santa Marta;19
+201410;47001 - Santa Marta;20
+201411;47001 - Santa Marta;15
+201412;47001 - Santa Marta;16
+201403;47058 - Ariguaní;2
+201401;47189 - Ciénaga;5
+201402;47189 - Ciénaga;1
+201403;47189 - Ciénaga;1
+201404;47189 - Ciénaga;1
+201405;47189 - Ciénaga;2
+201406;47189 - Ciénaga;1
+201407;47189 - Ciénaga;4
+201408;47189 - Ciénaga;1
+201409;47189 - Ciénaga;3
+201410;47189 - Ciénaga;7
+201412;47189 - Ciénaga;2
+201401;47245 - El Banco;1
+201403;47245 - El Banco;1
+201406;47245 - El Banco;3
+201407;47245 - El Banco;1
+201408;47245 - El Banco;1
+201409;47245 - El Banco;1
+201410;47245 - El Banco;4
+201411;47245 - El Banco;1
+201412;47245 - El Banco;3
+201407;47288 - Fundación;1
+201408;47288 - Fundación;3
+201409;47288 - Fundación;2
+201412;47288 - Fundación;1
+201403;47318 - Guamal;1
+201403;47555 - Plato;1
+201405;47555 - Plato;1
+201406;47555 - Plato;1
+201411;47555 - Plato;1
+201403;47570 - Puebloviejo;4
+201404;47570 - Puebloviejo;6
+201404;47980 - Zona Bananera;2
+201401;50001 - Villavicencio;26
+201402;50001 - Villavicencio;25
+201403;50001 - Villavicencio;35
+201404;50001 - Villavicencio;35
+201405;50001 - Villavicencio;37
+201406;50001 - Villavicencio;16
+201407;50001 - Villavicencio;18
+201408;50001 - Villavicencio;23
+201409;50001 - Villavicencio;21
+201410;50001 - Villavicencio;31
+201411;50001 - Villavicencio;32
+201412;50001 - Villavicencio;22
+201402;50006 - Acacías;1
+201404;50006 - Acacías;1
+201409;50006 - Acacías;1
+201408;50223 - Cubarral;1
+201403;50226 - Cumaral;1
+201412;50226 - Cumaral;1
+201402;50313 - Granada;1
+201403;50313 - Granada;2
+201404;50313 - Granada;4
+201406;50313 - Granada;7
+201407;50313 - Granada;3
+201408;50313 - Granada;3
+201409;50313 - Granada;8
+201410;50313 - Granada;1
+201411;50313 - Granada;1
+201412;50313 - Granada;3
+201401;50370 - Uribe;1
+201412;50370 - Uribe;1
+201402;50573 - Puerto López;1
+201403;50573 - Puerto López;1
+201404;50573 - Puerto López;2
+201406;50577 - Puerto Lleras;1
+201411;50683 - San Juan De Arama;1
+201405;50711 - Vistahermosa;1
+201401;52001 - Pasto;74
+201402;52001 - Pasto;60
+201403;52001 - Pasto;71
+201404;52001 - Pasto;44
+201405;52001 - Pasto;59
+201406;52001 - Pasto;66
+201407;52001 - Pasto;90
+201408;52001 - Pasto;95
+201409;52001 - Pasto;100
+201410;52001 - Pasto;92
+201411;52001 - Pasto;108
+201412;52001 - Pasto;113
+201402;52079 - Barbacoas;1
+201403;52079 - Barbacoas;1
+201406;52079 - Barbacoas;1
+201407;52079 - Barbacoas;1
+201408;52079 - Barbacoas;1
+201409;52079 - Barbacoas;3
+201410;52079 - Barbacoas;2
+201402;52110 - Buesaco;2
+201403;52110 - Buesaco;1
+201405;52110 - Buesaco;1
+201406;52207 - Consaca;1
+201407;52207 - Consaca;1
+201410;52210 - Contadero;1
+201412;52210 - Contadero;1
+201405;52215 - Córdoba;1
+201406;52215 - Córdoba;1
+201407;52215 - Córdoba;1
+201412;52215 - Córdoba;1
+201402;52224 - Cuaspud;1
+201412;52224 - Cuaspud;1
+201409;52227 - Cumbal;1
+201410;52227 - Cumbal;2
+201411;52227 - Cumbal;3
+201412;52227 - Cumbal;2
+201404;52240 - Chachagüí;1
+201405;52240 - Chachagüí;1
+201408;52240 - Chachagüí;1
+201404;52254 - El Peñol;1
+201412;52256 - El Rosario;1
+201404;52258 - El Tablón De Gómez;1
+201410;52258 - El Tablón De Gómez;1
+201406;52260 - El Tambo;2
+201407;52260 - El Tambo;1
+201409;52260 - El Tambo;1
+201411;52260 - El Tambo;2
+201404;52287 - Funes;1
+201405;52287 - Funes;1
+201409;52287 - Funes;1
+201401;52317 - Guachucal;1
+201403;52320 - Guaitarilla;1
+201404;52320 - Guaitarilla;1
+201401;52356 - Ipiales;7
+201402;52356 - Ipiales;6
+201403;52356 - Ipiales;6
+201404;52356 - Ipiales;1
+201405;52356 - Ipiales;3
+201406;52356 - Ipiales;4
+201407;52356 - Ipiales;7
+201408;52356 - Ipiales;5
+201409;52356 - Ipiales;4
+201410;52356 - Ipiales;7
+201411;52356 - Ipiales;11
+201412;52356 - Ipiales;9
+201402;52378 - La Cruz;1
+201405;52378 - La Cruz;1
+201411;52378 - La Cruz;3
+201412;52378 - La Cruz;2
+201406;52381 - La Florida;1
+201411;52381 - La Florida;1
+201406;52385 - La Llanada;1
+201411;52385 - La Llanada;1
+201401;52399 - La Unión;2
+201405;52399 - La Unión;1
+201408;52399 - La Unión;1
+201409;52399 - La Unión;1
+201411;52399 - La Unión;3
+201412;52399 - La Unión;2
+201402;52405 - Leiva;1
+201404;52411 - Linares;1
+201402;52418 - Los Andes;1
+201410;52418 - Los Andes;1
+201411;52480 - Nariño;1
+201404;52520 - Francisco Pizarro;1
+201401;52540 - Policarpa;1
+201403;52560 - Potosí;1
+201406;52573 - Puerres;1
+201407;52573 - Puerres;1
+201405;52612 - Ricaurte;1
+201403;52678 - Samaniego;1
+201409;52678 - Samaniego;1
+201410;52678 - Samaniego;1
+201401;52683 - Sandoná;1
+201402;52683 - Sandoná;2
+201403;52683 - Sandoná;1
+201404;52683 - Sandoná;1
+201405;52683 - Sandoná;1
+201406;52683 - Sandoná;1
+201408;52683 - Sandoná;1
+201404;52693 - San Pablo;1
+201412;52693 - San Pablo;1
+201408;52699 - Santacruz;1
+201405;52720 - Sapuyes;1
+201401;52786 - Taminango;1
+201408;52786 - Taminango;1
+201409;52786 - Taminango;1
+201411;52786 - Taminango;1
+201402;52788 - Tangua;1
+201402;52835 - San Andres De Tumaco;1
+201403;52835 - San Andres De Tumaco;2
+201404;52835 - San Andres De Tumaco;1
+201405;52835 - San Andres De Tumaco;2
+201406;52835 - San Andres De Tumaco;1
+201407;52835 - San Andres De Tumaco;1
+201408;52835 - San Andres De Tumaco;1
+201409;52835 - San Andres De Tumaco;1
+201410;52835 - San Andres De Tumaco;1
+201412;52835 - San Andres De Tumaco;1
+201401;52838 - Túquerres;1
+201402;52838 - Túquerres;1
+201407;52838 - Túquerres;1
+201409;52885 - Yacuanquer;1
+201401;54001 - Cúcuta;46
+201402;54001 - Cúcuta;39
+201403;54001 - Cúcuta;36
+201404;54001 - Cúcuta;26
+201405;54001 - Cúcuta;50
+201406;54001 - Cúcuta;47
+201407;54001 - Cúcuta;54
+201408;54001 - Cúcuta;54
+201409;54001 - Cúcuta;43
+201410;54001 - Cúcuta;43
+201411;54001 - Cúcuta;51
+201412;54001 - Cúcuta;42
+201412;54003 - Abrego;1
+201410;54172 - Chinácota;2
+201406;54398 - La Playa;1
+201407;54398 - La Playa;1
+201410;54405 - Los Patios;1
+201401;54498 - Ocaña;1
+201403;54498 - Ocaña;1
+201404;54498 - Ocaña;1
+201405;54498 - Ocaña;4
+201406;54498 - Ocaña;5
+201407;54498 - Ocaña;3
+201408;54498 - Ocaña;5
+201409;54498 - Ocaña;4
+201410;54498 - Ocaña;2
+201411;54498 - Ocaña;2
+201412;54498 - Ocaña;5
+201401;54518 - Pamplona;1
+201404;54518 - Pamplona;1
+201407;54518 - Pamplona;2
+201412;54518 - Pamplona;1
+201409;54670 - San Calixto;1
+201406;54810 - Tibú;1
+201407;54810 - Tibú;1
+201404;54874 - Villa Del Rosario;1
+201401;63001 - Armenia;7
+201402;63001 - Armenia;8
+201403;63001 - Armenia;19
+201404;63001 - Armenia;23
+201405;63001 - Armenia;22
+201406;63001 - Armenia;23
+201407;63001 - Armenia;28
+201408;63001 - Armenia;19
+201409;63001 - Armenia;15
+201410;63001 - Armenia;23
+201411;63001 - Armenia;20
+201412;63001 - Armenia;24
+201404;63130 - Calarca;1
+201405;63130 - Calarca;1
+201406;63130 - Calarca;3
+201407;63130 - Calarca;1
+201408;63130 - Calarca;1
+201411;63130 - Calarca;1
+201401;63190 - Circasia;1
+201403;63190 - Circasia;1
+201409;63272 - Filandia;1
+201404;63401 - La Tebaida;1
+201408;63470 - Montenegro;2
+201402;63594 - Quimbaya;1
+201403;63594 - Quimbaya;1
+201406;63594 - Quimbaya;1
+201408;63594 - Quimbaya;1
+201401;66001 - Pereira;59
+201402;66001 - Pereira;72
+201403;66001 - Pereira;68
+201404;66001 - Pereira;64
+201405;66001 - Pereira;69
+201406;66001 - Pereira;37
+201407;66001 - Pereira;67
+201408;66001 - Pereira;70
+201409;66001 - Pereira;65
+201410;66001 - Pereira;45
+201411;66001 - Pereira;73
+201412;66001 - Pereira;46
+201410;66045 - Apía;1
+201412;66075 - Balboa;1
+201408;66088 - Belén De Umbría;1
+201401;66170 - Dosquebradas;4
+201402;66170 - Dosquebradas;4
+201403;66170 - Dosquebradas;3
+201404;66170 - Dosquebradas;3
+201405;66170 - Dosquebradas;5
+201406;66170 - Dosquebradas;2
+201407;66170 - Dosquebradas;4
+201408;66170 - Dosquebradas;3
+201409;66170 - Dosquebradas;3
+201410;66170 - Dosquebradas;3
+201411;66170 - Dosquebradas;4
+201412;66170 - Dosquebradas;1
+201401;66318 - Guática;1
+201403;66318 - Guática;1
+201407;66318 - Guática;1
+201402;66400 - La Virginia;1
+201404;66400 - La Virginia;2
+201409;66400 - La Virginia;1
+201410;66400 - La Virginia;1
+201411;66400 - La Virginia;3
+201412;66400 - La Virginia;3
+201404;66440 - Marsella;1
+201403;66456 - Mistrató;1
+201409;66456 - Mistrató;1
+201408;66594 - Quinchía;1
+201411;66594 - Quinchía;2
+201401;66682 - Santa Rosa De Cabal;1
+201404;66682 - Santa Rosa De Cabal;1
+201405;66682 - Santa Rosa De Cabal;1
+201407;66682 - Santa Rosa De Cabal;1
+201408;66682 - Santa Rosa De Cabal;1
+201409;66682 - Santa Rosa De Cabal;1
+201410;66682 - Santa Rosa De Cabal;1
+201412;66682 - Santa Rosa De Cabal;2
+201401;68001 - Bucaramanga;23
+201402;68001 - Bucaramanga;32
+201403;68001 - Bucaramanga;28
+201404;68001 - Bucaramanga;44
+201405;68001 - Bucaramanga;40
+201406;68001 - Bucaramanga;39
+201407;68001 - Bucaramanga;50
+201408;68001 - Bucaramanga;42
+201409;68001 - Bucaramanga;70
+201410;68001 - Bucaramanga;70
+201411;68001 - Bucaramanga;56
+201412;68001 - Bucaramanga;49
+201405;68077 - Barbosa;1
+201410;68077 - Barbosa;1
+201401;68081 - Barrancabermeja;1
+201402;68081 - Barrancabermeja;1
+201403;68081 - Barrancabermeja;1
+201404;68081 - Barrancabermeja;1
+201405;68081 - Barrancabermeja;5
+201406;68081 - Barrancabermeja;1
+201407;68081 - Barrancabermeja;3
+201408;68081 - Barrancabermeja;3
+201409;68081 - Barrancabermeja;7
+201410;68081 - Barrancabermeja;5
+201411;68081 - Barrancabermeja;1
+201412;68081 - Barrancabermeja;2
+201409;68092 - Betulia;1
+201411;68162 - Cerrito;2
+201407;68167 - Charalá;1
+201408;68207 - Concepción;1
+201412;68217 - Coromoro;1
+201411;68255 - El Playón;1
+201402;68271 - Florián;1
+201401;68276 - Floridablanca;3
+201402;68276 - Floridablanca;53
+201403;68276 - Floridablanca;7
+201404;68276 - Floridablanca;13
+201405;68276 - Floridablanca;12
+201406;68276 - Floridablanca;13
+201407;68276 - Floridablanca;18
+201408;68276 - Floridablanca;14
+201409;68276 - Floridablanca;12
+201410;68276 - Floridablanca;22
+201411;68276 - Floridablanca;17
+201412;68276 - Floridablanca;16
+201401;68298 - Gambita;1
+201402;68307 - Girón;1
+201403;68307 - Girón;1
+201404;68307 - Girón;4
+201405;68307 - Girón;3
+201406;68307 - Girón;3
+201407;68307 - Girón;6
+201408;68307 - Girón;28
+201409;68307 - Girón;6
+201410;68307 - Girón;3
+201411;68307 - Girón;3
+201407;68377 - La Belleza;1
+201405;68406 - Lebríja;1
+201412;68432 - Málaga;2
+201410;68468 - Molagavita;1
+201404;68547 - Piedecuesta;1
+201405;68547 - Piedecuesta;2
+201406;68547 - Piedecuesta;2
+201409;68547 - Piedecuesta;1
+201410;68547 - Piedecuesta;1
+201411;68547 - Piedecuesta;2
+201406;68615 - Rionegro;1
+201409;68673 - San Benito;2
+201401;68679 - San Gil;1
+201403;68679 - San Gil;2
+201404;68679 - San Gil;1
+201406;68679 - San Gil;2
+201407;68679 - San Gil;3
+201408;68679 - San Gil;2
+201409;68679 - San Gil;4
+201410;68679 - San Gil;1
+201412;68679 - San Gil;4
+201409;68682 - San Joaquín;2
+201401;68755 - Socorro;7
+201402;68755 - Socorro;7
+201404;68755 - Socorro;2
+201405;68755 - Socorro;5
+201406;68755 - Socorro;6
+201407;68755 - Socorro;4
+201408;68755 - Socorro;6
+201409;68755 - Socorro;6
+201410;68755 - Socorro;3
+201411;68755 - Socorro;3
+201412;68755 - Socorro;4
+201406;68770 - Suaita;1
+201408;68770 - Suaita;1
+201412;68770 - Suaita;1
+201410;68820 - Tona;1
+201401;70001 - Sincelejo;18
+201402;70001 - Sincelejo;18
+201403;70001 - Sincelejo;28
+201404;70001 - Sincelejo;22
+201405;70001 - Sincelejo;27
+201406;70001 - Sincelejo;30
+201407;70001 - Sincelejo;30
+201408;70001 - Sincelejo;42
+201409;70001 - Sincelejo;29
+201410;70001 - Sincelejo;35
+201411;70001 - Sincelejo;31
+201412;70001 - Sincelejo;29
+201401;70221 - Coveñas;1
+201409;70221 - Coveñas;1
+201410;70221 - Coveñas;1
+201404;70473 - Morroa;1
+201406;70670 - Sampués;1
+201403;70708 - San Marcos;1
+201409;70708 - San Marcos;2
+201403;70713 - San Onofre;1
+201408;70820 - Santiago De Tolú;1
+201401;73001 - Ibagué;43
+201402;73001 - Ibagué;20
+201403;73001 - Ibagué;15
+201404;73001 - Ibagué;15
+201405;73001 - Ibagué;24
+201406;73001 - Ibagué;28
+201407;73001 - Ibagué;33
+201408;73001 - Ibagué;25
+201409;73001 - Ibagué;34
+201410;73001 - Ibagué;45
+201411;73001 - Ibagué;32
+201412;73001 - Ibagué;28
+201411;73026 - Alvarado;1
+201408;73043 - Anzoátegui;1
+201410;73043 - Anzoátegui;1
+201410;73067 - Ataco;1
+201405;73148 - Carmen De Apicalá;1
+201408;73148 - Carmen De Apicalá;1
+201402;73168 - Chaparral;1
+201411;73168 - Chaparral;1
+201409;73226 - Cunday;1
+201410;73226 - Cunday;1
+201402;73268 - Espinal;2
+201408;73268 - Espinal;1
+201409;73268 - Espinal;1
+201410;73268 - Espinal;1
+201411;73268 - Espinal;1
+201412;73268 - Espinal;2
+201406;73283 - Fresno;1
+201407;73283 - Fresno;1
+201411;73283 - Fresno;1
+201401;73349 - Honda;1
+201402;73349 - Honda;1
+201403;73349 - Honda;2
+201404;73349 - Honda;2
+201405;73349 - Honda;2
+201406;73349 - Honda;3
+201408;73349 - Honda;3
+201409;73349 - Honda;2
+201410;73349 - Honda;2
+201412;73349 - Honda;3
+201401;73352 - Icononzo;1
+201407;73352 - Icononzo;1
+201407;73408 - Lérida;1
+201409;73408 - Lérida;1
+201410;73408 - Lérida;2
+201411;73408 - Lérida;1
+201412;73408 - Lérida;1
+201411;73411 - Líbano;1
+201402;73443 - Mariquita;1
+201404;73443 - Mariquita;1
+201406;73443 - Mariquita;1
+201407;73443 - Mariquita;1
+201408;73443 - Mariquita;2
+201409;73443 - Mariquita;1
+201401;73449 - Melgar;2
+201407;73449 - Melgar;1
+201408;73449 - Melgar;1
+201409;73449 - Melgar;1
+201412;73449 - Melgar;1
+201406;73504 - Ortega;1
+201406;73555 - Planadas;1
+201409;73555 - Planadas;1
+201403;73585 - Purificación;1
+201405;73585 - Purificación;1
+201408;73585 - Purificación;2
+201410;73585 - Purificación;1
+201411;73616 - Rioblanco;1
+201407;73624 - Rovira;1
+201402;73671 - Saldaña;1
+201407;73671 - Saldaña;2
+201411;73671 - Saldaña;1
+201407;73861 - Venadillo;1
+201412;73870 - Villahermosa;1
+201401;76001 - Cali;122
+201402;76001 - Cali;133
+201403;76001 - Cali;131
+201404;76001 - Cali;126
+201405;76001 - Cali;180
+201406;76001 - Cali;138
+201407;76001 - Cali;199
+201408;76001 - Cali;165
+201409;76001 - Cali;155
+201410;76001 - Cali;170
+201411;76001 - Cali;160
+201412;76001 - Cali;161
+201409;76036 - Andalucía;1
+201412;76041 - Ansermanuevo;1
+201406;76054 - Argelia;1
+201401;76109 - Buenaventura;1
+201402;76109 - Buenaventura;1
+201403;76109 - Buenaventura;2
+201404;76109 - Buenaventura;2
+201405;76109 - Buenaventura;3
+201406;76109 - Buenaventura;3
+201407;76109 - Buenaventura;2
+201408;76109 - Buenaventura;8
+201409;76109 - Buenaventura;5
+201410;76109 - Buenaventura;3
+201411;76109 - Buenaventura;5
+201412;76109 - Buenaventura;3
+201401;76111 - Guadalajara De Buga;3
+201402;76111 - Guadalajara De Buga;3
+201403;76111 - Guadalajara De Buga;3
+201404;76111 - Guadalajara De Buga;6
+201405;76111 - Guadalajara De Buga;3
+201406;76111 - Guadalajara De Buga;6
+201407;76111 - Guadalajara De Buga;3
+201408;76111 - Guadalajara De Buga;5
+201409;76111 - Guadalajara De Buga;5
+201410;76111 - Guadalajara De Buga;8
+201411;76111 - Guadalajara De Buga;3
+201412;76111 - Guadalajara De Buga;6
+201408;76113 - Bugalagrande;1
+201408;76122 - Caicedonia;1
+201411;76122 - Caicedonia;1
+201412;76122 - Caicedonia;2
+201402;76130 - Candelaria;2
+201404;76130 - Candelaria;1
+201408;76130 - Candelaria;1
+201401;76147 - Cartago;2
+201402;76147 - Cartago;2
+201403;76147 - Cartago;1
+201404;76147 - Cartago;2
+201406;76147 - Cartago;2
+201407;76147 - Cartago;3
+201408;76147 - Cartago;6
+201409;76147 - Cartago;6
+201410;76147 - Cartago;4
+201411;76147 - Cartago;7
+201412;76147 - Cartago;6
+201408;76248 - El Cerrito;1
+201409;76248 - El Cerrito;1
+201411;76248 - El Cerrito;2
+201412;76248 - El Cerrito;1
+201403;76250 - El Dovio;1
+201405;76250 - El Dovio;1
+201409;76250 - El Dovio;1
+201410;76250 - El Dovio;1
+201410;76275 - Florida;1
+201401;76306 - Ginebra;1
+201402;76306 - Ginebra;1
+201403;76364 - Jamundí;1
+201406;76364 - Jamundí;1
+201408;76364 - Jamundí;1
+201410;76364 - Jamundí;1
+201412;76364 - Jamundí;1
+201401;76400 - La Unión;1
+201405;76400 - La Unión;1
+201407;76400 - La Unión;1
+201409;76400 - La Unión;2
+201408;76497 - Obando;1
+201401;76520 - Palmira;2
+201402;76520 - Palmira;7
+201403;76520 - Palmira;4
+201404;76520 - Palmira;7
+201405;76520 - Palmira;9
+201406;76520 - Palmira;11
+201407;76520 - Palmira;10
+201408;76520 - Palmira;8
+201409;76520 - Palmira;16
+201410;76520 - Palmira;7
+201411;76520 - Palmira;15
+201412;76520 - Palmira;17
+201404;76563 - Pradera;1
+201407;76563 - Pradera;1
+201409;76563 - Pradera;1
+201411;76563 - Pradera;1
+201405;76606 - Restrepo;1
+201404;76616 - Riofrío;1
+201406;76616 - Riofrío;1
+201408;76622 - Roldanillo;1
+201409;76622 - Roldanillo;1
+201403;76736 - Sevilla;1
+201406;76736 - Sevilla;1
+201407;76736 - Sevilla;1
+201408;76736 - Sevilla;1
+201409;76736 - Sevilla;1
+201411;76736 - Sevilla;1
+201406;76823 - Toro;1
+201401;76834 - Tuluá;17
+201402;76834 - Tuluá;48
+201403;76834 - Tuluá;9
+201404;76834 - Tuluá;12
+201405;76834 - Tuluá;12
+201406;76834 - Tuluá;11
+201407;76834 - Tuluá;9
+201408;76834 - Tuluá;12
+201409;76834 - Tuluá;14
+201410;76834 - Tuluá;13
+201411;76834 - Tuluá;14
+201412;76834 - Tuluá;22
+201402;76869 - Vijes;1
+201408;76890 - Yotoco;1
+201404;76892 - Yumbo;1
+201405;76892 - Yumbo;2
+201407;76892 - Yumbo;1
+201408;76892 - Yumbo;2
+201404;76895 - Zarzal;1
+201405;76895 - Zarzal;1
+201407;76895 - Zarzal;1
+201401;81001 - Arauca;2
+201402;81001 - Arauca;7
+201403;81001 - Arauca;2
+201404;81001 - Arauca;2
+201405;81001 - Arauca;4
+201406;81001 - Arauca;4
+201407;81001 - Arauca;5
+201408;81001 - Arauca;5
+201409;81001 - Arauca;2
+201410;81001 - Arauca;6
+201411;81001 - Arauca;3
+201412;81001 - Arauca;7
+201402;81065 - Arauquita;1
+201404;81065 - Arauquita;1
+201406;81065 - Arauquita;1
+201407;81065 - Arauquita;1
+201408;81065 - Arauquita;2
+201410;81065 - Arauquita;1
+201410;81300 - Fortul;2
+201403;81736 - Saravena;1
+201405;81736 - Saravena;1
+201406;81736 - Saravena;1
+201407;81736 - Saravena;1
+201408;81736 - Saravena;5
+201409;81736 - Saravena;4
+201410;81736 - Saravena;4
+201411;81736 - Saravena;2
+201412;81736 - Saravena;3
+201401;81794 - Tame;2
+201408;81794 - Tame;1
+201409;81794 - Tame;1
+201410;81794 - Tame;1
+201401;85001 - Yopal;1
+201402;85001 - Yopal;1
+201404;85001 - Yopal;1
+201405;85001 - Yopal;1
+201406;85001 - Yopal;1
+201407;85001 - Yopal;3
+201409;85001 - Yopal;1
+201410;85001 - Yopal;2
+201411;85001 - Yopal;6
+201412;85001 - Yopal;2
+201406;85010 - Aguazul;1
+201402;85139 - Maní;1
+201403;85139 - Maní;1
+201404;85139 - Maní;2
+201407;85325 - San Luis De Palenque;1
+201408;85440 - Villanueva;1
+201411;85440 - Villanueva;3
+201412;85440 - Villanueva;1
+201404;86001 - Mocoa;1
+201405;86001 - Mocoa;2
+201407;86001 - Mocoa;1
+201409;86001 - Mocoa;2
+201410;86001 - Mocoa;2
+201411;86001 - Mocoa;2
+201402;86219 - Colón;1
+201404;86219 - Colón;1
+201406;86219 - Colón;1
+201411;86219 - Colón;1
+201407;86320 - Orito;1
+201408;86320 - Orito;1
+201409;86320 - Orito;2
+201410;86320 - Orito;1
+201406;86568 - Puerto Asís;2
+201408;86568 - Puerto Asís;1
+201409;86568 - Puerto Asís;1
+201410;86568 - Puerto Asís;1
+201411;86568 - Puerto Asís;4
+201412;86568 - Puerto Asís;1
+201406;86569 - Puerto Caicedo;1
+201403;86573 - Leguízamo;1
+201407;86573 - Leguízamo;1
+201410;86573 - Leguízamo;2
+201402;86749 - Sibundoy;1
+201408;86757 - San Miguel;1
+201409;86865 - Valle Del Guamuez;1
+201412;86865 - Valle Del Guamuez;1
+201402;88001 - San Andrés;2
+201404;88001 - San Andrés;2
+201405;88001 - San Andrés;2
+201406;88001 - San Andrés;1
+201407;88001 - San Andrés;1
+201408;88001 - San Andrés;2
+201409;88001 - San Andrés;2
+201410;88001 - San Andrés;1
+201411;88001 - San Andrés;2
+201412;88001 - San Andrés;2
+201405;91001 - Leticia;1
+201408;91001 - Leticia;1
+201411;91001 - Leticia;1
+201403;95001 - San José Del Guaviare;2
+201409;95001 - San José Del Guaviare;2
+201410;95001 - San José Del Guaviare;2
+201404;95015 - Calamar;1
+201406;99524 - La Primavera;1
+201401;99773 - Cumaribo;1
+201411;99773 - Cumaribo;1
+201401;-1 - No Definido;22
+201402;-1 - No Definido;17
+201403;-1 - No Definido;18
+201404;-1 - No Definido;28
+201405;-1 - No Definido;22
+201406;-1 - No Definido;23
+201407;-1 - No Definido;31
+201408;-1 - No Definido;27
+201409;-1 - No Definido;25
+201410;-1 - No Definido;20
+201411;-1 - No Definido;18
+201412;-1 - No Definido;54

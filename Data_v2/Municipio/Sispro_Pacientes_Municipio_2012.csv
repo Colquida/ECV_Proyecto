@@ -1,0 +1,1245 @@
+﻿PeriodoNum;Municipio;CantidadPacientes
+201201;05001 - Medellín;184
+201202;05001 - Medellín;183
+201203;05001 - Medellín;175
+201204;05001 - Medellín;166
+201205;05001 - Medellín;181
+201206;05001 - Medellín;165
+201207;05001 - Medellín;174
+201208;05001 - Medellín;208
+201209;05001 - Medellín;185
+201210;05001 - Medellín;240
+201211;05001 - Medellín;164
+201212;05001 - Medellín;129
+201208;05004 - Abriaquí;2
+201209;05030 - Amagá;1
+201203;05031 - Amalfi;1
+201210;05031 - Amalfi;1
+201202;05034 - Andes;1
+201203;05042 - Santafé De Antioquia;1
+201205;05042 - Santafé De Antioquia;1
+201201;05045 - Apartadó;4
+201202;05045 - Apartadó;10
+201203;05045 - Apartadó;6
+201204;05045 - Apartadó;3
+201205;05045 - Apartadó;7
+201206;05045 - Apartadó;4
+201207;05045 - Apartadó;2
+201208;05045 - Apartadó;2
+201209;05045 - Apartadó;2
+201210;05045 - Apartadó;7
+201211;05045 - Apartadó;3
+201212;05045 - Apartadó;4
+201204;05051 - Arboletes;1
+201202;05079 - Barbosa;2
+201201;05088 - Bello;12
+201202;05088 - Bello;12
+201203;05088 - Bello;13
+201204;05088 - Bello;13
+201205;05088 - Bello;7
+201206;05088 - Bello;9
+201207;05088 - Bello;9
+201208;05088 - Bello;13
+201209;05088 - Bello;37
+201210;05088 - Bello;44
+201211;05088 - Bello;9
+201212;05088 - Bello;7
+201202;05101 - Ciudad Bolívar;2
+201203;05101 - Ciudad Bolívar;1
+201203;05107 - Briceño;1
+201203;05129 - Caldas;3
+201205;05129 - Caldas;2
+201207;05129 - Caldas;1
+201208;05129 - Caldas;2
+201209;05129 - Caldas;1
+201210;05129 - Caldas;2
+201211;05129 - Caldas;1
+201201;05134 - Campamento;1
+201204;05147 - Carepa;1
+201205;05147 - Carepa;1
+201208;05147 - Carepa;1
+201203;05154 - Caucasia;1
+201208;05154 - Caucasia;1
+201204;05172 - Chigorodó;2
+201210;05172 - Chigorodó;1
+201212;05172 - Chigorodó;1
+201202;05212 - Copacabana;1
+201203;05212 - Copacabana;1
+201204;05212 - Copacabana;1
+201209;05212 - Copacabana;1
+201210;05212 - Copacabana;2
+201211;05212 - Copacabana;1
+201212;05212 - Copacabana;1
+201203;05237 - Don Matías;1
+201204;05237 - Don Matías;1
+201203;05250 - El Bagre;1
+201201;05266 - Envigado;20
+201202;05266 - Envigado;12
+201203;05266 - Envigado;12
+201204;05266 - Envigado;20
+201205;05266 - Envigado;15
+201206;05266 - Envigado;10
+201207;05266 - Envigado;4
+201208;05266 - Envigado;7
+201209;05266 - Envigado;6
+201210;05266 - Envigado;5
+201211;05266 - Envigado;4
+201212;05266 - Envigado;6
+201204;05282 - Fredonia;2
+201209;05284 - Frontino;1
+201212;05308 - Girardota;1
+201202;05313 - Granada;1
+201202;05318 - Guarne;1
+201205;05318 - Guarne;1
+201201;05360 - Itagui;4
+201202;05360 - Itagui;5
+201203;05360 - Itagui;6
+201204;05360 - Itagui;6
+201205;05360 - Itagui;2
+201206;05360 - Itagui;3
+201207;05360 - Itagui;1
+201208;05360 - Itagui;3
+201209;05360 - Itagui;7
+201210;05360 - Itagui;3
+201211;05360 - Itagui;1
+201212;05360 - Itagui;2
+201202;05368 - Jericó;1
+201203;05368 - Jericó;1
+201205;05368 - Jericó;1
+201201;05376 - La Ceja;4
+201202;05376 - La Ceja;2
+201203;05376 - La Ceja;4
+201204;05376 - La Ceja;3
+201205;05376 - La Ceja;5
+201206;05376 - La Ceja;1
+201207;05376 - La Ceja;3
+201208;05376 - La Ceja;2
+201209;05376 - La Ceja;4
+201210;05376 - La Ceja;1
+201211;05376 - La Ceja;1
+201202;05400 - La Unión;1
+201209;05440 - Marinilla;1
+201212;05440 - Marinilla;1
+201201;05579 - Puerto Berrío;1
+201202;05579 - Puerto Berrío;2
+201203;05579 - Puerto Berrío;1
+201204;05579 - Puerto Berrío;2
+201206;05585 - Puerto Nare;1
+201211;05585 - Puerto Nare;1
+201201;05604 - Remedios;2
+201201;05615 - Rionegro;15
+201202;05615 - Rionegro;10
+201203;05615 - Rionegro;17
+201204;05615 - Rionegro;17
+201205;05615 - Rionegro;19
+201206;05615 - Rionegro;11
+201207;05615 - Rionegro;11
+201208;05615 - Rionegro;8
+201209;05615 - Rionegro;15
+201210;05615 - Rionegro;9
+201211;05615 - Rionegro;14
+201212;05615 - Rionegro;9
+201201;05631 - Sabaneta;2
+201202;05631 - Sabaneta;1
+201204;05631 - Sabaneta;3
+201206;05631 - Sabaneta;1
+201207;05631 - Sabaneta;2
+201209;05631 - Sabaneta;2
+201211;05631 - Sabaneta;1
+201204;05664 - San Pedro;1
+201207;05665 - San Pedro De Uraba;1
+201201;05667 - San Rafael;1
+201206;05670 - San Roque;1
+201209;05670 - San Roque;1
+201202;05686 - Santa Rosa De Osos;1
+201201;05736 - Segovia;1
+201202;05736 - Segovia;1
+201203;05736 - Segovia;1
+201202;05756 - Sonson;1
+201203;05756 - Sonson;1
+201204;05756 - Sonson;1
+201212;05756 - Sonson;1
+201204;05789 - Támesis;1
+201203;05790 - Tarazá;1
+201201;05837 - Turbo;3
+201202;05837 - Turbo;1
+201204;05847 - Urrao;1
+201206;05854 - Valdivia;1
+201203;05856 - Valparaíso;1
+201202;05858 - Vegachí;1
+201202;05887 - Yarumal;1
+201203;05887 - Yarumal;1
+201205;05887 - Yarumal;2
+201207;05887 - Yarumal;1
+201208;05887 - Yarumal;1
+201209;05887 - Yarumal;1
+201210;05887 - Yarumal;3
+201202;05890 - Yolombó;1
+201204;05890 - Yolombó;1
+201201;08001 - Barranquilla;36
+201202;08001 - Barranquilla;50
+201203;08001 - Barranquilla;37
+201204;08001 - Barranquilla;36
+201205;08001 - Barranquilla;54
+201206;08001 - Barranquilla;35
+201207;08001 - Barranquilla;37
+201208;08001 - Barranquilla;35
+201209;08001 - Barranquilla;43
+201210;08001 - Barranquilla;40
+201211;08001 - Barranquilla;34
+201212;08001 - Barranquilla;34
+201201;08638 - Sabanalarga;1
+201202;08638 - Sabanalarga;1
+201204;08638 - Sabanalarga;1
+201207;08638 - Sabanalarga;1
+201212;08638 - Sabanalarga;1
+201202;08758 - Soledad;2
+201203;08758 - Soledad;4
+201205;08758 - Soledad;1
+201207;08758 - Soledad;1
+201208;08758 - Soledad;2
+201209;08758 - Soledad;4
+201210;08758 - Soledad;3
+201211;08758 - Soledad;3
+201212;08758 - Soledad;1
+201201;11001 - Bogotá, D.C.;399
+201202;11001 - Bogotá, D.C.;361
+201203;11001 - Bogotá, D.C.;396
+201204;11001 - Bogotá, D.C.;407
+201205;11001 - Bogotá, D.C.;464
+201206;11001 - Bogotá, D.C.;380
+201207;11001 - Bogotá, D.C.;408
+201208;11001 - Bogotá, D.C.;422
+201209;11001 - Bogotá, D.C.;367
+201210;11001 - Bogotá, D.C.;383
+201211;11001 - Bogotá, D.C.;366
+201212;11001 - Bogotá, D.C.;377
+201201;13001 - Cartagena;62
+201202;13001 - Cartagena;39
+201203;13001 - Cartagena;44
+201204;13001 - Cartagena;52
+201205;13001 - Cartagena;53
+201206;13001 - Cartagena;41
+201207;13001 - Cartagena;44
+201208;13001 - Cartagena;24
+201209;13001 - Cartagena;19
+201210;13001 - Cartagena;40
+201211;13001 - Cartagena;40
+201212;13001 - Cartagena;26
+201210;13006 - Achí;1
+201210;13074 - Barranco De Loba;2
+201211;13074 - Barranco De Loba;1
+201202;13244 - El Carmen De Bolívar;1
+201205;13244 - El Carmen De Bolívar;1
+201207;13244 - El Carmen De Bolívar;1
+201208;13244 - El Carmen De Bolívar;2
+201212;13244 - El Carmen De Bolívar;1
+201208;13268 - El Peñón;1
+201201;13430 - Magangué;1
+201205;13430 - Magangué;1
+201206;13430 - Magangué;1
+201207;13430 - Magangué;1
+201210;13430 - Magangué;1
+201208;13433 - Mahates;1
+201212;13468 - Mompós;1
+201204;13683 - Santa Rosa;1
+201203;13836 - Turbaco;1
+201204;13873 - Villanueva;1
+201201;15001 - Tunja;58
+201202;15001 - Tunja;61
+201203;15001 - Tunja;37
+201204;15001 - Tunja;48
+201205;15001 - Tunja;62
+201206;15001 - Tunja;40
+201207;15001 - Tunja;53
+201208;15001 - Tunja;51
+201209;15001 - Tunja;57
+201210;15001 - Tunja;48
+201211;15001 - Tunja;36
+201212;15001 - Tunja;40
+201201;15047 - Aquitania;1
+201202;15047 - Aquitania;1
+201204;15047 - Aquitania;1
+201211;15047 - Aquitania;1
+201202;15087 - Belén;1
+201206;15104 - Boyacá;1
+201210;15104 - Boyacá;1
+201211;15104 - Boyacá;1
+201206;15109 - Buenavista;1
+201212;15109 - Buenavista;1
+201201;15176 - Chiquinquirá;1
+201203;15176 - Chiquinquirá;1
+201204;15176 - Chiquinquirá;1
+201210;15176 - Chiquinquirá;1
+201211;15176 - Chiquinquirá;1
+201212;15176 - Chiquinquirá;1
+201201;15238 - Duitama;6
+201202;15238 - Duitama;7
+201203;15238 - Duitama;21
+201204;15238 - Duitama;1
+201205;15238 - Duitama;20
+201206;15238 - Duitama;9
+201207;15238 - Duitama;1
+201208;15238 - Duitama;3
+201209;15238 - Duitama;4
+201210;15238 - Duitama;2
+201211;15238 - Duitama;6
+201212;15238 - Duitama;3
+201205;15299 - Garagoa;1
+201202;15322 - Guateque;1
+201203;15322 - Guateque;1
+201205;15322 - Guateque;2
+201206;15322 - Guateque;1
+201207;15322 - Guateque;1
+201208;15322 - Guateque;1
+201209;15322 - Guateque;1
+201211;15322 - Guateque;1
+201209;15367 - Jenesano;1
+201203;15407 - Villa De Leyva;1
+201205;15455 - Miraflores;1
+201206;15455 - Miraflores;1
+201209;15455 - Miraflores;1
+201202;15469 - Moniquirá;1
+201207;15469 - Moniquirá;1
+201205;15507 - Otanche;1
+201201;15516 - Paipa;3
+201202;15516 - Paipa;1
+201203;15516 - Paipa;1
+201204;15516 - Paipa;1
+201205;15516 - Paipa;1
+201206;15516 - Paipa;2
+201207;15516 - Paipa;2
+201211;15516 - Paipa;1
+201212;15516 - Paipa;1
+201206;15537 - Paz De Río;1
+201203;15572 - Puerto Boyacá;1
+201201;15646 - Samacá;1
+201202;15646 - Samacá;1
+201203;15646 - Samacá;1
+201204;15646 - Samacá;1
+201202;15753 - Soatá;1
+201204;15753 - Soatá;2
+201205;15753 - Soatá;3
+201206;15753 - Soatá;2
+201208;15755 - Socotá;1
+201202;15757 - Socha;1
+201203;15757 - Socha;1
+201204;15757 - Socha;1
+201205;15757 - Socha;1
+201201;15759 - Sogamoso;2
+201202;15759 - Sogamoso;1
+201203;15759 - Sogamoso;5
+201204;15759 - Sogamoso;6
+201205;15759 - Sogamoso;4
+201206;15759 - Sogamoso;3
+201207;15759 - Sogamoso;1
+201209;15759 - Sogamoso;5
+201210;15759 - Sogamoso;5
+201211;15759 - Sogamoso;1
+201212;15759 - Sogamoso;2
+201210;15761 - Somondoco;1
+201203;15835 - Turmequé;1
+201207;15835 - Turmequé;1
+201205;15837 - Tuta;1
+201204;15842 - Umbita;1
+201205;15842 - Umbita;1
+201202;15861 - Ventaquemada;1
+201204;15861 - Ventaquemada;1
+201208;15861 - Ventaquemada;1
+201201;17001 - Manizales;27
+201202;17001 - Manizales;21
+201203;17001 - Manizales;28
+201204;17001 - Manizales;15
+201205;17001 - Manizales;9
+201206;17001 - Manizales;16
+201207;17001 - Manizales;15
+201208;17001 - Manizales;11
+201209;17001 - Manizales;14
+201210;17001 - Manizales;16
+201211;17001 - Manizales;16
+201212;17001 - Manizales;17
+201202;17042 - Anserma;2
+201203;17174 - Chinchiná;1
+201201;17380 - La Dorada;1
+201202;17380 - La Dorada;1
+201203;17380 - La Dorada;1
+201204;17380 - La Dorada;1
+201204;17541 - Pensilvania;1
+201207;17653 - Salamina;1
+201201;18001 - Florencia;5
+201202;18001 - Florencia;8
+201203;18001 - Florencia;6
+201204;18001 - Florencia;6
+201205;18001 - Florencia;6
+201206;18001 - Florencia;6
+201207;18001 - Florencia;10
+201208;18001 - Florencia;5
+201209;18001 - Florencia;15
+201210;18001 - Florencia;11
+201211;18001 - Florencia;10
+201212;18001 - Florencia;6
+201202;18247 - El Doncello;1
+201208;18247 - El Doncello;1
+201210;18247 - El Doncello;1
+201211;18247 - El Doncello;1
+201209;18256 - El Paujil;1
+201206;18410 - La Montañita;1
+201205;18753 - San Vicente Del Caguán;1
+201206;18753 - San Vicente Del Caguán;1
+201201;19001 - Popayán;30
+201202;19001 - Popayán;37
+201203;19001 - Popayán;55
+201204;19001 - Popayán;50
+201205;19001 - Popayán;50
+201206;19001 - Popayán;42
+201207;19001 - Popayán;63
+201208;19001 - Popayán;51
+201209;19001 - Popayán;59
+201210;19001 - Popayán;54
+201211;19001 - Popayán;53
+201212;19001 - Popayán;68
+201203;19022 - Almaguer;1
+201212;19050 - Argelia;1
+201210;19100 - Bolívar;1
+201206;19110 - Buenos Aires;1
+201209;19137 - Caldono;1
+201202;19142 - Caloto;1
+201208;19142 - Caloto;2
+201201;19212 - Corinto;1
+201206;19212 - Corinto;1
+201210;19212 - Corinto;1
+201211;19212 - Corinto;1
+201208;19256 - El Tambo;1
+201203;19355 - Inzá;1
+201203;19473 - Morales;1
+201204;19473 - Morales;1
+201203;19532 - Patía;1
+201207;19532 - Patía;1
+201205;19533 - Piamonte;1
+201201;19548 - Piendamó;1
+201204;19548 - Piendamó;1
+201207;19548 - Piendamó;1
+201208;19548 - Piendamó;1
+201209;19548 - Piendamó;3
+201201;19573 - Puerto Tejada;9
+201202;19573 - Puerto Tejada;7
+201203;19573 - Puerto Tejada;11
+201204;19573 - Puerto Tejada;3
+201205;19573 - Puerto Tejada;8
+201206;19573 - Puerto Tejada;6
+201207;19573 - Puerto Tejada;6
+201208;19573 - Puerto Tejada;5
+201209;19573 - Puerto Tejada;8
+201210;19573 - Puerto Tejada;11
+201212;19573 - Puerto Tejada;8
+201211;19622 - Rosas;1
+201201;19698 - Santander De Quilichao;1
+201202;19698 - Santander De Quilichao;1
+201203;19698 - Santander De Quilichao;1
+201204;19698 - Santander De Quilichao;1
+201206;19698 - Santander De Quilichao;3
+201207;19698 - Santander De Quilichao;1
+201208;19698 - Santander De Quilichao;1
+201209;19698 - Santander De Quilichao;2
+201210;19698 - Santander De Quilichao;3
+201211;19698 - Santander De Quilichao;5
+201212;19698 - Santander De Quilichao;2
+201207;19743 - Silvia;1
+201210;19760 - Sotara;1
+201212;19785 - Sucre;1
+201201;19807 - Timbío;1
+201202;19807 - Timbío;1
+201208;19807 - Timbío;1
+201211;19824 - Totoró;1
+201206;19845 - Villa Rica;1
+201201;20001 - Valledupar;7
+201202;20001 - Valledupar;9
+201203;20001 - Valledupar;6
+201204;20001 - Valledupar;3
+201205;20001 - Valledupar;8
+201206;20001 - Valledupar;6
+201207;20001 - Valledupar;2
+201208;20001 - Valledupar;1
+201209;20001 - Valledupar;3
+201210;20001 - Valledupar;4
+201211;20001 - Valledupar;11
+201212;20001 - Valledupar;4
+201201;20011 - Aguachica;1
+201211;20011 - Aguachica;1
+201212;20011 - Aguachica;1
+201210;20013 - Agustín Codazzi;1
+201212;20013 - Agustín Codazzi;1
+201201;20178 - Chiriguaná;1
+201201;20383 - La Gloria;1
+201202;20400 - La Jagua De Ibirico;1
+201201;20710 - San Alberto;1
+201202;20710 - San Alberto;2
+201205;20710 - San Alberto;1
+201212;20710 - San Alberto;1
+201206;20770 - San Martín;1
+201201;23001 - Montería;43
+201202;23001 - Montería;42
+201203;23001 - Montería;31
+201204;23001 - Montería;26
+201205;23001 - Montería;37
+201206;23001 - Montería;36
+201207;23001 - Montería;29
+201208;23001 - Montería;24
+201209;23001 - Montería;25
+201210;23001 - Montería;31
+201211;23001 - Montería;32
+201212;23001 - Montería;31
+201204;23090 - Canalete;1
+201206;23162 - Cereté;2
+201208;23162 - Cereté;1
+201211;23162 - Cereté;1
+201204;23182 - Chinú;1
+201210;23182 - Chinú;1
+201204;23300 - Cotorra;1
+201201;23417 - Lorica;6
+201202;23417 - Lorica;4
+201204;23417 - Lorica;1
+201205;23417 - Lorica;4
+201206;23417 - Lorica;1
+201207;23417 - Lorica;4
+201208;23417 - Lorica;2
+201209;23417 - Lorica;1
+201210;23417 - Lorica;3
+201211;23417 - Lorica;3
+201212;23417 - Lorica;3
+201205;23464 - Momil;1
+201202;23555 - Planeta Rica;1
+201203;23555 - Planeta Rica;1
+201201;23660 - Sahagún;1
+201203;23660 - Sahagún;1
+201205;23660 - Sahagún;1
+201205;23675 - San Bernardo Del Viento;1
+201212;23807 - Tierralta;1
+201203;25053 - Arbeláez;1
+201205;25053 - Arbeláez;1
+201212;25126 - Cajicá;1
+201201;25151 - Caqueza;1
+201203;25151 - Caqueza;1
+201207;25151 - Caqueza;1
+201211;25151 - Caqueza;1
+201201;25175 - Chía;9
+201202;25175 - Chía;10
+201203;25175 - Chía;10
+201204;25175 - Chía;8
+201205;25175 - Chía;10
+201206;25175 - Chía;5
+201207;25175 - Chía;6
+201208;25175 - Chía;4
+201209;25175 - Chía;6
+201210;25175 - Chía;7
+201211;25175 - Chía;10
+201212;25175 - Chía;4
+201201;25183 - Chocontá;2
+201202;25183 - Chocontá;1
+201205;25183 - Chocontá;3
+201208;25183 - Chocontá;1
+201205;25214 - Cota;1
+201201;25269 - Facatativá;6
+201202;25269 - Facatativá;4
+201203;25269 - Facatativá;10
+201204;25269 - Facatativá;6
+201205;25269 - Facatativá;4
+201206;25269 - Facatativá;4
+201207;25269 - Facatativá;8
+201208;25269 - Facatativá;15
+201209;25269 - Facatativá;6
+201210;25269 - Facatativá;6
+201211;25269 - Facatativá;3
+201212;25269 - Facatativá;5
+201201;25279 - Fomeque;1
+201207;25279 - Fomeque;1
+201201;25286 - Funza;1
+201211;25286 - Funza;2
+201201;25290 - Fusagasugá;5
+201202;25290 - Fusagasugá;3
+201203;25290 - Fusagasugá;4
+201204;25290 - Fusagasugá;5
+201205;25290 - Fusagasugá;7
+201206;25290 - Fusagasugá;3
+201207;25290 - Fusagasugá;6
+201208;25290 - Fusagasugá;6
+201209;25290 - Fusagasugá;6
+201210;25290 - Fusagasugá;2
+201211;25290 - Fusagasugá;3
+201212;25290 - Fusagasugá;6
+201201;25307 - Girardot;6
+201202;25307 - Girardot;5
+201203;25307 - Girardot;8
+201204;25307 - Girardot;2
+201205;25307 - Girardot;1
+201206;25307 - Girardot;3
+201207;25307 - Girardot;2
+201208;25307 - Girardot;2
+201209;25307 - Girardot;3
+201210;25307 - Girardot;10
+201211;25307 - Girardot;1
+201212;25307 - Girardot;3
+201208;25317 - Guachetá;1
+201205;25372 - Junín;1
+201202;25377 - La Calera;1
+201203;25377 - La Calera;1
+201209;25377 - La Calera;1
+201212;25377 - La Calera;1
+201201;25386 - La Mesa;1
+201202;25386 - La Mesa;3
+201203;25386 - La Mesa;1
+201204;25386 - La Mesa;2
+201205;25386 - La Mesa;1
+201206;25386 - La Mesa;1
+201207;25386 - La Mesa;1
+201208;25386 - La Mesa;3
+201209;25386 - La Mesa;1
+201210;25386 - La Mesa;1
+201211;25386 - La Mesa;1
+201201;25430 - Madrid;2
+201202;25430 - Madrid;1
+201204;25430 - Madrid;1
+201210;25430 - Madrid;1
+201204;25473 - Mosquera;1
+201209;25473 - Mosquera;1
+201202;25513 - Pacho;1
+201203;25513 - Pacho;1
+201205;25513 - Pacho;1
+201206;25513 - Pacho;2
+201211;25513 - Pacho;1
+201201;25645 - San Antonio Del Tequendama;1
+201201;25754 - Soacha;5
+201202;25754 - Soacha;9
+201203;25754 - Soacha;6
+201204;25754 - Soacha;5
+201205;25754 - Soacha;4
+201206;25754 - Soacha;5
+201207;25754 - Soacha;8
+201208;25754 - Soacha;10
+201209;25754 - Soacha;4
+201210;25754 - Soacha;1
+201211;25754 - Soacha;1
+201203;25817 - Tocancipá;1
+201203;25843 - Villa De San Diego De Ubate;1
+201205;25843 - Villa De San Diego De Ubate;1
+201208;25843 - Villa De San Diego De Ubate;1
+201212;25843 - Villa De San Diego De Ubate;1
+201211;25875 - Villeta;1
+201207;25878 - Viotá;1
+201204;25899 - Zipaquirá;2
+201205;25899 - Zipaquirá;2
+201207;25899 - Zipaquirá;1
+201208;25899 - Zipaquirá;1
+201209;25899 - Zipaquirá;1
+201210;25899 - Zipaquirá;1
+201211;25899 - Zipaquirá;2
+201202;27001 - Quibdó;1
+201203;27001 - Quibdó;1
+201205;27001 - Quibdó;3
+201206;27001 - Quibdó;1
+201210;27001 - Quibdó;2
+201212;27001 - Quibdó;1
+201201;41001 - Neiva;34
+201202;41001 - Neiva;34
+201203;41001 - Neiva;37
+201204;41001 - Neiva;36
+201205;41001 - Neiva;30
+201206;41001 - Neiva;12
+201207;41001 - Neiva;25
+201208;41001 - Neiva;20
+201209;41001 - Neiva;15
+201210;41001 - Neiva;19
+201211;41001 - Neiva;12
+201212;41001 - Neiva;16
+201202;41013 - Agrado;1
+201201;41132 - Campoalegre;1
+201209;41132 - Campoalegre;1
+201210;41132 - Campoalegre;1
+201201;41298 - Garzón;6
+201202;41298 - Garzón;1
+201203;41298 - Garzón;5
+201204;41298 - Garzón;6
+201205;41298 - Garzón;7
+201206;41298 - Garzón;3
+201207;41298 - Garzón;1
+201208;41298 - Garzón;1
+201209;41298 - Garzón;2
+201211;41298 - Garzón;2
+201205;41396 - La Plata;1
+201208;41396 - La Plata;1
+201201;41551 - Pitalito;5
+201202;41551 - Pitalito;4
+201203;41551 - Pitalito;2
+201204;41551 - Pitalito;7
+201205;41551 - Pitalito;2
+201206;41551 - Pitalito;1
+201207;41551 - Pitalito;3
+201208;41551 - Pitalito;5
+201209;41551 - Pitalito;9
+201210;41551 - Pitalito;5
+201211;41551 - Pitalito;5
+201212;41551 - Pitalito;2
+201204;41615 - Rivera;1
+201205;41615 - Rivera;3
+201206;41660 - Saladoblanco;1
+201211;41668 - San Agustín;1
+201212;41668 - San Agustín;1
+201201;41791 - Tarqui;1
+201202;41791 - Tarqui;1
+201203;41791 - Tarqui;1
+201205;41791 - Tarqui;2
+201206;41791 - Tarqui;3
+201208;41791 - Tarqui;1
+201209;41791 - Tarqui;1
+201210;41791 - Tarqui;2
+201211;41791 - Tarqui;1
+201208;41797 - Tesalia;1
+201208;41799 - Tello;1
+201202;41872 - Villavieja;2
+201204;41872 - Villavieja;1
+201201;44001 - Riohacha;4
+201202;44001 - Riohacha;6
+201204;44001 - Riohacha;3
+201205;44001 - Riohacha;5
+201206;44001 - Riohacha;1
+201207;44001 - Riohacha;1
+201210;44001 - Riohacha;2
+201211;44001 - Riohacha;1
+201212;44001 - Riohacha;4
+201208;44078 - Barrancas;1
+201201;44430 - Maicao;1
+201206;44430 - Maicao;1
+201207;44430 - Maicao;3
+201208;44430 - Maicao;2
+201210;44430 - Maicao;1
+201212;44430 - Maicao;2
+201201;44650 - San Juan Del Cesar;1
+201202;44650 - San Juan Del Cesar;1
+201203;44650 - San Juan Del Cesar;1
+201204;44650 - San Juan Del Cesar;1
+201205;44650 - San Juan Del Cesar;1
+201207;44650 - San Juan Del Cesar;3
+201208;44650 - San Juan Del Cesar;1
+201211;44650 - San Juan Del Cesar;2
+201212;44650 - San Juan Del Cesar;2
+201201;47001 - Santa Marta;12
+201202;47001 - Santa Marta;21
+201203;47001 - Santa Marta;16
+201204;47001 - Santa Marta;11
+201205;47001 - Santa Marta;15
+201206;47001 - Santa Marta;17
+201207;47001 - Santa Marta;13
+201208;47001 - Santa Marta;11
+201209;47001 - Santa Marta;17
+201210;47001 - Santa Marta;21
+201211;47001 - Santa Marta;13
+201212;47001 - Santa Marta;16
+201211;47030 - Algarrobo;1
+201201;47189 - Ciénaga;1
+201205;47189 - Ciénaga;2
+201206;47189 - Ciénaga;1
+201210;47189 - Ciénaga;2
+201211;47189 - Ciénaga;2
+201201;47245 - El Banco;3
+201202;47245 - El Banco;1
+201205;47245 - El Banco;1
+201211;47245 - El Banco;1
+201203;47288 - Fundación;1
+201211;47318 - Guamal;1
+201201;47551 - Pivijay;1
+201205;47555 - Plato;1
+201201;47570 - Puebloviejo;1
+201212;47980 - Zona Bananera;1
+201201;50001 - Villavicencio;21
+201202;50001 - Villavicencio;10
+201203;50001 - Villavicencio;10
+201204;50001 - Villavicencio;11
+201205;50001 - Villavicencio;20
+201206;50001 - Villavicencio;9
+201207;50001 - Villavicencio;21
+201208;50001 - Villavicencio;17
+201209;50001 - Villavicencio;17
+201210;50001 - Villavicencio;14
+201211;50001 - Villavicencio;18
+201212;50001 - Villavicencio;18
+201202;50006 - Acacías;1
+201204;50006 - Acacías;1
+201208;50006 - Acacías;1
+201211;50006 - Acacías;1
+201212;50006 - Acacías;1
+201203;50226 - Cumaral;1
+201201;50313 - Granada;1
+201202;50313 - Granada;1
+201204;50313 - Granada;1
+201206;50313 - Granada;1
+201210;50313 - Granada;1
+201201;50573 - Puerto López;1
+201201;50689 - San Martín;1
+201201;52001 - Pasto;37
+201202;52001 - Pasto;40
+201203;52001 - Pasto;40
+201204;52001 - Pasto;37
+201205;52001 - Pasto;41
+201206;52001 - Pasto;40
+201207;52001 - Pasto;32
+201208;52001 - Pasto;45
+201209;52001 - Pasto;46
+201210;52001 - Pasto;38
+201211;52001 - Pasto;42
+201212;52001 - Pasto;46
+201211;52110 - Buesaco;1
+201201;52240 - Chachagüí;1
+201202;52240 - Chachagüí;1
+201204;52240 - Chachagüí;1
+201206;52287 - Funes;1
+201202;52317 - Guachucal;1
+201202;52352 - Iles;1
+201209;52354 - Imués;1
+201201;52356 - Ipiales;2
+201202;52356 - Ipiales;4
+201205;52356 - Ipiales;3
+201206;52356 - Ipiales;1
+201208;52356 - Ipiales;4
+201209;52356 - Ipiales;3
+201210;52356 - Ipiales;5
+201211;52356 - Ipiales;4
+201212;52356 - Ipiales;2
+201202;52378 - La Cruz;1
+201207;52399 - La Unión;1
+201212;52506 - Ospina;1
+201210;52560 - Potosí;1
+201202;52573 - Puerres;1
+201208;52573 - Puerres;1
+201208;52678 - Samaniego;1
+201209;52678 - Samaniego;1
+201206;52683 - Sandoná;1
+201209;52683 - Sandoná;1
+201212;52683 - Sandoná;1
+201203;52693 - San Pablo;1
+201208;52693 - San Pablo;1
+201205;52786 - Taminango;1
+201205;52835 - San Andres De Tumaco;2
+201206;52835 - San Andres De Tumaco;2
+201210;52835 - San Andres De Tumaco;5
+201211;52838 - Túquerres;1
+201204;52885 - Yacuanquer;1
+201201;54001 - Cúcuta;32
+201202;54001 - Cúcuta;24
+201203;54001 - Cúcuta;20
+201204;54001 - Cúcuta;8
+201205;54001 - Cúcuta;15
+201206;54001 - Cúcuta;13
+201207;54001 - Cúcuta;19
+201208;54001 - Cúcuta;20
+201209;54001 - Cúcuta;16
+201210;54001 - Cúcuta;25
+201211;54001 - Cúcuta;25
+201212;54001 - Cúcuta;14
+201201;54498 - Ocaña;2
+201202;54498 - Ocaña;3
+201204;54498 - Ocaña;2
+201201;54518 - Pamplona;1
+201202;54518 - Pamplona;1
+201203;54518 - Pamplona;2
+201207;54518 - Pamplona;1
+201208;54518 - Pamplona;1
+201210;54518 - Pamplona;2
+201212;54518 - Pamplona;3
+201201;54810 - Tibú;1
+201204;54874 - Villa Del Rosario;2
+201201;63001 - Armenia;14
+201202;63001 - Armenia;13
+201203;63001 - Armenia;10
+201204;63001 - Armenia;14
+201205;63001 - Armenia;16
+201206;63001 - Armenia;15
+201207;63001 - Armenia;15
+201208;63001 - Armenia;20
+201209;63001 - Armenia;14
+201210;63001 - Armenia;13
+201211;63001 - Armenia;13
+201212;63001 - Armenia;16
+201202;63130 - Calarca;1
+201203;63130 - Calarca;1
+201207;63130 - Calarca;1
+201203;63190 - Circasia;1
+201201;63302 - Génova;1
+201204;63401 - La Tebaida;1
+201201;63470 - Montenegro;1
+201202;63470 - Montenegro;1
+201205;63594 - Quimbaya;1
+201201;66001 - Pereira;60
+201202;66001 - Pereira;51
+201203;66001 - Pereira;46
+201204;66001 - Pereira;42
+201205;66001 - Pereira;41
+201206;66001 - Pereira;36
+201207;66001 - Pereira;42
+201208;66001 - Pereira;41
+201209;66001 - Pereira;37
+201210;66001 - Pereira;46
+201211;66001 - Pereira;38
+201212;66001 - Pereira;60
+201201;66088 - Belén De Umbría;1
+201209;66088 - Belén De Umbría;1
+201201;66170 - Dosquebradas;1
+201202;66170 - Dosquebradas;4
+201203;66170 - Dosquebradas;1
+201204;66170 - Dosquebradas;6
+201205;66170 - Dosquebradas;5
+201206;66170 - Dosquebradas;6
+201207;66170 - Dosquebradas;2
+201210;66170 - Dosquebradas;1
+201212;66170 - Dosquebradas;1
+201208;66318 - Guática;1
+201201;66383 - La Celia;1
+201202;66383 - La Celia;1
+201203;66383 - La Celia;1
+201201;66400 - La Virginia;1
+201203;66400 - La Virginia;1
+201204;66400 - La Virginia;1
+201209;66400 - La Virginia;2
+201212;66400 - La Virginia;1
+201205;66440 - Marsella;1
+201209;66440 - Marsella;1
+201207;66456 - Mistrató;1
+201210;66456 - Mistrató;1
+201207;66594 - Quinchía;1
+201203;66682 - Santa Rosa De Cabal;1
+201204;66682 - Santa Rosa De Cabal;1
+201203;66687 - Santuario;1
+201206;66687 - Santuario;1
+201207;66687 - Santuario;1
+201208;66687 - Santuario;1
+201201;68001 - Bucaramanga;46
+201202;68001 - Bucaramanga;28
+201203;68001 - Bucaramanga;36
+201204;68001 - Bucaramanga;27
+201205;68001 - Bucaramanga;43
+201206;68001 - Bucaramanga;31
+201207;68001 - Bucaramanga;24
+201208;68001 - Bucaramanga;21
+201209;68001 - Bucaramanga;34
+201210;68001 - Bucaramanga;24
+201211;68001 - Bucaramanga;30
+201212;68001 - Bucaramanga;33
+201207;68077 - Barbosa;1
+201201;68081 - Barrancabermeja;2
+201202;68081 - Barrancabermeja;2
+201203;68081 - Barrancabermeja;1
+201204;68081 - Barrancabermeja;1
+201207;68176 - Chima;1
+201201;68190 - Cimitarra;1
+201203;68190 - Cimitarra;1
+201205;68190 - Cimitarra;1
+201207;68245 - El Guacamayo;1
+201207;68250 - El Peñón;1
+201201;68276 - Floridablanca;32
+201202;68276 - Floridablanca;13
+201203;68276 - Floridablanca;21
+201204;68276 - Floridablanca;14
+201205;68276 - Floridablanca;18
+201206;68276 - Floridablanca;13
+201207;68276 - Floridablanca;23
+201208;68276 - Floridablanca;20
+201209;68276 - Floridablanca;22
+201210;68276 - Floridablanca;11
+201211;68276 - Floridablanca;4
+201212;68276 - Floridablanca;7
+201201;68307 - Girón;2
+201202;68307 - Girón;1
+201212;68307 - Girón;1
+201202;68320 - Guadalupe;2
+201204;68444 - Matanza;1
+201212;68498 - Ocamonte;1
+201205;68500 - Oiba;1
+201207;68500 - Oiba;1
+201206;68533 - Páramo;1
+201203;68547 - Piedecuesta;1
+201204;68547 - Piedecuesta;1
+201206;68547 - Piedecuesta;1
+201207;68547 - Piedecuesta;1
+201211;68547 - Piedecuesta;1
+201212;68547 - Piedecuesta;1
+201204;68573 - Puerto Parra;1
+201205;68573 - Puerto Parra;1
+201203;68575 - Puerto Wilches;1
+201209;68575 - Puerto Wilches;1
+201201;68679 - San Gil;3
+201203;68679 - San Gil;1
+201207;68679 - San Gil;1
+201209;68679 - San Gil;1
+201210;68679 - San Gil;1
+201211;68679 - San Gil;2
+201212;68679 - San Gil;1
+201201;68689 - San Vicente De Chucurí;1
+201203;68689 - San Vicente De Chucurí;1
+201207;68705 - Santa Bárbara;1
+201201;68755 - Socorro;8
+201202;68755 - Socorro;2
+201203;68755 - Socorro;4
+201204;68755 - Socorro;4
+201205;68755 - Socorro;1
+201206;68755 - Socorro;2
+201207;68755 - Socorro;4
+201210;68755 - Socorro;3
+201211;68755 - Socorro;2
+201212;68755 - Socorro;2
+201207;68820 - Tona;1
+201206;68872 - Villanueva;1
+201201;70001 - Sincelejo;7
+201202;70001 - Sincelejo;12
+201203;70001 - Sincelejo;14
+201204;70001 - Sincelejo;16
+201205;70001 - Sincelejo;10
+201206;70001 - Sincelejo;16
+201207;70001 - Sincelejo;5
+201208;70001 - Sincelejo;10
+201209;70001 - Sincelejo;7
+201210;70001 - Sincelejo;10
+201211;70001 - Sincelejo;20
+201212;70001 - Sincelejo;16
+201206;70110 - Buenavista;1
+201207;70110 - Buenavista;1
+201209;70110 - Buenavista;1
+201210;70110 - Buenavista;2
+201206;70215 - Corozal;1
+201212;70400 - La Unión;1
+201205;70429 - Majagual;1
+201201;70670 - Sampués;1
+201201;70708 - San Marcos;1
+201201;73001 - Ibagué;26
+201202;73001 - Ibagué;17
+201203;73001 - Ibagué;32
+201204;73001 - Ibagué;13
+201205;73001 - Ibagué;25
+201206;73001 - Ibagué;15
+201207;73001 - Ibagué;23
+201208;73001 - Ibagué;19
+201209;73001 - Ibagué;25
+201210;73001 - Ibagué;25
+201211;73001 - Ibagué;32
+201212;73001 - Ibagué;28
+201208;73043 - Anzoátegui;1
+201209;73043 - Anzoátegui;1
+201201;73168 - Chaparral;2
+201205;73168 - Chaparral;1
+201206;73168 - Chaparral;1
+201209;73168 - Chaparral;2
+201211;73168 - Chaparral;1
+201212;73168 - Chaparral;1
+201205;73226 - Cunday;1
+201211;73236 - Dolores;1
+201212;73236 - Dolores;1
+201201;73268 - Espinal;3
+201202;73268 - Espinal;1
+201204;73268 - Espinal;1
+201207;73268 - Espinal;1
+201208;73268 - Espinal;1
+201209;73268 - Espinal;1
+201211;73268 - Espinal;2
+201212;73268 - Espinal;2
+201204;73275 - Flandes;1
+201201;73349 - Honda;1
+201202;73349 - Honda;3
+201207;73349 - Honda;1
+201208;73349 - Honda;1
+201209;73349 - Honda;1
+201211;73349 - Honda;1
+201212;73349 - Honda;1
+201201;73352 - Icononzo;1
+201210;73352 - Icononzo;1
+201202;73408 - Lérida;1
+201203;73408 - Lérida;2
+201205;73408 - Lérida;1
+201207;73408 - Lérida;1
+201203;73411 - Líbano;2
+201205;73411 - Líbano;1
+201207;73411 - Líbano;1
+201209;73411 - Líbano;1
+201211;73411 - Líbano;1
+201201;73443 - Mariquita;2
+201202;73443 - Mariquita;1
+201209;73443 - Mariquita;1
+201210;73443 - Mariquita;2
+201202;73449 - Melgar;1
+201212;73449 - Melgar;1
+201204;73483 - Natagaima;1
+201205;73520 - Palocabildo;1
+201209;73520 - Palocabildo;1
+201202;73547 - Piedras;1
+201209;73547 - Piedras;1
+201204;73585 - Purificación;1
+201207;73585 - Purificación;1
+201202;73616 - Rioblanco;1
+201203;73616 - Rioblanco;1
+201207;73622 - Roncesvalles;1
+201205;73624 - Rovira;1
+201201;73675 - San Antonio;1
+201204;73675 - San Antonio;1
+201207;73675 - San Antonio;1
+201208;73770 - Suárez;1
+201201;76001 - Cali;171
+201202;76001 - Cali;166
+201203;76001 - Cali;133
+201204;76001 - Cali;130
+201205;76001 - Cali;147
+201206;76001 - Cali;131
+201207;76001 - Cali;119
+201208;76001 - Cali;128
+201209;76001 - Cali;148
+201210;76001 - Cali;207
+201211;76001 - Cali;121
+201212;76001 - Cali;187
+201210;76036 - Andalucía;1
+201212;76036 - Andalucía;1
+201201;76109 - Buenaventura;5
+201202;76109 - Buenaventura;1
+201203;76109 - Buenaventura;2
+201205;76109 - Buenaventura;3
+201206;76109 - Buenaventura;3
+201207;76109 - Buenaventura;1
+201208;76109 - Buenaventura;3
+201209;76109 - Buenaventura;3
+201210;76109 - Buenaventura;2
+201212;76109 - Buenaventura;2
+201201;76111 - Guadalajara De Buga;5
+201202;76111 - Guadalajara De Buga;3
+201205;76111 - Guadalajara De Buga;1
+201207;76111 - Guadalajara De Buga;1
+201208;76111 - Guadalajara De Buga;4
+201209;76111 - Guadalajara De Buga;13
+201210;76111 - Guadalajara De Buga;5
+201211;76111 - Guadalajara De Buga;6
+201212;76111 - Guadalajara De Buga;9
+201203;76122 - Caicedonia;1
+201208;76122 - Caicedonia;1
+201210;76122 - Caicedonia;1
+201210;76130 - Candelaria;1
+201211;76130 - Candelaria;1
+201201;76147 - Cartago;3
+201202;76147 - Cartago;3
+201203;76147 - Cartago;1
+201205;76147 - Cartago;1
+201206;76147 - Cartago;4
+201207;76147 - Cartago;1
+201209;76147 - Cartago;1
+201211;76147 - Cartago;2
+201212;76147 - Cartago;2
+201206;76246 - El Cairo;1
+201207;76248 - El Cerrito;1
+201208;76248 - El Cerrito;1
+201210;76248 - El Cerrito;1
+201211;76248 - El Cerrito;1
+201212;76248 - El Cerrito;1
+201210;76250 - El Dovio;1
+201205;76275 - Florida;1
+201206;76318 - Guacarí;1
+201202;76364 - Jamundí;1
+201204;76364 - Jamundí;1
+201205;76364 - Jamundí;2
+201206;76364 - Jamundí;3
+201210;76364 - Jamundí;3
+201212;76364 - Jamundí;1
+201203;76400 - La Unión;1
+201201;76520 - Palmira;10
+201202;76520 - Palmira;10
+201203;76520 - Palmira;11
+201204;76520 - Palmira;6
+201205;76520 - Palmira;16
+201206;76520 - Palmira;6
+201207;76520 - Palmira;6
+201208;76520 - Palmira;3
+201209;76520 - Palmira;8
+201210;76520 - Palmira;6
+201211;76520 - Palmira;8
+201212;76520 - Palmira;11
+201203;76563 - Pradera;1
+201205;76563 - Pradera;1
+201206;76563 - Pradera;1
+201207;76563 - Pradera;1
+201210;76616 - Riofrío;1
+201204;76622 - Roldanillo;1
+201205;76622 - Roldanillo;1
+201207;76622 - Roldanillo;1
+201209;76622 - Roldanillo;1
+201205;76736 - Sevilla;1
+201210;76736 - Sevilla;1
+201205;76823 - Toro;1
+201209;76823 - Toro;1
+201203;76828 - Trujillo;1
+201201;76834 - Tuluá;29
+201202;76834 - Tuluá;27
+201203;76834 - Tuluá;20
+201204;76834 - Tuluá;12
+201205;76834 - Tuluá;21
+201206;76834 - Tuluá;16
+201207;76834 - Tuluá;20
+201208;76834 - Tuluá;9
+201209;76834 - Tuluá;21
+201210;76834 - Tuluá;37
+201211;76834 - Tuluá;12
+201212;76834 - Tuluá;32
+201203;76869 - Vijes;1
+201205;76890 - Yotoco;1
+201207;76890 - Yotoco;1
+201209;76890 - Yotoco;1
+201201;76892 - Yumbo;3
+201204;76892 - Yumbo;1
+201212;76892 - Yumbo;1
+201203;76895 - Zarzal;2
+201204;76895 - Zarzal;1
+201201;81001 - Arauca;1
+201202;81001 - Arauca;2
+201203;81001 - Arauca;2
+201204;81001 - Arauca;3
+201205;81001 - Arauca;2
+201207;81001 - Arauca;1
+201208;81001 - Arauca;1
+201210;81001 - Arauca;1
+201211;81001 - Arauca;1
+201212;81001 - Arauca;2
+201201;81736 - Saravena;3
+201202;81736 - Saravena;1
+201204;81736 - Saravena;2
+201205;81736 - Saravena;2
+201206;81736 - Saravena;2
+201207;81736 - Saravena;3
+201211;81736 - Saravena;5
+201201;81794 - Tame;1
+201201;85001 - Yopal;3
+201202;85001 - Yopal;2
+201203;85001 - Yopal;1
+201205;85001 - Yopal;1
+201207;85001 - Yopal;1
+201208;85001 - Yopal;1
+201209;85001 - Yopal;3
+201210;85001 - Yopal;3
+201211;85001 - Yopal;2
+201212;85001 - Yopal;2
+201202;86001 - Mocoa;1
+201204;86001 - Mocoa;1
+201207;86001 - Mocoa;1
+201204;86320 - Orito;1
+201211;86573 - Leguízamo;1
+201202;88001 - San Andrés;1
+201212;88001 - San Andrés;1
+201201;91001 - Leticia;1
+201202;91001 - Leticia;1
+201210;91001 - Leticia;1
+201201;95001 - San José Del Guaviare;3
+201202;95001 - San José Del Guaviare;1
+201203;95001 - San José Del Guaviare;1
+201204;95001 - San José Del Guaviare;1
+201201;-1 - No Definido;21
+201202;-1 - No Definido;14
+201203;-1 - No Definido;19
+201204;-1 - No Definido;27
+201205;-1 - No Definido;25
+201206;-1 - No Definido;11
+201207;-1 - No Definido;26
+201208;-1 - No Definido;20
+201209;-1 - No Definido;15
+201210;-1 - No Definido;14
+201211;-1 - No Definido;25
+201212;-1 - No Definido;15

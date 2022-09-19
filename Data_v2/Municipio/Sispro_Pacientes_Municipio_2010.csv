@@ -1,0 +1,1042 @@
+﻿PeriodoNum;Municipio;CantidadPacientes
+201001;05001 - Medellín;145
+201002;05001 - Medellín;197
+201003;05001 - Medellín;225
+201004;05001 - Medellín;177
+201005;05001 - Medellín;166
+201006;05001 - Medellín;216
+201007;05001 - Medellín;186
+201008;05001 - Medellín;171
+201009;05001 - Medellín;185
+201010;05001 - Medellín;148
+201011;05001 - Medellín;144
+201012;05001 - Medellín;141
+201002;05002 - Abejorral;1
+201010;05031 - Amalfi;1
+201012;05034 - Andes;1
+201006;05042 - Santafé De Antioquia;1
+201008;05042 - Santafé De Antioquia;3
+201011;05042 - Santafé De Antioquia;1
+201002;05045 - Apartadó;2
+201003;05045 - Apartadó;4
+201004;05045 - Apartadó;4
+201005;05045 - Apartadó;2
+201006;05045 - Apartadó;1
+201007;05045 - Apartadó;2
+201008;05045 - Apartadó;2
+201009;05045 - Apartadó;3
+201010;05045 - Apartadó;1
+201011;05045 - Apartadó;3
+201012;05045 - Apartadó;1
+201003;05086 - Belmira;1
+201001;05088 - Bello;1
+201002;05088 - Bello;2
+201003;05088 - Bello;2
+201004;05088 - Bello;4
+201005;05088 - Bello;3
+201006;05088 - Bello;5
+201007;05088 - Bello;3
+201008;05088 - Bello;7
+201009;05088 - Bello;2
+201010;05088 - Bello;4
+201011;05088 - Bello;4
+201012;05088 - Bello;3
+201004;05091 - Betania;1
+201005;05101 - Ciudad Bolívar;1
+201007;05101 - Ciudad Bolívar;1
+201009;05101 - Ciudad Bolívar;1
+201002;05129 - Caldas;1
+201004;05129 - Caldas;1
+201005;05129 - Caldas;2
+201008;05129 - Caldas;2
+201009;05129 - Caldas;3
+201010;05129 - Caldas;1
+201012;05129 - Caldas;1
+201010;05147 - Carepa;1
+201004;05148 - El Carmen De Viboral;1
+201012;05148 - El Carmen De Viboral;1
+201008;05154 - Caucasia;1
+201005;05172 - Chigorodó;1
+201002;05209 - Concordia;1
+201009;05237 - Don Matías;1
+201002;05240 - Ebéjico;1
+201005;05264 - Entrerrios;1
+201001;05266 - Envigado;7
+201002;05266 - Envigado;4
+201003;05266 - Envigado;4
+201004;05266 - Envigado;6
+201005;05266 - Envigado;5
+201006;05266 - Envigado;11
+201007;05266 - Envigado;10
+201008;05266 - Envigado;14
+201009;05266 - Envigado;11
+201010;05266 - Envigado;4
+201011;05266 - Envigado;6
+201012;05266 - Envigado;7
+201008;05284 - Frontino;1
+201002;05308 - Girardota;1
+201003;05308 - Girardota;3
+201004;05308 - Girardota;1
+201002;05318 - Guarne;1
+201002;05360 - Itagui;2
+201003;05360 - Itagui;2
+201004;05360 - Itagui;3
+201005;05360 - Itagui;2
+201006;05360 - Itagui;6
+201007;05360 - Itagui;6
+201008;05360 - Itagui;3
+201009;05360 - Itagui;1
+201010;05360 - Itagui;5
+201011;05360 - Itagui;9
+201012;05360 - Itagui;8
+201001;05368 - Jericó;1
+201001;05376 - La Ceja;2
+201002;05376 - La Ceja;2
+201003;05376 - La Ceja;1
+201004;05376 - La Ceja;3
+201005;05376 - La Ceja;2
+201007;05376 - La Ceja;1
+201008;05376 - La Ceja;2
+201010;05376 - La Ceja;3
+201011;05376 - La Ceja;1
+201010;05400 - La Unión;1
+201002;05440 - Marinilla;1
+201004;05579 - Puerto Berrío;1
+201006;05579 - Puerto Berrío;1
+201007;05579 - Puerto Berrío;1
+201008;05579 - Puerto Berrío;1
+201009;05579 - Puerto Berrío;3
+201001;05615 - Rionegro;4
+201002;05615 - Rionegro;2
+201003;05615 - Rionegro;7
+201004;05615 - Rionegro;2
+201005;05615 - Rionegro;7
+201006;05615 - Rionegro;3
+201007;05615 - Rionegro;6
+201008;05615 - Rionegro;8
+201009;05615 - Rionegro;8
+201010;05615 - Rionegro;9
+201011;05615 - Rionegro;7
+201012;05615 - Rionegro;5
+201007;05628 - Sabanalarga;1
+201001;05631 - Sabaneta;1
+201003;05631 - Sabaneta;1
+201002;05664 - San Pedro;1
+201003;05667 - San Rafael;1
+201012;05679 - Santa Bárbara;1
+201001;05686 - Santa Rosa De Osos;1
+201010;05686 - Santa Rosa De Osos;1
+201001;05756 - Sonson;1
+201002;05756 - Sonson;2
+201004;05756 - Sonson;1
+201006;05756 - Sonson;3
+201009;05756 - Sonson;1
+201010;05756 - Sonson;1
+201012;05756 - Sonson;1
+201003;05837 - Turbo;1
+201004;05837 - Turbo;1
+201008;05842 - Uramita;1
+201002;05887 - Yarumal;3
+201003;05887 - Yarumal;2
+201004;05887 - Yarumal;2
+201005;05887 - Yarumal;3
+201006;05887 - Yarumal;1
+201008;05887 - Yarumal;2
+201010;05887 - Yarumal;1
+201011;05887 - Yarumal;1
+201004;05890 - Yolombó;1
+201001;08001 - Barranquilla;24
+201002;08001 - Barranquilla;29
+201003;08001 - Barranquilla;22
+201004;08001 - Barranquilla;31
+201005;08001 - Barranquilla;48
+201006;08001 - Barranquilla;26
+201007;08001 - Barranquilla;27
+201008;08001 - Barranquilla;31
+201009;08001 - Barranquilla;34
+201010;08001 - Barranquilla;19
+201011;08001 - Barranquilla;24
+201012;08001 - Barranquilla;15
+201008;08433 - Malambo;3
+201009;08433 - Malambo;1
+201011;08433 - Malambo;1
+201001;08520 - Palmar De Varela;1
+201002;08638 - Sabanalarga;2
+201003;08638 - Sabanalarga;2
+201004;08638 - Sabanalarga;2
+201005;08638 - Sabanalarga;1
+201012;08638 - Sabanalarga;1
+201010;08685 - Santo Tomás;1
+201002;08758 - Soledad;1
+201003;08758 - Soledad;3
+201004;08758 - Soledad;1
+201005;08758 - Soledad;2
+201006;08758 - Soledad;1
+201007;08758 - Soledad;1
+201008;08758 - Soledad;2
+201010;08758 - Soledad;1
+201011;08758 - Soledad;1
+201012;08758 - Soledad;2
+201001;08832 - Tubará;1
+201001;11001 - Bogotá, D.C.;266
+201002;11001 - Bogotá, D.C.;299
+201003;11001 - Bogotá, D.C.;339
+201004;11001 - Bogotá, D.C.;331
+201005;11001 - Bogotá, D.C.;324
+201006;11001 - Bogotá, D.C.;316
+201007;11001 - Bogotá, D.C.;326
+201008;11001 - Bogotá, D.C.;248
+201009;11001 - Bogotá, D.C.;276
+201010;11001 - Bogotá, D.C.;216
+201011;11001 - Bogotá, D.C.;241
+201012;11001 - Bogotá, D.C.;191
+201001;13001 - Cartagena;37
+201002;13001 - Cartagena;28
+201003;13001 - Cartagena;11
+201004;13001 - Cartagena;15
+201005;13001 - Cartagena;3
+201006;13001 - Cartagena;11
+201007;13001 - Cartagena;19
+201008;13001 - Cartagena;18
+201009;13001 - Cartagena;20
+201010;13001 - Cartagena;18
+201011;13001 - Cartagena;13
+201012;13001 - Cartagena;25
+201012;13052 - Arjona;1
+201002;13244 - El Carmen De Bolívar;1
+201001;13430 - Magangué;1
+201007;13430 - Magangué;1
+201011;13654 - San Jacinto;1
+201005;13657 - San Juan Nepomuceno;1
+201003;13836 - Turbaco;1
+201004;13836 - Turbaco;1
+201005;13836 - Turbaco;2
+201001;15001 - Tunja;37
+201002;15001 - Tunja;36
+201003;15001 - Tunja;41
+201004;15001 - Tunja;49
+201005;15001 - Tunja;59
+201006;15001 - Tunja;60
+201007;15001 - Tunja;60
+201008;15001 - Tunja;55
+201009;15001 - Tunja;68
+201010;15001 - Tunja;33
+201011;15001 - Tunja;20
+201012;15001 - Tunja;11
+201005;15176 - Chiquinquirá;2
+201009;15176 - Chiquinquirá;1
+201010;15176 - Chiquinquirá;1
+201012;15176 - Chiquinquirá;1
+201001;15238 - Duitama;4
+201002;15238 - Duitama;4
+201003;15238 - Duitama;4
+201004;15238 - Duitama;6
+201005;15238 - Duitama;12
+201006;15238 - Duitama;14
+201007;15238 - Duitama;25
+201008;15238 - Duitama;9
+201009;15238 - Duitama;4
+201010;15238 - Duitama;2
+201011;15238 - Duitama;4
+201012;15238 - Duitama;5
+201012;15293 - Gachantivá;1
+201007;15299 - Garagoa;2
+201008;15299 - Garagoa;1
+201002;15322 - Guateque;1
+201005;15322 - Guateque;1
+201006;15322 - Guateque;1
+201007;15322 - Guateque;1
+201002;15469 - Moniquirá;1
+201001;15516 - Paipa;2
+201003;15516 - Paipa;1
+201004;15516 - Paipa;1
+201007;15516 - Paipa;1
+201008;15516 - Paipa;2
+201009;15516 - Paipa;1
+201008;15572 - Puerto Boyacá;1
+201010;15572 - Puerto Boyacá;1
+201007;15646 - Samacá;1
+201004;15753 - Soatá;1
+201010;15755 - Socotá;1
+201001;15759 - Sogamoso;4
+201002;15759 - Sogamoso;2
+201003;15759 - Sogamoso;2
+201004;15759 - Sogamoso;4
+201005;15759 - Sogamoso;6
+201006;15759 - Sogamoso;2
+201007;15759 - Sogamoso;3
+201008;15759 - Sogamoso;7
+201009;15759 - Sogamoso;2
+201010;15759 - Sogamoso;1
+201011;15759 - Sogamoso;3
+201012;15759 - Sogamoso;2
+201008;15776 - Sutamarchán;1
+201003;15804 - Tibaná;1
+201003;15837 - Tuta;1
+201006;15837 - Tuta;1
+201007;15861 - Ventaquemada;1
+201001;17001 - Manizales;10
+201002;17001 - Manizales;10
+201003;17001 - Manizales;10
+201004;17001 - Manizales;10
+201005;17001 - Manizales;12
+201006;17001 - Manizales;11
+201007;17001 - Manizales;10
+201008;17001 - Manizales;6
+201009;17001 - Manizales;13
+201010;17001 - Manizales;4
+201011;17001 - Manizales;9
+201012;17001 - Manizales;8
+201006;17013 - Aguadas;1
+201008;17013 - Aguadas;1
+201011;17013 - Aguadas;1
+201012;17013 - Aguadas;1
+201007;17088 - Belalcázar;1
+201002;17174 - Chinchiná;1
+201009;17174 - Chinchiná;1
+201010;17174 - Chinchiná;1
+201007;17433 - Manzanares;1
+201009;17444 - Marquetalia;2
+201001;17513 - Pácora;1
+201002;17513 - Pácora;1
+201003;17513 - Pácora;1
+201005;17541 - Pensilvania;1
+201007;17541 - Pensilvania;1
+201012;17777 - Supía;1
+201001;18001 - Florencia;2
+201002;18001 - Florencia;3
+201003;18001 - Florencia;4
+201004;18001 - Florencia;2
+201005;18001 - Florencia;5
+201006;18001 - Florencia;5
+201007;18001 - Florencia;4
+201008;18001 - Florencia;6
+201009;18001 - Florencia;3
+201010;18001 - Florencia;2
+201011;18001 - Florencia;3
+201012;18001 - Florencia;5
+201005;18094 - Belén De Los Andaquies;1
+201001;18150 - Cartagena Del Chairá;1
+201009;18247 - El Doncello;1
+201012;18592 - Puerto Rico;1
+201002;18610 - San José Del Fragua;1
+201001;19001 - Popayán;21
+201002;19001 - Popayán;23
+201003;19001 - Popayán;28
+201004;19001 - Popayán;19
+201005;19001 - Popayán;21
+201006;19001 - Popayán;15
+201007;19001 - Popayán;8
+201008;19001 - Popayán;15
+201009;19001 - Popayán;12
+201010;19001 - Popayán;19
+201011;19001 - Popayán;16
+201012;19001 - Popayán;17
+201008;19050 - Argelia;2
+201007;19100 - Bolívar;1
+201003;19110 - Buenos Aires;1
+201012;19110 - Buenos Aires;1
+201009;19130 - Cajibío;1
+201009;19142 - Caloto;1
+201011;19142 - Caloto;2
+201002;19256 - El Tambo;1
+201008;19256 - El Tambo;1
+201009;19290 - Florencia;1
+201012;19397 - La Vega;1
+201001;19450 - Mercaderes;1
+201009;19450 - Mercaderes;1
+201003;19455 - Miranda;1
+201006;19455 - Miranda;1
+201002;19473 - Morales;1
+201008;19473 - Morales;1
+201010;19473 - Morales;1
+201011;19473 - Morales;1
+201012;19473 - Morales;1
+201012;19513 - Padilla;1
+201003;19517 - Paez;1
+201004;19532 - Patía;2
+201005;19532 - Patía;2
+201007;19532 - Patía;2
+201008;19532 - Patía;1
+201010;19532 - Patía;1
+201012;19532 - Patía;3
+201004;19548 - Piendamó;1
+201005;19548 - Piendamó;1
+201006;19548 - Piendamó;1
+201010;19548 - Piendamó;1
+201012;19548 - Piendamó;1
+201004;19573 - Puerto Tejada;1
+201005;19573 - Puerto Tejada;1
+201007;19573 - Puerto Tejada;2
+201008;19573 - Puerto Tejada;1
+201011;19573 - Puerto Tejada;1
+201009;19585 - Puracé;1
+201001;19698 - Santander De Quilichao;2
+201002;19698 - Santander De Quilichao;1
+201003;19698 - Santander De Quilichao;5
+201004;19698 - Santander De Quilichao;1
+201005;19698 - Santander De Quilichao;3
+201006;19698 - Santander De Quilichao;1
+201008;19698 - Santander De Quilichao;3
+201010;19698 - Santander De Quilichao;1
+201009;19760 - Sotara;1
+201008;19780 - Suárez;1
+201009;19780 - Suárez;1
+201011;19780 - Suárez;1
+201005;19807 - Timbío;1
+201007;19807 - Timbío;1
+201008;19807 - Timbío;1
+201012;19807 - Timbío;1
+201009;19821 - Toribio;1
+201003;19824 - Totoró;1
+201009;19824 - Totoró;1
+201004;19845 - Villa Rica;1
+201007;19845 - Villa Rica;1
+201001;20001 - Valledupar;2
+201002;20001 - Valledupar;4
+201003;20001 - Valledupar;1
+201004;20001 - Valledupar;3
+201005;20001 - Valledupar;2
+201006;20001 - Valledupar;4
+201007;20001 - Valledupar;2
+201008;20001 - Valledupar;2
+201009;20001 - Valledupar;2
+201010;20001 - Valledupar;1
+201011;20001 - Valledupar;5
+201012;20001 - Valledupar;3
+201003;20011 - Aguachica;1
+201007;20011 - Aguachica;1
+201004;20238 - El Copey;1
+201004;20383 - La Gloria;1
+201005;20383 - La Gloria;1
+201007;20383 - La Gloria;1
+201001;23001 - Montería;2
+201002;23001 - Montería;3
+201003;23001 - Montería;5
+201004;23001 - Montería;20
+201005;23001 - Montería;21
+201006;23001 - Montería;24
+201007;23001 - Montería;33
+201008;23001 - Montería;19
+201009;23001 - Montería;21
+201010;23001 - Montería;19
+201011;23001 - Montería;8
+201012;23001 - Montería;10
+201006;23068 - Ayapel;1
+201007;23162 - Cereté;1
+201011;23162 - Cereté;1
+201003;23189 - Ciénaga De Oro;1
+201007;23417 - Lorica;1
+201008;23417 - Lorica;1
+201004;23500 - Moñitos;1
+201006;23555 - Planeta Rica;1
+201007;23555 - Planeta Rica;1
+201010;23660 - Sahagún;3
+201012;25001 - Agua De Dios;1
+201006;25053 - Arbeláez;1
+201012;25053 - Arbeláez;1
+201006;25151 - Caqueza;2
+201003;25154 - Carmen De Carupa;1
+201001;25175 - Chía;3
+201002;25175 - Chía;4
+201003;25175 - Chía;2
+201004;25175 - Chía;5
+201005;25175 - Chía;5
+201006;25175 - Chía;3
+201008;25175 - Chía;2
+201009;25175 - Chía;4
+201010;25175 - Chía;5
+201011;25175 - Chía;3
+201012;25175 - Chía;4
+201001;25183 - Chocontá;1
+201002;25183 - Chocontá;1
+201005;25183 - Chocontá;1
+201008;25183 - Chocontá;1
+201009;25183 - Chocontá;2
+201006;25260 - El Rosal;1
+201001;25269 - Facatativá;1
+201002;25269 - Facatativá;1
+201003;25269 - Facatativá;3
+201004;25269 - Facatativá;1
+201005;25269 - Facatativá;2
+201007;25269 - Facatativá;2
+201008;25269 - Facatativá;2
+201009;25269 - Facatativá;1
+201007;25279 - Fomeque;1
+201006;25286 - Funza;1
+201007;25286 - Funza;1
+201003;25290 - Fusagasugá;2
+201007;25290 - Fusagasugá;1
+201008;25290 - Fusagasugá;1
+201009;25290 - Fusagasugá;3
+201010;25290 - Fusagasugá;1
+201011;25290 - Fusagasugá;2
+201012;25290 - Fusagasugá;1
+201001;25307 - Girardot;2
+201003;25307 - Girardot;8
+201004;25307 - Girardot;4
+201005;25307 - Girardot;1
+201006;25307 - Girardot;7
+201007;25307 - Girardot;2
+201008;25307 - Girardot;4
+201009;25307 - Girardot;5
+201011;25307 - Girardot;4
+201012;25307 - Girardot;1
+201001;25320 - Guaduas;4
+201002;25320 - Guaduas;1
+201004;25320 - Guaduas;1
+201005;25320 - Guaduas;2
+201008;25322 - Guasca;1
+201004;25386 - La Mesa;1
+201012;25386 - La Mesa;1
+201004;25394 - La Palma;1
+201001;25430 - Madrid;2
+201006;25430 - Madrid;1
+201010;25430 - Madrid;2
+201011;25430 - Madrid;1
+201003;25473 - Mosquera;1
+201004;25572 - Puerto Salgar;1
+201001;25645 - San Antonio Del Tequendama;1
+201011;25645 - San Antonio Del Tequendama;1
+201009;25718 - Sasaima;1
+201001;25754 - Soacha;1
+201002;25754 - Soacha;4
+201003;25754 - Soacha;3
+201004;25754 - Soacha;1
+201005;25754 - Soacha;3
+201006;25754 - Soacha;2
+201008;25754 - Soacha;2
+201010;25754 - Soacha;4
+201011;25754 - Soacha;2
+201012;25754 - Soacha;3
+201012;25772 - Suesca;1
+201010;25817 - Tocancipá;1
+201005;25862 - Vergara;1
+201003;25875 - Villeta;1
+201007;25875 - Villeta;1
+201001;25899 - Zipaquirá;4
+201003;25899 - Zipaquirá;3
+201004;25899 - Zipaquirá;3
+201005;25899 - Zipaquirá;1
+201006;25899 - Zipaquirá;1
+201007;25899 - Zipaquirá;1
+201009;25899 - Zipaquirá;2
+201011;25899 - Zipaquirá;1
+201012;25899 - Zipaquirá;1
+201004;27001 - Quibdó;1
+201006;27001 - Quibdó;1
+201007;27001 - Quibdó;1
+201011;27001 - Quibdó;1
+201010;27205 - Condoto;1
+201001;41001 - Neiva;12
+201002;41001 - Neiva;10
+201003;41001 - Neiva;6
+201004;41001 - Neiva;16
+201005;41001 - Neiva;14
+201006;41001 - Neiva;5
+201007;41001 - Neiva;25
+201008;41001 - Neiva;24
+201009;41001 - Neiva;26
+201010;41001 - Neiva;17
+201011;41001 - Neiva;17
+201012;41001 - Neiva;12
+201005;41016 - Aipe;1
+201006;41020 - Algeciras;1
+201003;41078 - Baraya;1
+201011;41132 - Campoalegre;1
+201002;41298 - Garzón;2
+201008;41298 - Garzón;4
+201011;41298 - Garzón;2
+201012;41298 - Garzón;2
+201005;41306 - Gigante;1
+201007;41306 - Gigante;1
+201012;41359 - Isnos;1
+201003;41396 - La Plata;1
+201004;41396 - La Plata;1
+201007;41396 - La Plata;2
+201009;41396 - La Plata;1
+201011;41548 - Pital;1
+201001;41551 - Pitalito;1
+201004;41551 - Pitalito;2
+201005;41551 - Pitalito;3
+201007;41551 - Pitalito;1
+201009;41551 - Pitalito;1
+201012;41551 - Pitalito;2
+201003;41668 - San Agustín;1
+201004;41668 - San Agustín;1
+201007;41668 - San Agustín;1
+201008;41668 - San Agustín;1
+201004;41770 - Suaza;1
+201005;41791 - Tarqui;1
+201006;41791 - Tarqui;1
+201012;41791 - Tarqui;1
+201001;41807 - Timaná;1
+201005;41807 - Timaná;1
+201011;41807 - Timaná;1
+201001;44001 - Riohacha;1
+201004;44001 - Riohacha;2
+201007;44001 - Riohacha;1
+201009;44001 - Riohacha;2
+201011;44001 - Riohacha;2
+201012;44001 - Riohacha;1
+201009;44430 - Maicao;1
+201011;44560 - Manaure;1
+201001;44650 - San Juan Del Cesar;1
+201001;47001 - Santa Marta;8
+201002;47001 - Santa Marta;2
+201003;47001 - Santa Marta;7
+201004;47001 - Santa Marta;19
+201005;47001 - Santa Marta;13
+201006;47001 - Santa Marta;15
+201007;47001 - Santa Marta;9
+201008;47001 - Santa Marta;11
+201009;47001 - Santa Marta;18
+201010;47001 - Santa Marta;8
+201011;47001 - Santa Marta;6
+201012;47001 - Santa Marta;5
+201003;47058 - Ariguaní;1
+201002;47189 - Ciénaga;1
+201007;47189 - Ciénaga;1
+201004;47245 - El Banco;1
+201005;47245 - El Banco;1
+201006;47245 - El Banco;1
+201007;47245 - El Banco;2
+201008;47245 - El Banco;2
+201009;47245 - El Banco;1
+201011;47245 - El Banco;1
+201008;47288 - Fundación;1
+201009;47288 - Fundación;1
+201002;47570 - Puebloviejo;1
+201006;47980 - Zona Bananera;1
+201001;50001 - Villavicencio;6
+201002;50001 - Villavicencio;12
+201003;50001 - Villavicencio;9
+201004;50001 - Villavicencio;11
+201005;50001 - Villavicencio;6
+201006;50001 - Villavicencio;11
+201007;50001 - Villavicencio;21
+201008;50001 - Villavicencio;17
+201009;50001 - Villavicencio;14
+201010;50001 - Villavicencio;11
+201011;50001 - Villavicencio;6
+201012;50001 - Villavicencio;2
+201006;50006 - Acacías;1
+201008;50006 - Acacías;1
+201001;50313 - Granada;2
+201002;50313 - Granada;2
+201005;50313 - Granada;1
+201006;50313 - Granada;1
+201007;50313 - Granada;1
+201008;50313 - Granada;3
+201009;50313 - Granada;2
+201010;50313 - Granada;1
+201011;50313 - Granada;2
+201012;50313 - Granada;3
+201008;50400 - Lejanías;1
+201007;50606 - Restrepo;1
+201001;52001 - Pasto;34
+201002;52001 - Pasto;7
+201003;52001 - Pasto;11
+201004;52001 - Pasto;8
+201005;52001 - Pasto;10
+201006;52001 - Pasto;7
+201007;52001 - Pasto;23
+201008;52001 - Pasto;17
+201009;52001 - Pasto;16
+201010;52001 - Pasto;17
+201011;52001 - Pasto;5
+201012;52001 - Pasto;12
+201004;52110 - Buesaco;1
+201010;52210 - Contadero;1
+201003;52224 - Cuaspud;1
+201011;52240 - Chachagüí;1
+201012;52240 - Chachagüí;1
+201001;52250 - El Charco;2
+201007;52250 - El Charco;1
+201006;52254 - El Peñol;2
+201011;52254 - El Peñol;1
+201003;52287 - Funes;1
+201006;52287 - Funes;1
+201001;52356 - Ipiales;3
+201005;52356 - Ipiales;1
+201006;52356 - Ipiales;1
+201007;52356 - Ipiales;2
+201008;52356 - Ipiales;1
+201009;52356 - Ipiales;2
+201010;52356 - Ipiales;2
+201012;52378 - La Cruz;1
+201009;52399 - La Unión;1
+201002;52405 - Leiva;1
+201009;52405 - Leiva;1
+201008;52565 - Providencia;1
+201009;52585 - Pupiales;1
+201001;52683 - Sandoná;1
+201006;52683 - Sandoná;1
+201011;52683 - Sandoná;1
+201012;52699 - Santacruz;1
+201001;52835 - San Andres De Tumaco;1
+201004;52835 - San Andres De Tumaco;1
+201005;52835 - San Andres De Tumaco;1
+201006;52835 - San Andres De Tumaco;1
+201007;52835 - San Andres De Tumaco;1
+201008;52835 - San Andres De Tumaco;1
+201010;52835 - San Andres De Tumaco;1
+201007;52838 - Túquerres;1
+201001;54001 - Cúcuta;8
+201002;54001 - Cúcuta;6
+201003;54001 - Cúcuta;7
+201004;54001 - Cúcuta;21
+201005;54001 - Cúcuta;14
+201006;54001 - Cúcuta;22
+201007;54001 - Cúcuta;14
+201008;54001 - Cúcuta;19
+201009;54001 - Cúcuta;21
+201010;54001 - Cúcuta;7
+201011;54001 - Cúcuta;5
+201012;54001 - Cúcuta;3
+201007;54003 - Abrego;2
+201001;54261 - El Zulia;1
+201001;54498 - Ocaña;1
+201002;54498 - Ocaña;1
+201003;54498 - Ocaña;1
+201006;54498 - Ocaña;1
+201009;54498 - Ocaña;1
+201012;54498 - Ocaña;1
+201007;54518 - Pamplona;1
+201008;54518 - Pamplona;1
+201009;54518 - Pamplona;1
+201001;63001 - Armenia;15
+201002;63001 - Armenia;15
+201003;63001 - Armenia;11
+201004;63001 - Armenia;22
+201005;63001 - Armenia;18
+201006;63001 - Armenia;14
+201007;63001 - Armenia;9
+201008;63001 - Armenia;8
+201009;63001 - Armenia;15
+201010;63001 - Armenia;10
+201011;63001 - Armenia;6
+201012;63001 - Armenia;6
+201002;63130 - Calarca;1
+201003;63130 - Calarca;1
+201004;63130 - Calarca;1
+201005;63130 - Calarca;1
+201005;63190 - Circasia;1
+201011;63190 - Circasia;1
+201005;63470 - Montenegro;1
+201003;63594 - Quimbaya;1
+201001;66001 - Pereira;23
+201002;66001 - Pereira;23
+201003;66001 - Pereira;20
+201004;66001 - Pereira;20
+201005;66001 - Pereira;45
+201006;66001 - Pereira;51
+201007;66001 - Pereira;42
+201008;66001 - Pereira;44
+201009;66001 - Pereira;38
+201010;66001 - Pereira;11
+201011;66001 - Pereira;12
+201012;66001 - Pereira;17
+201003;66075 - Balboa;1
+201007;66088 - Belén De Umbría;1
+201008;66088 - Belén De Umbría;1
+201012;66088 - Belén De Umbría;1
+201001;66170 - Dosquebradas;3
+201004;66170 - Dosquebradas;1
+201005;66170 - Dosquebradas;1
+201006;66170 - Dosquebradas;1
+201007;66170 - Dosquebradas;2
+201009;66170 - Dosquebradas;4
+201010;66170 - Dosquebradas;2
+201011;66170 - Dosquebradas;2
+201006;66440 - Marsella;1
+201006;66594 - Quinchía;1
+201001;66682 - Santa Rosa De Cabal;2
+201008;66682 - Santa Rosa De Cabal;1
+201009;66682 - Santa Rosa De Cabal;3
+201011;66682 - Santa Rosa De Cabal;1
+201003;66687 - Santuario;1
+201007;66687 - Santuario;1
+201001;68001 - Bucaramanga;21
+201002;68001 - Bucaramanga;18
+201003;68001 - Bucaramanga;21
+201004;68001 - Bucaramanga;20
+201005;68001 - Bucaramanga;20
+201006;68001 - Bucaramanga;17
+201007;68001 - Bucaramanga;22
+201008;68001 - Bucaramanga;15
+201009;68001 - Bucaramanga;14
+201010;68001 - Bucaramanga;17
+201011;68001 - Bucaramanga;11
+201012;68001 - Bucaramanga;6
+201002;68081 - Barrancabermeja;1
+201003;68081 - Barrancabermeja;1
+201004;68081 - Barrancabermeja;1
+201005;68081 - Barrancabermeja;4
+201006;68081 - Barrancabermeja;1
+201007;68081 - Barrancabermeja;2
+201009;68081 - Barrancabermeja;1
+201011;68081 - Barrancabermeja;1
+201012;68081 - Barrancabermeja;2
+201012;68162 - Cerrito;1
+201005;68167 - Charalá;1
+201004;68190 - Cimitarra;2
+201006;68235 - El Carmen De Chucurí;1
+201007;68271 - Florián;1
+201001;68276 - Floridablanca;31
+201002;68276 - Floridablanca;22
+201003;68276 - Floridablanca;13
+201004;68276 - Floridablanca;26
+201005;68276 - Floridablanca;20
+201006;68276 - Floridablanca;4
+201007;68276 - Floridablanca;8
+201008;68276 - Floridablanca;18
+201009;68276 - Floridablanca;5
+201010;68276 - Floridablanca;13
+201011;68276 - Floridablanca;19
+201012;68276 - Floridablanca;30
+201003;68406 - Lebríja;1
+201004;68406 - Lebríja;3
+201005;68406 - Lebríja;1
+201009;68406 - Lebríja;1
+201002;68418 - Los Santos;1
+201002;68432 - Málaga;1
+201004;68432 - Málaga;1
+201005;68432 - Málaga;1
+201007;68432 - Málaga;2
+201009;68432 - Málaga;2
+201004;68464 - Mogotes;1
+201005;68533 - Páramo;1
+201005;68547 - Piedecuesta;1
+201008;68547 - Piedecuesta;1
+201003;68655 - Sabana De Torres;1
+201009;68655 - Sabana De Torres;1
+201007;68669 - San Andrés;1
+201009;68669 - San Andrés;1
+201005;68679 - San Gil;4
+201009;68745 - Simacota;1
+201003;68755 - Socorro;1
+201004;68755 - Socorro;1
+201006;68755 - Socorro;2
+201007;68755 - Socorro;1
+201008;68755 - Socorro;1
+201004;68770 - Suaita;1
+201006;68770 - Suaita;1
+201001;70001 - Sincelejo;5
+201002;70001 - Sincelejo;4
+201003;70001 - Sincelejo;4
+201004;70001 - Sincelejo;3
+201005;70001 - Sincelejo;4
+201006;70001 - Sincelejo;4
+201007;70001 - Sincelejo;3
+201008;70001 - Sincelejo;5
+201009;70001 - Sincelejo;7
+201010;70001 - Sincelejo;3
+201011;70001 - Sincelejo;1
+201012;70001 - Sincelejo;5
+201010;70124 - Caimito;1
+201002;70215 - Corozal;1
+201009;70429 - Majagual;1
+201006;70708 - San Marcos;1
+201010;70708 - San Marcos;1
+201001;73001 - Ibagué;21
+201002;73001 - Ibagué;15
+201003;73001 - Ibagué;15
+201004;73001 - Ibagué;20
+201005;73001 - Ibagué;17
+201006;73001 - Ibagué;21
+201007;73001 - Ibagué;21
+201008;73001 - Ibagué;15
+201009;73001 - Ibagué;18
+201010;73001 - Ibagué;22
+201011;73001 - Ibagué;24
+201012;73001 - Ibagué;14
+201002;73055 - Armero;1
+201002;73067 - Ataco;1
+201002;73124 - Cajamarca;1
+201001;73168 - Chaparral;1
+201003;73168 - Chaparral;2
+201008;73168 - Chaparral;1
+201009;73168 - Chaparral;1
+201011;73168 - Chaparral;1
+201001;73268 - Espinal;1
+201002;73268 - Espinal;3
+201003;73268 - Espinal;4
+201004;73268 - Espinal;2
+201005;73268 - Espinal;1
+201006;73268 - Espinal;4
+201007;73268 - Espinal;3
+201008;73268 - Espinal;6
+201009;73268 - Espinal;5
+201010;73268 - Espinal;6
+201011;73268 - Espinal;6
+201001;73319 - Guamo;1
+201003;73349 - Honda;1
+201012;73349 - Honda;2
+201001;73408 - Lérida;5
+201002;73408 - Lérida;3
+201003;73408 - Lérida;2
+201004;73408 - Lérida;1
+201005;73408 - Lérida;7
+201006;73408 - Lérida;5
+201007;73408 - Lérida;3
+201008;73408 - Lérida;2
+201009;73408 - Lérida;6
+201010;73408 - Lérida;3
+201011;73408 - Lérida;2
+201012;73408 - Lérida;3
+201004;73411 - Líbano;1
+201007;73411 - Líbano;1
+201012;73411 - Líbano;1
+201001;73443 - Mariquita;1
+201004;73443 - Mariquita;1
+201006;73443 - Mariquita;1
+201009;73443 - Mariquita;1
+201011;73443 - Mariquita;1
+201012;73443 - Mariquita;2
+201002;73449 - Melgar;1
+201006;73449 - Melgar;1
+201009;73449 - Melgar;1
+201010;73461 - Murillo;1
+201001;73520 - Palocabildo;1
+201005;73520 - Palocabildo;1
+201004;73555 - Planadas;1
+201002;73585 - Purificación;1
+201005;73585 - Purificación;1
+201008;73585 - Purificación;1
+201001;73675 - San Antonio;1
+201008;73770 - Suárez;1
+201010;73870 - Villahermosa;1
+201001;76001 - Cali;73
+201002;76001 - Cali;93
+201003;76001 - Cali;93
+201004;76001 - Cali;124
+201005;76001 - Cali;97
+201006;76001 - Cali;72
+201007;76001 - Cali;72
+201008;76001 - Cali;55
+201009;76001 - Cali;63
+201010;76001 - Cali;127
+201011;76001 - Cali;39
+201012;76001 - Cali;55
+201001;76109 - Buenaventura;2
+201002;76109 - Buenaventura;1
+201003;76109 - Buenaventura;1
+201004;76109 - Buenaventura;1
+201005;76109 - Buenaventura;1
+201006;76109 - Buenaventura;1
+201007;76109 - Buenaventura;1
+201008;76109 - Buenaventura;1
+201009;76109 - Buenaventura;2
+201010;76109 - Buenaventura;1
+201012;76109 - Buenaventura;3
+201002;76111 - Guadalajara De Buga;1
+201005;76111 - Guadalajara De Buga;2
+201008;76111 - Guadalajara De Buga;1
+201009;76111 - Guadalajara De Buga;1
+201010;76111 - Guadalajara De Buga;1
+201011;76111 - Guadalajara De Buga;1
+201001;76113 - Bugalagrande;1
+201005;76113 - Bugalagrande;1
+201005;76122 - Caicedonia;2
+201009;76130 - Candelaria;1
+201001;76147 - Cartago;1
+201003;76147 - Cartago;1
+201004;76147 - Cartago;4
+201005;76147 - Cartago;1
+201006;76147 - Cartago;4
+201007;76147 - Cartago;3
+201008;76147 - Cartago;4
+201009;76147 - Cartago;2
+201001;76233 - Dagua;1
+201002;76233 - Dagua;1
+201005;76233 - Dagua;1
+201001;76243 - El Águila;1
+201002;76243 - El Águila;1
+201006;76248 - El Cerrito;1
+201001;76275 - Florida;1
+201003;76306 - Ginebra;1
+201011;76306 - Ginebra;1
+201012;76306 - Ginebra;1
+201009;76318 - Guacarí;1
+201002;76364 - Jamundí;1
+201003;76364 - Jamundí;1
+201005;76364 - Jamundí;2
+201008;76364 - Jamundí;1
+201010;76364 - Jamundí;1
+201012;76364 - Jamundí;1
+201005;76400 - La Unión;1
+201002;76520 - Palmira;2
+201003;76520 - Palmira;3
+201004;76520 - Palmira;3
+201007;76520 - Palmira;2
+201008;76520 - Palmira;9
+201009;76520 - Palmira;5
+201010;76520 - Palmira;6
+201011;76520 - Palmira;6
+201012;76520 - Palmira;2
+201009;76616 - Riofrío;1
+201006;76670 - San Pedro;1
+201001;76736 - Sevilla;5
+201008;76736 - Sevilla;1
+201012;76736 - Sevilla;1
+201010;76828 - Trujillo;1
+201001;76834 - Tuluá;5
+201002;76834 - Tuluá;5
+201003;76834 - Tuluá;6
+201004;76834 - Tuluá;8
+201005;76834 - Tuluá;7
+201006;76834 - Tuluá;6
+201007;76834 - Tuluá;7
+201008;76834 - Tuluá;10
+201009;76834 - Tuluá;4
+201010;76834 - Tuluá;7
+201011;76834 - Tuluá;8
+201012;76834 - Tuluá;8
+201004;76892 - Yumbo;1
+201005;76892 - Yumbo;3
+201008;76892 - Yumbo;1
+201012;76892 - Yumbo;1
+201001;76895 - Zarzal;1
+201002;76895 - Zarzal;5
+201003;76895 - Zarzal;3
+201004;76895 - Zarzal;3
+201005;76895 - Zarzal;2
+201006;76895 - Zarzal;1
+201011;76895 - Zarzal;1
+201012;76895 - Zarzal;2
+201003;81001 - Arauca;3
+201006;81001 - Arauca;1
+201007;81001 - Arauca;1
+201009;81001 - Arauca;1
+201010;81001 - Arauca;1
+201012;81001 - Arauca;1
+201012;81736 - Saravena;1
+201001;85001 - Yopal;2
+201002;85001 - Yopal;1
+201003;85001 - Yopal;1
+201005;85001 - Yopal;2
+201010;85001 - Yopal;1
+201012;85001 - Yopal;2
+201006;85440 - Villanueva;1
+201007;85440 - Villanueva;1
+201004;86001 - Mocoa;1
+201011;86001 - Mocoa;1
+201002;86568 - Puerto Asís;1
+201003;86568 - Puerto Asís;1
+201004;86568 - Puerto Asís;1
+201010;86568 - Puerto Asís;1
+201006;86569 - Puerto Caicedo;1
+201003;95001 - San José Del Guaviare;1
+201011;95001 - San José Del Guaviare;1
+201001;-1 - No Definido;6
+201002;-1 - No Definido;2
+201003;-1 - No Definido;5
+201004;-1 - No Definido;5
+201005;-1 - No Definido;3
+201006;-1 - No Definido;6
+201007;-1 - No Definido;4
+201008;-1 - No Definido;10
+201009;-1 - No Definido;3
+201010;-1 - No Definido;1
+201011;-1 - No Definido;1
