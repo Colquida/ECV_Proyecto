@@ -1,0 +1,328 @@
+﻿PeriodoNum;Departamento;CantidadPacientes
+201201;05 - Antioquia;246
+201202;05 - Antioquia;245
+201203;05 - Antioquia;240
+201204;05 - Antioquia;237
+201205;05 - Antioquia;238
+201206;05 - Antioquia;204
+201207;05 - Antioquia;203
+201208;05 - Antioquia;248
+201209;05 - Antioquia;262
+201210;05 - Antioquia;306
+201211;05 - Antioquia;195
+201212;05 - Antioquia;153
+201201;08 - Atlántico;37
+201202;08 - Atlántico;53
+201203;08 - Atlántico;41
+201204;08 - Atlántico;37
+201205;08 - Atlántico;55
+201206;08 - Atlántico;35
+201207;08 - Atlántico;39
+201208;08 - Atlántico;37
+201209;08 - Atlántico;47
+201210;08 - Atlántico;43
+201211;08 - Atlántico;36
+201212;08 - Atlántico;36
+201201;11 - Bogotá, D.C.;399
+201202;11 - Bogotá, D.C.;361
+201203;11 - Bogotá, D.C.;396
+201204;11 - Bogotá, D.C.;407
+201205;11 - Bogotá, D.C.;464
+201206;11 - Bogotá, D.C.;380
+201207;11 - Bogotá, D.C.;408
+201208;11 - Bogotá, D.C.;422
+201209;11 - Bogotá, D.C.;367
+201210;11 - Bogotá, D.C.;383
+201211;11 - Bogotá, D.C.;366
+201212;11 - Bogotá, D.C.;377
+201201;13 - Bolívar;63
+201202;13 - Bolívar;40
+201203;13 - Bolívar;45
+201204;13 - Bolívar;54
+201205;13 - Bolívar;55
+201206;13 - Bolívar;42
+201207;13 - Bolívar;46
+201208;13 - Bolívar;28
+201209;13 - Bolívar;19
+201210;13 - Bolívar;44
+201211;13 - Bolívar;41
+201212;13 - Bolívar;28
+201201;15 - Boyacá;70
+201202;15 - Boyacá;75
+201203;15 - Boyacá;68
+201204;15 - Boyacá;63
+201205;15 - Boyacá;95
+201206;15 - Boyacá;55
+201207;15 - Boyacá;58
+201208;15 - Boyacá;56
+201209;15 - Boyacá;67
+201210;15 - Boyacá;57
+201211;15 - Boyacá;45
+201212;15 - Boyacá;47
+201201;17 - Caldas;28
+201202;17 - Caldas;24
+201203;17 - Caldas;30
+201204;17 - Caldas;17
+201205;17 - Caldas;9
+201206;17 - Caldas;16
+201207;17 - Caldas;16
+201208;17 - Caldas;11
+201209;17 - Caldas;14
+201210;17 - Caldas;16
+201211;17 - Caldas;16
+201212;17 - Caldas;17
+201201;18 - Caquetá;5
+201202;18 - Caquetá;9
+201203;18 - Caquetá;6
+201204;18 - Caquetá;6
+201205;18 - Caquetá;7
+201206;18 - Caquetá;8
+201207;18 - Caquetá;10
+201208;18 - Caquetá;6
+201209;18 - Caquetá;16
+201210;18 - Caquetá;11
+201211;18 - Caquetá;10
+201212;18 - Caquetá;6
+201201;19 - Cauca;43
+201202;19 - Cauca;47
+201203;19 - Cauca;70
+201204;19 - Cauca;56
+201205;19 - Cauca;59
+201206;19 - Cauca;53
+201207;19 - Cauca;72
+201208;19 - Cauca;60
+201209;19 - Cauca;73
+201210;19 - Cauca;71
+201211;19 - Cauca;60
+201212;19 - Cauca;78
+201201;20 - Cesar;11
+201202;20 - Cesar;11
+201203;20 - Cesar;6
+201204;20 - Cesar;3
+201205;20 - Cesar;9
+201206;20 - Cesar;7
+201207;20 - Cesar;2
+201208;20 - Cesar;1
+201209;20 - Cesar;3
+201210;20 - Cesar;5
+201211;20 - Cesar;12
+201212;20 - Cesar;7
+201201;23 - Córdoba;49
+201202;23 - Córdoba;47
+201203;23 - Córdoba;33
+201204;23 - Córdoba;30
+201205;23 - Córdoba;43
+201206;23 - Córdoba;39
+201207;23 - Córdoba;33
+201208;23 - Córdoba;27
+201209;23 - Córdoba;26
+201210;23 - Córdoba;35
+201211;23 - Córdoba;36
+201212;23 - Córdoba;35
+201201;25 - Cundinamarca;40
+201202;25 - Cundinamarca;38
+201203;25 - Cundinamarca;45
+201204;25 - Cundinamarca;32
+201205;25 - Cundinamarca;37
+201206;25 - Cundinamarca;23
+201207;25 - Cundinamarca;35
+201208;25 - Cundinamarca;44
+201209;25 - Cundinamarca;29
+201210;25 - Cundinamarca;29
+201211;25 - Cundinamarca;26
+201212;25 - Cundinamarca;21
+201202;27 - Chocó;1
+201203;27 - Chocó;1
+201205;27 - Chocó;3
+201206;27 - Chocó;1
+201210;27 - Chocó;2
+201212;27 - Chocó;1
+201201;41 - Huila;46
+201202;41 - Huila;42
+201203;41 - Huila;45
+201204;41 - Huila;51
+201205;41 - Huila;43
+201206;41 - Huila;19
+201207;41 - Huila;29
+201208;41 - Huila;30
+201209;41 - Huila;27
+201210;41 - Huila;27
+201211;41 - Huila;20
+201212;41 - Huila;19
+201201;44 - La Guajira;6
+201202;44 - La Guajira;7
+201203;44 - La Guajira;1
+201204;44 - La Guajira;3
+201205;44 - La Guajira;6
+201206;44 - La Guajira;2
+201207;44 - La Guajira;7
+201208;44 - La Guajira;4
+201210;44 - La Guajira;3
+201211;44 - La Guajira;3
+201212;44 - La Guajira;7
+201201;47 - Magdalena;17
+201202;47 - Magdalena;22
+201203;47 - Magdalena;17
+201204;47 - Magdalena;11
+201205;47 - Magdalena;19
+201206;47 - Magdalena;18
+201207;47 - Magdalena;13
+201208;47 - Magdalena;11
+201209;47 - Magdalena;17
+201210;47 - Magdalena;23
+201211;47 - Magdalena;18
+201212;47 - Magdalena;17
+201201;50 - Meta;24
+201202;50 - Meta;12
+201203;50 - Meta;11
+201204;50 - Meta;13
+201205;50 - Meta;20
+201206;50 - Meta;10
+201207;50 - Meta;21
+201208;50 - Meta;18
+201209;50 - Meta;17
+201210;50 - Meta;15
+201211;50 - Meta;19
+201212;50 - Meta;19
+201201;52 - Nariño;39
+201202;52 - Nariño;48
+201203;52 - Nariño;41
+201204;52 - Nariño;39
+201205;52 - Nariño;47
+201206;52 - Nariño;45
+201207;52 - Nariño;33
+201208;52 - Nariño;52
+201209;52 - Nariño;50
+201210;52 - Nariño;48
+201211;52 - Nariño;48
+201212;52 - Nariño;48
+201201;54 - Norte de Santander;36
+201202;54 - Norte de Santander;28
+201203;54 - Norte de Santander;22
+201204;54 - Norte de Santander;12
+201205;54 - Norte de Santander;15
+201206;54 - Norte de Santander;13
+201207;54 - Norte de Santander;19
+201208;54 - Norte de Santander;21
+201209;54 - Norte de Santander;16
+201210;54 - Norte de Santander;27
+201211;54 - Norte de Santander;25
+201212;54 - Norte de Santander;17
+201201;63 - Quindio;16
+201202;63 - Quindio;15
+201203;63 - Quindio;12
+201204;63 - Quindio;15
+201205;63 - Quindio;17
+201206;63 - Quindio;15
+201207;63 - Quindio;16
+201208;63 - Quindio;20
+201209;63 - Quindio;14
+201210;63 - Quindio;13
+201211;63 - Quindio;13
+201212;63 - Quindio;16
+201201;66 - Risaralda;64
+201202;66 - Risaralda;55
+201203;66 - Risaralda;50
+201204;66 - Risaralda;50
+201205;66 - Risaralda;47
+201206;66 - Risaralda;43
+201207;66 - Risaralda;45
+201208;66 - Risaralda;42
+201209;66 - Risaralda;41
+201210;66 - Risaralda;48
+201211;66 - Risaralda;38
+201212;66 - Risaralda;62
+201201;68 - Santander;93
+201202;68 - Santander;44
+201203;68 - Santander;62
+201204;68 - Santander;49
+201205;68 - Santander;62
+201206;68 - Santander;47
+201207;68 - Santander;48
+201208;68 - Santander;40
+201209;68 - Santander;58
+201210;68 - Santander;38
+201211;68 - Santander;39
+201212;68 - Santander;45
+201201;70 - Sucre;9
+201202;70 - Sucre;12
+201203;70 - Sucre;14
+201204;70 - Sucre;16
+201205;70 - Sucre;11
+201206;70 - Sucre;18
+201207;70 - Sucre;6
+201208;70 - Sucre;10
+201209;70 - Sucre;8
+201210;70 - Sucre;12
+201211;70 - Sucre;20
+201212;70 - Sucre;17
+201201;73 - Tolima;36
+201202;73 - Tolima;25
+201203;73 - Tolima;37
+201204;73 - Tolima;18
+201205;73 - Tolima;31
+201206;73 - Tolima;16
+201207;73 - Tolima;28
+201208;73 - Tolima;23
+201209;73 - Tolima;34
+201210;73 - Tolima;28
+201211;73 - Tolima;38
+201212;73 - Tolima;34
+201201;76 - Valle del Cauca;222
+201202;76 - Valle del Cauca;210
+201203;76 - Valle del Cauca;174
+201204;76 - Valle del Cauca;151
+201205;76 - Valle del Cauca;193
+201206;76 - Valle del Cauca;164
+201207;76 - Valle del Cauca;152
+201208;76 - Valle del Cauca;149
+201209;76 - Valle del Cauca;195
+201210;76 - Valle del Cauca;266
+201211;76 - Valle del Cauca;149
+201212;76 - Valle del Cauca;243
+201201;81 - Arauca;5
+201202;81 - Arauca;3
+201203;81 - Arauca;2
+201204;81 - Arauca;5
+201205;81 - Arauca;4
+201206;81 - Arauca;2
+201207;81 - Arauca;4
+201208;81 - Arauca;1
+201210;81 - Arauca;1
+201211;81 - Arauca;6
+201212;81 - Arauca;2
+201201;85 - Casanare;3
+201202;85 - Casanare;2
+201203;85 - Casanare;1
+201205;85 - Casanare;1
+201207;85 - Casanare;1
+201208;85 - Casanare;1
+201209;85 - Casanare;3
+201210;85 - Casanare;3
+201211;85 - Casanare;2
+201212;85 - Casanare;2
+201202;86 - Putumayo;1
+201204;86 - Putumayo;2
+201207;86 - Putumayo;1
+201211;86 - Putumayo;1
+201202;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+201212;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+201201;91 - Amazonas;1
+201202;91 - Amazonas;1
+201210;91 - Amazonas;1
+201201;95 - Guaviare;3
+201202;95 - Guaviare;1
+201203;95 - Guaviare;1
+201204;95 - Guaviare;1
+201201;-1 - NO DEFINIDO;21
+201202;-1 - NO DEFINIDO;14
+201203;-1 - NO DEFINIDO;19
+201204;-1 - NO DEFINIDO;27
+201205;-1 - NO DEFINIDO;25
+201206;-1 - NO DEFINIDO;11
+201207;-1 - NO DEFINIDO;26
+201208;-1 - NO DEFINIDO;20
+201209;-1 - NO DEFINIDO;15
+201210;-1 - NO DEFINIDO;14
+201211;-1 - NO DEFINIDO;25
+201212;-1 - NO DEFINIDO;15

@@ -1,0 +1,326 @@
+﻿PeriodoNum;Departamento;CantidadPacientes
+201101;05 - Antioquia;200
+201102;05 - Antioquia;206
+201103;05 - Antioquia;191
+201104;05 - Antioquia;173
+201105;05 - Antioquia;224
+201106;05 - Antioquia;219
+201107;05 - Antioquia;164
+201108;05 - Antioquia;176
+201109;05 - Antioquia;206
+201110;05 - Antioquia;141
+201111;05 - Antioquia;154
+201112;05 - Antioquia;197
+201101;08 - Atlántico;46
+201102;08 - Atlántico;46
+201103;08 - Atlántico;67
+201104;08 - Atlántico;42
+201105;08 - Atlántico;60
+201106;08 - Atlántico;57
+201107;08 - Atlántico;41
+201108;08 - Atlántico;39
+201109;08 - Atlántico;33
+201110;08 - Atlántico;13
+201111;08 - Atlántico;26
+201112;08 - Atlántico;30
+201101;11 - Bogotá, D.C.;398
+201102;11 - Bogotá, D.C.;417
+201103;11 - Bogotá, D.C.;431
+201104;11 - Bogotá, D.C.;297
+201105;11 - Bogotá, D.C.;430
+201106;11 - Bogotá, D.C.;400
+201107;11 - Bogotá, D.C.;403
+201108;11 - Bogotá, D.C.;397
+201109;11 - Bogotá, D.C.;380
+201110;11 - Bogotá, D.C.;311
+201111;11 - Bogotá, D.C.;351
+201112;11 - Bogotá, D.C.;333
+201101;13 - Bolívar;22
+201102;13 - Bolívar;49
+201103;13 - Bolívar;28
+201104;13 - Bolívar;31
+201105;13 - Bolívar;41
+201106;13 - Bolívar;29
+201107;13 - Bolívar;30
+201108;13 - Bolívar;30
+201109;13 - Bolívar;34
+201110;13 - Bolívar;32
+201111;13 - Bolívar;35
+201112;13 - Bolívar;39
+201101;15 - Boyacá;71
+201102;15 - Boyacá;75
+201103;15 - Boyacá;78
+201104;15 - Boyacá;54
+201105;15 - Boyacá;79
+201106;15 - Boyacá;68
+201107;15 - Boyacá;67
+201108;15 - Boyacá;59
+201109;15 - Boyacá;65
+201110;15 - Boyacá;33
+201111;15 - Boyacá;45
+201112;15 - Boyacá;58
+201101;17 - Caldas;13
+201102;17 - Caldas;21
+201103;17 - Caldas;26
+201104;17 - Caldas;16
+201105;17 - Caldas;22
+201106;17 - Caldas;18
+201107;17 - Caldas;15
+201108;17 - Caldas;13
+201109;17 - Caldas;18
+201110;17 - Caldas;16
+201111;17 - Caldas;17
+201112;17 - Caldas;11
+201101;18 - Caquetá;11
+201102;18 - Caquetá;7
+201103;18 - Caquetá;7
+201104;18 - Caquetá;6
+201105;18 - Caquetá;4
+201106;18 - Caquetá;7
+201107;18 - Caquetá;6
+201108;18 - Caquetá;1
+201109;18 - Caquetá;18
+201110;18 - Caquetá;16
+201111;18 - Caquetá;5
+201112;18 - Caquetá;4
+201101;19 - Cauca;30
+201102;19 - Cauca;42
+201103;19 - Cauca;45
+201104;19 - Cauca;29
+201105;19 - Cauca;40
+201106;19 - Cauca;28
+201107;19 - Cauca;34
+201108;19 - Cauca;35
+201109;19 - Cauca;45
+201110;19 - Cauca;47
+201111;19 - Cauca;32
+201112;19 - Cauca;39
+201101;20 - Cesar;7
+201102;20 - Cesar;4
+201103;20 - Cesar;8
+201104;20 - Cesar;4
+201105;20 - Cesar;7
+201106;20 - Cesar;3
+201107;20 - Cesar;1
+201108;20 - Cesar;5
+201109;20 - Cesar;7
+201110;20 - Cesar;3
+201111;20 - Cesar;8
+201112;20 - Cesar;4
+201101;23 - Córdoba;25
+201102;23 - Córdoba;30
+201103;23 - Córdoba;33
+201104;23 - Córdoba;14
+201105;23 - Córdoba;25
+201106;23 - Córdoba;24
+201107;23 - Córdoba;27
+201108;23 - Córdoba;23
+201109;23 - Córdoba;21
+201110;23 - Córdoba;12
+201111;23 - Córdoba;36
+201112;23 - Córdoba;29
+201101;25 - Cundinamarca;27
+201102;25 - Cundinamarca;39
+201103;25 - Cundinamarca;29
+201104;25 - Cundinamarca;36
+201105;25 - Cundinamarca;42
+201106;25 - Cundinamarca;31
+201107;25 - Cundinamarca;29
+201108;25 - Cundinamarca;34
+201109;25 - Cundinamarca;30
+201110;25 - Cundinamarca;32
+201111;25 - Cundinamarca;32
+201112;25 - Cundinamarca;29
+201102;27 - Chocó;3
+201106;27 - Chocó;1
+201107;27 - Chocó;1
+201108;27 - Chocó;1
+201101;41 - Huila;24
+201102;41 - Huila;27
+201103;41 - Huila;24
+201104;41 - Huila;12
+201105;41 - Huila;12
+201106;41 - Huila;20
+201107;41 - Huila;24
+201108;41 - Huila;39
+201109;41 - Huila;24
+201110;41 - Huila;39
+201111;41 - Huila;30
+201112;41 - Huila;11
+201101;44 - La Guajira;3
+201102;44 - La Guajira;1
+201103;44 - La Guajira;2
+201104;44 - La Guajira;5
+201105;44 - La Guajira;3
+201106;44 - La Guajira;2
+201107;44 - La Guajira;1
+201108;44 - La Guajira;1
+201109;44 - La Guajira;2
+201110;44 - La Guajira;5
+201111;44 - La Guajira;7
+201112;44 - La Guajira;2
+201101;47 - Magdalena;22
+201102;47 - Magdalena;21
+201103;47 - Magdalena;17
+201104;47 - Magdalena;5
+201105;47 - Magdalena;26
+201106;47 - Magdalena;22
+201107;47 - Magdalena;16
+201108;47 - Magdalena;19
+201109;47 - Magdalena;23
+201110;47 - Magdalena;14
+201111;47 - Magdalena;10
+201112;47 - Magdalena;17
+201101;50 - Meta;17
+201102;50 - Meta;23
+201103;50 - Meta;23
+201104;50 - Meta;12
+201105;50 - Meta;22
+201106;50 - Meta;15
+201107;50 - Meta;25
+201108;50 - Meta;25
+201109;50 - Meta;19
+201110;50 - Meta;11
+201111;50 - Meta;11
+201112;50 - Meta;18
+201101;52 - Nariño;83
+201102;52 - Nariño;31
+201103;52 - Nariño;33
+201104;52 - Nariño;17
+201105;52 - Nariño;30
+201106;52 - Nariño;28
+201107;52 - Nariño;41
+201108;52 - Nariño;42
+201109;52 - Nariño;38
+201110;52 - Nariño;21
+201111;52 - Nariño;42
+201112;52 - Nariño;30
+201101;54 - Norte de Santander;30
+201102;54 - Norte de Santander;27
+201103;54 - Norte de Santander;27
+201104;54 - Norte de Santander;13
+201105;54 - Norte de Santander;31
+201106;54 - Norte de Santander;31
+201107;54 - Norte de Santander;23
+201108;54 - Norte de Santander;27
+201109;54 - Norte de Santander;27
+201110;54 - Norte de Santander;9
+201111;54 - Norte de Santander;23
+201112;54 - Norte de Santander;21
+201101;63 - Quindio;16
+201102;63 - Quindio;28
+201103;63 - Quindio;14
+201104;63 - Quindio;11
+201105;63 - Quindio;22
+201106;63 - Quindio;19
+201107;63 - Quindio;17
+201108;63 - Quindio;20
+201109;63 - Quindio;23
+201110;63 - Quindio;11
+201111;63 - Quindio;11
+201112;63 - Quindio;8
+201101;66 - Risaralda;37
+201102;66 - Risaralda;48
+201103;66 - Risaralda;71
+201104;66 - Risaralda;17
+201105;66 - Risaralda;48
+201106;66 - Risaralda;50
+201107;66 - Risaralda;53
+201108;66 - Risaralda;44
+201109;66 - Risaralda;54
+201110;66 - Risaralda;23
+201111;66 - Risaralda;43
+201112;66 - Risaralda;47
+201101;68 - Santander;64
+201102;68 - Santander;64
+201103;68 - Santander;33
+201104;68 - Santander;27
+201105;68 - Santander;48
+201106;68 - Santander;44
+201107;68 - Santander;47
+201108;68 - Santander;65
+201109;68 - Santander;54
+201110;68 - Santander;49
+201111;68 - Santander;42
+201112;68 - Santander;31
+201101;70 - Sucre;11
+201102;70 - Sucre;10
+201103;70 - Sucre;6
+201104;70 - Sucre;3
+201105;70 - Sucre;6
+201106;70 - Sucre;10
+201107;70 - Sucre;5
+201108;70 - Sucre;8
+201109;70 - Sucre;6
+201110;70 - Sucre;8
+201111;70 - Sucre;7
+201112;70 - Sucre;8
+201101;73 - Tolima;44
+201102;73 - Tolima;39
+201103;73 - Tolima;31
+201104;73 - Tolima;21
+201105;73 - Tolima;32
+201106;73 - Tolima;33
+201107;73 - Tolima;33
+201108;73 - Tolima;26
+201109;73 - Tolima;20
+201110;73 - Tolima;23
+201111;73 - Tolima;26
+201112;73 - Tolima;34
+201101;76 - Valle del Cauca;148
+201102;76 - Valle del Cauca;142
+201103;76 - Valle del Cauca;179
+201104;76 - Valle del Cauca;130
+201105;76 - Valle del Cauca;150
+201106;76 - Valle del Cauca;206
+201107;76 - Valle del Cauca;190
+201108;76 - Valle del Cauca;196
+201109;76 - Valle del Cauca;180
+201110;76 - Valle del Cauca;168
+201111;76 - Valle del Cauca;163
+201112;76 - Valle del Cauca;201
+201101;81 - Arauca;3
+201102;81 - Arauca;2
+201103;81 - Arauca;1
+201104;81 - Arauca;5
+201105;81 - Arauca;6
+201106;81 - Arauca;1
+201107;81 - Arauca;2
+201108;81 - Arauca;6
+201109;81 - Arauca;2
+201110;81 - Arauca;2
+201111;81 - Arauca;3
+201112;81 - Arauca;3
+201101;85 - Casanare;2
+201102;85 - Casanare;4
+201103;85 - Casanare;5
+201104;85 - Casanare;6
+201105;85 - Casanare;2
+201106;85 - Casanare;2
+201107;85 - Casanare;3
+201108;85 - Casanare;5
+201109;85 - Casanare;5
+201110;85 - Casanare;2
+201111;85 - Casanare;4
+201112;85 - Casanare;1
+201101;86 - Putumayo;2
+201103;86 - Putumayo;1
+201105;86 - Putumayo;1
+201106;86 - Putumayo;1
+201107;86 - Putumayo;1
+201108;86 - Putumayo;1
+201112;86 - Putumayo;2
+201101;91 - Amazonas;1
+201105;91 - Amazonas;1
+201110;95 - Guaviare;1
+201101;-1 - NO DEFINIDO;9
+201102;-1 - NO DEFINIDO;4
+201103;-1 - NO DEFINIDO;13
+201105;-1 - NO DEFINIDO;18
+201106;-1 - NO DEFINIDO;10
+201107;-1 - NO DEFINIDO;14
+201108;-1 - NO DEFINIDO;26
+201109;-1 - NO DEFINIDO;24
+201110;-1 - NO DEFINIDO;23
+201111;-1 - NO DEFINIDO;15
+201112;-1 - NO DEFINIDO;1

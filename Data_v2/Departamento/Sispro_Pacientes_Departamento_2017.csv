@@ -1,0 +1,350 @@
+﻿PeriodoNum;Departamento;CantidadPacientes
+201701;05 - Antioquia;241
+201702;05 - Antioquia;261
+201703;05 - Antioquia;299
+201704;05 - Antioquia;278
+201705;05 - Antioquia;296
+201706;05 - Antioquia;319
+201707;05 - Antioquia;284
+201708;05 - Antioquia;371
+201709;05 - Antioquia;359
+201710;05 - Antioquia;392
+201711;05 - Antioquia;398
+201712;05 - Antioquia;341
+201701;08 - Atlántico;42
+201702;08 - Atlántico;43
+201703;08 - Atlántico;44
+201704;08 - Atlántico;35
+201705;08 - Atlántico;53
+201706;08 - Atlántico;52
+201707;08 - Atlántico;48
+201708;08 - Atlántico;52
+201709;08 - Atlántico;58
+201710;08 - Atlántico;83
+201711;08 - Atlántico;74
+201712;08 - Atlántico;53
+201701;11 - Bogotá, D.C.;379
+201702;11 - Bogotá, D.C.;327
+201703;11 - Bogotá, D.C.;369
+201704;11 - Bogotá, D.C.;441
+201705;11 - Bogotá, D.C.;511
+201706;11 - Bogotá, D.C.;492
+201707;11 - Bogotá, D.C.;476
+201708;11 - Bogotá, D.C.;518
+201709;11 - Bogotá, D.C.;568
+201710;11 - Bogotá, D.C.;1583
+201711;11 - Bogotá, D.C.;9340
+201712;11 - Bogotá, D.C.;397
+201701;13 - Bolívar;37
+201702;13 - Bolívar;44
+201703;13 - Bolívar;38
+201704;13 - Bolívar;53
+201705;13 - Bolívar;43
+201706;13 - Bolívar;38
+201707;13 - Bolívar;38
+201708;13 - Bolívar;47
+201709;13 - Bolívar;48
+201710;13 - Bolívar;41
+201711;13 - Bolívar;47
+201712;13 - Bolívar;53
+201701;15 - Boyacá;50
+201702;15 - Boyacá;41
+201703;15 - Boyacá;41
+201704;15 - Boyacá;47
+201705;15 - Boyacá;57
+201706;15 - Boyacá;54
+201707;15 - Boyacá;42
+201708;15 - Boyacá;52
+201709;15 - Boyacá;60
+201710;15 - Boyacá;70
+201711;15 - Boyacá;101
+201712;15 - Boyacá;71
+201701;17 - Caldas;22
+201702;17 - Caldas;11
+201703;17 - Caldas;15
+201704;17 - Caldas;30
+201705;17 - Caldas;40
+201706;17 - Caldas;46
+201707;17 - Caldas;48
+201708;17 - Caldas;43
+201709;17 - Caldas;39
+201710;17 - Caldas;36
+201711;17 - Caldas;35
+201712;17 - Caldas;44
+201701;18 - Caquetá;4
+201702;18 - Caquetá;3
+201703;18 - Caquetá;2
+201704;18 - Caquetá;3
+201705;18 - Caquetá;14
+201706;18 - Caquetá;15
+201707;18 - Caquetá;22
+201708;18 - Caquetá;22
+201709;18 - Caquetá;21
+201710;18 - Caquetá;25
+201711;18 - Caquetá;25
+201712;18 - Caquetá;26
+201701;19 - Cauca;17
+201702;19 - Cauca;10
+201703;19 - Cauca;17
+201704;19 - Cauca;28
+201705;19 - Cauca;49
+201706;19 - Cauca;48
+201707;19 - Cauca;55
+201708;19 - Cauca;38
+201709;19 - Cauca;48
+201710;19 - Cauca;52
+201711;19 - Cauca;55
+201712;19 - Cauca;41
+201701;20 - Cesar;10
+201702;20 - Cesar;13
+201703;20 - Cesar;15
+201704;20 - Cesar;19
+201705;20 - Cesar;17
+201706;20 - Cesar;21
+201707;20 - Cesar;24
+201708;20 - Cesar;19
+201709;20 - Cesar;19
+201710;20 - Cesar;18
+201711;20 - Cesar;10
+201712;20 - Cesar;14
+201701;23 - Córdoba;26
+201702;23 - Córdoba;33
+201703;23 - Córdoba;62
+201704;23 - Córdoba;58
+201705;23 - Córdoba;84
+201706;23 - Córdoba;76
+201707;23 - Córdoba;84
+201708;23 - Córdoba;95
+201709;23 - Córdoba;82
+201710;23 - Córdoba;115
+201711;23 - Córdoba;95
+201712;23 - Córdoba;91
+201701;25 - Cundinamarca;65
+201702;25 - Cundinamarca;70
+201703;25 - Cundinamarca;75
+201704;25 - Cundinamarca;82
+201705;25 - Cundinamarca;70
+201706;25 - Cundinamarca;62
+201707;25 - Cundinamarca;90
+201708;25 - Cundinamarca;92
+201709;25 - Cundinamarca;107
+201710;25 - Cundinamarca;224
+201711;25 - Cundinamarca;1263
+201712;25 - Cundinamarca;74
+201701;27 - Chocó;8
+201702;27 - Chocó;6
+201703;27 - Chocó;5
+201704;27 - Chocó;3
+201705;27 - Chocó;5
+201706;27 - Chocó;10
+201707;27 - Chocó;10
+201708;27 - Chocó;4
+201709;27 - Chocó;4
+201710;27 - Chocó;2
+201711;27 - Chocó;3
+201712;27 - Chocó;4
+201701;41 - Huila;29
+201702;41 - Huila;29
+201703;41 - Huila;25
+201704;41 - Huila;32
+201705;41 - Huila;51
+201706;41 - Huila;39
+201707;41 - Huila;61
+201708;41 - Huila;73
+201709;41 - Huila;55
+201710;41 - Huila;72
+201711;41 - Huila;80
+201712;41 - Huila;47
+201701;44 - La Guajira;4
+201702;44 - La Guajira;3
+201703;44 - La Guajira;5
+201704;44 - La Guajira;7
+201705;44 - La Guajira;9
+201706;44 - La Guajira;6
+201707;44 - La Guajira;12
+201708;44 - La Guajira;14
+201709;44 - La Guajira;20
+201710;44 - La Guajira;11
+201711;44 - La Guajira;8
+201712;44 - La Guajira;15
+201701;47 - Magdalena;14
+201702;47 - Magdalena;17
+201703;47 - Magdalena;10
+201704;47 - Magdalena;17
+201705;47 - Magdalena;22
+201706;47 - Magdalena;19
+201707;47 - Magdalena;21
+201708;47 - Magdalena;19
+201709;47 - Magdalena;18
+201710;47 - Magdalena;18
+201711;47 - Magdalena;18
+201712;47 - Magdalena;11
+201701;50 - Meta;12
+201702;50 - Meta;2
+201703;50 - Meta;10
+201704;50 - Meta;15
+201705;50 - Meta;15
+201706;50 - Meta;14
+201707;50 - Meta;24
+201708;50 - Meta;19
+201709;50 - Meta;23
+201710;50 - Meta;29
+201711;50 - Meta;26
+201712;50 - Meta;15
+201701;52 - Nariño;86
+201702;52 - Nariño;122
+201703;52 - Nariño;88
+201704;52 - Nariño;100
+201705;52 - Nariño;107
+201706;52 - Nariño;115
+201707;52 - Nariño;131
+201708;52 - Nariño;156
+201709;52 - Nariño;148
+201710;52 - Nariño;148
+201711;52 - Nariño;137
+201712;52 - Nariño;91
+201701;54 - Norte de Santander;17
+201702;54 - Norte de Santander;44
+201703;54 - Norte de Santander;13
+201704;54 - Norte de Santander;34
+201705;54 - Norte de Santander;44
+201706;54 - Norte de Santander;55
+201707;54 - Norte de Santander;59
+201708;54 - Norte de Santander;59
+201709;54 - Norte de Santander;66
+201710;54 - Norte de Santander;53
+201711;54 - Norte de Santander;47
+201712;54 - Norte de Santander;46
+201701;63 - Quindio;6
+201702;63 - Quindio;9
+201703;63 - Quindio;10
+201704;63 - Quindio;17
+201705;63 - Quindio;22
+201706;63 - Quindio;29
+201707;63 - Quindio;37
+201708;63 - Quindio;41
+201709;63 - Quindio;54
+201710;63 - Quindio;49
+201711;63 - Quindio;37
+201712;63 - Quindio;30
+201701;66 - Risaralda;25
+201702;66 - Risaralda;12
+201703;66 - Risaralda;17
+201704;66 - Risaralda;15
+201705;66 - Risaralda;41
+201706;66 - Risaralda;42
+201707;66 - Risaralda;47
+201708;66 - Risaralda;62
+201709;66 - Risaralda;71
+201710;66 - Risaralda;74
+201711;66 - Risaralda;69
+201712;66 - Risaralda;55
+201701;68 - Santander;47
+201702;68 - Santander;58
+201703;68 - Santander;48
+201704;68 - Santander;37
+201705;68 - Santander;54
+201706;68 - Santander;65
+201707;68 - Santander;47
+201708;68 - Santander;48
+201709;68 - Santander;45
+201710;68 - Santander;75
+201711;68 - Santander;60
+201712;68 - Santander;55
+201701;70 - Sucre;14
+201702;70 - Sucre;24
+201703;70 - Sucre;29
+201704;70 - Sucre;21
+201705;70 - Sucre;25
+201706;70 - Sucre;33
+201707;70 - Sucre;34
+201708;70 - Sucre;35
+201709;70 - Sucre;38
+201710;70 - Sucre;28
+201711;70 - Sucre;27
+201712;70 - Sucre;31
+201701;73 - Tolima;25
+201702;73 - Tolima;19
+201703;73 - Tolima;26
+201704;73 - Tolima;18
+201705;73 - Tolima;51
+201706;73 - Tolima;40
+201707;73 - Tolima;39
+201708;73 - Tolima;39
+201709;73 - Tolima;49
+201710;73 - Tolima;51
+201711;73 - Tolima;44
+201712;73 - Tolima;57
+201701;76 - Valle del Cauca;163
+201702;76 - Valle del Cauca;165
+201703;76 - Valle del Cauca;212
+201704;76 - Valle del Cauca;195
+201705;76 - Valle del Cauca;265
+201706;76 - Valle del Cauca;278
+201707;76 - Valle del Cauca;221
+201708;76 - Valle del Cauca;246
+201709;76 - Valle del Cauca;230
+201710;76 - Valle del Cauca;288
+201711;76 - Valle del Cauca;265
+201712;76 - Valle del Cauca;189
+201701;81 - Arauca;3
+201702;81 - Arauca;1
+201703;81 - Arauca;2
+201704;81 - Arauca;3
+201705;81 - Arauca;12
+201706;81 - Arauca;5
+201707;81 - Arauca;8
+201708;81 - Arauca;8
+201709;81 - Arauca;7
+201710;81 - Arauca;9
+201711;81 - Arauca;7
+201712;81 - Arauca;9
+201701;85 - Casanare;11
+201702;85 - Casanare;1
+201703;85 - Casanare;11
+201704;85 - Casanare;7
+201705;85 - Casanare;11
+201706;85 - Casanare;7
+201707;85 - Casanare;8
+201708;85 - Casanare;10
+201709;85 - Casanare;4
+201710;85 - Casanare;5
+201711;85 - Casanare;15
+201712;85 - Casanare;13
+201701;86 - Putumayo;3
+201702;86 - Putumayo;2
+201703;86 - Putumayo;1
+201704;86 - Putumayo;2
+201705;86 - Putumayo;9
+201706;86 - Putumayo;3
+201707;86 - Putumayo;5
+201708;86 - Putumayo;5
+201709;86 - Putumayo;4
+201710;86 - Putumayo;4
+201711;86 - Putumayo;4
+201712;86 - Putumayo;2
+201702;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+201703;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;2
+201704;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;2
+201705;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;2
+201706;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;3
+201707;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+201708;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;2
+201709;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;3
+201711;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+201703;91 - Amazonas;1
+201704;91 - Amazonas;1
+201705;91 - Amazonas;1
+201709;91 - Amazonas;1
+201702;94 - Guainía;1
+201708;99 - Vichada;1
+201712;99 - Vichada;1
+201701;-1 - NO DEFINIDO;35
+201702;-1 - NO DEFINIDO;15
+201703;-1 - NO DEFINIDO;20
+201704;-1 - NO DEFINIDO;32
+201705;-1 - NO DEFINIDO;45
+201706;-1 - NO DEFINIDO;44
+201707;-1 - NO DEFINIDO;22
+201708;-1 - NO DEFINIDO;14
+201709;-1 - NO DEFINIDO;4

@@ -1,0 +1,364 @@
+﻿PeriodoNum;Departamento;CantidadPacientes
+202001;05 - Antioquia;701
+202002;05 - Antioquia;658
+202003;05 - Antioquia;420
+202004;05 - Antioquia;332
+202005;05 - Antioquia;386
+202006;05 - Antioquia;395
+202007;05 - Antioquia;371
+202008;05 - Antioquia;419
+202009;05 - Antioquia;560
+202010;05 - Antioquia;485
+202011;05 - Antioquia;446
+202012;05 - Antioquia;390
+202001;08 - Atlántico;642
+202002;08 - Atlántico;303
+202003;08 - Atlántico;117
+202004;08 - Atlántico;155
+202005;08 - Atlántico;156
+202006;08 - Atlántico;223
+202007;08 - Atlántico;58
+202008;08 - Atlántico;67
+202009;08 - Atlántico;88
+202010;08 - Atlántico;124
+202011;08 - Atlántico;110
+202012;08 - Atlántico;95
+202001;11 - Bogotá, D.C.;941
+202002;11 - Bogotá, D.C.;878
+202003;11 - Bogotá, D.C.;733
+202004;11 - Bogotá, D.C.;526
+202005;11 - Bogotá, D.C.;504
+202006;11 - Bogotá, D.C.;562
+202007;11 - Bogotá, D.C.;452
+202008;11 - Bogotá, D.C.;518
+202009;11 - Bogotá, D.C.;657
+202010;11 - Bogotá, D.C.;641
+202011;11 - Bogotá, D.C.;577
+202012;11 - Bogotá, D.C.;391
+202001;13 - Bolívar;368
+202002;13 - Bolívar;216
+202003;13 - Bolívar;64
+202004;13 - Bolívar;83
+202005;13 - Bolívar;99
+202006;13 - Bolívar;93
+202007;13 - Bolívar;33
+202008;13 - Bolívar;35
+202009;13 - Bolívar;51
+202010;13 - Bolívar;54
+202011;13 - Bolívar;49
+202012;13 - Bolívar;53
+202001;15 - Boyacá;148
+202002;15 - Boyacá;139
+202003;15 - Boyacá;122
+202004;15 - Boyacá;58
+202005;15 - Boyacá;69
+202006;15 - Boyacá;97
+202007;15 - Boyacá;70
+202008;15 - Boyacá;92
+202009;15 - Boyacá;117
+202010;15 - Boyacá;110
+202011;15 - Boyacá;94
+202012;15 - Boyacá;56
+202001;17 - Caldas;65
+202002;17 - Caldas;64
+202003;17 - Caldas;48
+202004;17 - Caldas;37
+202005;17 - Caldas;40
+202006;17 - Caldas;50
+202007;17 - Caldas;38
+202008;17 - Caldas;38
+202009;17 - Caldas;60
+202010;17 - Caldas;45
+202011;17 - Caldas;37
+202012;17 - Caldas;27
+202001;18 - Caquetá;16
+202002;18 - Caquetá;21
+202003;18 - Caquetá;13
+202004;18 - Caquetá;13
+202005;18 - Caquetá;15
+202006;18 - Caquetá;11
+202007;18 - Caquetá;7
+202008;18 - Caquetá;11
+202009;18 - Caquetá;27
+202010;18 - Caquetá;16
+202011;18 - Caquetá;9
+202012;18 - Caquetá;7
+202001;19 - Cauca;63
+202002;19 - Cauca;60
+202003;19 - Cauca;51
+202004;19 - Cauca;33
+202005;19 - Cauca;41
+202006;19 - Cauca;41
+202007;19 - Cauca;21
+202008;19 - Cauca;47
+202009;19 - Cauca;58
+202010;19 - Cauca;47
+202011;19 - Cauca;55
+202012;19 - Cauca;23
+202001;20 - Cesar;35
+202002;20 - Cesar;43
+202003;20 - Cesar;39
+202004;20 - Cesar;23
+202005;20 - Cesar;25
+202006;20 - Cesar;20
+202007;20 - Cesar;23
+202008;20 - Cesar;36
+202009;20 - Cesar;42
+202010;20 - Cesar;46
+202011;20 - Cesar;39
+202012;20 - Cesar;27
+202001;23 - Córdoba;512
+202002;23 - Córdoba;248
+202003;23 - Córdoba;116
+202004;23 - Córdoba;133
+202005;23 - Córdoba;135
+202006;23 - Córdoba;148
+202007;23 - Córdoba;31
+202008;23 - Córdoba;49
+202009;23 - Córdoba;65
+202010;23 - Córdoba;83
+202011;23 - Córdoba;52
+202012;23 - Córdoba;41
+202001;25 - Cundinamarca;152
+202002;25 - Cundinamarca;130
+202003;25 - Cundinamarca;111
+202004;25 - Cundinamarca;78
+202005;25 - Cundinamarca;78
+202006;25 - Cundinamarca;88
+202007;25 - Cundinamarca;87
+202008;25 - Cundinamarca;89
+202009;25 - Cundinamarca;135
+202010;25 - Cundinamarca;128
+202011;25 - Cundinamarca;85
+202012;25 - Cundinamarca;68
+202001;27 - Chocó;6
+202002;27 - Chocó;4
+202003;27 - Chocó;4
+202004;27 - Chocó;7
+202005;27 - Chocó;4
+202006;27 - Chocó;3
+202007;27 - Chocó;1
+202008;27 - Chocó;4
+202009;27 - Chocó;1
+202010;27 - Chocó;10
+202011;27 - Chocó;5
+202012;27 - Chocó;2
+202001;41 - Huila;83
+202002;41 - Huila;91
+202003;41 - Huila;78
+202004;41 - Huila;53
+202005;41 - Huila;68
+202006;41 - Huila;84
+202007;41 - Huila;60
+202008;41 - Huila;58
+202009;41 - Huila;97
+202010;41 - Huila;78
+202011;41 - Huila;61
+202012;41 - Huila;63
+202001;44 - La Guajira;11
+202002;44 - La Guajira;18
+202003;44 - La Guajira;15
+202004;44 - La Guajira;13
+202005;44 - La Guajira;16
+202006;44 - La Guajira;18
+202007;44 - La Guajira;15
+202008;44 - La Guajira;22
+202009;44 - La Guajira;13
+202010;44 - La Guajira;14
+202011;44 - La Guajira;12
+202012;44 - La Guajira;4
+202001;47 - Magdalena;271
+202002;47 - Magdalena;73
+202003;47 - Magdalena;26
+202004;47 - Magdalena;43
+202005;47 - Magdalena;45
+202006;47 - Magdalena;57
+202007;47 - Magdalena;11
+202008;47 - Magdalena;9
+202009;47 - Magdalena;30
+202010;47 - Magdalena;30
+202011;47 - Magdalena;27
+202012;47 - Magdalena;13
+202001;50 - Meta;60
+202002;50 - Meta;73
+202003;50 - Meta;63
+202004;50 - Meta;35
+202005;50 - Meta;49
+202006;50 - Meta;53
+202007;50 - Meta;32
+202008;50 - Meta;48
+202009;50 - Meta;37
+202010;50 - Meta;46
+202011;50 - Meta;44
+202012;50 - Meta;37
+202001;52 - Nariño;152
+202002;52 - Nariño;160
+202003;52 - Nariño;112
+202004;52 - Nariño;61
+202005;52 - Nariño;89
+202006;52 - Nariño;71
+202007;52 - Nariño;51
+202008;52 - Nariño;101
+202009;52 - Nariño;108
+202010;52 - Nariño;127
+202011;52 - Nariño;115
+202012;52 - Nariño;76
+202001;54 - Norte de Santander;107
+202002;54 - Norte de Santander;77
+202003;54 - Norte de Santander;69
+202004;54 - Norte de Santander;40
+202005;54 - Norte de Santander;60
+202006;54 - Norte de Santander;58
+202007;54 - Norte de Santander;51
+202008;54 - Norte de Santander;51
+202009;54 - Norte de Santander;56
+202010;54 - Norte de Santander;53
+202011;54 - Norte de Santander;32
+202012;54 - Norte de Santander;37
+202001;63 - Quindio;87
+202002;63 - Quindio;75
+202003;63 - Quindio;50
+202004;63 - Quindio;45
+202005;63 - Quindio;55
+202006;63 - Quindio;65
+202007;63 - Quindio;55
+202008;63 - Quindio;57
+202009;63 - Quindio;76
+202010;63 - Quindio;64
+202011;63 - Quindio;45
+202012;63 - Quindio;41
+202001;66 - Risaralda;99
+202002;66 - Risaralda;88
+202003;66 - Risaralda;58
+202004;66 - Risaralda;43
+202005;66 - Risaralda;53
+202006;66 - Risaralda;70
+202007;66 - Risaralda;65
+202008;66 - Risaralda;49
+202009;66 - Risaralda;83
+202010;66 - Risaralda;70
+202011;66 - Risaralda;55
+202012;66 - Risaralda;62
+202001;68 - Santander;150
+202002;68 - Santander;146
+202003;68 - Santander;128
+202004;68 - Santander;107
+202005;68 - Santander;104
+202006;68 - Santander;120
+202007;68 - Santander;83
+202008;68 - Santander;110
+202009;68 - Santander;134
+202010;68 - Santander;131
+202011;68 - Santander;125
+202012;68 - Santander;110
+202001;70 - Sucre;164
+202002;70 - Sucre;102
+202003;70 - Sucre;31
+202004;70 - Sucre;60
+202005;70 - Sucre;67
+202006;70 - Sucre;52
+202007;70 - Sucre;12
+202008;70 - Sucre;16
+202009;70 - Sucre;38
+202010;70 - Sucre;47
+202011;70 - Sucre;38
+202012;70 - Sucre;14
+202001;73 - Tolima;82
+202002;73 - Tolima;67
+202003;73 - Tolima;60
+202004;73 - Tolima;50
+202005;73 - Tolima;60
+202006;73 - Tolima;59
+202007;73 - Tolima;49
+202008;73 - Tolima;54
+202009;73 - Tolima;79
+202010;73 - Tolima;71
+202011;73 - Tolima;73
+202012;73 - Tolima;39
+202001;76 - Valle del Cauca;444
+202002;76 - Valle del Cauca;412
+202003;76 - Valle del Cauca;304
+202004;76 - Valle del Cauca;204
+202005;76 - Valle del Cauca;231
+202006;76 - Valle del Cauca;222
+202007;76 - Valle del Cauca;190
+202008;76 - Valle del Cauca;331
+202009;76 - Valle del Cauca;374
+202010;76 - Valle del Cauca;330
+202011;76 - Valle del Cauca;316
+202012;76 - Valle del Cauca;194
+202001;81 - Arauca;13
+202002;81 - Arauca;13
+202003;81 - Arauca;11
+202004;81 - Arauca;1
+202005;81 - Arauca;8
+202006;81 - Arauca;9
+202007;81 - Arauca;4
+202008;81 - Arauca;5
+202009;81 - Arauca;7
+202010;81 - Arauca;11
+202011;81 - Arauca;6
+202012;81 - Arauca;2
+202001;85 - Casanare;4
+202002;85 - Casanare;8
+202003;85 - Casanare;7
+202004;85 - Casanare;2
+202005;85 - Casanare;5
+202006;85 - Casanare;4
+202007;85 - Casanare;16
+202008;85 - Casanare;10
+202009;85 - Casanare;7
+202010;85 - Casanare;10
+202011;85 - Casanare;7
+202012;85 - Casanare;2
+202001;86 - Putumayo;7
+202002;86 - Putumayo;12
+202003;86 - Putumayo;6
+202004;86 - Putumayo;3
+202005;86 - Putumayo;3
+202006;86 - Putumayo;6
+202007;86 - Putumayo;1
+202008;86 - Putumayo;7
+202009;86 - Putumayo;6
+202010;86 - Putumayo;11
+202011;86 - Putumayo;5
+202012;86 - Putumayo;2
+202001;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;2
+202002;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;8
+202004;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+202005;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+202006;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;5
+202008;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;4
+202009;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;2
+202010;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;4
+202011;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+202012;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+202001;91 - Amazonas;1
+202006;91 - Amazonas;1
+202009;91 - Amazonas;3
+202010;91 - Amazonas;2
+202011;91 - Amazonas;1
+202012;91 - Amazonas;1
+202001;94 - Guainía;1
+202002;94 - Guainía;1
+202001;95 - Guaviare;1
+202002;95 - Guaviare;1
+202003;95 - Guaviare;1
+202004;95 - Guaviare;2
+202006;95 - Guaviare;2
+202007;95 - Guaviare;2
+202010;97 - Vaupés;1
+202011;97 - Vaupés;1
+202009;99 - Vichada;1
+202011;99 - Vichada;1
+202001;-1 - NO DEFINIDO;32
+202002;-1 - NO DEFINIDO;1
+202004;-1 - NO DEFINIDO;36
+202005;-1 - NO DEFINIDO;23
+202006;-1 - NO DEFINIDO;37
+202007;-1 - NO DEFINIDO;48
+202008;-1 - NO DEFINIDO;1
+202009;-1 - NO DEFINIDO;45
+202010;-1 - NO DEFINIDO;49
+202011;-1 - NO DEFINIDO;49
+202012;-1 - NO DEFINIDO;1

@@ -1,0 +1,170 @@
+﻿PeriodoNum;Departamento;CantidadPacientes
+202201;05 - Antioquia;402
+202202;05 - Antioquia;188
+202203;05 - Antioquia;344
+202204;05 - Antioquia;249
+202205;05 - Antioquia;555
+202206;05 - Antioquia;120
+202201;08 - Atlántico;45
+202202;08 - Atlántico;50
+202203;08 - Atlántico;80
+202204;08 - Atlántico;45
+202205;08 - Atlántico;92
+202206;08 - Atlántico;12
+202201;11 - Bogotá, D.C.;474
+202202;11 - Bogotá, D.C.;247
+202203;11 - Bogotá, D.C.;426
+202204;11 - Bogotá, D.C.;314
+202205;11 - Bogotá, D.C.;402
+202206;11 - Bogotá, D.C.;126
+202207;11 - Bogotá, D.C.;1
+202201;13 - Bolívar;37
+202202;13 - Bolívar;19
+202203;13 - Bolívar;49
+202204;13 - Bolívar;37
+202205;13 - Bolívar;54
+202206;13 - Bolívar;11
+202201;15 - Boyacá;69
+202202;15 - Boyacá;32
+202203;15 - Boyacá;60
+202204;15 - Boyacá;75
+202205;15 - Boyacá;82
+202206;15 - Boyacá;12
+202201;17 - Caldas;42
+202202;17 - Caldas;20
+202203;17 - Caldas;18
+202204;17 - Caldas;45
+202205;17 - Caldas;27
+202206;17 - Caldas;19
+202201;18 - Caquetá;12
+202202;18 - Caquetá;12
+202203;18 - Caquetá;9
+202204;18 - Caquetá;12
+202205;18 - Caquetá;11
+202206;18 - Caquetá;2
+202201;19 - Cauca;21
+202202;19 - Cauca;17
+202203;19 - Cauca;15
+202204;19 - Cauca;32
+202205;19 - Cauca;22
+202206;19 - Cauca;24
+202201;20 - Cesar;17
+202202;20 - Cesar;8
+202203;20 - Cesar;29
+202204;20 - Cesar;17
+202205;20 - Cesar;26
+202206;20 - Cesar;7
+202201;23 - Córdoba;18
+202202;23 - Córdoba;18
+202203;23 - Córdoba;45
+202204;23 - Córdoba;35
+202205;23 - Córdoba;55
+202206;23 - Córdoba;3
+202201;25 - Cundinamarca;78
+202202;25 - Cundinamarca;46
+202203;25 - Cundinamarca;52
+202204;25 - Cundinamarca;39
+202205;25 - Cundinamarca;82
+202206;25 - Cundinamarca;14
+202201;27 - Chocó;4
+202202;27 - Chocó;1
+202204;27 - Chocó;5
+202205;27 - Chocó;11
+202206;27 - Chocó;1
+202201;41 - Huila;88
+202202;41 - Huila;50
+202203;41 - Huila;36
+202204;41 - Huila;60
+202205;41 - Huila;41
+202206;41 - Huila;36
+202201;44 - La Guajira;12
+202202;44 - La Guajira;3
+202203;44 - La Guajira;11
+202204;44 - La Guajira;7
+202205;44 - La Guajira;15
+202201;47 - Magdalena;6
+202202;47 - Magdalena;6
+202203;47 - Magdalena;7
+202204;47 - Magdalena;9
+202205;47 - Magdalena;22
+202206;47 - Magdalena;1
+202201;50 - Meta;37
+202202;50 - Meta;12
+202203;50 - Meta;11
+202204;50 - Meta;21
+202205;50 - Meta;31
+202206;50 - Meta;11
+202201;52 - Nariño;25
+202202;52 - Nariño;13
+202203;52 - Nariño;34
+202204;52 - Nariño;25
+202205;52 - Nariño;68
+202206;52 - Nariño;2
+202201;54 - Norte de Santander;50
+202202;54 - Norte de Santander;15
+202203;54 - Norte de Santander;23
+202204;54 - Norte de Santander;33
+202205;54 - Norte de Santander;65
+202206;54 - Norte de Santander;7
+202201;63 - Quindio;30
+202202;63 - Quindio;38
+202203;63 - Quindio;20
+202204;63 - Quindio;51
+202205;63 - Quindio;44
+202206;63 - Quindio;18
+202201;66 - Risaralda;31
+202202;66 - Risaralda;23
+202203;66 - Risaralda;18
+202204;66 - Risaralda;22
+202205;66 - Risaralda;38
+202206;66 - Risaralda;14
+202201;68 - Santander;84
+202202;68 - Santander;39
+202203;68 - Santander;106
+202204;68 - Santander;106
+202205;68 - Santander;158
+202206;68 - Santander;31
+202201;70 - Sucre;9
+202202;70 - Sucre;11
+202203;70 - Sucre;23
+202204;70 - Sucre;18
+202205;70 - Sucre;17
+202206;70 - Sucre;6
+202201;73 - Tolima;33
+202202;73 - Tolima;26
+202203;73 - Tolima;22
+202204;73 - Tolima;41
+202205;73 - Tolima;29
+202206;73 - Tolima;10
+202201;76 - Valle del Cauca;217
+202202;76 - Valle del Cauca;91
+202203;76 - Valle del Cauca;219
+202204;76 - Valle del Cauca;180
+202205;76 - Valle del Cauca;294
+202206;76 - Valle del Cauca;64
+202201;81 - Arauca;3
+202202;81 - Arauca;2
+202203;81 - Arauca;10
+202204;81 - Arauca;13
+202205;81 - Arauca;17
+202201;85 - Casanare;12
+202202;85 - Casanare;10
+202203;85 - Casanare;20
+202204;85 - Casanare;8
+202205;85 - Casanare;10
+202206;85 - Casanare;3
+202201;86 - Putumayo;2
+202203;86 - Putumayo;1
+202204;86 - Putumayo;3
+202205;86 - Putumayo;3
+202206;86 - Putumayo;1
+202205;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;2
+202203;91 - Amazonas;1
+202205;91 - Amazonas;2
+202203;94 - Guainía;1
+202205;95 - Guaviare;3
+202205;99 - Vichada;2
+202202;-1 - NO DEFINIDO;80
+202204;-1 - NO DEFINIDO;60
+202205;-1 - NO DEFINIDO;1
+202206;-1 - NO DEFINIDO;79

@@ -1,0 +1,344 @@
+﻿PeriodoNum;Departamento;CantidadPacientes
+201501;05 - Antioquia;415
+201502;05 - Antioquia;281
+201503;05 - Antioquia;388
+201504;05 - Antioquia;408
+201505;05 - Antioquia;387
+201506;05 - Antioquia;396
+201507;05 - Antioquia;417
+201508;05 - Antioquia;266
+201509;05 - Antioquia;233
+201510;05 - Antioquia;236
+201511;05 - Antioquia;271
+201512;05 - Antioquia;224
+201501;08 - Atlántico;80
+201502;08 - Atlántico;32
+201503;08 - Atlántico;75
+201504;08 - Atlántico;82
+201505;08 - Atlántico;82
+201506;08 - Atlántico;67
+201507;08 - Atlántico;75
+201508;08 - Atlántico;49
+201509;08 - Atlántico;45
+201510;08 - Atlántico;17
+201511;08 - Atlántico;34
+201512;08 - Atlántico;40
+201501;11 - Bogotá, D.C.;559
+201502;11 - Bogotá, D.C.;332
+201503;11 - Bogotá, D.C.;499
+201504;11 - Bogotá, D.C.;503
+201505;11 - Bogotá, D.C.;468
+201506;11 - Bogotá, D.C.;373
+201507;11 - Bogotá, D.C.;427
+201508;11 - Bogotá, D.C.;339
+201509;11 - Bogotá, D.C.;323
+201510;11 - Bogotá, D.C.;237
+201511;11 - Bogotá, D.C.;276
+201512;11 - Bogotá, D.C.;330
+201501;13 - Bolívar;71
+201502;13 - Bolívar;62
+201503;13 - Bolívar;75
+201504;13 - Bolívar;66
+201505;13 - Bolívar;57
+201506;13 - Bolívar;54
+201507;13 - Bolívar;56
+201508;13 - Bolívar;51
+201509;13 - Bolívar;34
+201510;13 - Bolívar;34
+201511;13 - Bolívar;16
+201512;13 - Bolívar;30
+201501;15 - Boyacá;86
+201502;15 - Boyacá;45
+201503;15 - Boyacá;71
+201504;15 - Boyacá;83
+201505;15 - Boyacá;103
+201506;15 - Boyacá;70
+201507;15 - Boyacá;77
+201508;15 - Boyacá;34
+201509;15 - Boyacá;27
+201510;15 - Boyacá;27
+201511;15 - Boyacá;17
+201512;15 - Boyacá;48
+201501;17 - Caldas;40
+201502;17 - Caldas;29
+201503;17 - Caldas;42
+201504;17 - Caldas;45
+201505;17 - Caldas;34
+201506;17 - Caldas;44
+201507;17 - Caldas;44
+201508;17 - Caldas;33
+201509;17 - Caldas;35
+201510;17 - Caldas;13
+201511;17 - Caldas;16
+201512;17 - Caldas;15
+201501;18 - Caquetá;10
+201502;18 - Caquetá;17
+201503;18 - Caquetá;13
+201504;18 - Caquetá;13
+201505;18 - Caquetá;16
+201506;18 - Caquetá;16
+201507;18 - Caquetá;11
+201508;18 - Caquetá;14
+201509;18 - Caquetá;8
+201510;18 - Caquetá;14
+201511;18 - Caquetá;13
+201512;18 - Caquetá;5
+201501;19 - Cauca;50
+201502;19 - Cauca;29
+201503;19 - Cauca;40
+201504;19 - Cauca;44
+201505;19 - Cauca;45
+201506;19 - Cauca;30
+201507;19 - Cauca;38
+201508;19 - Cauca;30
+201509;19 - Cauca;30
+201510;19 - Cauca;22
+201511;19 - Cauca;28
+201512;19 - Cauca;29
+201501;20 - Cesar;14
+201502;20 - Cesar;15
+201503;20 - Cesar;19
+201504;20 - Cesar;20
+201505;20 - Cesar;14
+201506;20 - Cesar;20
+201507;20 - Cesar;30
+201508;20 - Cesar;19
+201509;20 - Cesar;18
+201510;20 - Cesar;14
+201511;20 - Cesar;15
+201512;20 - Cesar;17
+201501;23 - Córdoba;58
+201502;23 - Córdoba;30
+201503;23 - Córdoba;59
+201504;23 - Córdoba;67
+201505;23 - Córdoba;69
+201506;23 - Córdoba;48
+201507;23 - Córdoba;91
+201508;23 - Córdoba;23
+201509;23 - Córdoba;24
+201510;23 - Córdoba;22
+201511;23 - Córdoba;21
+201512;23 - Córdoba;19
+201501;25 - Cundinamarca;65
+201502;25 - Cundinamarca;43
+201503;25 - Cundinamarca;46
+201504;25 - Cundinamarca;52
+201505;25 - Cundinamarca;68
+201506;25 - Cundinamarca;53
+201507;25 - Cundinamarca;54
+201508;25 - Cundinamarca;57
+201509;25 - Cundinamarca;48
+201510;25 - Cundinamarca;49
+201511;25 - Cundinamarca;45
+201512;25 - Cundinamarca;38
+201501;27 - Chocó;4
+201502;27 - Chocó;2
+201503;27 - Chocó;2
+201504;27 - Chocó;3
+201505;27 - Chocó;3
+201506;27 - Chocó;2
+201507;27 - Chocó;3
+201508;27 - Chocó;2
+201510;27 - Chocó;1
+201512;27 - Chocó;5
+201501;41 - Huila;63
+201502;41 - Huila;25
+201503;41 - Huila;44
+201504;41 - Huila;51
+201505;41 - Huila;40
+201506;41 - Huila;29
+201507;41 - Huila;47
+201508;41 - Huila;34
+201509;41 - Huila;25
+201510;41 - Huila;16
+201511;41 - Huila;12
+201512;41 - Huila;18
+201501;44 - La Guajira;13
+201502;44 - La Guajira;10
+201503;44 - La Guajira;10
+201504;44 - La Guajira;14
+201505;44 - La Guajira;9
+201506;44 - La Guajira;7
+201507;44 - La Guajira;6
+201508;44 - La Guajira;15
+201509;44 - La Guajira;5
+201510;44 - La Guajira;6
+201511;44 - La Guajira;5
+201512;44 - La Guajira;7
+201501;47 - Magdalena;43
+201502;47 - Magdalena;22
+201503;47 - Magdalena;22
+201504;47 - Magdalena;34
+201505;47 - Magdalena;29
+201506;47 - Magdalena;23
+201507;47 - Magdalena;22
+201508;47 - Magdalena;11
+201509;47 - Magdalena;13
+201510;47 - Magdalena;13
+201511;47 - Magdalena;7
+201512;47 - Magdalena;12
+201501;50 - Meta;32
+201502;50 - Meta;10
+201503;50 - Meta;30
+201504;50 - Meta;35
+201505;50 - Meta;39
+201506;50 - Meta;25
+201507;50 - Meta;19
+201508;50 - Meta;14
+201509;50 - Meta;5
+201510;50 - Meta;5
+201511;50 - Meta;14
+201512;50 - Meta;23
+201501;52 - Nariño;127
+201502;52 - Nariño;82
+201503;52 - Nariño;119
+201504;52 - Nariño;120
+201505;52 - Nariño;118
+201506;52 - Nariño;113
+201507;52 - Nariño;100
+201508;52 - Nariño;81
+201509;52 - Nariño;89
+201510;52 - Nariño;70
+201511;52 - Nariño;77
+201512;52 - Nariño;81
+201501;54 - Norte de Santander;53
+201502;54 - Norte de Santander;45
+201503;54 - Norte de Santander;49
+201504;54 - Norte de Santander;55
+201505;54 - Norte de Santander;49
+201506;54 - Norte de Santander;52
+201507;54 - Norte de Santander;54
+201508;54 - Norte de Santander;34
+201509;54 - Norte de Santander;19
+201510;54 - Norte de Santander;14
+201511;54 - Norte de Santander;9
+201512;54 - Norte de Santander;21
+201501;63 - Quindio;22
+201502;63 - Quindio;20
+201503;63 - Quindio;26
+201504;63 - Quindio;37
+201505;63 - Quindio;21
+201506;63 - Quindio;21
+201507;63 - Quindio;22
+201508;63 - Quindio;16
+201509;63 - Quindio;15
+201510;63 - Quindio;17
+201511;63 - Quindio;13
+201512;63 - Quindio;12
+201501;66 - Risaralda;74
+201502;66 - Risaralda;43
+201503;66 - Risaralda;70
+201504;66 - Risaralda;90
+201505;66 - Risaralda;86
+201506;66 - Risaralda;63
+201507;66 - Risaralda;67
+201508;66 - Risaralda;46
+201509;66 - Risaralda;37
+201510;66 - Risaralda;46
+201511;66 - Risaralda;35
+201512;66 - Risaralda;48
+201501;68 - Santander;88
+201502;68 - Santander;66
+201503;68 - Santander;81
+201504;68 - Santander;101
+201505;68 - Santander;82
+201506;68 - Santander;93
+201507;68 - Santander;75
+201508;68 - Santander;63
+201509;68 - Santander;65
+201510;68 - Santander;31
+201511;68 - Santander;31
+201512;68 - Santander;36
+201501;70 - Sucre;28
+201502;70 - Sucre;39
+201503;70 - Sucre;32
+201504;70 - Sucre;29
+201505;70 - Sucre;27
+201506;70 - Sucre;30
+201507;70 - Sucre;32
+201508;70 - Sucre;32
+201509;70 - Sucre;28
+201510;70 - Sucre;14
+201511;70 - Sucre;19
+201512;70 - Sucre;27
+201501;73 - Tolima;50
+201502;73 - Tolima;41
+201503;73 - Tolima;38
+201504;73 - Tolima;51
+201505;73 - Tolima;41
+201506;73 - Tolima;28
+201507;73 - Tolima;35
+201508;73 - Tolima;41
+201509;73 - Tolima;28
+201510;73 - Tolima;13
+201511;73 - Tolima;16
+201512;73 - Tolima;27
+201501;76 - Valle del Cauca;234
+201502;76 - Valle del Cauca;159
+201503;76 - Valle del Cauca;209
+201504;76 - Valle del Cauca;206
+201505;76 - Valle del Cauca;193
+201506;76 - Valle del Cauca;198
+201507;76 - Valle del Cauca;190
+201508;76 - Valle del Cauca;150
+201509;76 - Valle del Cauca;185
+201510;76 - Valle del Cauca;126
+201511;76 - Valle del Cauca;148
+201512;76 - Valle del Cauca;195
+201501;81 - Arauca;6
+201502;81 - Arauca;5
+201503;81 - Arauca;9
+201504;81 - Arauca;13
+201505;81 - Arauca;14
+201506;81 - Arauca;7
+201507;81 - Arauca;12
+201508;81 - Arauca;7
+201509;81 - Arauca;2
+201510;81 - Arauca;3
+201511;81 - Arauca;3
+201512;81 - Arauca;3
+201501;85 - Casanare;12
+201502;85 - Casanare;2
+201503;85 - Casanare;5
+201504;85 - Casanare;7
+201505;85 - Casanare;10
+201506;85 - Casanare;4
+201507;85 - Casanare;4
+201508;85 - Casanare;4
+201509;85 - Casanare;7
+201510;85 - Casanare;3
+201511;85 - Casanare;6
+201512;85 - Casanare;4
+201501;86 - Putumayo;3
+201502;86 - Putumayo;2
+201503;86 - Putumayo;1
+201504;86 - Putumayo;5
+201505;86 - Putumayo;5
+201506;86 - Putumayo;3
+201507;86 - Putumayo;2
+201508;86 - Putumayo;4
+201511;86 - Putumayo;3
+201512;86 - Putumayo;1
+201503;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+201504;88 - Archipiélago de San Andrés, Providencia y Santa Catalina;1
+201505;91 - Amazonas;1
+201507;91 - Amazonas;1
+201508;91 - Amazonas;2
+201509;91 - Amazonas;1
+201511;94 - Guainía;1
+201501;95 - Guaviare;1
+201506;95 - Guaviare;1
+201507;95 - Guaviare;1
+201508;95 - Guaviare;2
+201501;-1 - NO DEFINIDO;4
+201502;-1 - NO DEFINIDO;1
+201503;-1 - NO DEFINIDO;27
+201504;-1 - NO DEFINIDO;59
+201505;-1 - NO DEFINIDO;4
+201506;-1 - NO DEFINIDO;26
+201507;-1 - NO DEFINIDO;3
+201508;-1 - NO DEFINIDO;3
+201509;-1 - NO DEFINIDO;1
+201510;-1 - NO DEFINIDO;1
+201511;-1 - NO DEFINIDO;2
+201512;-1 - NO DEFINIDO;6
